@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">newyorkhist</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50003649</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>New York History</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>New York State Historical Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0146437X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23288132</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">55</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i23169674</issue-id>
+         <article-id pub-id-type="jstor">23169688</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>STEPHEN F.</given-names>
+                  <surname>GINSBERG</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>344</fpage>
+         <lpage>345</lpage>
+         <product>
+            <source>400 Miles from Harlem: Courts, Crime, and Correction</source>
+            <string-name>
+               <given-names>Max</given-names>
+               <surname>Wylie</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright © 1974 New York State Historical Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/23169688"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

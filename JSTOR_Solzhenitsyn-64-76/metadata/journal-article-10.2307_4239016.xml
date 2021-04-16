@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">sciefictstud</journal-id>
+         <journal-id journal-id-type="jstor">j101356</journal-id>
+         <journal-title-group>
+            <journal-title>Science Fiction Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Department of English, Indiana State University</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00917729</issn>
+         <issn pub-type="epub">23276207</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4239016</article-id>
+         <title-group>
+            <article-title>The Future History and Development of the English Language</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Walter E.</given-names>
+                  <surname>Meyers</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i394135</issue-id>
+         <fpage>130</fpage>
+         <lpage>142</lpage>
+         <page-range>130-142</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 R. D. Mullen and Darko Suvin</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4239016"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Notes</title>
+         <ref id="d1548e114a1310">
+            <label>1</label>
+            <mixed-citation id="d1548e121" publication-type="journal">
+Harry Harrison, "With a Piece of Twisted Wire," SF Horizons #2(1965):58.<person-group>
+                  <string-name>
+                     <surname>Harrison</surname>
+                  </string-name>
+               </person-group>
+               <fpage>58</fpage>
+               <source>SF Horizons</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e146a1310">
+            <label>2</label>
+            <mixed-citation id="d1548e153" publication-type="book">
+C1, Isaac Asimov, ed., Before the
+Golden Age (US 1974)<person-group>
+                  <string-name>
+                     <surname>Asimov</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C1</comment>
+               <source>Before the Golden Age</source>
+               <year>1974</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e181" publication-type="book">
+C2, Theodore Sturgeon, Sturgeon is Alive and Well (US 1971)<person-group>
+                  <string-name>
+                     <surname>Sturgeon</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C2</comment>
+               <source>Sturgeon is Alive and Well</source>
+               <year>1971</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e205" publication-type="book">
+C3,
+Edward L. Ferman, ed., The Best from Fantasy and Science Fiction, 18th Series (Ace Books,
+1972)<person-group>
+                  <string-name>
+                     <surname>Ferman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C3</comment>
+               <source>The Best from Fantasy and Science Fiction</source>
+               <year>1972</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e237" publication-type="book">
+C4, Ibid., 19th Series (Ace Books, 1973)<person-group>
+                  <string-name>
+                     <surname>Ferman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C4</comment>
+               <source>The Best from Fantasy and Science Fiction</source>
+               <year>1973</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e261" publication-type="book">
+C5, Poul Anderson, Beyond the Beyond (US
+1969)<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C5</comment>
+               <source>Beyond the Beyond</source>
+               <year>1969</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e289" publication-type="book">
+C6, James Blish, Galactic Cluster (US 1959)<person-group>
+                  <string-name>
+                     <surname>Blish</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C6</comment>
+               <source>Galactic Cluster</source>
+               <year>1959</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e313" publication-type="book">
+C7, Robert Silverberg, ed., The New
+Atlantis (US 1975)<person-group>
+                  <string-name>
+                     <surname>Silverberg</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C7</comment>
+               <source>The New Atlantis</source>
+               <year>1975</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e341" publication-type="book">
+C8, Judy-Lynn del Rey, ed., Stellar 1 (US 1974)<person-group>
+                  <string-name>
+                     <surname>del Rey</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C8</comment>
+               <source>Stellar 1</source>
+               <year>1974</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e365" publication-type="book">
+C9, Frederik Pohl, ed.,
+Seventh Galaxy Reader (US 1964)<person-group>
+                  <string-name>
+                     <surname>Pohl</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C9</comment>
+               <source>Seventh Galaxy Reader</source>
+               <year>1964</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e394" publication-type="book">
+C10, Samuel R. Delany, Driftglass (US 1971)<person-group>
+                  <string-name>
+                     <surname>Delany</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C10</comment>
+               <source>Driftglass</source>
+               <year>1971</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e418" publication-type="book">
+C11, Groff
+Conklin, ed., Big Book of Science Fiction (US 1950)<person-group>
+                  <string-name>
+                     <surname>Conklin</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C11</comment>
+               <source>Big Book of Science Fiction</source>
+               <year>1950</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e446" publication-type="book">
+C12, H.L. Gold, ed., Galaxy Reader of
+Science Fiction (US 1952)<person-group>
+                  <string-name>
+                     <surname>Gold</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C12</comment>
+               <source>Galaxy Reader of Science Fiction</source>
+               <year>1952</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e474" publication-type="book">
+C13, Damon Knight, ed., A Century of Science Fiction (US 1962)<person-group>
+                  <string-name>
+                     <surname>Knight</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C13</comment>
+               <source>A Century of Science Fiction</source>
+               <year>1962</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e498" publication-type="book">
+C14, C.M. Kornbluth, A Mile Beyond the Moon (US 1958)<person-group>
+                  <string-name>
+                     <surname>Kornbluth</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C14</comment>
+               <source>A Mile Beyond the Moon</source>
+               <year>1958</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e522" publication-type="book">
+C15, James Blish, Best Science
+Fiction Stories of James Blish, rev edn (UK 1973)<person-group>
+                  <string-name>
+                     <surname>Blish</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C15</comment>
+               <source>Best Science Fiction Stories of James Blish</source>
+               <year>1973</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e551" publication-type="book">
+C16, Brian W. Aldiss and Harry Harrison,
+eds., Nebula Award Stories Two (US 1967).<person-group>
+                  <string-name>
+                     <surname>Aldiss</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">C16</comment>
+               <source>Nebula Award Stories Two</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e580a1310">
+            <label>3</label>
+            <mixed-citation id="d1548e587" publication-type="book">
+Philip Jose' Farmer, Flesh (1960; NAL pb 1969), §2.<person-group>
+                  <string-name>
+                     <surname>Farmer</surname>
+                  </string-name>
+               </person-group>
+               <source>Flesh</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e609a1310">
+            <label>4</label>
+            <mixed-citation id="d1548e616" publication-type="book">
+L. Sprague de Camp, Science-Fiction Handbook (US 1953), p 253.<person-group>
+                  <string-name>
+                     <surname>de Camp</surname>
+                  </string-name>
+               </person-group>
+               <fpage>253</fpage>
+               <source>Science-Fiction Handbook</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e642a1310">
+            <label>5</label>
+            <mixed-citation id="d1548e649" publication-type="book">
+Editorial note. Reading ."To Here and the Easel" in the SFBC edn of Sturgeon is
+Alive and Well (US 1971 xiii+207)<comment content-type="section">To Here and the Easel</comment>
+               <source>Sturgeon is Alive and Well</source>
+               <year>1971</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e667" publication-type="other">
+"wouldst go to her...?"
+[p 12], "Art satisfied, girl?" [p 24], "Knowest the monster Orc?" [p 42]</mixed-citation>
+            <mixed-citation id="d1548e676" publication-type="other">
+"I use not the
+'thou' of an intimate, but that of an animal" [p 12])</mixed-citation>
+            <mixed-citation id="d1548e686" publication-type="other">
+"But, 'tis thee, my warrior-maid!" [p 22])</mixed-citation>
+            <mixed-citation id="d1548e692" publication-type="other">
+"Thee deludes thyself" [p 27]) or in-
+determinate ("thee will" [p 3], "ere thee call" [p 27]</mixed-citation>
+         </ref>
+         <ref id="d1548e702a1310">
+            <label>6</label>
+            <mixed-citation id="d1548e709" publication-type="other">
+De Camp (Note 4), p 179.</mixed-citation>
+         </ref>
+         <ref id="d1548e716a1310">
+            <label>7</label>
+            <mixed-citation id="d1548e723" publication-type="book">
+Hockett in a letter to M.J.E. Barnes cited the latter's Linguistics and Languages
+in Science Fiction-Fantasy (US 1974), pp iii-iv.<comment content-type="section">Hockett in a letter to M.J.E. Barnes</comment>
+               <fpage>iii</fpage>
+               <source>Linguistics and Languages in Science Fiction-Fantasy</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e746a1310">
+            <label>8</label>
+            <mixed-citation id="d1548e753" publication-type="journal">
+Frederik Pohl and C.M. Kornbl-uth, "Mute Inglorious Tam," Magazine of Fantasy
+and Science Fiction, Oct1974, p 112.<person-group>
+                  <string-name>
+                     <surname>Pohl</surname>
+                  </string-name>
+               </person-group>
+               <issue>Oct</issue>
+               <fpage>112</fpage>
+               <source>Magazine of Fantasy and Science Fiction</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e785a1310">
+            <label>9</label>
+            <mixed-citation id="d1548e792" publication-type="other">
+Richard Wilson, "A Man Spekith" (1969), in World's Best Science Fiction 1970.</mixed-citation>
+         </ref>
+         <ref id="d1548e799a1310">
+            <label>10</label>
+            <mixed-citation id="d1548e806" publication-type="other">
+Jesby, "Ogre" (1968), in C3.</mixed-citation>
+         </ref>
+         <ref id="d1548e814a1310">
+            <label>11</label>
+            <mixed-citation id="d1548e821" publication-type="book">
+Anthony Boucher's "Barrier" (1942; in Spectrum 4, ed. Kingsley Amis,
+US 1959)<person-group>
+                  <string-name>
+                     <surname>Boucher</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Barrier</comment>
+               <source>Spectrum 4</source>
+               <year>1959</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e849" publication-type="other">
+M.J.E. Barnes (Note 7), pp 75-81</mixed-citation>
+         </ref>
+         <ref id="d1548e856a1310">
+            <label>12</label>
+            <mixed-citation id="d1548e863" publication-type="other">
+De Camp (Note 4), p 253.</mixed-citation>
+         </ref>
+         <ref id="d1548e870a1310">
+            <label>13</label>
+            <mixed-citation id="d1548e877" publication-type="book">
+Jack Vance in "Rumfuddle" in Three Trips in
+Time and Space (US 1973).<person-group>
+                  <string-name>
+                     <surname>Vance</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Rumfuddle</comment>
+               <source>Three Trips in Time and Space</source>
+               <year>1973</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e905" publication-type="other">
+his memoirs, "We can chart the development of every language, syllable by syllable,
+from earliest formulation to the present" (§10).</mixed-citation>
+         </ref>
+         <ref id="d1548e915a1310">
+            <label>14</label>
+            <mixed-citation id="d1548e922" publication-type="journal">
+Darko Suvin, "Parables of De-Alienation: Le Guin's Widdershins Dance," SFS2
+(1975):267-68.<person-group>
+                  <string-name>
+                     <surname>Suvin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>267</fpage>
+               <volume>2</volume>
+               <source>SFS</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e954a1310">
+            <label>16</label>
+            <mixed-citation id="d1548e961" publication-type="book">
+Larry Niven's
+"Rammer" (1971), in Best Science Fiction Stories of the Year, ed. Lester del Rey (US 1972)<person-group>
+                  <string-name>
+                     <surname>Niven</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Rammer</comment>
+               <source>Best Science Fiction Stories of the Year</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e990a1310">
+            <label>17</label>
+            <mixed-citation id="d1548e997" publication-type="book">
+Fletcher Pratt, "A Critique of Science Fiction," in Modern Science Fiction: Its
+Meaning and Its Future, ed. Reginald Bretnor (US 1953), pp 83-84.<person-group>
+                  <string-name>
+                     <surname>Pratt</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Critique of Science Fiction</comment>
+               <fpage>83</fpage>
+               <source>Modern Science Fiction: Its Meaning and Its Future</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e1030a1310">
+            <label>18</label>
+            <mixed-citation id="d1548e1037" publication-type="other">
+C1 (Note 2), p 373.</mixed-citation>
+         </ref>
+         <ref id="d1548e1044a1310">
+            <label>19</label>
+            <mixed-citation id="d1548e1051" publication-type="book">
+Bester records the same perception, but in reverse, in "The Flowered Thundermug,"
+in Dark Side of the Earth (US 1964)<person-group>
+                  <string-name>
+                     <surname>Bester</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Flowered Thundermug</comment>
+               <source>Dark Side of the Earth</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e1080a1310">
+            <label>20</label>
+            <mixed-citation id="d1548e1087" publication-type="book">
+Thomas M. Disch, Preface to "Et in Arcadia Ego," in Science Fiction: Author's
+Choice #4, ed. Harry Harrison (US 1974).<person-group>
+                  <string-name>
+                     <surname>Disch</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Et in Arcadia Ego</comment>
+               <source>Science Fiction: Author's Choice #4</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1548e1116a1310">
+            <label>21</label>
+            <mixed-citation id="d1548e1123" publication-type="book">
+Samuel R. Delany's Nova (US 1958), §5.<person-group>
+                  <string-name>
+                     <surname>Delany</surname>
+                  </string-name>
+               </person-group>
+               <source>Nova</source>
+               <year>1958</year>
+            </mixed-citation>
+            <mixed-citation id="d1548e1144" publication-type="book">
+Ian Watson's The Embedding (UK 1973)<person-group>
+                  <string-name>
+                     <surname>Watson</surname>
+                  </string-name>
+               </person-group>
+               <source>The Embedding</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

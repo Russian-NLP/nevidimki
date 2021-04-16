@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">sociology</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50010375</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Sociology</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00380385</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14698684</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40108550</issue-id>
+         <article-id pub-id-type="jstor">42851159</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>SHORTER NOTICES</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>STEPHEN</given-names>
+                  <surname>MENNELL</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>134</fpage>
+         <lpage>135</lpage>
+         <product>
+            <source>Capitalist Society and Modern Sociology</source>
+            <string-name>
+               <given-names>H.</given-names>
+               <surname>Frankel</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/42851159"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

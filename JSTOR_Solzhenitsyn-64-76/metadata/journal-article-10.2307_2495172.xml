@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group>
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00376779</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2495172</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Georges</given-names>
+                  <surname>Nivat</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">35</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i322537</issue-id>
+         <fpage>579</fpage>
+         <lpage>580</lpage>
+         <page-range>579-580</page-range>
+         <product>
+            <source>Aleksandr Solzhenitsyn: Critical Essays and Documentary Materials.</source>
+            <string-name>
+               <given-names>John B.</given-names>
+               <surname>Dunlop</surname>
+            </string-name>
+            <string-name>
+               <given-names>Richard</given-names>
+               <surname>Haugh</surname>
+            </string-name>
+            <string-name>
+               <given-names>Alexis</given-names>
+               <surname>Klimoff</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1976 American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2495172"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

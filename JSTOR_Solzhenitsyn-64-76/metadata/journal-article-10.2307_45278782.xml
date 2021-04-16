@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">UNKNOWN</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000976</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>New Zealand Slavonic Journal</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Department of Russian Victoria University of Wellington</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00288683</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">27034518</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">9</issue>
+         <issue-id>i40228488</issue-id>
+         <article-id pub-id-type="doi">10.2307/45278782</article-id>
+         <title-group>
+            <article-title>"ONE DAY IN THE LIFE OF IVAN DENISOVICH" AND "PAPILLON" (A Comparative Study)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>John</given-names>
+                  <surname>Vrolyk</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>3</fpage>
+         <lpage>19</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/45278782"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <ref-list>
+        <title>FOOTNOTES</title>
+        <ref id="d745e101a1310">
+            <label>1</label>
+          
+          
+            <mixed-citation id="d745e110" publication-type="other">
+Alexander Solzhenitsyn, One Day in the Life of Ivan
+Denisovich. Penguin Modern Classies, 1969, Trans-
+lated by Ralph Parker.</mixed-citation>
+            <mixed-citation id="d745e122" publication-type="other">
+Henri Charrière, Papilion, Robert Laffont, paris, 1969.</mixed-citation>
+            <mixed-citation id="d745e129" publication-type="other">
+Ainsi parl-
+ait Zarathoustra. Livre de Poohe Classique, Paris,
+1963, Traduotion de Maurioe Betz.</mixed-citation>
+        </ref>
+        <ref id="d745e142a1310">
+            <label>2</label>
+          
+            <mixed-citation id="d745e149" publication-type="other">
+Roger Martin du Gard. Oeuvres Complètes, vol. I,
+Bibliothèque de la Plélade, Paris, 1964, pp. 1051-1133.</mixed-citation>
+        </ref>
+        <ref id="d745e159a1310">
+            <label>12</label>
+          
+            <mixed-citation id="d745e166" publication-type="other">
+Abbé Prévost, Histoire du Chevalier des Grieux et de
+Manon Lescaut. Edition Garnier Frères. Classiques Gar-
+niar, Paris, 1965, p. 80.</mixed-citation>
+        </ref>
+        <ref id="d745e179a1310">
+            <label>13</label>
+          
+            <mixed-citation id="d745e186" publication-type="other">
+"The Dominion", Wednesday, January 19,
+1972, p. 7: "VIENNA: Two Austrian architects went on
+trial yesterday for constructing the gas chambers
+of Auschwitz Nazi Concentration Camp in which at
+least 3,000,000 Jews were exeouted during World
+War II."</mixed-citation>
+        </ref>
+        <ref id="d745e210a1310">
+            <label>14</label>
+          
+            <mixed-citation id="d745e217" publication-type="other">
+Christian Bernadae, Les-Médeeins maudits. Editions France-
+Eapire, Paris 1967.</mixed-citation>
+            <mixed-citation id="d745e226" publication-type="other">
+Eugen Kogon. L'Etat SS, Traduit de
+l'alleaand, Editions du Seuil, Paris 1970.</mixed-citation>
+            <mixed-citation id="d745e235" publication-type="other">
+Jean-Fran-
+cois Steiner, Treblinka. Preface de Simone de Beauvoir,
+Le livre de Poche, Paris, 1971.</mixed-citation>
+            <mixed-citation id="d745e248" publication-type="other">
+Siaon Wiesenthal &amp; Jo-
+seph Weehsberg, Les assassins sont parai nous. Traduit
+de l'aaéricain, Le Livre de Poche, Paris, 1969.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

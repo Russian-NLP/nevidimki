@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">UNKNOWN</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000976</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>New Zealand Slavonic Journal</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Department of Russian Victoria University of Wellington</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00288683</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">27034518</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <issue-id>i40228480</issue-id>
+         <article-id pub-id-type="doi">10.2307/45278683</article-id>
+         <title-group>
+            <article-title>THE IMAGERY OF SOLZHENITSYN</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Irene</given-names>
+                  <surname>Esam</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1969</year>
+         </pub-date>
+         <fpage>83</fpage>
+         <lpage>99</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/45278683"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <ref-list>
+        <title>FOOTNOTES</title>
+        <ref id="d737e101a1310">
+            <label>1</label>
+          
+            <mixed-citation id="d737e108" publication-type="other">
+Cancer Ward Parts I and II, by Alexander Solzhenitsyn,
+translated, by Nicholas Bethell and David Burg, The
+Bodley Head, 1968. 'Rakovyi Korpus', Aleksandr Sol-
+zhenitsyn, Ch. I - II, The Bodley Head, London.</mixed-citation>
+        </ref>
+        <ref id="d737e124a1310">
+            <label>2</label>
+          
+            <mixed-citation id="d737e131" publication-type="other">
+The First Circle by Alexander Solzhenitsyn, trans-
+lated by Michael Guybon, Collins and Harvill,
+London, 1968.</mixed-citation>
+        </ref>
+        <ref id="d737e144a1310">
+            <label>3</label>
+          
+            <mixed-citation id="d737e151" publication-type="other">
+Quoted in "Theory of Literature" by Wellek and Warren,
+Theory of Literature, New York, (1949), p. 216.</mixed-citation>
+        </ref>
+        <ref id="d737e161a1310">
+            <label>4</label>
+          
+            <mixed-citation id="d737e168" publication-type="other">
+Bayley, The Lost Language of Symbolism, II,
+pp. 117, 301.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

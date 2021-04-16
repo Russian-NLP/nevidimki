@@ -1,0 +1,245 @@
+
+
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt13x1b3d</book-id>
+      <subj-group>
+         <subject content-type="call-number">DA990.U46H84</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Northern Ireland</subject>
+         <subj-group>
+            <subject content-type="lcsh">Politics and government</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Irish Triangle: Conflict in Northern Ireland</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Hull</surname>
+               <given-names>Roger H.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781400869558</isbn>
+      <isbn content-type="epub">1400869552</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON, N.J.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1976</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13x1b3d"/>
+      <abstract abstract-type="short">
+         <p>The strife that has been raging in Ulster for centuries has left many observers wondering whether there is any solution to this complex and emotion-charged problem. Roger Hull believes that one can be found and, in an objective manner, explores the issues involved in an effort to reveal a possible settlement and to provide guidelines for preventing similar conflicts.</p>
+         <p>Originally published in 1978.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="328"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.2</book-part-id>
+                  <title-group>
+                     <title>PREFACE TO THE PAPERBACK EDITION</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER I</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Conflict, all conflict, is tragic. What compounds that tragedy is the lack of fresh ideas with which to put an end to seemingly unending death and destruction. For that reason, the growing belief among both Catholics and Protestants in Northern Ireland that the British Government has run out of ideas to curb the violence in Ulster is, to say the least, disturbing. For that reason, too, an analysis of the struggle in Northern Ireland might not only serve as an interesting scholastic and theoretical exercise but also shed some light on what could be done to bring peace to that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER II</label>
+                     <title>Myth and Reality:</title>
+                     <subtitle>The Conflict in Northern Ireland from Three Perspectives</subtitle>
+                  </title-group>
+                  <fpage>14</fpage>
+                  <abstract>
+                     <p>It has been said that “history never makes up its mind, but like a man climbing a ladder, reaches up to grasp the Left that it may pull itself up to the Right, and with each seizure, it imagines that it has ascended to the stars.”¹ Just how high the Northern Ireland climb has reached is a matter of some debate, although no one, not even the staunchest defender of Ulster, would claim that it has yet “ascended to the stars.” In assessing that climb, it is obvious, moreover, that the measurement of the climb depends upon one’s frame of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER III</label>
+                     <title>Northern Ireland’s Status:</title>
+                     <subtitle>An Analysis of the Constitutional Position of Ulster</subtitle>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>To non-British and non-Irish members of the world community, the status of Northern Ireland is a mystery; to the British and Irish that status is not a mystery but a source of continuous, sometimes violent, disagreement. In any attempt to shed light on these opposing viewpoints, the statutory development of Ulster needs to be examined in some detail.</p>
+                     <p>The constitutional position of Northern Ireland rests on nine acts—the Acts of Union of 1800, the Government of Ireland Act 1920, the Irish Free State (Consequential Provisions) Act 1922, the Ireland (Confirmation of Agreement) Act 1925, the Ireland Act 1949, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER IV</label>
+                     <title>Uncivil Strife:</title>
+                     <subtitle>The Ulster Struggle and the Law of Civil Strife</subtitle>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>With the status of Northern Ireland as part of the United Kingdom established, the legal aspects of the Ulster conflict can be more readily understood. Since “conflicts between two distinct territorial units which the [world] community expects to be relatively permanent, are, for purposes of policy about coercion, to be treated as conflicts between established states,”¹ the use of force—be it covert or overt—across the North-South line of division constitutes, even if the status of Ulster is questioned, an illegal act; since world order requires that an international entity shall not exercise force across its border except for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER V</label>
+                     <title>Limits of War:</title>
+                     <subtitle>The Applicability of the Laws of War to the Ulster Conflict</subtitle>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>To say that war is as old as man is trite; to assert that the laws or rules of war always control the actions of men during conflicts is naive. Yet the prescriptions of war have long been one factor in the conduct of armed struggles. At least since the days of Grotius, some people have believed not only that all laws are not held in abeyance in war but that, “on the contrary, war ought not to be undertaken except for the enforcement of rights; when once undertaken, it should be carried on only within the bounds of law</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VI</label>
+                     <title>Human Rights—Human Wrongs:</title>
+                     <subtitle>An Examination of the Leading Issue of the Ulster Struggle</subtitle>
+                  </title-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>Of the many legal questions raised by the conflict in Northern Ireland, the one which must of necessity be singled out concerns human rights. In a sense, it is<italic>the</italic>legal question, for, when the civil rights demonstrations began in 1968, the sole issue revolved around purported discriminatory practices directed against Catholics. As is the case with other Ulster questions, however, the factual and legal origins of this issue date not from 1968 but from a far earlier period.</p>
+                     <p>The concern for human rights may be traced back to the political philosophy of the Greeks and Romans.¹ Or, to shorten</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VII</label>
+                     <title>The Internationalization of Civil Strife:</title>
+                     <subtitle>A Possible Role for the United Nations in Northern Ireland</subtitle>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>Having concluded that human rights are being violated in Northern Ireland, what must be asked is who has the responsibility to remedy the wrongs. More specifically, it must be determined whether the deprivations are a matter of domestic or international concern, and, concomitantly, whether they constitute a threat to the peace that necessarily triggers the full mechanisms of the United Nations Charter.</p>
+                     <p>Under customary or traditional international law, it was well established both that a state possessed a wide discretion with which to deal with persons in its territorial jurisdiction and that other states were justified at times in exercising</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VIII</label>
+                     <title>Vox Clamantis in Deserto:</title>
+                     <subtitle>Proposed Solutions and Yesable Propositions</subtitle>
+                  </title-group>
+                  <fpage>256</fpage>
+                  <abstract>
+                     <p>In piecing together the Ulster puzzle, it is apparent that each of the participants to the struggle must bear some of the blame for the conflict. What is perhaps less apparent at first blush is the fact that the struggle is capable of solution. Like any man-made problem the Northern Ireland tragedy is soluble by man. While an acceptable solution has yet to be found, a number of suggestions—which can be conveniently categorized once more under the Dublin-London-Belfast labels—have been advanced.</p>
+                     <p>Since “a divided Ireland will never be happy or at peace,”¹ the “only lasting settlement to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.12</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.13</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>307</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1b3d.14</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

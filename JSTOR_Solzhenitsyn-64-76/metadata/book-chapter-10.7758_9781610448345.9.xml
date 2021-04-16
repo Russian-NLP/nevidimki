@@ -1,0 +1,519 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">9781610448345</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Psychology</subject>
+         <subject>Health Sciences</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Experimentation with Human Beings</book-title>
+         <subtitle>The Authority of the Investigator, Subject, Professions, and State in the Human Experimentation Process</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Katz</surname>
+               <given-names>Jay</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="other">with the assistance of</role>
+         <contrib contrib-type="other" id="contrib2">
+            <name name-style="western">
+               <surname>Capron</surname>
+               <given-names>Alexander Morgan</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib3">
+            <name name-style="western">
+               <surname>Glass</surname>
+               <given-names>Eleanor Swift</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>07</month>
+         <year>1972</year>
+      </pub-date>
+      <isbn content-type="ppub">9780871544384</isbn>
+      <isbn content-type="epub">9781610448345</isbn>
+      <publisher>
+         <publisher-name>Russell Sage Foundation</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1972</copyright-year>
+         <copyright-holder>Russell Sage Foundation</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7758/9781610448345"/>
+      <abstract abstract-type="short">
+         <p>In recent years, increasing concern has been voiced about the nature and extent of human experimentation and its impact on the investigator, subject, science, and society. This casebook represents the first attempt to provide comprehensive materials for studying the human experimentation process.</p>
+         <p>Through case studies from medicine, biology, psychology, sociology, and law-as well as evaluative materials from many other disciplines-Dr. Katz examines the problems raised by human experimentation from the vantage points of each of its major participants-investigator, subject, professions, and state. He analyzes what kinds of authority should be delegated to these participants in the formulation, administration, and review of the human experimentation process. Alternative proposals, from allowing investigators a completely free hand to imposing centralized governmental control, are examined from both theoretical and practical perspectives.</p>
+         <p>The conceptual framework of<italic>Experimentation with Human Beings</italic>is designed to facilitate not only the analysis of such concepts as "harm," "benefit," and "informed consent," but also the exploration of the problems raised by man's quest for knowledge and mastery, his willingness to risk human life, and his readiness to delegate authority to professionals and rely on their judgment.</p>
+      </abstract>
+      <counts>
+         <page-count count="1208"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.2</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>J.K.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.4</book-part-id>
+                  <title-group>
+                     <title>Analytical Table of Contents</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>When science takes man as its subject, tensions arise between two values basic to Western society: freedom of scientific inquiry and protection of individual inviolability. Both are facets of man’s quest to order his world. Scientific research has given man some, albeit incomplete, knowledge and tools to tame his environment, while commitment to individual worth and autonomy, however wavering, has limited man’s intrusions on man. Yet when human beings become the subject of experimentation, allegiance to one value invites neglect of the other. At the heart of this conflict lies an age-old question: When may a society, actively or by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.6</book-part-id>
+                  <title-group>
+                     <title>[Part I. Introduction]</title>
+                  </title-group>
+                  <fpage>7</fpage>
+                  <abstract>
+                     <p>This Part introduces the major issues raised by experimentation with human beings. Two cases, one from medicine and one from law—social science, present the chief participants in the human experimentation process-the investigator, the subject, the professions, and the state—and bring into view their expectations, capacities, and value preferences. These first two chapters should begin to raise questions about the rights and duties of each participant and about the rules and procedures for resolving conflicts among them.</p>
+                     <p>Research conducted by professional investigators with human subjects is only one piece in the mosaic of ubiquitous experimentation in society, for both</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER ONE</label>
+                     <title>The Jewish Chronic Disease Hospital Case</title>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>In July 1963, three doctors, with approval from the director of medicine of the Jewish Chronic Disease Hospital in Brooklyn, New York, injected “live cancer cells” subcutaneously into twenty-two chronically ill and debilitated patients. The doctors did not inform the patients that live cancer cells were being used or that the experiment was designed to measure the patients’ ability to reject foreign cells—a test unrelated to their normal therapeutic program.</p>
+                     <p>The cancer experiment engendered a heated controversy among the hospital’s doctors and led to an investigation by the hospital’s grievance committee and board of directors. William A. Hyman, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER TWO</label>
+                     <title>The Wichita Jury Recording Case</title>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>In 1954 a group of law professors and social scientists, with the approval of judges of the Tenth Judicial Circuit, recorded the deliberations of juries in six civil cases in the United States district court in Wichita, Kansas. The investigators did not inform the jurors that microphones had been concealed in the jury room. The litigants were also unaware of the research project, although their attorneys had consented to the recordings.</p>
+                     <p>A year later the Internal Security Subcommittee of the Senate Committee on the Judiciary held public hearings in order to assess the impact of this experiment “upon the integrity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER THREE</label>
+                     <title>The Impact of Societal Dynamics on Human Experimentation—Extending Knowledge, Risking Life, and Relying on Professional Authority</title>
+                  </title-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>The Jewish Chronic Disease Hospital and Wichita Jury Recording cases provoked intense, though short-lived, debates about the nature and extent of the authority of investigators to intervene in subjects’ lives, to expose them to risks, and to tamper with the fabric of professional and societal institutions. In partial defense to considerable criticism, the investigators argued that the need to acquire knowledge for the benefit of individuals and society required such interventions. More specifically, the scientists believed that the injection of “cancer cells” in debilitated subjects and the recording of jury deliberations were the next logical experiments that needed to be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FOUR</label>
+                     <title>Perspectives on Decisionmaking</title>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>The case studies in the first two chapters revealed considerable confusion about the rights and duties of the various participants as well as the absence of a conceptual framework to guide the human experimentation process. Before turning to a detailed analysis of the authority of the participants at each stage—formulation, administration, and review—of the experimentation process, we pause briefly to examine some theories of decisionmaking. These theories raise fundamental questions for students of human experimentation about the extent of man’s ability to plan rationally for human institutions.</p>
+                     <p>At One extreme the pure market system of “free contract” suggests</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.11</book-part-id>
+                  <title-group>
+                     <title>[Part II. Introduction]</title>
+                  </title-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>This Part explores the role of the investigator in the human experimentation process. Unlike theoretical scientists whose freedom to pursue their studies, though sometimes challenged, is generally accepted in contemporary society, investigators involved in human research often find their freedom encumbered by the rights and interests of their subjects. Consequently, the student of human experimentation must confront issues which would be only remotely relevant, and perhaps even overreaching, to someone examining decisionmaking in theoretical science.</p>
+                     <p>To familiarize the student with the range of activities investigators pursue with human subjects, research studies from a variety of disciplines are presented in this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FIVE</label>
+                     <title>Experimentation without Restriction</title>
+                  </title-group>
+                  <fpage>283</fpage>
+                  <abstract>
+                     <p>What consequences ensue for society and subjects if no external restraints are imposed on an investigator’s utilization of human subjects for research purposes? Perhaps the most extreme example of experimentation without restrictions occurred in Nazi Germany. In the concentration camps “political,” “racial,” and “military” prisoners, considered unworthy of the protections ordinarily afforded to citizens of any society, were made available to physicians for research. This environment provided the investigators with an opportunity to carry out studies with unlimited freedom. In scrutinizing these materials from the vantage point of experimentation without restriction, we disregard their cultural origins and focus on those</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SIX</label>
+                     <title>What Consequences to Subjects Should Affect the Authority of the Investigator?</title>
+                  </title-group>
+                  <fpage>323</fpage>
+                  <abstract>
+                     <p>This chapter examines those research conditions which give rise to tension between the actions of the investigator and the rights and interests of the subject. Since a primary concern in research is the protection of subjects against harm, our first analytic task is to specify the categories of harm which can result from experimental interventions. We have identified three major interests of the subject which, if interfered with, may cause him harm: (1) self-determination and privacy, (2) psychological integrity, and (3) physical integrity.</p>
+                     <p>Though the categories of harm overlap, we treat them separately to highlight the distinctive problems which arise</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SEVEN</label>
+                     <title>What Consequences to Society Should Affect the Authority of the Investigator?</title>
+                  </title-group>
+                  <fpage>435</fpage>
+                  <abstract>
+                     <p>In the previous chapter we explored the nature and extent of the investigator’s authority in his interactions with individual subjects. Whenever these interactions interfere with the rights and well-being of research subjects, they also threaten the community as a whole. Thus, the problems presented for analysis in Chapter Six merge with those selected for this chapter. In some situations, however, the predictable and unpredictable risks for society go beyond the harm done to individual subjects. Accordingly, this chapter focuses on those situations in which the investigator’s actions bring him into conflict with the rights and interests of the community. We</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.15</book-part-id>
+                  <title-group>
+                     <title>[Part III. Introduction]</title>
+                  </title-group>
+                  <fpage>521</fpage>
+                  <abstract>
+                     <p>In Part Two we explored the investigator’s authority in the human experimentation process. We sought to specify the nature and degree of harm to subjects, science and society as well as other identifiable elements of research design and objectives which suggest that other decisionmakers, besides the investigator, should participate in this process. We now focus on the subject in order to examine the extent and limits of his ability and authority to make decisions on his own behalf.</p>
+                     <p>Belief in the idea of individual freedom is a cornerstone of the Western concept of man and society. The common law nurtures</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER EIGHT</label>
+                     <title>What Are the Functions of Informed Consent?</title>
+                  </title-group>
+                  <fpage>523</fpage>
+                  <abstract>
+                     <p>The concept of informed consent is a legal hybrid. The traditional function of consent was to differentiate those medical interventions which were legally permissible from those which would subject a physician to liability for an unauthorized “offensive touching” of his patient. Recently courts have concluded that a patient’s assent to a medical procedure is valid—a “voluntary” product of his “free will”—only if it is based on adequate information about the intervention including its attendant risks. The engrafting of the “information” component moved the concept beyond simple assault and battery law. A physician may now be held liable either</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER NINE</label>
+                     <title>What Limitations Are Inherent in Informed Consent?</title>
+                  </title-group>
+                  <fpage>609</fpage>
+                  <abstract>
+                     <p>To give effective protection to the subject’s rights and the integrity of the human experimentation process, the concept of informed consent must take into account the limitations on the subject’s ability to make “intelligent” and “insightful” decisions. In this chapter we examine the impediments to self-determination and informed consent inherent in the intellectual capacities, psychological forces, and social pressures operating in and on man. More specifically, we ask whether an awareness of these problems on the part of investigators and subjects can overcome the failures of communication, understanding, and intelligent decisionmaking which now plague the research process.</p>
+                     <p>The limitations of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER TEN</label>
+                     <title>What Limitations Should Be Imposed on Informed Consent?</title>
+                  </title-group>
+                  <fpage>675</fpage>
+                  <abstract>
+                     <p>In this chapter we focus on the restraints which the professions and society place on informed consent to “protect” the subject’s and society’s “best interests.” Such constraints are invoked by investigators in order to shield the subject, usually also a patient, from “unpleasant” knowledge and “unwise” choices or by lawmakers in order to shield society from troublesome choices, like euthanasia, considered offensive to the “moral sense” of the community.</p>
+                     <p>Though encroachments on self-determination are traditionally viewed with disquiet, law has, without careful scrutiny, recognized, or at least acquiesced in, broadly defined limitations on informed consent. We seek to search out</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.19</book-part-id>
+                  <title-group>
+                     <title>[Part IV. Introduction]</title>
+                  </title-group>
+                  <fpage>725</fpage>
+                  <abstract>
+                     <p>This Part explores the role of professional and public institutions in formulating, administering, and reviewing the human experimentation process. The preceding analysis of the authority of the investigator and the subject disclosed the limits of their capacity to make “acceptable” and “informed” decisions and indicated that society has an interest in encouraging or discouraging certain investigations. We now inquire whether, despite these considerations, the human experimentation process should nevertheless be left to the initiative of investigators and to the arrangements they make with their subjects because the participation of other decisionmakers would impose greater burdens than benefits on the process.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.20</book-part-id>
+                  <title-group>
+                     <label>CHAPTER ELEVEN</label>
+                     <title>Experimentation with Volunteers and Patient-Subjects</title>
+                  </title-group>
+                  <fpage>727</fpage>
+                  <abstract>
+                     <p>As a prologue to the subsequent analysis, this chapter opens with an expression of views by a governmental commission, a theologian, a physican, a judge, a lawyer, and a philosopher on the competing interests of science, society, and the individual. Their common quest is for a balancing of society’s interests which at one and the same time will protect the individual’s well-being and right to self-determination and encourage the acquisition of knowledge through scientific investigation.</p>
+                     <p>The case studies in this chapter on the discovery of a reliable oral contraceptive pill and the search for an effective surgical treatment of mitral</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.21</book-part-id>
+                  <title-group>
+                     <label>CHAPTER TWELVE</label>
+                     <title>Experimentation with Uncomprehending Subjects</title>
+                  </title-group>
+                  <fpage>955</fpage>
+                  <abstract>
+                     <p>The incapacity of uncomprehending subjects to participate in research decisions highlights two fundamental questions: When, if ever, should subjects be used for research without their own consent? What persons or institutions should be authorized to formulate, administer, and review rules about the participation of non-consenting subjects?</p>
+                     <p>Investigators have strongly advocated the use of uncomprehending subjects, such as children, for some experiments in order to advance knowledge about the beginnings of life in general or childhood diseases in particular. Yet they have neither sought nor been given sufficient guidance on the permissible limits of such research.</p>
+                     <p>The question of “permissible” experimentation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.22</book-part-id>
+                  <title-group>
+                     <label>CHAPTER THIRTEEN</label>
+                     <title>Experimentation with Captive Subjects</title>
+                  </title-group>
+                  <fpage>1013</fpage>
+                  <abstract>
+                     <p>The prosecutors at Nuremberg maintained that the use of political and military prisoners for experimental purposes constituted a “crime against humanity.” The defense tried to meet this argument by presenting evidence, especially from American sources, of the longstanding practice of enlisting prisoners in research projects. Heated exchanges ensued about the capacity of any captive person to participate in research on a truly voluntary basis.</p>
+                     <p>From these debates emerges a broader and more basic question for the entire human experimentation process: What persons or institutions should be authorized to formulate, administer, and review decisions to allow investigators to recruit subjects who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.23</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FOURTEEN</label>
+                     <title>Experimentation with Dying Subjects</title>
+                  </title-group>
+                  <fpage>1053</fpage>
+                  <abstract>
+                     <p>The decision to use dying patients as research subjects is one of the most controversial an investigator can make. Persons suffering from terminal illness present many of the same problems as those encountered in the previous two chapters—like children, their ability to make informed decisions is often either impaired or disregarded, and, like soldiers and prisoners, they are not really free but are the “captives” of their disease, their physicians and hospital, and their enforced isolation. It is therefore not surprising that some commentators flatly oppose the use of the dying as subjects. On the other hand, investigators argue</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.24</book-part-id>
+                  <title-group>
+                     <title>Table of Cases</title>
+                  </title-group>
+                  <fpage>1109</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.25</book-part-id>
+                  <title-group>
+                     <title>Table of Authors</title>
+                  </title-group>
+                  <fpage>1113</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.26</book-part-id>
+                  <title-group>
+                     <title>Table of Books, Articles and Other Sources</title>
+                  </title-group>
+                  <fpage>1127</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">9781610448345.27</book-part-id>
+                  <title-group>
+                     <title>Subject Index</title>
+                  </title-group>
+                  <fpage>1141</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

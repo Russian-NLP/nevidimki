@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">modefictstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013829</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Modern Fiction Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>THE PURDUE UNIVERSITY DEPARTMENT OF ENGLISH</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00267724</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1080658X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">15</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i26278806</issue-id>
+         <article-id pub-id-type="jstor">26278824</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>RECENT BOOKS ON MODERN FICTION</subject>
+               <subj-group>
+                  <subject>BOOKS REVIEWED</subject>
+                  <subj-group>
+                     <subject>CONTINENTAL</subject>
+                  </subj-group>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>EDWARD</given-names>
+                  <surname>WASIOLEK</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1969</year>
+         </pub-date>
+         <fpage>297</fpage>
+         <lpage>302</lpage>
+         <product>
+            <source>Introduction to Tolstoy's Writings</source>
+            <string-name>
+               <given-names>Ernest J.</given-names>
+               <surname>Simmons</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Tolstoy's Epic Vision, A Study of War and Peace and Anna Karenina</source>
+            <string-name>
+               <given-names>Harry J.</given-names>
+               <surname>Mooney,</surname>
+               <suffix>Jr.</suffix>
+            </string-name>
+         </product>
+         <product>
+            <source>Dostoevsky, Child and Man in His Works</source>
+            <string-name>
+               <given-names>William Woodin</given-names>
+               <surname>Rowe</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Simile and Gogol's "Dead Souls"</source>
+            <string-name>
+               <given-names>Carl R.</given-names>
+               <surname>Proffer</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Women in Soviet Fiction, 1917-1964</source>
+            <string-name>
+               <given-names>Xenia</given-names>
+               <surname>Gasiorowska</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Henryk Sienkiewicz</source>
+            <string-name>
+               <given-names>Mieczyslaw</given-names>
+               <surname>Giergielewicz</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Russian Themes</source>
+            <string-name>
+               <given-names>Mihajlo</given-names>
+               <surname>Mihajlov</surname>
+            </string-name>
+            <string-name>
+               <given-names>Marija</given-names>
+               <surname>Mihajlov</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1969 Purdue Research Foundation</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26278824"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

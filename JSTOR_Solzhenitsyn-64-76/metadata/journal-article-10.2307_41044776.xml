@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">jahrgescoste</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50001071</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Jahrbücher für Geschichte Osteuropas</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Franz Steiner Verlag</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00214019</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23662891</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>journal-series-title</meta-name>
+               <meta-value>Neue Folge</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">21</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40046664</issue-id>
+         <article-id pub-id-type="doi">10.2307/41044776</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ANZEIGEN</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>W. K.</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1973</year>
+         </pub-date>
+         <fpage>314</fpage>
+         <lpage>315</lpage>
+         <product>
+            <source>The Broken Icon</source>
+            <string-name>
+               <given-names>Geoffrey</given-names>
+               <surname>Clive</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/41044776"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>ger</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

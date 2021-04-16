@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">canaslavpape</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000944</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Canadian Slavonic Papers / Revue Canadienne des Slavistes</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Canadian Association of Slavists</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00085006</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23752475</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40039048</issue-id>
+         <article-id pub-id-type="jstor">40866681</article-id>
+         <title-group>
+            <article-title>Chekhov Adapted</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>JOHN</given-names>
+                  <surname>GLAD</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>99</fpage>
+         <lpage>103</lpage>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40866681"/>
+      
+      
+         <abstract>
+            <p>La littérature soviétique est caractérisée par son conservatisme, qui fait que les écrivains soviétiques se conforment encore aux traditions du dix-neuvième siècle. ne prisel paroxod" (En attendant l'arrivée du bateau) de Valentin Tublin, écrivain soviétique contemporain, est caractéristique à cet égard. Il s'agit en fait de l'adaptation d'une nouvelle de Tchékhov, "L'étudiant," dans laquelle un jeune homme surprend une conversation émouvante au sujet de la Bible. Dans la nouvelle de Tublin, c'est le communisme qui est la source d'inspiration morale. Mais la présentation impressionniste des faits est identique chez les deux auteurs: usage de mots indéfinis, personification de la nature et fusion avec elle de l'humeur des protagonistes, vague voulu dans la description du cadre. La comparaison par juxtaposition de passages individuels montre des similarités étonnantes. Les protagonistes participent à des scènes pratiquement identiques, rencontrent les mêmes sortes de gens de la campagne et se lancent dans des conversations qui tournent à la leçon de morale. Il s'agit ici non seulement de l'influence du style de Tchékhov sur un auteur soviétique moderne, mais de l'imitation évidente d'une oeuvre spécifique. Idéologie mise à part les deux nouvelles sont identiques quant à la forme.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d743e113a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d743e120" publication-type="other">
+Valentin Tublin, "Poka ne prishël paroxod," Zvezda, VII (1963), pp. 130-34.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d743e126" publication-type="other">
+Sobranie sochinenii ν dvenad-
+sati tomakh, VII (Moscow, 1962), pp. 375-78.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

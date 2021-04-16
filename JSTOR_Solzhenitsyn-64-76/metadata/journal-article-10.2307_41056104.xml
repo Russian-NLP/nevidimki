@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">etudslavesteuro</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50001099</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Études Slaves et Est-Européennes / Slavic and East-European Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Centre de Slavistes et de Spécialistes Est-Européens du Cananda de l'Est / Eastern Canada Centre of Slavists and East European Specialists</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00142190</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">20/21</volume>
+         <issue-id>i40047063</issue-id>
+         <article-id pub-id-type="jstor">41056104</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Notes</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>G. VLADIMOV — LE GRAND ÉCRIVAIN CONTEMPORAIN RUSSE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>N.</given-names>
+                  <surname>Pervushin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>102</fpage>
+         <lpage>105</lpage>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/41056104"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <ref-list>
+        <title>NOTE</title>
+        <ref id="d995e128a1310">
+            <label>1</label>
+          
+            <mixed-citation id="d995e135" publication-type="other">
+« Aspects of Intellectual Ferment and Dissent in the Soviet Union. » "Washing-
+ton, U.S. Senate, 1968, p. 45-46.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

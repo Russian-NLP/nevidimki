@@ -1,0 +1,56 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="misc">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">hastcentrepo</journal-id>
+         <journal-id journal-id-type="jstor">j100488</journal-id>
+         <journal-title-group>
+            <journal-title>The Hastings Center Report</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Institute of Society, Ethics and the Life Sciences. The Hastings Center</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00930334</issn>
+         <issn pub-type="epub">1552146X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3561534</article-id>
+         <title-group>
+            <article-title>In the Literature</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Sharmon</given-names>
+                  <surname>Sollitto</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i279779</issue-id>
+         <fpage>14</fpage>
+         <lpage>15</lpage>
+         <page-range>14-15</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1973 The Institute of Society, Ethics and the Life Sciences</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3561534"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

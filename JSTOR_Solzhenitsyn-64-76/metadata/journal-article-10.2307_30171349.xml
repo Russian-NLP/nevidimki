@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">asianaffairs</journal-id>
+         <journal-id journal-id-type="jstor">j50000334</journal-id>
+         <journal-title-group>
+            <journal-title>Asian Affairs</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>American-Asian Educational Exchange, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00927678</issn>
+         <issn pub-type="epub">19401590</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i30171346</issue-id>
+         <article-id pub-id-type="jstor">30171349</article-id>
+         <title-group>
+            <article-title>US Relations with the People's Republic of China</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Lindsay</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>9</month>
+            <year>1974</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>18</fpage>
+         <lpage>28</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1974 American-Asian Educational Exchange, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/30171349"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d624e120a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d624e127" publication-type="other">
+Kenneth T. Young, Negotiating With the Communists (New York: McGraw-
+Hill, 1968), pp. 63-90</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+   </back>
+</article>

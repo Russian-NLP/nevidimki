@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">modefictstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013829</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Modern Fiction Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>THE PURDUE UNIVERSITY DEPARTMENT OF ENGLISH</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00267724</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1080658X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">22</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i26280387</issue-id>
+         <article-id pub-id-type="jstor">26280425</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>RECENT BOOKS ON MODERN FICTION</subject>
+               <subj-group>
+                  <subject>BOOKS REVIEWED</subject>
+                  <subj-group>
+                     <subject>CONTINENTAL</subject>
+                  </subj-group>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>VICTOR E.</given-names>
+                  <surname>AMEND</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>12</month>
+            <year>1976</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1977</year>
+         </pub-date>
+         <fpage>674</fpage>
+         <lpage>678</lpage>
+         <product>
+            <source>Dostoevsky: Reminiscences</source>
+            <string-name>
+               <given-names>Anna</given-names>
+               <surname>Dostoevsky</surname>
+            </string-name>
+            <string-name>
+               <given-names>Beatrice</given-names>
+               <surname>Stillman</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Dostoevsky and his Devils</source>
+            <string-name>
+               <given-names>Václav</given-names>
+               <surname>Cerny</surname>
+            </string-name>
+            <string-name>
+               <given-names>F. W.</given-names>
+               <surname>Galan</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Dostoevsky and the Age of Intensity</source>
+            <string-name>
+               <given-names>Alex</given-names>
+               <surname>de Jonge</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright © 1977 Purdue Research Foundation</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26280425"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

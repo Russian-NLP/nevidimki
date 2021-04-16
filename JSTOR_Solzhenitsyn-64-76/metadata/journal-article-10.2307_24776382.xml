@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">mosajintestudlit</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013819</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Mosaic: A Journal for the Interdisciplinary Study of Literature</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>University of Manitoba Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00271276</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19255683</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i24775427</issue-id>
+         <article-id pub-id-type="jstor">24776382</article-id>
+         <title-group>
+            <article-title>Solzhenitsyn in the Context of Soviet Literature</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Elisabeth</given-names>
+                  <surname>Mark</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Kurt</given-names>
+                  <surname>Rees</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>135</fpage>
+         <lpage>148</lpage>
+      
+         <permissions>
+            <copyright-statement>Copyright © 1972 The Editors, MOSAIC, The University of Manitoba Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/24776382"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d85e122a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d85e129" publication-type="other">
+Literaturnaja enciklopedija (Moscow, 1971), vol. VI. 996.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e136a1310">
+          
+            <p>
+               <mixed-citation id="d85e140" publication-type="other">
+Hstorija russkoj sovetskoj literatury (History of Soviet Russian Literature), 2nd ed.
+(Moscow, 1967), vol. I, 7.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e150a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d85e157" publication-type="other">
+L. I. Timofeev, Russkaja sovetskaja literalura (Moscow, 1950), p. 16.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e164a1310">
+            <label>■'</label>
+          
+            <p>
+               <mixed-citation id="d85e171" publication-type="other">
+Ibid., p. 5.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e179a1310">
+            <label>«</label>
+          
+            <p>
+               <mixed-citation id="d85e186" publication-type="other">
+A. Solzhenitsyn, Socinenija v 6 tomach (Frankfurt/Main, 1970), vol. VI, 9.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e193a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d85e200" publication-type="other">
+V. Kaverin, "Contribution to the Discussion of Solzhenitsyn's Cancer Ward at the
+Congress of Writers on 17 Nov. 1968"; see Solzhenitsyn, Socinenija, vol. VI, 158.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e210a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d85e217" publication-type="other">
+D. Dar, "Letter to the Presidium of the Fourth Congress of Soviet Writers," in
+Solzhenitsyn, Socinenija, vol. VI, 393.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e227a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d85e234" publication-type="other">
+J. Olesa, "Neobchodimost' perestrojki mne jasna," in 30 dnej, V (1932), 67 f.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e241a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d85e248" publication-type="other">
+Heinrich Boll in Twen (Munich, 1960), VII.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e255a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d85e262" publication-type="other">
+Aleksandr Schmeman, "O Solzenicyne," in Vestnik R. Ch. S.D. (Paris, 1971), IV,
+No. 98, 72-87.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e273a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d85e280" publication-type="other">
+Solzhenitsyn's name is not even mentioned in the chronology of the academic History
+of Russian Soviet Literature, see note 3.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e290a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d85e297" publication-type="other">
+Literaturnaja gazeta (12 I 1972).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e304a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d85e311" publication-type="other">
+Socinenija, vol. VI, 152.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e318a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d85e325" publication-type="other">
+A. Zdanov, "Speech on the First All Union Congress of Soviet Writers," cited in
+Literaturnaja gazeta (20 VIII 1934).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e335a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d85e342" publication-type="other">
+Georg Lukâcs, Alexander Solschenizyn [Sammlung Luchterhand 28] (Berlin,
+1970), pp. 83-84.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e352a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d85e359" publication-type="other">
+Bondarev, Baklanov, V. Bykov amongst others in Novy Mir; see my article in Mosaic,
+111/2 (1970), 27-39.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e370a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d85e377" publication-type="other">
+Aleksandr Schmeman, op. cit., 77 f.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e384a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d85e391" publication-type="other">
+L. I. Timofeev, op. cit., p. 8.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e398a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d85e405" publication-type="other">
+Literaturnaja gaze ta (2 II 1972).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e412a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d85e419" publication-type="other">
+Bruno Jasenkij's novel A Man Changes
+His Skin.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e429a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d85e436" publication-type="other">
+Sergi Lukonin from K.
+Simonov's A Boy From Our Town which appeared in March 1941</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e446a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d85e453" publication-type="other">
+L. Levickij, "Etika Solzenicyna," in Novyj zurnal (New York, 1971), No. 102, 112.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e461a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d85e468" publication-type="other">
+A. Belinkov, "Contribution to the Discussion of Cancer Ward," p. 181, see note 7.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e475a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d85e482" publication-type="other">
+G. Baklanov, "Ctob eto nikogda ne povtorilos' " (So That This Is Never Repeated),
+in Literaturnaja gazeta (22 XI 1962).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e492a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d85e499" publication-type="other">
+Literaturnaja gazeta (10 VIII 1963).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e506a1310">
+            <label>™</label>
+          
+            <p>
+               <mixed-citation id="d85e513" publication-type="other">
+Druzba narodov (Moscow, 1963), No. 1, 274.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e520a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d85e527" publication-type="other">
+A. Solzhenitsyn, "K. devjatomu dnju" (Funeral Oration for Twardowski), in
+Russkaja my si (Paris, 1972).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e537a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d85e544" publication-type="other">
+Pravda, (19 XI 1969)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e552a1310">
+            <label>3S</label>
+          
+            <p>
+               <mixed-citation id="d85e559" publication-type="other">
+N. Mandelstam, "Moe zavescanie," in Vestnik R.CIi. S.D. (1971), No. 100, 155.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e566a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d85e573" publication-type="other">
+N. Mandelstam, Vospominanija (Remembrances) (New York, 1970).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d85e580a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d85e587" publication-type="other">
+G. Vladimov, "Letter to the Presidium of the Fourth Writers Congress," p. 17, see
+note 7.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

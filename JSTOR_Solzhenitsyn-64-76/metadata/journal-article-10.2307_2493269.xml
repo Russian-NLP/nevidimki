@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00376779</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/2493269</article-id>
+         <title-group>
+            <article-title>The Art of Andrei Siniavsky</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Deming</given-names>
+                  <surname>Brown</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>1970</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i322514</issue-id>
+         <fpage>663</fpage>
+         <lpage>681</lpage>
+         <page-range>663-681</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1970 American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/2493269"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1352e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1352e121" publication-type="book">
+Alfreda Aucouturier, "Andrey Sinyavsky on the Eve of His Arrest," in Leopold
+Labedz and Max Hayward, eds., On Trial: The Case of Sinyavsky (Tertz) and Daniel
+(Arzhak) (London: Collins and Harvill, 1967), p. 343<person-group>
+                     <string-name>
+                        <surname>Aucouturier</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Andrey Sinyavsky on the Eve of His Arrest</comment>
+                  <fpage>343</fpage>
+                  <source>On Trial: The Case of Sinyavsky (Tertz) and Daniel (Arzhak)</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e156a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1352e163" publication-type="other">
+Pushkin's Ruslan i Liudmila</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e169" publication-type="book">
+Tertz, Fantastic Stories ("You and I" and "The Icicle," trans. Max Hayward, "Grapho-
+maniacs," "At the Circus," and "Tenants," trans. Ronald Hingley) (New York: Pantheon
+Books, 1963)<person-group>
+                     <string-name>
+                        <surname>Tertz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">"You and I" and "The Icicle,"</comment>
+                  <source>Fantastic Stories</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e200" publication-type="book">
+"Pkhentz," trans. Jeremy Biddulph, in Peter Reddaway, ed., Soviet Short
+Stories, vol. 2 (Baltimore: Penguin Books, 1968), pp. 214-63<person-group>
+                     <string-name>
+                        <surname>Reddaway</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Pkhentz</comment>
+                  <fpage>214</fpage>
+                  <volume>2</volume>
+                  <source>Soviet Short Stories</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e235" publication-type="book">
+Abram Tertz, The Trial
+Begins, trans. by Max Hayward (New York: Pantheon Books, 1960)<person-group>
+                     <string-name>
+                        <surname>Tertz</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Trial Begins</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e259" publication-type="journal">
+"Thought Un-
+aware" [Unguarded Thoughts], trans. Andrew Field and Robert Szulkin, The New Leader,
+July 19, 1965, pp. 16-26<person-group>
+                     <string-name>
+                        <surname>Field</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>July 19</issue>
+                  <fpage>16</fpage>
+                  <source>The New Leader</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e294a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1352e301" publication-type="other">
+Ray J. Parrott, Jr. ("Pkhentz")</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e307" publication-type="other">
+Susan
+Wobst ("At the Circus")</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e316" publication-type="other">
+late Guy W. Carter (Liubimov)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

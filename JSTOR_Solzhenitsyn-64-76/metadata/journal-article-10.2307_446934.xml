@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">westpoliquar</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100407</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Western Political Quarterly</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Institute of Government of the University of Utah</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00434078</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">24</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i218766</issue-id>
+         <article-id pub-id-type="doi">10.2307/446934</article-id>
+      
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Walter C.</given-names>
+                  <surname>Clemens,</surname>
+                  <suffix>Jr.</suffix>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>9</month>
+            <year>1971</year>
+         </pub-date>
+         <fpage>599</fpage>
+         <lpage>602</lpage>
+         <page-range>599-602</page-range>
+         <product>
+            <source>SIPRI Yearbook of World Armaments and Disarmament, 1969/70</source>
+            <string-name>Stockholm International Peace Research Institute</string-name>
+         </product>
+         <product>
+            <source>To End War. An Introduction to the Ideas, Organizations and Current Books</source>
+            <string-name>
+               <given-names>Robert</given-names>
+               <surname>Pickus</surname>
+            </string-name>
+            <string-name>
+               <given-names>Robert</given-names>
+               <surname>Woito</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Impact of New Technologies on the Arms Race</source>
+            <string-name>
+               <given-names>B. T.</given-names>
+               <surname>Feld</surname>
+            </string-name>
+            <string-name>
+               <given-names>T.</given-names>
+               <surname>Greenwood</surname>
+            </string-name>
+            <string-name>
+               <given-names>G. W.</given-names>
+               <surname>Rathjens</surname>
+            </string-name>
+            <string-name>
+               <given-names>S.</given-names>
+               <surname>Weinberg</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/446934"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

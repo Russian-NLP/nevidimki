@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amerjsoci</journal-id>
+         <journal-id journal-id-type="jstor">j100067</journal-id>
+         <journal-title-group>
+            <journal-title>American Journal of Sociology</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00029602</issn>
+         <issn pub-type="epub">15375390</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2776346</article-id>
+         <title-group>
+            <article-title>Waiting, Exchange, and Power: The Distribution of Time in Social Systems</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Barry</given-names>
+                  <surname>Schwartz</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">79</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i328998</issue-id>
+         <fpage>841</fpage>
+         <lpage>870</lpage>
+         <page-range>841-870</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 The University of Chicago</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2776346"/>
+         <abstract>
+            <p>So far as it limits productive uses of time, waiting generates distinct social and personal costs. The purpose of this paper is to explore the way these costs are distributed throughout a social structure and to identify the principles to which this allocation gives expression. The main proposition of our analysis is that the distribution of waiting time coincides with the distribution of power. This proposition is based on the assumption that an individual's power reflects the scarcity of the goods or skills he possesses; accordingly, the relationship between a server and client may be characterized in terms of organized dependency, for which waiting (under certain conditions) provides an accurate index. However, if delay is related to the client's position in a power network, then he may show deference to a server by an expressed willingness to wait, or a server may confirm or enhance his own status by deliberately causing him to wait. Secondary interactional modes thus come to subserve a relationship originally grounded in a supply-demand structure. The broader implications of this correlation allow us to characterize stratification systems in terms of the apportionment of time as well as the distribution of other kinds of resources.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

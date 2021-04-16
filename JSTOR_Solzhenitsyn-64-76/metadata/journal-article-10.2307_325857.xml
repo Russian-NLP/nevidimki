@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="misc">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">modernlanguagej</journal-id>
+         <journal-id journal-id-type="jstor">j100285</journal-id>
+         <journal-title-group>
+            <journal-title>The Modern Language Journal</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>National Federation of Modern Language Teachers</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00267902</issn>
+         <issn pub-type="epub">15404781</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">58</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">8</issue>
+         <issue-id>i214295</issue-id>
+         <article-id pub-id-type="jstor">325857</article-id>
+         
+         <title-group>
+            <article-title>Books Received</article-title>
+          </title-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>12</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>445</fpage>
+         <lpage>449</lpage>
+         <page-range>445-449</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 The Modern Language Journal</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/325857"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

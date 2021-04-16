@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">sciefictstud</journal-id>
+         <journal-id journal-id-type="jstor">j101356</journal-id>
+         <journal-title-group>
+            <journal-title>Science Fiction Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Department of English, Indiana State University</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00917729</issn>
+         <issn pub-type="epub">23276207</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4238995</article-id>
+         <title-group>
+            <article-title>A Response to the Le Guin Issue (SFS #7)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Ursula K.</given-names>
+                  <surname>Le Guin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i394134</issue-id>
+         <fpage>43</fpage>
+         <lpage>46</lpage>
+         <page-range>43-46</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 R. D. Mullen and Darko Suvin</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4238995"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

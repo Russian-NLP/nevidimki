@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">procarissocisupp</journal-id>
+         <journal-id journal-id-type="jstor">j101223</journal-id>
+         <journal-title-group>
+            <journal-title>Proceedings of the Aristotelian Society, Supplementary Volumes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Methuen &amp; Co. Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03097013</issn>
+         <issn pub-type="epub">14678349</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4106802</article-id>
+         <title-group>
+            <article-title>The Euthyphro Dilemma</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>D. M.</given-names>
+                  <surname>MacKinnon</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Hugo</given-names>
+                  <surname>Meynell</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1972</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">46</volume>
+         <issue-id>i380665</issue-id>
+         <fpage>211</fpage>
+         <lpage>234</lpage>
+         <page-range>211-221+223-234</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1972 The Aristotelian Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4106802"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1051e126a1310">
+            <label>1</label>
+            <mixed-citation id="d1051e133" publication-type="book">
+E. T. Michael Jameson, The Complete Greek Tragedies, Sophocles II,
+edited Grene and Lattimore, Phoenix Books, 10th impression Chicago 1969,
+p. 119.<person-group>
+                  <string-name>
+                     <surname>Jameson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>119</fpage>
+               <source>The Complete Greek Tragedies</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1051e165a1310">
+            <label>2</label>
+            <mixed-citation id="d1051e172" publication-type="journal">
+Professor Glenn R.
+Morrow's book, Plato's Cretan City, pp. 399ff.<person-group>
+                  <string-name>
+                     <surname>Morrow</surname>
+                  </string-name>
+               </person-group>
+               <fpage>399ff</fpage>
+               <source>Plato's Cretan City</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1051e197a1310">
+            <label>3</label>
+            <mixed-citation id="d1051e204" publication-type="other">
+Paton's translation, revised edition, January 1953, p. 76.</mixed-citation>
+         </ref>
+         <ref id="d1051e211a1310">
+            <label>4</label>
+            <mixed-citation id="d1051e218" publication-type="other">
+St Mark x, 18f.</mixed-citation>
+         </ref>
+         <ref id="d1051e226a1310">
+            <label>5</label>
+            <mixed-citation id="d1051e233" publication-type="other">
+St Mark xiv, 21.</mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>Notes</title>
+         <ref id="d1051e249a1310">
+            <label>1</label>
+            <mixed-citation id="d1051e256" publication-type="other">
+Euthyphro, 6e-7a.</mixed-citation>
+         </ref>
+         <ref id="d1051e263a1310">
+            <label>2</label>
+            <mixed-citation id="d1051e270" publication-type="other">
+Id., 9e.</mixed-citation>
+         </ref>
+         <ref id="d1051e277a1310">
+            <label>3</label>
+            <mixed-citation id="d1051e284" publication-type="other">
+Id., 10e-11b.</mixed-citation>
+         </ref>
+         <ref id="d1051e291a1310">
+            <label>4</label>
+            <mixed-citation id="d1051e298" publication-type="journal">
+W. W. Bartley's
+Morality and Religion, p. 8-9.<person-group>
+                  <string-name>
+                     <surname>Bartley</surname>
+                  </string-name>
+               </person-group>
+               <fpage>8</fpage>
+               <source>Morality and Religion</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1051e324a1310">
+            <label>5</label>
+            <mixed-citation id="d1051e331" publication-type="journal">
+"Islam", by H. A. R. Gibb, in The Concise Encyclopaedia of Living Faiths,
+ed. R. C. Zaehner, p. 199.<fpage>199</fpage>
+               <source>The Concise Encyclopaedia of Living Faiths</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1051e347a1310">
+            <label>6</label>
+            <mixed-citation id="d1051e354" publication-type="journal">
+"Morality: Religious and Secular" in Christian Ethics and Contemporary
+Philosophy, ed. I. T. Ramsey, pp. 95-112.<fpage>95</fpage>
+               <source>Christian Ethics and Contemporary Philosophy</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1051e370a1310">
+            <label>7</label>
+            <mixed-citation id="d1051e377" publication-type="other">
+Leviathan, ch. 31.</mixed-citation>
+         </ref>
+         <ref id="d1051e384a1310">
+            <label>8</label>
+            <mixed-citation id="d1051e391" publication-type="other">
+Nowell-Smith, op. cit., 97.</mixed-citation>
+         </ref>
+         <ref id="d1051e398a1310">
+            <label>9</label>
+            <mixed-citation id="d1051e405" publication-type="other">
+Id., 98.</mixed-citation>
+         </ref>
+         <ref id="d1051e412a1310">
+            <label>10</label>
+            <mixed-citation id="d1051e419" publication-type="other">
+Id., 101-2.</mixed-citation>
+         </ref>
+         <ref id="d1051e427a1310">
+            <label>11</label>
+            <mixed-citation id="d1051e434" publication-type="other">
+Id., 103-4.</mixed-citation>
+         </ref>
+         <ref id="d1051e441a1310">
+            <label>12</label>
+            <mixed-citation id="d1051e448" publication-type="other">
+Id., 97.</mixed-citation>
+         </ref>
+         <ref id="d1051e455a1310">
+            <label>13</label>
+            <mixed-citation id="d1051e462" publication-type="other">
+My italics.</mixed-citation>
+         </ref>
+         <ref id="d1051e469a1310">
+            <label>14</label>
+            <mixed-citation id="d1051e476" publication-type="other">
+104, 106.</mixed-citation>
+         </ref>
+         <ref id="d1051e483a1310">
+            <label>15</label>
+            <mixed-citation id="d1051e490" publication-type="journal">
+Summa Theologica,
+I, I, 1;<issue>I</issue>
+               <fpage>1</fpage>
+               <volume>I</volume>
+               <source>Summa Theologica</source>
+            </mixed-citation>
+            <mixed-citation id="d1051e512" publication-type="journal">
+Summa contra Gentiles I, 4.<fpage>4</fpage>
+               <volume>I</volume>
+               <source>Summa contra Gentiles</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1051e528a1310">
+            <label>16</label>
+            <mixed-citation id="d1051e535" publication-type="other">
+Nowell-Smith, op. cit., 108.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">pacificaffairs</journal-id>
+         <journal-id journal-id-type="jstor">j100313</journal-id>
+         <journal-title-group>
+            <journal-title>Pacific Affairs</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>University of British Columbia</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0030851X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">47</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i328422</issue-id>
+         <article-id pub-id-type="doi">10.2307/2755949</article-id>
+         
+         <title-group>
+            <article-title>Mongolia at Fifty</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>W. R.</given-names>
+                  <surname>Heaton,</surname>
+                  <suffix>Jr.</suffix>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>12</month>
+            <year>1974</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>485</fpage>
+         <lpage>499</lpage>
+         <page-range>485-499</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 University of British Columbia</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2755949"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

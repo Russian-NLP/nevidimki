@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">osteuropa</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50021164</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Osteuropa</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Deutschen Gesellschaft für Osteuropakunde</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00306428</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">25093444</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">24</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">7</issue>
+         <issue-id>i40207918</issue-id>
+         <article-id pub-id-type="jstor">44906711</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>West-östlicher Kulturaustausch</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Der Archipel GULAG — als Literatur</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Klaus</given-names>
+                  <surname>Mehnert</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>522</fpage>
+         <lpage>533</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/44906711"/>
+      
+      
+         <abstract>
+            <p>The literary aspect of Solzhenitsyn's book, Mehnert thinks, has been neglected in favor of its political implications. Yet, Solzhenitsyn's literary accomplishment is remarkable. In a powerful and impressively original language (not easy to translate) Solzhenitsyn has painted, out of hundreds of biographies and thousands of observations, a compelling picture of the "archipelago". The book's architecture is ingeniously simple: The story follows the course of the victim's experiences, from the first arrest to the final shutting "from island to island". Merely the chapters 2 and 8-12 have remained outside this clearcut scheme.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>ger</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d3742657e117a1310">
+            <label>*</label>
+          
+            <p>
+               <mixed-citation id="d3742657e124" publication-type="other">
+Russische Ausgabe: A.
+Solženicyn: Archipelag GULag, 1918-1956. Opyt chudožestvennogo issledovanija. I-II.
+YMCA -Press, Paris 1973, 608 S. -Deutsche Ausgabe: Alexander Solschenizyn : Der Archi-
+pel GULAG, 1918-1956.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3742657e139" publication-type="other">
+Versuch einer künstlerischen Bewältigung. Einzige autorisierte
+Übersetzung aus dem Russischen von Anna Peturnig. Scherz Verlag, Bern und München
+1974, 608 S.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

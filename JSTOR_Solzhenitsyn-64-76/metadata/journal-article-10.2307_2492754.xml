@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00376779</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/2492754</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Václav</given-names>
+                  <surname>Holešovský</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>9</month>
+            <year>1967</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i322501</issue-id>
+         <fpage>505</fpage>
+         <lpage>507</lpage>
+         <page-range>505-507</page-range>
+         <product>
+            <source>Forced Labour and Economic Development: An Enquiry into the Experience of Soviet Industrialization.</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>S.</given-names>
+               <surname>Swianiewicz</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>pseud., L'institution concentrationnaire en Russie (1930-1957).</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Paul</given-names>
+               <surname>Barton</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1967 American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/2492754"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">massreview</journal-id>
+         <journal-id journal-id-type="jstor">j50000175</journal-id>
+         <journal-title-group>
+            <journal-title>The Massachusetts Review</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The Massachusetts Review, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00254878</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">14</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i25088338</issue-id>
+         <article-id pub-id-type="jstor">25088354</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The New Marxist Criticism</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib>
+              <string-name>
+                  <given-names>David</given-names>
+                  <surname>Peck</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1973</year>
+         </pub-date>
+         <fpage>639</fpage>
+         <lpage>647</lpage>
+         <product>
+            <source>Marxism and Art: Writings in Aesthetics and Criticism</source>
+            <string-name>
+              <given-names>Berel</given-names>
+              <surname>Lang</surname>
+            </string-name>
+            <string-name>
+              <given-names>Forrest</given-names>
+              <surname>Williams</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>Radical Perspectives in the Arts</source>
+            <string-name>
+              <given-names>Lee</given-names>
+              <surname>Baxendall</surname>
+            </string-name>
+            <string-name>
+              <given-names>Gaylord</given-names>
+              <surname>LeRoy</surname>
+            </string-name>
+            <string-name>
+              <given-names>Ursula</given-names>
+              <surname>Beitz</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>Literature in Revolution</source>
+            <string-name>
+              <given-names>George Abbott</given-names>
+              <surname>White</surname>
+            </string-name>
+            <string-name>
+              <given-names>Charles</given-names>
+              <surname>Newman</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>College English</source>
+          </product>
+         <product>
+            <source>Marxism and Aesthetics</source>
+            <string-name>
+               <surname>Baxendall</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>Marxism and Form: 20th Century Dialectical Theories of Literature</source>
+            <string-name>
+               <surname>Jameson</surname>
+            </string-name>
+          </product>
+         <permissions>
+            <copyright-statement>Copyright 1973 The Massachusetts Review, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25088354"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

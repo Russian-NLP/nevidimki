@@ -1,0 +1,137 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">eductheaj</journal-id>
+         <journal-id journal-id-type="jstor">j100147</journal-id>
+         <journal-title-group>
+            <journal-title>Educational Theatre Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Educational Theatre Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00131989</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/3205656</article-id>
+         <title-group>
+            <article-title>Moscow Theatre 1935 and 1970: This Is Where I Came In</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Norris</given-names>
+                  <surname>Houghton</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1971</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">23</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i360834</issue-id>
+         <fpage>117</fpage>
+         <lpage>126</lpage>
+         <page-range>117-126</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1971 American Educational Theatre Association, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3205656"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d176e114a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d176e121" publication-type="journal">
+Theodore Shebad, New York Times, 28 June 1965<person-group>
+                     <string-name>
+                        <surname>Shebad</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>28 June</issue>
+                  <source>New York Times</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d176e145" publication-type="journal">
+Harrison Salisbury, New York Times,
+24 Oct. 1967<person-group>
+                     <string-name>
+                        <surname>Salisbury</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>24 Oct.</issue>
+                  <source>New York Times</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d176e173" publication-type="journal">
+George Feifer, New York Times, 11 June 1967<person-group>
+                     <string-name>
+                        <surname>Feifer</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>11 June</issue>
+                  <source>New York Times</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d176e198" publication-type="journal">
+Bernard Gwertzman, New York
+Times, 27 June 1969<person-group>
+                     <string-name>
+                        <surname>Gwertzman</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>27 June</issue>
+                  <source>New York Times</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d176e227a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d176e234" publication-type="book">
+Jan Kott, Shakespeare Our Contemporary, trans. Boleslaw Taborski (Garden City, N.Y.:
+Doubleday, 1964), p. 53.<person-group>
+                     <string-name>
+                        <surname>Kott</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>53</fpage>
+                  <source>Shakespeare Our Contemporary</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d176e263a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d176e270" publication-type="book">
+Ibid., p. 55.  <fpage>55</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

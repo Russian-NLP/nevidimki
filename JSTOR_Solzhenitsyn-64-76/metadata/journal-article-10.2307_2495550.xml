@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00376779</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/2495550</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Roger</given-names>
+                  <surname>Hagglund</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">32</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i322526</issue-id>
+         <fpage>858</fpage>
+         <lpage>861</lpage>
+         <page-range>858-861</page-range>
+         <product>
+            <source>Alexander Solsjenitsyn: Biografi och Dokument.</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink"> 
+               <given-names>Hans</given-names>
+               <surname>Björkegren</surname> 
+            </string-name>
+         </product>
+         <product>
+            <source>Aleksandr Solzhenitsyn: A Biography.</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink"> 
+               <given-names>Hans</given-names>
+               <surname>Björkegren</surname> 
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Kaarina</given-names>
+               <surname>Eneberg</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Solzhenitsyn.</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>David</given-names>
+               <surname>Burg</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>George</given-names>
+               <surname>Feifer</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1973 The American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/2495550"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

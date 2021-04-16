@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">science</journal-id>
+         <journal-id journal-id-type="jstor">j100000</journal-id>
+         <journal-title-group>
+            <journal-title>Science</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>American Association for the Advancement of Science</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00368075</issn>
+         <issn pub-type="epub">10959203</issn>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>journal-series-title</meta-name>
+               <meta-value>New Series</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">183</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4128</issue>
+         <issue-id>i299727</issue-id>
+         <article-id pub-id-type="jstor">1737887</article-id>
+         
+         <title-group>
+            <article-title>What Happened at Hawthorne?</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>H. M.</given-names>
+                  <surname>Parsons</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>08</day>
+            <month>3</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>922</fpage>
+         <lpage>932</lpage>
+         <page-range>922-932</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 American Association for the Advancement of Science</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1737887"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References and Notes</title>
+            <ref id="d246e114a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d246e121" publication-type="other">
+F. J. Roethlisberger, personal communication.</mixed-citation>
+            </ref>
+            <ref id="d246e128a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d246e135" publication-type="book">
+W. N. Dember and J. J. Jenkins,
+General Psychology: Modeling Behavior and
+Experience (Prentice-Hall, Englewood Cliffs,
+N.J., 1970), pp. 52-53.<person-group>
+                     <string-name>
+                     <surname>Dember</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>52</fpage>
+               <source>General Psychology: Modeling Behavior and Experience</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e170a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d246e177" publication-type="book">
+F. J. Roethlisberger and W. J. Dickson,
+Management and the Worker (Harvard Univ.
+Press, Cambridge, Mass., 1939).<person-group>
+                     <string-name>
+                     <surname>Roethlisberger</surname>
+                  </string-name>
+                  </person-group>
+               <source>Management and the Worker</source>
+               <year>1939</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e206a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d246e213" publication-type="journal">
+C. E. Snow, Tech. Eng. News (November
+1927), p. 256.<person-group>
+                     <string-name>
+                     <surname>Snow</surname>
+                  </string-name>
+                  </person-group>
+               <issue>November</issue>
+               <fpage>256</fpage>
+               <source>Tech. Eng. News</source>
+               <year>1927</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e246a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d246e253" publication-type="other">
+W. J. Dickson, personal communication</mixed-citation>
+            </ref>
+            <ref id="d246e260a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d246e267" publication-type="book">
+Roethlisberger and Dickson (3)  </mixed-citation>
+               <mixed-citation id="d246e275" publication-type="book">
+Homans (8).  </mixed-citation>
+               <mixed-citation id="d246e283" publication-type="book">
+Mayo
+(9)  </mixed-citation>
+               <mixed-citation id="d246e295" publication-type="book">
+Whitehead (10)  </mixed-citation>
+               <mixed-citation id="d246e303" publication-type="journal">
+Pennock (11)  </mixed-citation>
+            </ref>
+            <ref id="d246e312a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d246e319" publication-type="book">
+G. C. Homans, in Readings in Social Psychol-
+ogy, G. E. Swanson, T. M. Newcomb, E. L.
+Hartley, Eds. (Holt, New York, rev. ed., 1952),
+pp. 637-649.<person-group>
+                     <string-name>
+                     <surname>Homans</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>637</fpage>
+               <source>Readings in Social Psychology</source>
+               <year>1952</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e354a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d246e361" publication-type="book">
+E. Mayo, The Human Problems of an In-
+dustrial Civilization (Harvard University Grad-
+uate School of Business Administration, Boston,
+1933).<person-group>
+                     <string-name>
+                     <surname>Mayo</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Human Problems of an Industrial Civilization</source>
+               <year>1933</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e393a1310">
+               <label>10</label>
+               
+               <mixed-citation id="d246e400" publication-type="book">
+T. N. Whitehead, The Industrial Worker
+(Harvard Univ. Press, Cambridge, Mass.,
+1938), vol. 1.<person-group>
+                     <string-name>
+                     <surname>Whitehead</surname>
+                  </string-name>
+                  </person-group>
+               <volume>1</volume>
+               <source>The Industrial Worker</source>
+               <year>1938</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e432a1310">
+               <label>11</label>
+               
+               <mixed-citation id="d246e439" publication-type="journal">
+G. A. Pennock, Pers. J. 8, 296 (1930).<person-group>
+                     <string-name>
+                     <surname>Pennock</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>296</fpage>
+               <volume>8</volume>
+               <source>Pers. J.</source>
+               <year>1930</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e469a1310">
+               <label>13</label>
+               
+               <mixed-citation id="d246e476" publication-type="journal">
+M. Argyle, Occup. Psychol.
+27, 98 (1953).<person-group>
+                     <string-name>
+                     <surname>Argyle</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>98</fpage>
+               <volume>27</volume>
+               <source>Occup. Psychol.</source>
+               <year>1953</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e508a1310">
+               <label>15</label>
+               
+               <mixed-citation id="d246e515" publication-type="book">
+(3, p. 68)  <fpage>68</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e527a1310">
+               <label>16</label>
+               
+               <mixed-citation id="d246e534" publication-type="book">
+(8, p. 643).  <fpage>643</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e545" publication-type="book">
+Roethlisberger and Dickson (3, p.
+14)  <fpage>14</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e560a1310">
+               <label>18</label>
+               
+               <mixed-citation id="d246e567" publication-type="book">
+(3, 7-11)  <fpage>7</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e579a1310">
+               <label>19</label>
+               
+               <mixed-citation id="d246e586" publication-type="book">
+(3, p. 37).  <fpage>37</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e597" publication-type="book">
+(3, p. 40).  <fpage>40</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e608" publication-type="book">
+(3, p. 42).  <fpage>42</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e620" publication-type="book">
+(3, p. 46).  <fpage>46</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e631" publication-type="book">
+(3, p. 47).  <fpage>47</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e642" publication-type="book">
+(3, p. 63).  <fpage>63</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e653" publication-type="book">
+(10, p. 123).  <fpage>123</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e664" publication-type="book">
+(3,
+pp. 73-74).  <fpage>73</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e679a1310">
+               <label>20</label>
+               
+               <mixed-citation id="d246e686" publication-type="other">
+D. A. Chipman, personal communication.</mixed-citation>
+            </ref>
+            <ref id="d246e694a1310">
+               <label>22</label>
+               
+               <mixed-citation id="d246e701" publication-type="book">
+H. A. Landsberger, Hawthorne Revisited:
+"Management and the Worker," Its Critics, and
+Developments in Human Relations in Industry
+(Cornell University, Ithaca, N.Y., 1958).<person-group>
+                     <string-name>
+                     <surname>Landsberger</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Management and the Worker</comment>
+               <source>Its Critics, and Developments in Human Relations in Industry</source>
+               <year>1958</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e736a1310">
+               <label>23</label>
+               
+               <mixed-citation id="d246e743" publication-type="book">
+M. S. Viteles, Motivation and Morale in
+Industry (Norton,, New York, 1953).<person-group>
+                     <string-name>
+                     <surname>Viteles</surname>
+                  </string-name>
+                  </person-group>
+               <source>Motivation and Morale in Industry</source>
+               <year>1953</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e768a1310">
+               <label>24</label>
+               
+               
+               <mixed-citation id="d246e777" publication-type="book">
+Whitehead (10)  </mixed-citation>
+               <mixed-citation id="d246e785" publication-type="journal">
+Pennock (11)  </mixed-citation>
+            </ref>
+            <ref id="d246e794a1310">
+               <label>25</label>
+               
+               <mixed-citation id="d246e801" publication-type="book">
+R. M. Gagne and E. A.
+Fleishman, Psychology and Human Perform-
+ance (Holt, New York, 1959).<person-group>
+                     <string-name>
+                     <surname>Gagne</surname>
+                  </string-name>
+                  </person-group>
+               <source>Psychology and Human Performance</source>
+               <year>1959</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e830a1310">
+               <label>26</label>
+               
+               <mixed-citation id="d246e837" publication-type="other">
+W. J. Dickson, personal communication.</mixed-citation>
+            </ref>
+            <ref id="d246e844a1310">
+               <label>30</label>
+               
+               <mixed-citation id="d246e851" publication-type="book">
+(3, p. 68).  </mixed-citation>
+               <mixed-citation id="d246e859" publication-type="book">
+(3, pp. 73-74).  </mixed-citation>
+            </ref>
+            <ref id="d246e869a1310">
+               <label>31</label>
+               
+               <mixed-citation id="d246e876" publication-type="journal">
+E. T. Klemmer and G. R. Lockhead, J. Appl.
+Psychol. 46, 401 (1962)<person-group>
+                     <string-name>
+                     <surname>Klemmer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>401</fpage>
+               <volume>46</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1962</year>
+            </mixed-citation>
+               <mixed-citation id="d246e907" publication-type="journal">
+H. F. Rothe and
+C. T. Nye, ibid. 42, 182 (1958).<person-group>
+                     <string-name>
+                     <surname>Rothe</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>182</fpage>
+               <volume>42</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1958</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e939a1310">
+               <label>32</label>
+               
+               <mixed-citation id="d246e946" publication-type="book">
+R. M. Gagne and E. A. Fleishman (25)  </mixed-citation>
+               <mixed-citation id="d246e954" publication-type="book">
+N.
+R. F. Maier, Psychology in Industry (Hough-
+ton Mifflin, New York, 1955).<person-group>
+                     <string-name>
+                     <surname>Maier</surname>
+                  </string-name>
+                  </person-group>
+               <source>Psychology in Industry</source>
+               <year>1955</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e983a1310">
+               <label>33</label>
+               
+               <mixed-citation id="d246e990" publication-type="book">
+L. W. Porter and E. E. Lawler III, Managerial
+Attitudes and Performance (Irwin, Home-
+wood, Ill., 1968).<person-group>
+                     <string-name>
+                     <surname>Porter</surname>
+                  </string-name>
+                  </person-group>
+               <source>Managerial Attitudes and Performance</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1019a1310">
+               <label>34</label>
+               
+               <mixed-citation id="d246e1026" publication-type="journal">
+J. Dale, Management Methods 16, 38 (1959)<person-group>
+                     <string-name>
+                     <surname>Dale</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>38</fpage>
+               <volume>16</volume>
+               <source>Management Methods</source>
+               <year>1959</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1054" publication-type="journal">
+A. A. Rath, Pers. J. 39, 172 (1960).<person-group>
+                     <string-name>
+                     <surname>Rath</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>172</fpage>
+               <volume>39</volume>
+               <source>Pers. J.</source>
+               <year>1960</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1083a1310">
+               <label>35</label>
+               
+               <mixed-citation id="d246e1090" publication-type="journal">
+R. L. Opsahl and M. D. Dunnette, Psychol.
+Bull. 66, 94 (1966).<person-group>
+                     <string-name>
+                     <surname>Opsahl</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>94</fpage>
+               <volume>66</volume>
+               <source>Psychol. Bull.</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1122a1310">
+               <label>36</label>
+               
+               <mixed-citation id="d246e1129" publication-type="book">
+V. H. Vroom, Work and Motivation (Wiley,
+New York, 1964), p. 252.<person-group>
+                     <string-name>
+                     <surname>Vroom</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>252</fpage>
+               <source>Work and Motivation</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1159a1310">
+               <label>37</label>
+               
+               <mixed-citation id="d246e1166" publication-type="book">
+J. G. March and H. A. Simon, Organizations
+(Wiley, New York, 1958).<person-group>
+                     <string-name>
+                     <surname>March</surname>
+                  </string-name>
+                  </person-group>
+               <source>Organizations</source>
+               <year>1958</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1191a1310">
+               <label>38</label>
+               
+               <mixed-citation id="d246e1198" publication-type="book">
+W. F. Whyte, Money and Motivation: An
+Analysis of Incentive in Industry (Harper,
+New York, 1955).<person-group>
+                     <string-name>
+                     <surname>Whyte</surname>
+                  </string-name>
+                  </person-group>
+               <source>Money and Motivation: An Analysis of Incentive in Industry</source>
+               <year>1955</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1227a1310">
+               <label>39</label>
+               
+               <mixed-citation id="d246e1234" publication-type="journal">
+R. Marriott, Occup. Psychol. 23, 47 (1949).<person-group>
+                     <string-name>
+                     <surname>Marriott</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>47</fpage>
+               <volume>23</volume>
+               <source>Occup. Psychol.</source>
+               <year>1949</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1263a1310">
+               <label>40</label>
+               
+               <mixed-citation id="d246e1270" publication-type="book">
+J. Annett, Feedback and Human Behavior (Pen-
+guin, Baltimore, 1969)<person-group>
+                     <string-name>
+                     <surname>Annett</surname>
+                  </string-name>
+                  </person-group>
+               <source>Feedback and Human Behavior</source>
+               <year>1969</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1294" publication-type="book">
+I. McD. Bilodeau, in
+Acquisition of Skill, E. A. Bilodeau, Ed.
+(Academic Press, New York, 1966), pp. 255-
+296<person-group>
+                     <string-name>
+                     <surname>McD</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>255</fpage>
+               <source>Acquisition of Skill</source>
+               <year>1966</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1328" publication-type="journal">
+L. L. Cummings, D. P. Schwab, M.
+Rosen, J. Appl. Psychol. 55, 526 (1971)<person-group>
+                     <string-name>
+                     <surname>Cummings</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>526</fpage>
+               <volume>55</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1971</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1360" publication-type="book">
+R.
+M. Gagne and E. A. Fleishman (25)  </mixed-citation>
+               <mixed-citation id="d246e1371" publication-type="journal">
+E. A.
+Locke, Org. Behav. Hum. Perform. 3, 156
+(1968)<person-group>
+                     <string-name>
+                     <surname>Locke</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>156</fpage>
+               <volume>3</volume>
+               <source>Org. Behav. Hum. Perform.</source>
+               <year>1968</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1405" publication-type="journal">
+—, N. Cartledge, J. Koeppel, Psy-
+chol. Bull. 70, 474 (1968).<person-group>
+                     <string-name>
+                     <surname>Locke</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>474</fpage>
+               <volume>70</volume>
+               <source>Bull.</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1437a1310">
+               <label>41</label>
+               
+               <mixed-citation id="d246e1444" publication-type="journal">
+C. B. Gibbs and I. D. Brown, Manager (May
+1944), p. 374.<person-group>
+                     <string-name>
+                     <surname>Gibbs</surname>
+                  </string-name>
+                  </person-group>
+               <issue>May</issue>
+               <fpage>374</fpage>
+               <source>Manager</source>
+               <year>1944</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1476a1310">
+               <label>42</label>
+               
+               <mixed-citation id="d246e1483" publication-type="journal">
+I. D. Brown, J. Appl. Psychol. 50, 118 (1966).<person-group>
+                     <string-name>
+                     <surname>Brown</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>118</fpage>
+               <volume>50</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1513a1310">
+               <label>43</label>
+               
+               <mixed-citation id="d246e1520" publication-type="journal">
+A. Chapanis [ibid. 48, 263 (1964)]<person-group>
+                     <string-name>
+                     <surname>Chapanis</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>263</fpage>
+               <volume>48</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1964</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1548" publication-type="journal">
+Gibbs and Brown (41)  </mixed-citation>
+            </ref>
+            <ref id="d246e1557a1310">
+               <label>44</label>
+               
+               <mixed-citation id="d246e1564" publication-type="book">
+J. P. Campbell, M. D. Dunnette, E. E. Lawler
+III, K. E. Weick, Jr., Managerial Behavior,
+Performance, and Effectiveness (McGraw-Hill,
+New York, 1970)<person-group>
+                     <string-name>
+                     <surname>Campbell</surname>
+                  </string-name>
+                  </person-group>
+               <source>Managerial Behavior, Performance, and Effectiveness</source>
+               <year>1970</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1595" publication-type="journal">
+B. S. Georgopoulos, G. M.
+Mahoney, N. W. Jones, J. Appl. Psychol. 41,
+345 (1957)<person-group>
+                     <string-name>
+                     <surname>Georgopoulos</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>345</fpage>
+               <volume>41</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1957</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1629" publication-type="journal">
+G. Graen, ibid. 53, No. 2, part 2
+(1969).<person-group>
+                     <string-name>
+                     <surname>Graen</surname>
+                  </string-name>
+                  </person-group>
+               <issue>2</issue>
+               <volume>53</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1661a1310">
+               <label>45</label>
+               
+               <mixed-citation id="d246e1668" publication-type="book">
+J. P. Campbell, in Annual Review of Psychol-
+ogy, P. H. Mussen and M. R. Rosenzweig, Eds.
+(Annual Reviews, Palo Alto, Calif., 1971), vol.
+22, pp. 565-602<person-group>
+                     <string-name>
+                     <surname>Campbell</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>565</fpage>
+               <volume>22</volume>
+               <source>Annual Review of Psychology</source>
+               <year>1971</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1705" publication-type="journal">
+W. R. Nord, Org. Behav.
+Hum. Perform. 4, 375 (1960)<person-group>
+                     <string-name>
+                     <surname>Nord</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>375</fpage>
+               <volume>4</volume>
+               <source>Org. Behav. Hum. Perform.</source>
+               <year>1960</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1736" publication-type="book">
+L. J. Peter, The
+Peter Prescription: How To Be Creative, Con-
+fident, and Competent (Morrow, New York,
+1972)<person-group>
+                     <string-name>
+                     <surname>Peter</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Peter Prescription: How To Be Creative, Confident, and Competent</source>
+               <year>1972</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1768" publication-type="journal">
+W. F. Whyte, Psychol. Today (April
+1972), p. 67.<person-group>
+                     <string-name>
+                     <surname>Whyte</surname>
+                  </string-name>
+                  </person-group>
+               <issue>April</issue>
+               <fpage>67</fpage>
+               <source>Psychol. Today</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1800a1310">
+               <label>46</label>
+               
+               <mixed-citation id="d246e1807" publication-type="journal">
+G. Yuki, K. N. Wexley, J. D. Seymore, J.
+Appl. Psychol. 56, 19 (1972).<person-group>
+                     <string-name>
+                     <surname>Yuki</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>19</fpage>
+               <volume>56</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1839a1310">
+               <label>47</label>
+               
+               <mixed-citation id="d246e1846" publication-type="book">
+B. F. Skinner, Science and Human Behavior
+(Macmillan, New York, 1953).<person-group>
+                     <string-name>
+                     <surname>Skinner</surname>
+                  </string-name>
+                  </person-group>
+               <source>Science and Human Behavior</source>
+               <year>1953</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1871a1310">
+               <label>48</label>
+               
+               <mixed-citation id="d246e1878" publication-type="journal">
+W. Kintsch [J. Comp. Physiol.
+Psychol. 55, 882 (1962)]<person-group>
+                     <string-name>
+                     <surname>Kintsch</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>882</fpage>
+               <volume>55</volume>
+               <source>J. Comp. Physiol. Psychol.</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e1911a1310">
+               <label>49</label>
+               
+               <mixed-citation id="d246e1918" publication-type="book">
+F. A. Logan [Incentive (Yale Univ. Press,
+New Haven, Conn., 1960)]<person-group>
+                     <string-name>
+                     <surname>Logan</surname>
+                  </string-name>
+                  </person-group>
+               <source>Incentive</source>
+               <year>1960</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1942" publication-type="book">
+J. M.
+Notterman and D. E. Mintz [Dynamics of Re-
+sponse (Wiley, New York, 1965)]<person-group>
+                     <string-name>
+                     <surname>Notterman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Dynamics of Response</source>
+               <year>1965</year>
+            </mixed-citation>
+               <mixed-citation id="d246e1970" publication-type="other">
+H. M. Parsons [thesis, University of Cali-
+fornia, Los Angeles (1963)]</mixed-citation>
+               <mixed-citation id="d246e1980" publication-type="book">
+F. S. Keller, Learning: Reinforcement
+Theory (Random House, New York, 1969),
+ed. 2, pp. 39-47.<person-group>
+                     <string-name>
+                     <surname>Keller</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <fpage>39</fpage>
+               <source>Learning: Reinforcement Theory</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2015a1310">
+               <label>50</label>
+               
+               <mixed-citation id="d246e2022" publication-type="book">
+C. B. Ferster and M.
+C. Perrott, Behavior Principles (Appleton-
+Century-Crofts, New York, 1968), p. 350<person-group>
+                     <string-name>
+                     <surname>Ferster</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>350</fpage>
+               <source>Behavior Principles</source>
+               <year>1968</year>
+            </mixed-citation>
+               <mixed-citation id="d246e2053" publication-type="book">
+C. B. Ferster and B. F. Skinner, Schedules of
+Reinforcement (Appleton-Century-Crofts, New
+York, 1957), pp. 89-109.<person-group>
+                     <string-name>
+                     <surname>Ferster</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>89</fpage>
+               <source>Schedules of Reinforcement</source>
+               <year>1957</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2085a1310">
+               <label>51</label>
+               
+               <mixed-citation id="d246e2092" publication-type="book">
+G. A. Miller, E.
+Galanter, and K. H. Pribram [Plans and the
+Structure of Behavior (Holt, New York, 1960)].<person-group>
+                     <string-name>
+                     <surname>Miller</surname>
+                  </string-name>
+                  </person-group>
+               <source>Plans and the Structure of Behavior</source>
+               <year>1960</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2121a1310">
+               <label>52</label>
+               
+               <mixed-citation id="d246e2128" publication-type="book">
+(9,
+p. 70)  <fpage>70</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e2142" publication-type="book">
+S. Chase (53)  </mixed-citation>
+               <mixed-citation id="d246e2150" publication-type="book">
+H. C. Smith (54, p. 353).  <fpage>353</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2162a1310">
+               <label>53</label>
+               
+               <mixed-citation id="d246e2169" publication-type="book">
+S. Chase, Men at Work (Harcourt, Brace, New
+York, 1945).<person-group>
+                     <string-name>
+                     <surname>Chase</surname>
+                  </string-name>
+                  </person-group>
+               <source>Men at Work</source>
+               <year>1945</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2194a1310">
+               <label>54</label>
+               
+               <mixed-citation id="d246e2201" publication-type="book">
+H. C. Smith, Psychology of Industrial Be-
+havior (McGraw-Hill, New York, ed. 2, 1964).<person-group>
+                     <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <source>Psychology of Industrial Behavior</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2231a1310">
+               <label>55</label>
+               
+               <mixed-citation id="d246e2238" publication-type="book">
+N. W. Heimstra and A. L. McDonald, Psy-
+chology and Contemporary Problems (Brooks-
+Cole, Monterey, Calif., 1973).<person-group>
+                     <string-name>
+                     <surname>Heimstra</surname>
+                  </string-name>
+                  </person-group>
+               <source>Psychology and Contemporary Problems</source>
+               <year>1973</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2267a1310">
+               <label>56</label>
+               
+               <mixed-citation id="d246e2274" publication-type="book">
+J. G. March and H. A. Simon (37,
+p. 48)  <fpage>48</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2289a1310">
+               <label>57</label>
+               
+               <mixed-citation id="d246e2296" publication-type="journal">
+A. H. Brayfield and W. H. Crockett, Psychol.
+Bull. 52, 396 (1955)<person-group>
+                     <string-name>
+                     <surname>Brayfield</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>396</fpage>
+               <volume>52</volume>
+               <source>Psychol. Bull.</source>
+               <year>1955</year>
+            </mixed-citation>
+               <mixed-citation id="d246e2327" publication-type="journal">
+E. E. Lawler III, Pers.
+Psychol. 23, 223 (1970)<person-group>
+                     <string-name>
+                     <surname>Lawler</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>223</fpage>
+               <volume>23</volume>
+               <source>Pers. Psychol.</source>
+               <year>1970</year>
+            </mixed-citation>
+               <mixed-citation id="d246e2358" publication-type="journal">
+E. A. Locke, Org.
+Behav. Hum. Perform. 5, 484 (1970).<person-group>
+                     <string-name>
+                     <surname>Locke</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>484</fpage>
+               <volume>5</volume>
+               <source>Org. Behav. Hum. Perform.</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2390a1310">
+               <label>58</label>
+               
+               <mixed-citation id="d246e2397" publication-type="book">
+M. Fishbein and I. Ajzen, in Annual Review
+of Psychology, P. H. Mussen and M. R.
+Rosenzweig, Eds. (Annual Reviews, Palo Alto,
+Calif., 1972), vol. 23, pp. 487-544.<person-group>
+                     <string-name>
+                     <surname>Fishbein</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>487</fpage>
+               <volume>23</volume>
+               <source>Annual Review of Psychology</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2435a1310">
+               <label>59</label>
+               
+               <mixed-citation id="d246e2442" publication-type="journal">
+B. Schneider and D. T. Hall, J. Appl. Psychol.
+56, 447 (1972).<person-group>
+                     <string-name>
+                     <surname>Schneider</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>447</fpage>
+               <volume>56</volume>
+               <source>J. Appl. Psychol.</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2474a1310">
+               <label>60</label>
+               
+               <mixed-citation id="d246e2481" publication-type="book">
+E. Mayo (9, p. 70)  <fpage>70</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2494a1310">
+               <label>61</label>
+               
+               <mixed-citation id="d246e2501" publication-type="journal">
+A. K. Korman, Pers. Psychol. 19, 349 (1966<person-group>
+                     <string-name>
+                     <surname>Korman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>349</fpage>
+               <volume>19</volume>
+               <source>Pers. Psychol.</source>
+               <year>1966</year>
+            </mixed-citation>
+               <mixed-citation id="d246e2529" publication-type="book">
+R. P. Quinn and R. L. Kahn, in Annual Re-
+view of Psychology, P. R. Farnsworth, 0.
+McNemar, Q. McNemar, Eds. (Annual Re-
+views, Palo Alto, Calif.,, 1967), vol. 18, pp.
+437-466.<person-group>
+                     <string-name>
+                     <surname>Quinn</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>437</fpage>
+               <volume>18</volume>
+               <source>Annual Review of Psychology</source>
+               <year>1967</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2570a1310">
+               <label>62</label>
+               
+               <mixed-citation id="d246e2577" publication-type="journal">
+5. M. Sales, Pers. Psychol. 19, 275 (1966).<person-group>
+                     <string-name>
+                     <surname>Sales</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>275</fpage>
+               <volume>19</volume>
+               <source>Pers. Psychol.</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2606a1310">
+               <label>63</label>
+               
+               
+               <mixed-citation id="d246e2615" publication-type="journal">
+(62, p. 280).  <fpage>280</fpage>
+            </mixed-citation>
+               <mixed-citation id="d246e2626" publication-type="journal">
+Quinn and Kahn wrote (61, p.
+448)  <fpage>448</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2641a1310">
+               <label>65</label>
+               
+               
+               <mixed-citation id="d246e2650" publication-type="book">
+S. E. Seashore, Group Cohesiveness in the
+Industrial Work Group (University of Michi
+gan, Institute for Social Research, Survey
+Research Center, Ann Arbor, 1954).<person-group>
+                     <string-name>
+                     <surname>Seashore</surname>
+                  </string-name>
+                  </person-group>
+               <source>Group Cohesiveness in the Industrial Work Group</source>
+               <year>1954</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2682a1310">
+               <label>66</label>
+               
+               <mixed-citation id="d246e2689" publication-type="book">
+A. Chapanis, Research Techniques in Human
+Engineering (Johns Hopkins Press, Baltimore,
+1959).<person-group>
+                     <string-name>
+                     <surname>Chapanis</surname>
+                  </string-name>
+                  </person-group>
+               <source>Research Techniques in Human Engineering</source>
+               <year>1959</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d246e2718a1310">
+               <label>67</label>
+               
+               <mixed-citation id="d246e2725" publication-type="journal">
+R. Sommer, Psychol. Bull. 70, 592 (1968).<person-group>
+                     <string-name>
+                     <surname>Sommer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>592</fpage>
+               <volume>70</volume>
+               <source>Psychol. Bull.</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

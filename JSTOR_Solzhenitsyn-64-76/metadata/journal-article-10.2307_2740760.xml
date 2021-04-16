@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">curranth</journal-id>
+         <journal-id journal-id-type="jstor">j100034</journal-id>
+         <journal-title-group>
+            <journal-title>Current Anthropology</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00113204</issn>
+         <issn pub-type="epub">15375382</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2740760</article-id>
+         <title-group>
+            <article-title>The Study of Life History: Gandhi</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>David G.</given-names>
+                  <surname>Mandelbaum</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">14</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i327911</issue-id>
+         <fpage>177</fpage>
+         <lpage>206</lpage>
+         <page-range>177-206</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1973 The Wenner-Gren Foundation for Anthropological Research</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2740760"/>
+         <abstract>
+            <p>The study of lives as wholes has not yet been well developed in the social sciences, though a good many anthropologists, psychologists, political scientists, and sociologists have written about its importance. These authors agree that a main shortcoming in such study is the lack of suitable concepts to make up a coherent frame of reference. Three procedural suggestions, the ideas of adaptation, dimension, and turning, may be useful for the beginnings of such a frame. These suggestions are intended as guidelines for the collection and analysis of data. Their applicability is illustrated in the life history of Gandhi, a man whose life is worth studying for a number of reasons.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

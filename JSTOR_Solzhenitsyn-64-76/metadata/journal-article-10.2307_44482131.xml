@@ -1,0 +1,98 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">goveoppo</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50014436</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Government and Opposition</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Government and Opposition, with the assistance of the London School of Economics and Political Science</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0017257X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14777053</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44482131</article-id>
+         <title-group>
+            <article-title>European Security after Helsinki: Some American views</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>John C.</given-names>
+                  <surname>Camphell</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40188333</issue-id>
+         <fpage>322</fpage>
+         <lpage>336</lpage>
+         <permissions>
+            <copyright-statement>© 1976 Government and Opposition Ltd.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/44482131"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1e107a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1e114" publication-type="other">
+Johnson's principal statement of policy on this subject was his speech of 7
+October 1966, Department of State Bulletin, 24 October 1977, pp. 622-5.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e124a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1e131" publication-type="other">
+Department of State Bulletin, 3 November 1975, pp. 641-2.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e137" publication-type="other">
+Robert F. Byrnes, 'United
+States Policy towards Eastern Europe : Before and After Helsinki', The Review of
+Politics, October 1975, pp. 435-63.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e150a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1e157" publication-type="other">
+Edward Friedland, Paul Seabury, Aaron Wildavsky, The Great Detente
+Disaster, New York: Basic Books, 1975.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e167a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1e174" publication-type="other">
+'Assuring Strategic Stability in an Era of Detente', Foreign Affairs,
+January 1976</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

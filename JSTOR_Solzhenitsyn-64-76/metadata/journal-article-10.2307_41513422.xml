@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">tranrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50003731</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Transatlantic Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Transatlantic Review Inc.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00411078</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">20512112</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">49</issue>
+         <issue-id>i40074169</issue-id>
+         <article-id pub-id-type="jstor">41513422</article-id>
+         <title-group>
+            <article-title>ERRATA: INCIDENT IN THE LIBRARY OF THE ROYAL NATIONAL INSTITUTE FOR THE BLIND</article-title>
+         </title-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>160</fpage>
+         <lpage>160</lpage>
+         <permissions>
+            <copyright-statement>Copyright Transatlantic Review Inc. 1974</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/41513422"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

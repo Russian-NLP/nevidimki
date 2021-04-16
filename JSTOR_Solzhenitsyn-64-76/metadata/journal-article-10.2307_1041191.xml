@@ -1,0 +1,95 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">annaameracadpoli</journal-id>
+         <journal-id journal-id-type="jstor">j100052</journal-id>
+         <journal-title-group>
+            <journal-title>The Annals of the American Academy of Political and Social Science</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Academy of Political and Social Science</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00027162</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1041191</article-id>
+         <title-group>
+            <article-title>The Moscow-Peking-Washington Triangle</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Harry</given-names>
+                  <surname>Schwartz</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">414</volume>
+         <issue-id>i243027</issue-id>
+         <fpage>41</fpage>
+         <lpage>50</lpage>
+         <page-range>41-50</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 The American Academy of Political and Social Science</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1041191"/>
+         <abstract>
+            <p>Two major factors in the world scene must be considered in any analysis of current Soviet-American relations: (1) the United States and Western Europe are, today, at the nadir of their effective political, military and economic power; (2) the specter of war with the People's Republic of China is in the background of all Soviet thinking. What has actually happened in the last few years is a sort of competitive wooing of the United States by the Russians and the Chinese. Each country is worried that the United States will team up with the other: for, while the United States does not have the political will to do anything major on the world scene by itself, the combination of American technological power and either Chinese or Soviet political power raises the most awesome possibilities. Thus, the recent historic changes-including those accomplished by President Nixon and Secretary of State Kissinger-have issued from the opportunities created by the Soviet-Chinese split. However, both in China and in Russia very real questions are being raised about the wisdom of the policy of the past. In view of this danger, in addition to the prospect of a major Constitutional crisis in the impeachment and trial of the president of the United States, American foreign policy must be at maximum alert.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d575e120a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d575e127" publication-type="book">
+Andrei Amal'rik, Will the Soviet Union
+Survive until 1984? (New York: Harper and
+Row, 1970).<person-group>
+                     <string-name>
+                        <surname>Amal'rik</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Will the Soviet Union Survive until 1984?</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e156a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d575e163" publication-type="book">
+Harry Schwartz, Tsars, Mandarins, and
+Commissars: A History of Chinese-Russian
+Relations (Philadelphia, Pa.: Lippincott,
+1964).<person-group>
+                     <string-name>
+                        <surname>Schwartz</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Tsars, Mandarins, and Commissars: A History of Chinese-Russian Relations</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

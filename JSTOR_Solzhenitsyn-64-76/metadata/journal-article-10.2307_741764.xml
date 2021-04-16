@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">musicalquarterly</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100295</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Musical Quarterly</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>G. Schirmer</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00274631</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17418399</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">60</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i229666</issue-id>
+         <article-id pub-id-type="jstor">741764</article-id>
+      
+         <title-group>
+            <article-title>The Soviet Russian Concepts of "Intonazia" and "Musical Imagery"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Malcolm H.</given-names>
+                  <surname>Brown</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>557</fpage>
+         <lpage>567</lpage>
+         <page-range>557-567</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 G. Schirmer, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/741764"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d99e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d99e121" publication-type="book">
+Lev Nikolaevich Raaben and V. V. Smirnov, "Postanovlenie TsK KPSS o Lit-
+eratuino-Khudozhestvennoi Kritike i Nekotorye Zadachi Sovetskoi Muzykal'noi Nauki"
+[The Resolution of the Central Committee of the Communist Party of the Soviet
+Union on Literary and Art Criticism and Some Tasks of Soviet Musical Science],
+Voprosy Teorii i Estetiki Muzyki [Questions of Music Theory and Aesthetics], Vol. XI,
+ed. L. N. Raaben (Leningrad, 1972), p. 7.<person-group>
+                     <string-name>
+                        <surname>Raaben</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Postanovlenie TsK KPSS o Literatuino-Khudozhestvennoi Kritike i Nekotorye Zadachi Sovetskoi Muzykal'noi Nauki" (The Resolution of the Central Committee of the Communist Party of the Soviet Union on Literary and Art Criticism and Some Tasks of Soviet Musical Science)</comment>
+                  <fpage>7</fpage>
+                  <volume>XI</volume>
+                  <source>Voprosy Teorii i Estetiki Muzyki (Questions of Music Theory and Aesthetics)</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e169a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d99e176" publication-type="book">
+Iulii Anatol'evich Kremlev,
+"Intonatsiia i Obraz v Muzyke" [Intonazia and Image in Music], Intonatsiia i Muzy-
+kal'nyi Obraz [Intonazia and Musical Image], ed. Boris Mikhailovich Iarustovskii
+(Moscow, 1965), pp. 35-52<person-group>
+                     <string-name>
+                        <surname>Kremlev</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">"Intonatsiia i Obraz v Muzyke" (Intonazia and Image in Music)</comment>
+                  <fpage>35</fpage>
+                  <source>Intonatsiia i Muzykal'nyi Obraz (Intonazia and Musical Image)</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e214a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d99e221" publication-type="book">
+Innokentii Evgen'evich Popov, Nekotorye Cherty Sotsialisticheskogo Realizma v
+Sovetskoi Muzyke [Some Traits of Socialist Realism in Soviet Music] (Moscow, 1971),
+pp. 79-81.<person-group>
+                     <string-name>
+                        <surname>Popov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>79</fpage>
+                  <source>Nekotorye Cherty Sotsialisticheskogo Realizma v Sovetskoi Muzyke (Some Traits of Socialist Realism in Soviet Music)</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e253a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d99e260" publication-type="book">
+Ibid., p. 80.  <fpage>80</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e273a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d99e280" publication-type="book">
+Ibid., p. 81.  <fpage>81</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e292a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d99e299" publication-type="book">
+B. M. Iarustovskii, "Kak Zhizn' . . ." [As Life .. .], Intonatsiia i Muzykal'nyi
+Obraz, p. 120<person-group>
+                     <string-name>
+                        <surname>Iarustovskii</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Kak Zhizn' . . ." (As Life .. .)</comment>
+                  <fpage>120</fpage>
+                  <source>Intonatsiia i Muzykal'nyi Obraz</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e327" publication-type="book">
+Genrikh Aleksandrovich Orlov, Simfonii Shostakovicha (Leningrad,
+1961), p. 149<person-group>
+                     <string-name>
+                        <surname>Orlov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>149</fpage>
+                  <source>Simfonii Shostakovicha</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e356a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d99e363" publication-type="book">
+Orlov, p. 149, note 1.  <fpage>149</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e375a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d99e382" publication-type="book">
+Iarustovskii, p. 120.  <fpage>120</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e394a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d99e401" publication-type="book">
+Orlov, p. 152.  <fpage>152</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e413a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d99e420" publication-type="book">
+Anatolii Nikodimovich Dmitriev and Georgii Grigor'evich Tigranov, "Dmitrii
+Shostakovich. Sed'maia Simfoniia," 55 Sovetskikh Simfonii (Leningrad, 1961). p. 344.<person-group>
+                     <string-name>
+                        <surname>Dmitriev</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Dmitrii Shostakovich. Sed'maia Simfoniia</comment>
+                  <fpage>344</fpage>
+                  <source>55 Sovetskikh Simfonii</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e453a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d99e460" publication-type="book">
+Popov, p. 98.  <fpage>98</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d99e472a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d99e479" publication-type="other">
+American
+Musicological Society, in Louisville, Kentucky, on March 30, 1974</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

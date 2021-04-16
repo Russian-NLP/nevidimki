@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jphilosophy</journal-id>
+         <journal-id journal-id-type="jstor">j100246</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Philosophy</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The Journal of Philosophy, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0022362X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">68</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">8</issue>
+         <issue-id>i309236</issue-id>
+         <article-id pub-id-type="doi">10.2307/2025206</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>G.</given-names>
+                  <surname>Kreisel</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>22</day>
+            <month>4</month>
+            <year>1971</year>
+         </pub-date>
+         <fpage>238</fpage>
+         <lpage>265</lpage>
+         <page-range>238-265</page-range>
+         <product>
+            <source>The Collected Papers of Gerhard Gentzen.</source>
+            <string-name>
+              <given-names>M. E.</given-names>
+              <surname>Szabo</surname>
+            </string-name>
+          </product>
+         <permissions>
+            <copyright-statement>Copyright 1971 The Journal of Philosophy, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2025206"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,629 @@
+
+
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt13x1cmn</book-id>
+      <subj-group>
+         <subject content-type="call-number">JN5657.C63C65</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Partito Comunista d’ltalia</subject>
+         <subj-group>
+            <subject content-type="lcsh">Addresses, essays, lectures</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Parti Communiste français</subject>
+         <subj-group>
+            <subject content-type="lcsh">Addresses, essays, lectures</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Communism in Italy and France</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Blackmer</surname>
+               <given-names>Donald L. M.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Tarrow</surname>
+               <given-names>Sidney</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781400867387</isbn>
+      <isbn content-type="epub">140086738X</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON, NEW JERSEY</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1975</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13x1cmn"/>
+      <abstract abstract-type="short">
+         <p>The contributors to this volume address themselves to the growth, behavior, and prospects of the two largest Communist parties in Western Europe. The book deals in particular with the adaptation of the French and Italian Communist parties to the secular changes in their advanced societies. It emphasizes the different attempts made by each party's leaders to participate actively and fruitfully in parliamentary political systems.</p>
+         <p>Originally published in 1977.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="664"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.2</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLACKMER</surname>
+                           <given-names>DONALD L. M.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TARROW</surname>
+                           <given-names>SIDNEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.3</book-part-id>
+                  <title-group>
+                     <title>Preface to the Paperback Edition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLACKMER</surname>
+                           <given-names>DONALD L. M.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TARROW</surname>
+                           <given-names>SIDNEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.4</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.5</book-part-id>
+                  <title-group>
+                     <title>List of Abbreviations</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLACKMER</surname>
+                           <given-names>DONALD L. M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>This volume was conceived during a conference held several years ago at Arden House under the auspices of the Planning Group on Comparative Communist Studies. The conference had been called to test the proposition that a group of specialists on the world’s nonruling Communist parties could design a framework for research on this group of parties, as had been earlier attempted, with some success, for the Communist parties in power.¹ In terms of that goal, the Arden House conference was a failure—stimulating and thoroughly enjoyable, but a failure. By and large the participants went home prepared to agree that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.7</book-part-id>
+                  <title-group>
+                     <label>I.</label>
+                     <title>Continuity and Change in Postwar Italian Communism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLACKMER</surname>
+                           <given-names>DONALD L. M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>This volume approaches in different ways the evolution and adaptation of the French and Italian Communist parties. Many of the essays report the results of recent empirical research on party organizations and cadres operating in a variety of geographical and institutional settings. Others, including this one, approach the problem from the broader perspective of how the parties as a whole have acted—that is to say, how their leaders have responded to the infinite variety of signals that reach them from the party organization, from the domestic political arena, from the economic and labor fronts, from the international scene. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.8</book-part-id>
+                  <title-group>
+                     <label>II.</label>
+                     <title>The French Communist Party and the Fifth Republic</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KRIEGEL</surname>
+                           <given-names>ANNIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>The Parti Communiste Français and the Fifth Republic: not the PCF<italic>within the framework</italic>of the Fifth Republic, nor even the PCF in relation to the Fifth Republic; for the fundamental guiding principle for any analysis of Communist party policy in a particular period must be a recognition of the singular nature of the Communist phenomenon in France: its necessary allegiance, from the outset, to two distinct entities or camps.</p>
+                     <p>1.<italic>The international Communist movement,</italic>a multidimensional system of states, parties, and alliances subject to a central point of reference, allegiance to the Soviet Union—in other words, the Soviet</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.9</book-part-id>
+                  <title-group>
+                     <label>III.</label>
+                     <title>The PCF, the State, and the Revolution:</title>
+                     <subtitle>An Analysis of Party Policies, Communications, and Popular Culture</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAVAU</surname>
+                           <given-names>GEORGES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>For a long time many sincere people believed—and many still believe—that the French Communist party constitutes a serious threat to the French political system. This fear, alive since at least 1928, has often come to a head: in 1936 after the electoral triumph of the Popular Front and the wave of strikes and factory occupations that followed; in June 1940 when General Weygand announced to one of the last Councils of Ministers of the Third Republic: “Thorez is installed in the Elysée Palace . . .”; in 1944-1945 when the Parti Communiste Frangais (PCF) seemed to hold all</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.10</book-part-id>
+                  <title-group>
+                     <label>IV.</label>
+                     <title>Party Activists in Public Office:</title>
+                     <subtitle>Comparisons at the Local Level in Italy and France</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TARROW</surname>
+                           <given-names>SIDNEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>When the reigning orthodoxy among students of comparative communism began to give way, after 1956, to the admission that the Communist world could be less than monolithic, it was inevitable that, sooner or later, students of nonruling Communist parties would begin to ask: “How do Communist activists in Western parliamentary systems mediate between their primary roles as party loyalists and their roles in the political system as a whole?” At the local level, the problem could be approached through an analysis of a Communist party’s policies: Did such policies aim to advance the interests of the working class or, rather,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.11</book-part-id>
+                  <title-group>
+                     <label>V.</label>
+                     <title>The Italian Communist Politician</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PUTNAM</surname>
+                           <given-names>ROBERT D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>Students of European radicalism in this century have been mesmerized by two events that bracketed the First World War: the decision of the German Social Democrats in 1914 to vote credits to finance the Kaiser’s war, thus formalizing the domestication of Marxism that had been occurring in Western Europe during the previous several decades; and the seizure of power by Lenin's Bolsheviks in 1917, consummating a violent revolution led by a sectarian, “vanguard” party. Throughout the subsequent decades our interpretations of radical politicians have oscillated between the two poles symbolized by these events. Activists and leaders claiming to want revolutionary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.12</book-part-id>
+                  <title-group>
+                     <label>VI.</label>
+                     <title>Political Legitimacy in Local Politics:</title>
+                     <subtitle>The Communist Party in Northeastern Italy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STERN</surname>
+                           <given-names>ALAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>A generally successful adaptability that is marred by serious regional failures has been the hallmark of the Partito Comunista Italiano (PCI) throughout the postwar period. The strategy of the PCI, perhaps more strikingly than for any other nonruling Communist party, requires it to adapt to its social environment, and often leads observers to mistakenly label it revisionist. Such an evaluation is inappropriate, for where its political strategies have been successful, the PCI has stimulated desired changes in the environment in which it operated. Successful adaptation is not passive capitulation, but complex manipulation of social forces. Yet an inept attempt to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.13</book-part-id>
+                  <title-group>
+                     <label>VII.</label>
+                     <title>The PCI at the Local Level:</title>
+                     <subtitle>A Study of Strategic Performance</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LANGE</surname>
+                           <given-names>PETER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>The strategy of most political parties is shaped in part by a determination to share or control national political power, and formulations of strategy are made in terms of the national political, economic, and social context. What alliances should a party seek? What activities and policies should it pursue? How should the party organization function? The answers to all these questions will be based on the party leadership’s understanding of what is necessary in order to shift, or maintain, the national balance of power in the party’s favor. In many cases, however, implementation of the strategy depends heavily on lower</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.14</book-part-id>
+                  <title-group>
+                     <label>VIII.</label>
+                     <title>Left-Wing Unity at the Grass Roots:</title>
+                     <subtitle>Picardy and Languedoc</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LACORNE</surname>
+                           <given-names>DENIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>Scholars have often treated French political parties as homogeneous entities. Relying on official declarations and writings of national party leaders, they tend to overemphasize the decision-making process at the top and to assume that what happens in Paris adequately represents party life throughout France. The Parti Communiste Frangais (PCF) has been studied in this way for two fairly good reasons: until recently access to party archives has been difficult if not impossible; furthermore, the principle of democratic centralism seemed to preclude differences between branches of the party. Such an approach is misleading in that it underestimates the influence of regional</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.15</book-part-id>
+                  <title-group>
+                     <label>IX.</label>
+                     <title>The PCF and Local Government:</title>
+                     <subtitle>Continuity and Change</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILCH</surname>
+                           <given-names>JEROME</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>340</fpage>
+                  <abstract>
+                     <p>In 1925, Victor Cat, the secretary of the Union of Communist Municipalities in France, characterized local government and municipal institutions as essential elements of the “political mechanisms of the capitalist state”:</p>
+                     <p>Far from being the instruments of liberation for the proletariat, legislative and other [municipal] assemblies serve to guarantee the continuation of capitalist domination and, in addition to the social conservatism [which they represent], they hypocritically permit the masses to participate in the manufacture of the rods with which they are to be beaten. . . . The municipal system of bourgeois democracy is a trickery which is ten times</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.16</book-part-id>
+                  <title-group>
+                     <label>X.</label>
+                     <title>The PCI’s Alliance Strategy and the Case of the Middle Classes</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HELLMAN</surname>
+                           <given-names>STEPHEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>373</fpage>
+                  <abstract>
+                     <p>Karl Marx may have predicted that capitalist society would neatly polarize into just workers and bourgeois, but he was too subtle a political analyst to ignore the fact that intermediate strata continued to exist, and thus had to be reckoned with by the workers’ movement.¹ Ever since Marx, socialist theorists have scrutinized these strata—with little general agreement—hoping to distinguish friends from enemies.</p>
+                     <p>Even though a Marxist analysis of class relations is supposed to provide relatively straightforward criteria for the selection of revolutionary allies, the process is really not so simple. The starting point is the so-called objective interest</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.17</book-part-id>
+                  <title-group>
+                     <label>XI.</label>
+                     <title>Alliance Politics and Revolutionary Pretensions</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TIERSKY</surname>
+                           <given-names>RONALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>420</fpage>
+                  <abstract>
+                     <p>Shortly after the progress of international détente had begun to involve the French Left as well, Maurice Thorez recalled the alliance policy of the Parti Communiste Français (PCF) over a fifty-year existence in these words: “What a long road has been covered since 1922, since that Congress in Paris where, as a young worker, I was a delegate of the Pas-de-Calais Federation! It was then that, for the first time . . . the problems of the unity of the working class, of the united front with the Socialist party, were posed before our party. From that distant epoch we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.18</book-part-id>
+                  <title-group>
+                     <label>XII.</label>
+                     <title>Mass-Level Response to Party Strategy:</title>
+                     <subtitle>The Italian Electorate and the Communist Party</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SANI</surname>
+                           <given-names>GIACOMO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>456</fpage>
+                  <abstract>
+                     <p>Many discussions of party strategies focus quite properly on elites at both the national and local level. In the generation, application, and evaluation of strategies and tactics, party elites play a crucial role. But focusing exclusively on the elite of a party is unsatisfactory because implementing strategy involves other factors. Moreover, when the strategy involves mobilizing broad social groups, the relevant factors multiply rapidly. Leaders and activists of one party must not only consider the probable response by comparable leaders of other parties, but also determine at what segments of the population to aim. To assess whether, and to what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.19</book-part-id>
+                  <title-group>
+                     <label>XIII.</label>
+                     <title>Party and Mass Organization:</title>
+                     <subtitle>The Changing Relationship of PCF and CGT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSS</surname>
+                           <given-names>GEORGE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>504</fpage>
+                  <abstract>
+                     <p>When the Parti Communiste Français (PCF) finally secured control over the Confédération Générale du Travail (CGT) in 1944-1945 it gained an invaluable resource for the pursuit of its political ends. The PCF’s strength within the CGT has not been challenged since 1947. And, by virtue of its predominance in size and legitimacy over other unions, the CGT has been the determinant actor in French union life since.¹ At present, even after the ravages of the Cold War, CGT membership represents 65 percent of all organized workers in France, and the CGT regularly wins 60-65 percent of votes in professional elections</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.20</book-part-id>
+                  <title-group>
+                     <label>XIV.</label>
+                     <title>The CGIL and the PCI:</title>
+                     <subtitle>From Subordination to Independent Political Force</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEITZ</surname>
+                           <given-names>PETER R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>541</fpage>
+                  <abstract>
+                     <p>This chapter is an analysis of changes that have occurred since World War II in the Confederazione Generale Italiana del Lavoro (CGIL) which have significantly altered its relations with the Partito Comunista Italiano (PCI), the political party with which it has been most closely associated.¹ Some analysts of the Italian labor movement, and of the CGIL in particular, suggest that throughout the postwar period the CGIL has remained essentially an instrument of the PCI.² The type of “two-sphere” model that George Ross has used to analyze Parti Communiste Français (PCF)-Confédération Générale du Travail (CGT) relations in France might be instructive</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.21</book-part-id>
+                  <title-group>
+                     <label>XV.</label>
+                     <title>Communism in Italy and France:</title>
+                     <subtitle>Adaptation and Change</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TARROW</surname>
+                           <given-names>SIDNEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>575</fpage>
+                  <abstract>
+                     <p>What is the fate of the revolutionary party in a nonrevolutionary situation? This is the underlying question raised by the contributions to this volume. In both France and Italy, the Communist party has, for some time, maintained an uneasy position between opposition and compromise, a position to which the models of “revisionism” and “integration,” derived from the earlier European social-democratic experience, do not really apply. Nor can these parties be effectively understood as variants of the “party of total opposition,” a model popular during the Cold War, for they participate in numerous ways in the day-to-day life of Parliaments, local</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.22</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>641</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.23</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>643</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x1cmn.24</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>652</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

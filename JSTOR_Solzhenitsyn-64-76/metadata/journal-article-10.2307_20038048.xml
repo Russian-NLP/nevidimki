@@ -1,0 +1,59 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">foreignaffairs</journal-id>
+         <journal-id journal-id-type="jstor">j50000070</journal-id>
+         <journal-title-group>
+            <journal-title>Foreign Affairs</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Council on Foreign Relations</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00157120</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/20038048</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Dilemmas of Detente</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Pluralism and Policy</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Stephen S.</given-names>
+                  <surname>Rosenfeld</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">52</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i20038043</issue-id>
+         <fpage>263</fpage>
+         <lpage>272</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1973 Council on Foreign Relations, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/20038048"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

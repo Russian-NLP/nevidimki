@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">sovietstudies</journal-id>
+         <journal-id journal-id-type="jstor">j100376</journal-id>
+         <journal-title-group>
+            <journal-title>Soviet Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>University of Glasgow</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00385859</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">24</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i208263</issue-id>
+         <article-id pub-id-type="jstor">150661</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Nicholson</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1973</year>
+         </pub-date>
+         <fpage>452</fpage>
+         <lpage>455</lpage>
+         <page-range>452-455</page-range>
+         <product>
+            <source>In Quest of Justice. Protest and Dissent in the Soviet Union Today</source>
+            <string-name>
+              <given-names>Abraham</given-names>
+              <surname>Brumberg</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>Essays on Russian Intellectual History</source>
+            <string-name>
+              <given-names>Joseph T.</given-names>
+              <surname>Fuhrmann</surname>
+            </string-name>
+            <string-name>
+              <given-names>Edward C.</given-names>
+              <surname>Bock</surname>
+            </string-name>
+            <string-name>
+              <given-names>Leon I.</given-names>
+              <surname>Twarog</surname>
+            </string-name>
+          </product>
+         <permissions>
+            <copyright-statement>Copyright 1973 University of Glasgow Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/150661"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

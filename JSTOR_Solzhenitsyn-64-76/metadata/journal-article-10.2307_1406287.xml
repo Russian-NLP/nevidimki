@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">reviewpolitics</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100344</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Politics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>University of Notre Dame</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346705</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17486858</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">37</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i261320</issue-id>
+         <article-id pub-id-type="jstor">1406287</article-id>
+      
+         <title-group>
+            <article-title>Possibilities and Madness: A Note on the Scope of Political Theory</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>James V.</given-names>
+                  <surname>Schall</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>161</fpage>
+         <lpage>174</lpage>
+         <page-range>161-174</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 The University of Notre Dame</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1406287"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d127e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d127e121" publication-type="book">
+Warren Winiarski, "Niccolo Machiavelli," in History of Political
+Philosophy, ed. Leo Strauss (Chicago, 1963), pp. 247-76<person-group>
+                     <string-name>
+                        <surname>Winiarski</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Niccolo Machiavelli</comment>
+                  <fpage>247</fpage>
+                  <source>History of Political Philosophy</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e152" publication-type="book">
+George Sabine, A
+History of Political Theory (New York, 1965), pp. 211-53<person-group>
+                     <string-name>
+                        <surname>Sabine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>211</fpage>
+                  <source>A History of Political Theory</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e180" publication-type="book">
+C. N. R. McCoy,
+The Structure of Political Thought (New York, 1963), pp. 157-79<person-group>
+                     <string-name>
+                        <surname>McCoy</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>157</fpage>
+                  <source>The Structure of Political Thought</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e209a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d127e216" publication-type="journal">
+Aristotle, Politics 1. 2. 1253a9-17; 25-30.<person-group>
+                     <string-name>
+                        <surname>Aristotle</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>2</issue>
+                  <fpage>1253a9</fpage>
+                  <volume>1</volume>
+                  <source>Politics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e245a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d127e252" publication-type="journal">
+Aristotle, Politics 1. 2. 1253b29<person-group>
+                     <string-name>
+                        <surname>Aristotle</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>2</issue>
+                  <fpage>1253b29</fpage>
+                  <volume>1</volume>
+                  <source>Politics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e280" publication-type="journal">
+Metaphysics 12. 2. 1070a5-9<issue>2</issue>
+                  <fpage>1070a5</fpage>
+                  <volume>12</volume>
+                  <source>Metaphysics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e299a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d127e306" publication-type="book">
+Jacques Ellul, The Political Illusion (New York, 1967), pp. 192-93.<person-group>
+                     <string-name>
+                        <surname>Ellul</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>192</fpage>
+                  <source>The Political Illusion</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e332a1310">
+            <label>5</label>
+          
+          
+            <p>
+               <mixed-citation id="d127e341" publication-type="book">
+Ellul, Political Illusion, p. 190<person-group>
+                     <string-name>
+                        <surname>Ellul</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>190</fpage>
+                  <source>Political Illusion</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e362" publication-type="book">
+Republic, Modern Library [1941], p. 360<fpage>360</fpage>
+                  <source>Republic</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e378a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d127e385" publication-type="other">
+Aristotle's Metaphysics</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e391" publication-type="journal">
+Metaphysics 12. 6. 1072b14-16<issue>6</issue>
+                  <fpage>1072b14</fpage>
+                  <volume>12</volume>
+                  <source>Metaphysics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e409" publication-type="journal">
+ibid. 12. 9.
+1075a6-10  <fpage>1075a6</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e424" publication-type="book">
+McCoy, Structure of Political Thought, p. 5<person-group>
+                     <string-name>
+                        <surname>McCoy</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>Structure of Political Thought</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e446a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d127e453" publication-type="book">
+Treatise on Law<source>Treatise on Law</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e462" publication-type="book">
+Plato's Republic<person-group>
+                     <string-name>
+                        <surname>Plato</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Republic</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e481a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d127e488" publication-type="book">
+Hannah Arendt, Beyond Past and Future (New York, 1968), p. 258.<person-group>
+                     <string-name>
+                        <surname>Arendt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>258</fpage>
+                  <source>Beyond Past and Future</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e513a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d127e520" publication-type="journal">
+National
+Observer, 29 December 1973<issue>29 December</issue>
+                  <source>National Observer</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e539a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d127e546" publication-type="journal">
+"Political Prisoners in Psychiatric Hospitals," A Chronicle of Current
+Events. October 1972, p. 235<issue>October</issue>
+                  <fpage>235</fpage>
+                  <source>A Chronicle of Current Events</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e568" publication-type="journal">
+J. Broun, "The Abuse of Psychiatry in the
+USSR." Month (London), September 1974, pp. 704-707<person-group>
+                     <string-name>
+                        <surname>Broun</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>September</issue>
+                  <fpage>704</fpage>
+                  <source>Month</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e601a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d127e608" publication-type="book">
+Zhores and Roy Medvedev, A Question of Madness, tr. E. de Kadt (New
+York, 1971).<person-group>
+                     <string-name>
+                        <surname>Zhores</surname>
+                     </string-name>
+                  </person-group>
+                  <source>A Question of Madness</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e633a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d127e640" publication-type="book">
+R. D. Laing, The Politics of Experience (New York. 1967)<person-group>
+                     <string-name>
+                        <surname>Laing</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Politics of Experience</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e661" publication-type="book">
+Eldridge
+Cleaver. Soul on Ice (New York, 1968)<person-group>
+                     <string-name>
+                        <surname>Cleaver</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Soul on Ice</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e685" publication-type="book">
+Norman O. Brown, Love's Body (New
+York, 1966)<person-group>
+                     <string-name>
+                        <surname>Brown</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Love's Body</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e710a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d127e717" publication-type="book">
+J. Miranda. Marx and the Bible (Maryknoll, New York,
+1974), chap. 4<person-group>
+                     <string-name>
+                        <surname>Miranda</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 4</comment>
+                  <source>Marx and the Bible</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e745" publication-type="book">
+G. Gutierrez, A Theology of Liberation (Maryknoll, New York,
+1973)<person-group>
+                     <string-name>
+                        <surname>Gutierrez</surname>
+                     </string-name>
+                  </person-group>
+                  <source>A Theology of Liberation</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e770a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d127e777" publication-type="book">
+Herbert Marcuse, One-Dimensional Man (Boston, 1967), pp. 256-57.<person-group>
+                     <string-name>
+                        <surname>Marcuse</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>256</fpage>
+                  <source>One-Dimensional Man</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e802a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d127e809" publication-type="book">
+Susan Sontag, "Sartre's Saint Genet," Against Interpretation (New York,
+1966), pp. 95-96.<person-group>
+                     <string-name>
+                        <surname>Sontag</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sartre's Saint Genet</comment>
+                  <fpage>95</fpage>
+                  <source>Against Interpretation</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e841a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d127e848" publication-type="journal">
+Tacitus, Annals 3. 65 (Modern Library/1942/, p. 137).<person-group>
+                     <string-name>
+                        <surname>Tacitus</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>65</issue>
+                  <fpage>137</fpage>
+                  <volume>3</volume>
+                  <source>Annals</source>
+                  <year>1942</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e881a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d127e888" publication-type="journal">
+Michael True, "Poetry and Survival," Commonweal, 21 December 1973,
+p. 315.<person-group>
+                     <string-name>
+                        <surname>True</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>21 December</issue>
+                  <fpage>315</fpage>
+                  <source>Commonweal</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e920a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d127e927" publication-type="journal">
+Ibid., p. 312.  <fpage>312</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e939a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d127e946" publication-type="book">
+Eric Voegelin, The New Science of Politics (Chicago, 1952), p. 169.<person-group>
+                     <string-name>
+                        <surname>Voegelin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>169</fpage>
+                  <source>The New Science of Politics</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e971a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d127e978" publication-type="book">
+Henry Kariel, "Possibilities," in The Post-Behavioral Era, ed. G. Graham
+(New York, 1972), p. 136.<person-group>
+                     <string-name>
+                        <surname>Kariel</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Possibilities</comment>
+                  <fpage>136</fpage>
+                  <source>The Post-Behavioral Era</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e1010a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d127e1017" publication-type="book">
+Ibid., p. 136  <fpage>136</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d127e1028" publication-type="book">
+Voegelin, New Science, chap. 4<person-group>
+                     <string-name>
+                        <surname>Voegelin</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 4</comment>
+                  <source>New Science</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e1050a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d127e1057" publication-type="book">
+Kariel, "Possibilities," p. 140.<person-group>
+                     <string-name>
+                        <surname>Kariel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>140</fpage>
+                  <source>Possibilities</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e1080a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d127e1087" publication-type="book">
+Voegelin, New Sclence, p. 178.<person-group>
+                     <string-name>
+                        <surname>Voegelin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>178</fpage>
+                  <source>New Sclence</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e1109a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d127e1116" publication-type="book">
+Leo Strauss, "What Is Political Philosophy?" in Contemporary Political
+Thought, ed. J. Gould (New York, 1969), pp. 69 and 62.<person-group>
+                     <string-name>
+                        <surname>Strauss</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">What Is Political Philosophy?</comment>
+                  <fpage>69</fpage>
+                  <source>Contemporary Political Thought</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e1148a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d127e1155" publication-type="book">
+Alexander Gray, The Socialist Tradition, Moses to Lenin (New York,
+1968), p. 328.<person-group>
+                     <string-name>
+                        <surname>Gray</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>328</fpage>
+                  <source>The Socialist Tradition, Moses to Lenin</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e1184a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d127e1191" publication-type="journal">
+Aristotle, Politics 5. 11. 1314a14-30.<person-group>
+                     <string-name>
+                        <surname>Aristotle</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>11</issue>
+                  <fpage>1314a14</fpage>
+                  <volume>5</volume>
+                  <source>Politics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d127e1220a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d127e1227" publication-type="journal">
+Ibid. 7. 1. 1323b29.  <fpage>1323b29</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

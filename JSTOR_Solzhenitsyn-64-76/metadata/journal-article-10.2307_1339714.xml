@@ -1,0 +1,3329 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">harvardlawreview</journal-id>
+         <journal-id journal-id-type="jstor">j100168</journal-id>
+         <journal-title-group>
+            <journal-title>Harvard Law Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Harvard Law Review Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0017811X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1339714</article-id>
+         <title-group>
+            <article-title>The Uneasy Case for Copyright: A Study of Copyright in Books, Photocopies, and Computer Programs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Stephen</given-names>
+                  <surname>Breyer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1970</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">84</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i257436</issue-id>
+         <fpage>281</fpage>
+         <lpage>351</lpage>
+         <page-range>281-351</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1970 The Harvard Law Review Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1339714"/>
+         <abstract>
+            <p>Congress is currently considering the first major revision of the Copyright Act of 1909. Professor Breyer examines the moral and economic rationale for copyright in books. He goes on to consider proposals that would lengthen the term of protection and increase its scope in relation to photocopies and computer programs. On the basis of existing evidence he is unable to conclude that copyright should be abolished, but he argues that its extension is unnecessary and would be harmful.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d57e120a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d57e127" publication-type="book">
+T. MACAULAY, SPEECHES ON COPYRIGHT25 (C. Gaston ed. 1914) [herein-
+after cited as MACAULAY].<person-group>
+                     <string-name>
+                        <surname>Macaulay</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>SPEECHES ON COPYRIGHT</source>
+                  <year>1914</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e156a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d57e163" publication-type="journal">
+Plant, The Economic Aspects of Copyright in Books, 1ECONO-
+MICA167 (new series 1934) [hereinafter cited as Plant]<object-id pub-id-type="doi">10.2307/2548748</object-id>
+                  <fpage>167</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e178" publication-type="journal">
+Hurt &amp; Schuchman,
+The Economic Rationale of Copyright, 56AM. ECON. REV., May, 1966, at 421<object-id pub-id-type="jstor">10.2307/1821305</object-id>
+                  <fpage>421</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e193" publication-type="book">
+M. NIMMER, NIM-
+MER ON COPYRIGHT§§ 3.1, 5.4, 48 (1970) [hereinafter cited as NIMMER].<person-group>
+                     <string-name>
+                        <surname>Nimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">§§ 3.1, 5.4</comment>
+                  <fpage>48</fpage>
+                  <source>NIMMER ON COPYRIGHT</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e225a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d57e232" publication-type="other">
+17 U.S.C. § 1(a)
+(1964).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e242a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d57e251" publication-type="book">
+Sir Louis Mallet, C.B., in ROYAL COMM'N ON
+COPYRIGHT, THE ROYAL COMMISSIONS AND THE REPORT OF THE COMMISSIONERS
+(London 1878) p. xlvi [hereinafter cited as Mallet].<person-group>
+                     <string-name>
+                        <surname>Mallet</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xlvi</fpage>
+                  <source>ROYAL COMM'N ON COPYRIGHT, THE ROYAL COMMISSIONS AND THE REPORT OF THE COMMISSIONERS</source>
+                  <year>1878</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e282" publication-type="book">
+Id. at xlviii.  <fpage>xlviii</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e294" publication-type="journal">
+Samuelson, The Pure Theory of Public Ex-
+penditure, 36REV. OF ECON. &amp; STAT.387-89 (1954)<person-group>
+                     <string-name>
+                        <surname>Samuelson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>387</fpage>
+                  <volume>36</volume>
+                  <source>REV. OF ECON. &amp; STAT.</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e325" publication-type="journal">
+accord Davis &amp; Whinston, On
+the Distinction Between Public and Private Goods, 57AM. ECON. REV., May,
+1967, at 360 (i966 Papers and Proceedings of the Amer. Econ. Ass'n).<object-id pub-id-type="jstor">10.2307/1821638</object-id>
+                  <fpage>360</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e345a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d57e352" publication-type="book">
+MACAULAY 21-23.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e361a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d57e368" publication-type="book">
+NIMMER § 143.11  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e376" publication-type="book">
+B. KAPLAN, AN UNHURRIED VIEW OF COPYRIGHT32,
+47 et seq. (1967) [hereinafter cited as KAPLAN].<person-group>
+                     <string-name>
+                        <surname>Kaplan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>32</fpage>
+                  <source>AN UNHURRIED VIEW OF COPYRIGHT</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e404" publication-type="book">
+NIMMER § 145  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e413" publication-type="other">
+17 U.S.C. § 1 (1964).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e420a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d57e427" publication-type="book">
+G. PUTNAM, AUTHORS AND THEIR PUBLIC IN ANCIENT TIMES140, 200, 224-
+25 (2d rev. ed. 1894)<person-group>
+                     <string-name>
+                        <surname>Putnam</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>140</fpage>
+                  <source>AUTHORS AND THEIR PUBLIC IN ANCIENT TIMES</source>
+                  <year>1894</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e458" publication-type="book">
+2 G. PUTNAM, BOOKS AND THEIR MAKERS DURING THE
+MIDDLE AGES478-79 (1896).<person-group>
+                     <string-name>
+                        <surname>Putnam</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>478</fpage>
+                  <source>BOOKS AND THEIR MAKERS DURING THE MIDDLE AGES</source>
+                  <year>1896</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e487a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d57e494" publication-type="book">
+Mallet at 1  <fpage>1</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e505" publication-type="book">
+ROYAL COMM'N
+ON COPYRIGHT, MINUTES OF THE EVIDENCE TAKEN BEFORE THE ROYAL COMMISSION
+ON COPYRIGHT287 (1878) [hereinafter cited as BRITISH MINUTES I878].<person-group>
+                     <string-name>
+                        <surname>Royal Comm'n On Copyright</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>287</fpage>
+                  <source>MINUTES OF THE EVIDENCE TAKEN BEFORE THE ROYAL COMMISSION ON COPYRIGHT</source>
+                  <year>1878</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e536" publication-type="book">
+KAPLAN 123  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e545a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d57e552" publication-type="journal">
+ORGANIZATION FOR ECONOMIC CO-
+OPERATION AND DEVELOPMENT (OECD), REVIEWS OF NATIONAL SCIENCE POLICY,
+UNITED STATES34 (1968).<person-group>
+                     <string-name>
+                        <surname>Organization For Economic Co-operation And Development (oecd)</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>34</fpage>
+                  <source>REVIEWS OF NATIONAL SCIENCE POLICY, UNITED STATES</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e583" publication-type="partial">
+notes 28, 100, infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e590a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d57e597" publication-type="other">
+The Copyright Revision Bill, S. 543, 91st Cong., 1st Sess. (1969)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e603" publication-type="book">
+THE COPYRIGHT SOC'Y OF THE U.S.A., STUDIES ON COPYRIGHT
+(Arthur Fisher mem. ed. 1963)<person-group>
+                     <string-name>
+                        <surname>The Copyright Soc'y Of The U.S.A.</surname>
+                     </string-name>
+                  </person-group>
+                  <source>STUDIES ON COPYRIGHT</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e627" publication-type="other">
+Hearings on H.R. 4347, H.R.
+5680, H.R. 6831, H.R. 6835 Before Subcomm. No. 3 of the House Comm. on the
+Judiciary, 89th Cong., 1st Sess. (1965).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e640" publication-type="journal">
+Nimmer, Two Copyright Crises, Foreword to Project -New Technology
+and The Law of Copyright, Reprography and Computers, 15U.C.L.A. L. REV.931
+(1968).<person-group>
+                     <string-name>
+                        <surname>Nimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>931</fpage>
+                  <volume>15</volume>
+                  <source>U.C.L.A. L. REV.</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e676a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d57e683" publication-type="book">
+NIMMER §§ 10-38.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e691" publication-type="book">
+KAPLAN 2-9  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e699" publication-type="book">
+M.-C. DOCK, ETUDE SUR LE DROIT d'AUTEUR63-75 (1963)
+[hereinafter cited as DOCK].<person-group>
+                     <string-name>
+                        <surname>Dock</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>63</fpage>
+                  <source>ETUDE SUR LE DROIT d'AUTEUR</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e728a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d57e735" publication-type="book">
+B. FINDLATER, WHAT ARE WRITERS WORTH?1 (1963).<person-group>
+                     <string-name>
+                        <surname>Findlater</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>WHAT ARE WRITERS WORTH?</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e760a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d57e767" publication-type="partial">
+note 10 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e774a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d57e781" publication-type="other">
+17
+U.S.C. § 24 (1964).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e791a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d57e798" publication-type="book">
+reprinted in DOCK 78.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e807a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d57e814" publication-type="book">
+A. BIRRELL, SEVEN LECTURES ON THE LAW AND HISTORY OF COPYRIGHT IN
+BOOKS42 (1899).<person-group>
+                     <string-name>
+                        <surname>Birrell</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <source>SEVEN LECTURES ON THE LAW AND HISTORY OF COPYRIGHT IN BOOKS</source>
+                  <year>1899</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e844a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d57e851" publication-type="other">
+Report of the Register of Copyrights on the General Revision of the U.S.
+Copyright Law for House Comm. on the Judiciary, 87th Cong., 1st Sess. 5 (Comm.
+Print 1961).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e864a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d57e871" publication-type="book">
+J. HICKS, VALUE AND CAPITAL38-41 (2d ed. 1946).<person-group>
+                     <string-name>
+                        <surname>Hicks</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>38</fpage>
+                  <source>VALUE AND CAPITAL</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e900a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d57e907" publication-type="book">
+Herbert Spencer's SOCIAL STATICS(1851)<person-group>
+                     <string-name>
+                        <surname>Spencer</surname>
+                     </string-name>
+                  </person-group>
+                  <source>SOCIAL STATICS</source>
+                  <year>1851</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e928" publication-type="book">
+H. SPENCER,
+VARIOUS FRAGMENTS20 (1898).<person-group>
+                     <string-name>
+                        <surname>Spencer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>VARIOUS FRAGMENTS</source>
+                  <year>1898</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e957a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d57e964" publication-type="book">
+W. BAUMOL &amp; W. BOWEN, PER-
+FORMING ARTS—THE ECONOMIC DILEMMA (1966).<person-group>
+                     <string-name>
+                        <surname>Baumol</surname>
+                     </string-name>
+                  </person-group>
+                  <source>PERFORMING ARTS—THE ECONOMIC DILEMMA</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e989a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d57e996" publication-type="partial">
+note 100 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1003a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d57e1012" publication-type="book">
+U.S. DEP'T
+OF COMMERCE, BUREAU OF THE CENSUS, 1967 CENSUS OF MANUFACTURES, INDUS-
+TRY SERIES, BOOK PUBLISHING3 (Preliminary Report Oct. 1969)) [hereinafter cited
+as I967 CENSUS OF MANUFACTURES]<person-group>
+                     <string-name>
+                        <surname>U.S. Dep't Of Commerce, Bureau Of The Census</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>1967 CENSUS OF MANUFACTURES, INDUSTRY SERIES, BOOK PUBLISHING</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1046" publication-type="journal">
+Royalties: Current Patterns and Practices,
+PUBLISHERS' WEEKLY54 (Feb. 15, 1965)<issue>Feb. 15</issue>
+                  <volume>54</volume>
+                  <source>WEEKLY</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1069" publication-type="journal">
+Royalties -III: Current Practices
+Affecting Scientific and Technical Books, PUBLISHERS' WEEKLY65 (April 19, 1965)<issue>April 19</issue>
+                  <volume>65</volume>
+                  <source>PUBLISHERS' WEEKLY</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1091" publication-type="book">
+1967 CENSUS OF MANUFAC-
+TURES 3  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1102" publication-type="book">
+ERNST &amp; ERNST, 1968 FINANCIAL &amp; OPERATING RATIO REPORT TO AMERICAN BOOK
+PUBLISHERS COUNCIL9-ga [hereinafter cited as ERNST &amp; ERNST].<person-group>
+                     <string-name>
+                        <surname>Ernst</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <source>1968 FINANCIAL &amp; OPERATING RATIO REPORT TO AMERICAN BOOK PUBLISHERS COUNCIL</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1126" publication-type="book">
+W. LORD, HOW AUTHORS MAKE A LIVING112 (1962)
+[hereinafter cited as LORD].<person-group>
+                     <string-name>
+                        <surname>Lord</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>112</fpage>
+                  <source>HOW AUTHORS MAKE A LIVING</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1154" publication-type="partial">
+notes 116, 117 infra.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1160" publication-type="journal">
+ORGANISATION FOR ECONOMIC
+CO-OPERATION AND DEVELOPMENT, REVIEWS OF NATIONAL SCIENCE POLICY: UNITED
+STATES34 (1968).<person-group>
+                     <string-name>
+                        <surname>Organisation For Economic Co-operation And Development</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>34</fpage>
+                  <source>REVIEWS OF NATIONAL SCIENCE POLICY: UNITED STATES</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1192" publication-type="journal">
+Dempsey, The
+Foundations: A Welfare State for Writers? HARPERS165-69 (Oct.1965).<person-group>
+                     <string-name>
+                        <surname>Dempsey</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Oct.</issue>
+                  <fpage>165</fpage>
+                  <source>HARPERS</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1223" publication-type="journal">
+Id. at 169.  <fpage>169</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1234" publication-type="journal">
+Id. at 166.  <fpage>166</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1245" publication-type="book">
+LITERARY MARKET PLACE557-59
+(1969-70)<fpage>557</fpage>
+                  <source>LITERARY MARKET PLACE</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1263" publication-type="book">
+NATIONAL ENDOWMENT
+FOR THE ARTS AND NATIONAL COUNCIL ON THE ARTS, ANNUAL REPORT FOR THE
+FISCAL YEAR ENDED JUNE 30, 1967, at 56.<person-group>
+                     <string-name>
+                        <surname>National Endowment For The Arts And National Council On The Arts</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>56</fpage>
+                  <source>ANNUAL REPORT FOR THE FISCAL YEAR ENDED JUNE 30</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1294" publication-type="book">
+NATIONAL ENDOWMENT FOR THE HUMANITIES,
+THIRD ANNUAL REPORT, FISCAL YEAR 1968, at 15.<person-group>
+                     <string-name>
+                        <surname>National Endowment For The Humanities</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>THIRD ANNUAL REPORT, FISCAL YEAR 1968</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1319" publication-type="book">
+LITERARY MARKET PLACE533-57 (1969-70).<fpage>533</fpage>
+                  <source>LITERARY MARKET PLACE</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1334" publication-type="book">
+Trusts and True Foundations, 1965TIMES LITERARY SUPPLEMENT
+1057-58.<fpage>1057</fpage>
+                  <volume>1965</volume>
+                  <source>TIMES LITERARY SUPPLEMENT</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1352" publication-type="journal">
+A Multitude of Awards, 1961TIMES LITERARY SUPPLEMENT
+733.<fpage>733</fpage>
+                  <volume>1961</volume>
+                  <source>TIMES LITERARY SUPPLEMENT</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1370" publication-type="book">
+Finkelstein, Public Performance
+Rights in Music and Performance Right Societies, in 7 COPYRIGHT PROBLEMS
+ANALYZED19 (rev. ed. 1961).<person-group>
+                     <string-name>
+                        <surname>Finkelstein</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Public Performance Rights in Music and Performance Right Societies</comment>
+                  <fpage>19</fpage>
+                  <source>7 COPYRIGHT PROBLEMS ANALYZED</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1406a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d57e1413" publication-type="journal">
+Michelman, Property, Utility, and Fairness: Comments on the Ethical
+Foundations of "Just Compensation" Law, 80HARV. L. REV.1165, 1204 (1967).<object-id pub-id-type="doi">10.2307/1339276</object-id>
+                  <fpage>1165</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1428" publication-type="book">
+J. LOCKE, THE SECOND TREATISE OF CIVIL GOVERNMENT§§ 27-30 (P. Lasslett ed.
+1960).<person-group>
+                     <string-name>
+                        <surname>Locke</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">§§ 27-30</comment>
+                  <source>THE SECOND TREATISE OF CIVIL GOVERNMENT</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1456" publication-type="partial">
+note
+30 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1466a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d57e1473" publication-type="book">
+J. BENTHAM, THEORY OF LEGISLATION115-I9 (New &amp; Cheaper ed. 1905)<person-group>
+                     <string-name>
+                        <surname>Bentham</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>115</fpage>
+                  <source>THEORY OF LEGISLATION</source>
+                  <year>1905</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1497" publication-type="journal">
+Demstez, Toward a Theory of Property Rights, 57AM. ECON. REV., May, 1967,
+at 347 (I966 Papers and Proceedings of the Amer. Econ. Ass'n).<person-group>
+                     <string-name>
+                        <surname>Demstez</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>347</fpage>
+                  <volume>57</volume>
+                  <source>AM. ECON. REV.</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1532a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d57e1539" publication-type="book">
+iI M.
+ARNOLD, THE WORKS OF MATTHEW ARNOLD, IRISH ESSAYS AND OTHERS241-42
+(1904).<person-group>
+                     <string-name>
+                        <surname>Arnold</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>241</fpage>
+                  <source>THE WORKS OF MATTHEW ARNOLD, IRISH ESSAYS AND OTHERS</source>
+                  <year>1904</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1571a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d57e1578" publication-type="journal">
+Treece, American Law
+Analogues of the Author's "Moral Right," 16AM. J. COMP. L.487 (1968).<object-id pub-id-type="doi">10.2307/838765</object-id>
+                  <fpage>487</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1594a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d57e1601" publication-type="journal">
+Alexander Solzhenitsyn's letter to
+LITERATURNAYA GAZETA (April 21, 1968)<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April 21</issue>
+                  <source>LITERATURNAYA GAZETA</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1629" publication-type="book">
+Reprinted in A. SOLZHENITSYN,
+CANCER WARD558-59 (Bantam ed. 1969).<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>558</fpage>
+                  <source>CANCER WARD</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1658a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d57e1665" publication-type="book">
+I. KANT, Of the Injustice of Counterfeiting Books, in 1 ESSAYS AND
+TREATISES ON MORAL, POLITICAL, AND VARIOUS PHILOSOPHICAL SUBJECTS225, 229-
+30 (W. Richardson trans. 1798).<person-group>
+                     <string-name>
+                        <surname>Kant</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Of the Injustice of Counterfeiting Books</comment>
+                  <fpage>225</fpage>
+                  <source>1 ESSAYS AND TREATISES ON MORAL, POLITICAL, AND VARIOUS PHILOSOPHICAL SUBJECTS</source>
+                  <year>1798</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1701a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d57e1708" publication-type="journal">
+Sarraute, Current Theory on the Moral Right of Authors and
+Artists Under French Law, 16AM. J. COMP. L.465 (1968).<object-id pub-id-type="doi">10.2307/838764</object-id>
+                  <fpage>465</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1723" publication-type="journal">
+note 33 supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1732a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d57e1739" publication-type="other">
+Stevens v. National Broadcasting Co., 148 U.S.P.Q. 755 (Cal. Super. Ct.
+1966).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1749a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d57e1756" publication-type="other">
+id.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1764" publication-type="journal">
+Treece, supra note 33, at 494-500.  <fpage>494</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1776a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d57e1783" publication-type="other">
+Vargas v. Esquire, Inc., 164 F.2d 522 (7th Cir. 1947)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1790a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d57e1797" publication-type="other">
+Drummond v. Altemus, 60 F. 338 (C.C.E.D. Pa. 1894).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1804a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d57e1811" publication-type="other">
+Preminger v. Columbia Pictures Corp., 148 U.S.P.Q. 398 (N.Y. Sup.
+Ct.)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1820" publication-type="partial">
+aff'd, 149 U.S.P.Q. 872 (N.Y. App. Div.)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1826" publication-type="partial">
+aff'd per curiam, 150 U.S.P.Q.
+829 (N.Y. Ct. App. 1966)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1836" publication-type="other">
+Stevens v. National Broadcasting Co., 148 U.S.P.Q.
+755 (Cal. Super Ct. 1966).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1847a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d57e1854" publication-type="book">
+DOCK 63-64.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1862" publication-type="book">
+L. PATTERSON, COPYRIGHT
+IN HISTORICAL PERSPECTIVE20-120 (1968).<person-group>
+                     <string-name>
+                        <surname>Patterson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>COPYRIGHT IN HISTORICAL PERSPECTIVE</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1891a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d57e1898" publication-type="book">
+L. PATTERSON, supra note 42, at 45-46.  <fpage>45</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1910a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d57e1917" publication-type="book">
+DOCK 62-66  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1925" publication-type="book">
+KAPLAN 3  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1933" publication-type="book">
+L. PATTERSON, supra note 42, at 20-150 passim,
+222-29.  <fpage>20</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1948a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d57e1955" publication-type="book">
+KAPLAN 5-6  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1963" publication-type="journal">
+Plant 176-78  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1972a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d57e1979" publication-type="book">
+Markham, An Economic Analysis of the New Information Tech-
+nologies, in AMERICAN TEXTBOOK PUBLISHERS' INSTITUTE &amp; AMERICAN BOOK PUB-
+LISHERS COUNCIL, AN ECONOMIC-MEDIA STUDY OF BOOK PUBLISHING1-27 (1966)
+[hereinafter cited as Markham].<person-group>
+                     <string-name>
+                        <surname>Markham</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">An Economic Analysis of the New Information Technologies</comment>
+                  <fpage>1</fpage>
+                  <source>AMERICAN TEXTBOOK PUBLISHERS' INSTITUTE &amp; AMERICAN BOOK PUBLISHERS COUNCIL, AN ECONOMIC-MEDIA STUDY OF BOOK PUBLISHING</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2017a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d57e2024" publication-type="partial">
+note 11 supra</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2030" publication-type="book">
+NIMMER § 11.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2040a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d57e2047" publication-type="book">
+1967 CENSUS OF MANUFACTURES 3.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2056a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d57e2063" publication-type="book">
+Id.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2072a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d57e2079" publication-type="book">
+Id.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2088a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d57e2095" publication-type="other">
+interview with an official of the American Educational
+Publishers Institute, October 1, 1970.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2105a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d57e2112" publication-type="book">
+1967 CENSUS OF
+MANUFACTURES 3.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2124a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d57e2131" publication-type="book">
+Markham 12.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2141a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d57e2148" publication-type="partial">
+note 56 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2155a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d57e2164" publication-type="book">
+STANLEY B. HUNT &amp; Assoc., 1968 ANNUAL SURVEY OF THE TEXTBOOK PUB-
+LISHING INDUSTRY [hereinafter cited as HUNT SURVEY].<person-group>
+                     <string-name>
+                        <surname>Hunt</surname>
+                     </string-name>
+                  </person-group>
+                  <source>1968 ANNUAL SURVEY OF THE TEXTBOOK PUBLISHING INDUSTRY</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2186a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d57e2193" publication-type="book">
+M. LEE, BOOKMAKING: THE ILLUSTRATED GUIDE TO DESIGN
+&amp; PRODUCTION (1965).<person-group>
+                     <string-name>
+                        <surname>Lee</surname>
+                     </string-name>
+                  </person-group>
+                  <source>BOOKMAKING: THE ILLUSTRATED GUIDE TO DESIGN &amp; PRODUCTION</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2218a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d57e2225" publication-type="partial">
+p. 299 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2232a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d57e2239" publication-type="book">
+Markham 11-12.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2248a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d57e2257" publication-type="book">
+ERNST &amp; ERNST, supra note 28  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2265" publication-type="partial">
+p. 301 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2273a1310">
+            <label>70</label>
+            <p>
+               <mixed-citation id="d57e2280" publication-type="book">
+THE COST BOOKS OF CAREY &amp; LEA, 1825-1838 (D. Kaser ed. 1963).<person-group>
+                     <string-name>
+                        <surname>Kaser</surname>
+                     </string-name>
+                  </person-group>
+                  <source>THE COST BOOKS OF CAREY &amp; LEA, 1825-1838</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2302a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d57e2309" publication-type="book">
+LEE, supra note 57, at 57-61.  <fpage>57</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2321a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d57e2330" publication-type="book">
+THE COST BOOKS OF CAREY &amp; LEA 1825-1838 at 48 (D. Kaser ed. 1963)<person-group>
+                     <string-name>
+                        <surname>Kaser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>48</fpage>
+                  <source>THE COST BOOKS OF CAREY &amp; LEA 1825-1838</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2354" publication-type="other">
+Testimony of J. Murray,
+Esq., 1878 MINUTES 62</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2364a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d57e2371" publication-type="book">
+D. KASER, BOOK PIRATING IN TAIWAN8-9 (1969).<person-group>
+                     <string-name>
+                        <surname>Kaser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <source>BOOK PIRATING IN TAIWAN</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2396a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d57e2403" publication-type="book">
+D. KASER, MESSRS. CAREY &amp; LEA OF PHILADELPHIA91-II6 (1957).<person-group>
+                     <string-name>
+                        <surname>Kaser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>91</fpage>
+                  <source>MESSRS. CAREY &amp; LEA OF PHILADELPHIA</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2428a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d57e2435" publication-type="book">
+Mallet 1.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2445a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d57e2454" publication-type="journal">
+Plant 173.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2462" publication-type="other">
+Testimony of Prof. T. Tyndall, 1878
+MINUTES 316.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2472" publication-type="book">
+D. KASER, MESSRS. CAREY &amp; LEA
+OF PHILADELPHIA143-55 (1957).<person-group>
+                     <string-name>
+                        <surname>Kaser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>143</fpage>
+                  <source>MESSRS. CAREY &amp; LEA OF PHILADELPHIA</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2501a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d57e2508" publication-type="other">
+section 2 of the
+Sherman Act, 15 U.S.C. § 2 (1964)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2517" publication-type="other">
+Robinson-Patman Act, 15 U.S.C. § 13 (1964).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2523" publication-type="book">
+P. AREEDA, ANTITRUST
+ANALYSIS166-68, 647-66 (1967).<person-group>
+                     <string-name>
+                        <surname>Areeda</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>166</fpage>
+                  <source>ANTITRUST ANALYSIS</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2552a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d57e2559" publication-type="journal">
+Price, How Publishers Are Leaving the I950'S Behind, TIMES LITERARY
+SUPPLEMENT821-22 (July 24, 1969).<person-group>
+                     <string-name>
+                        <surname>Price</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>July 24</issue>
+                  <fpage>821</fpage>
+                  <source>TIMES LITERARY SUPPLEMENT</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2591a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d57e2598" publication-type="journal">
+Hurt &amp; Schuchman, supra note 2, at 428-29.  <fpage>428</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2610a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d57e2617" publication-type="partial">
+note 68 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2624a1310">
+            <label>85</label>
+            <p>
+               <mixed-citation id="d57e2631" publication-type="journal">
+Plant 173.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2641a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d57e2648" publication-type="partial">
+note 68 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2655a1310">
+            <label>90</label>
+            <p>
+               <mixed-citation id="d57e2662" publication-type="book">
+R. MUSGRAVE, THE THEORY OF PUBLIC FINANCE131 (1959).<person-group>
+                     <string-name>
+                        <surname>Musgrave</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>131</fpage>
+                  <source>THE THEORY OF PUBLIC FINANCE</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2687a1310">
+            <label>92</label>
+            <p>
+               <mixed-citation id="d57e2694" publication-type="other">
+Study of Instructional Technology 8-9, Statement of A. McCaffrey to Presi-
+dent's Commission on Educational Technology, March 1970.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2704a1310">
+            <label>94</label>
+            <p>
+               <mixed-citation id="d57e2711" publication-type="partial">
+notes 132 &amp; 133 infra</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2717" publication-type="book">
+J. JOHNSTON, ECONOMETRIC METHODS (1963)<person-group>
+                     <string-name>
+                        <surname>Johnston</surname>
+                     </string-name>
+                  </person-group>
+                  <source>ECONOMETRIC METHODS</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2739a1310">
+            <label>96</label>
+            <p>
+               <mixed-citation id="d57e2746" publication-type="partial">
+pp. 326-27 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2753a1310">
+            <label>97</label>
+            <p>
+               <mixed-citation id="d57e2760" publication-type="journal">
+Price, How Publishers Are Leaving the I950's Behind, TIMES LITERARY
+SUPPLEMENT821-22 (July 24, 1969).<person-group>
+                     <string-name>
+                        <surname>Price</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>July 24</issue>
+                  <fpage>821</fpage>
+                  <source>TIMES LITERARY SUPPLEMENT</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2793a1310">
+            <label>99</label>
+            <p>
+               <mixed-citation id="d57e2800" publication-type="book">
+OECD, REVIEWS OF NATIONAL SCIENCE POLICY, UNITED STATES34 (1968).<person-group>
+                     <string-name>
+                        <surname>Oecd</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>34</fpage>
+                  <source>REVIEWS OF NATIONAL SCIENCE POLICY, UNITED STATES</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2825a1310">
+            <label>100</label>
+            <p>
+               <mixed-citation id="d57e2832" publication-type="book">
+Id. at 226.  <fpage>226</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2844a1310">
+            <label>102</label>
+            <p>
+               <mixed-citation id="d57e2851" publication-type="book">
+J. BUCHANAN &amp; G TULLOCK, THE CALCULUS OF CONSENT (1965).<person-group>
+                     <string-name>
+                        <surname>Buchanan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>THE CALCULUS OF CONSENT</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2873a1310">
+            <label>103</label>
+            <p>
+               <mixed-citation id="d57e2880" publication-type="book">
+W. BAUMOL &amp; W. BOWEN supra note 26, at 374.  <fpage>374</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2891" publication-type="book">
+Id.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2900a1310">
+            <label>105</label>
+            <p>
+               <mixed-citation id="d57e2907" publication-type="other">
+McCaffrey, supra note 92, at 7-8.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2916a1310">
+            <label>107</label>
+            <p>
+               <mixed-citation id="d57e2923" publication-type="partial">
+p. 315 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2931a1310">
+            <label>109</label>
+            <p>
+               <mixed-citation id="d57e2938" publication-type="other">
+McCaffrey, supra note 92, at 7.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2947a1310">
+            <label>110</label>
+            <p>
+               <mixed-citation id="d57e2954" publication-type="partial">
+p. 315 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2961a1310">
+            <label>111</label>
+            <p>
+               <mixed-citation id="d57e2968" publication-type="book">
+S. HUNT, 1968 ANNUAL SURVEY OF SUBSCRIPTION REFERENCE BOOK PUBLISHERS
+[hereinafter cited as HUNT SURVEY].<person-group>
+                     <string-name>
+                        <surname>Hunt</surname>
+                     </string-name>
+                  </person-group>
+                  <source>1968 ANNUAL SURVEY OF SUBSCRIPTION REFERENCE BOOK PUBLISHERS</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2990a1310">
+            <label>112</label>
+            <p>
+               <mixed-citation id="d57e2997" publication-type="partial">
+note 68 supra</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3004a1310">
+            <label>113</label>
+            <p>
+               <mixed-citation id="d57e3011" publication-type="partial">
+p. 302 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3018a1310">
+            <label>114</label>
+            <p>
+               <mixed-citation id="d57e3025" publication-type="book">
+HUNT SURVEY 8, 10.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3033" publication-type="book">
+ERNST &amp; ERNST 10  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3041" publication-type="book">
+LORD 12.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3051a1310">
+            <label>116</label>
+            <p>
+               <mixed-citation id="d57e3058" publication-type="partial">
+note 114 supra</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3064" publication-type="book">
+ERNST &amp; ERNST
+10a.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3075" publication-type="journal">
+Price,
+supra note 97, at 821-22.  <fpage>821</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3090" publication-type="book">
+ERNST
+&amp; ERNST 10a.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3102a1310">
+            <label>117</label>
+            <p>
+               <mixed-citation id="d57e3109" publication-type="book">
+LORD 151.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3118a1310">
+            <label>118</label>
+            <p>
+               <mixed-citation id="d57e3125" publication-type="book">
+p. 302 supra.  <fpage>302</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3137a1310">
+            <label>119</label>
+            <p>
+               <mixed-citation id="d57e3144" publication-type="other">
+1878 MINUTES 268.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3153a1310">
+            <label>120</label>
+            <p>
+               <mixed-citation id="d57e3160" publication-type="partial">
+note 68 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3167a1310">
+            <label>121</label>
+            <p>
+               <mixed-citation id="d57e3174" publication-type="partial">
+note 68 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3182a1310">
+            <label>122</label>
+            <p>
+               <mixed-citation id="d57e3189" publication-type="book">
+F. SCHOPENHAUER, On Authorship, The Art of Literature, in ESSAYS:
+FROM THE PARERGA AND PARALIPOMENA5, 6 (Allen &amp; Unwin ed. 1951).<person-group>
+                     <string-name>
+                        <surname>Schopenhauer</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">On Authorship, The Art of Literature</comment>
+                  <fpage>5</fpage>
+                  <source>ESSAYS: FROM THE PARERGA AND PARALIPOMENA</source>
+                  <year>1951</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3221a1310">
+            <label>123</label>
+            <p>
+               <mixed-citation id="d57e3228" publication-type="journal">
+Arrow, Uncertainty and the Welfare Economics of Medical Care, 53AM. ECON.
+REV.941 (1963).<object-id pub-id-type="jstor">10.2307/1812044</object-id>
+                  <fpage>941</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3244a1310">
+            <label>124</label>
+            <p>
+               <mixed-citation id="d57e3253" publication-type="journal">
+Lipsey &amp; Lancaster,
+The General Theory of the Second Best, 24REV. ECON. STUDIES11 (1956).<person-group>
+                     <string-name>
+                        <surname>Lipsey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11</fpage>
+                  <volume>24</volume>
+                  <source>REV. ECON. STUDIES</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3285a1310">
+            <label>125</label>
+            <p>
+               <mixed-citation id="d57e3292" publication-type="other">
+1878 MINUTES 376.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3301a1310">
+            <label>127</label>
+            <p>
+               <mixed-citation id="d57e3308" publication-type="other">
+pp. 301-02 supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3317a1310">
+            <label>128</label>
+            <p>
+               <mixed-citation id="d57e3324" publication-type="other">
+pp. 300-02 supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3334a1310">
+            <label>129</label>
+            <p>
+               <mixed-citation id="d57e3341" publication-type="book">
+M. LEE, supra note 57, at 170-71  <fpage>170</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3352" publication-type="book">
+S. UNWIN, THE TRUTH ABOUT
+PUBLISHING153-54 (7th ed. 1960).<person-group>
+                     <string-name>
+                        <surname>Unwin</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>7</edition>
+                  <fpage>153</fpage>
+                  <source>THE TRUTH ABOUT PUBLISHING</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3384a1310">
+            <label>130</label>
+            <p>
+               <mixed-citation id="d57e3391" publication-type="other">
+1878 MINUTES 377-87.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3400a1310">
+            <label>133</label>
+            <p>
+               <mixed-citation id="d57e3407" publication-type="book">
+U.S. FEDERAL TRADE COMMISSION RE-
+PORT, in COUNCIL OF ECONOMIC ADVISERS, ECONOMIC REPORT OF THE PRESIDENT,
+1970, at 263.<person-group>
+                     <string-name>
+                        <surname>U.S. Federal Trade Commission Report</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>263</fpage>
+                  <source>COUNCIL OF ECONOMIC ADVISERS, ECONOMIC REPORT OF THE PRESIDENT</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3438" publication-type="partial">
+note 132 supra</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3444" publication-type="book">
+ERNST &amp; ERNST 33.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3453a1310">
+            <label>134</label>
+            <p>
+               <mixed-citation id="d57e3460" publication-type="book">
+LOEB, RHOADES &amp;
+Co., BOOK PUBLISHING AND FEDERAL AID TO EDUCATION8 (1965).<person-group>
+                     <string-name>
+                        <surname>Loeb</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <source>BOOK PUBLISHING AND FEDERAL AID TO EDUCATION</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3489a1310">
+            <label>135</label>
+            <p>
+               <mixed-citation id="d57e3496" publication-type="book">
+Arrow, Economic Welfare and the Allocation of
+Resources for Invention, in NATIONAL BUREAU OF ECONOMIC RESEARCH, THE RATE
+AND DIRECTION OF INVENTIVE ACTIVITY609 (1962).<person-group>
+                     <string-name>
+                        <surname>Arrow</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Economic Welfare and the Allocation of Resources for Invention</comment>
+                  <fpage>609</fpage>
+                  <source>NATIONAL BUREAU OF ECONOMIC RESEARCH, THE RATE AND DIRECTION OF INVENTIVE ACTIVITY</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3531a1310">
+            <label>137</label>
+            <p>
+               <mixed-citation id="d57e3538" publication-type="book">
+G. GIPE, NEARER TO THE DUST (1967)<person-group>
+                     <string-name>
+                        <surname>Gipe</surname>
+                     </string-name>
+                  </person-group>
+                  <source>NEARER TO THE DUST</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3559" publication-type="book">
+REPROGRAPHY AND
+COPYRIGHT LAW (L. Hattery &amp; G. Bush eds. 1964).<person-group>
+                     <string-name>
+                        <surname>Hattery</surname>
+                     </string-name>
+                  </person-group>
+                  <source>REPROGRAPHY AND COPYRIGHT LAW</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3585a1310">
+            <label>138</label>
+            <p>
+               <mixed-citation id="d57e3594" publication-type="book">
+COMMITTEE TO INVESTIGATE COPYRIGHT PROBLEMS AFFECTING COMMUNICA-
+TION IN SCIENCE AND EDUCATION, THE DETERMINATION OF LEGAL FACTS AND ECO-
+NOMIC GUIDEPOSTS WITH RESPECT TO THE DISSEMINATION OF SCIENTIFIC AND
+EDUCATIONAL INFORMATION AS IT IS AFFECTED BY COPYRIGHT—A STATUS REPORT
+71 (Office of Education, U.S. Dep't of H.E.W., Project No. 70793, 1967) [herein-
+after cited as CICP].<person-group>
+                     <string-name>
+                        <surname>Committee To Investigate Copyright Problems Affecting Communication In Science And Education</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>71</fpage>
+                  <source>THE DETERMINATION OF LEGAL FACTS AND ECONOMIC GUIDEPOSTS WITH RESPECT TO THE DISSEMINATION OF SCIENTIFIC AND EDUCATIONAL INFORMATION AS IT IS AFFECTED BY COPYRIGHT—A STATUS REPORT</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3635a1310">
+            <label>139</label>
+            <p>
+               <mixed-citation id="d57e3642" publication-type="book">
+Id. at 60.  <fpage>60</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3654a1310">
+            <label>140</label>
+            <p>
+               <mixed-citation id="d57e3661" publication-type="partial">
+p. 330 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3668a1310">
+            <label>142</label>
+            <p>
+               <mixed-citation id="d57e3675" publication-type="partial">
+note 28 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3682a1310">
+            <label>143</label>
+            <p>
+               <mixed-citation id="d57e3689" publication-type="journal">
+Another Music War Threatening?, BROADCASTING146, 147, 152 (March
+15, 1965).<issue>March 15</issue>
+                  <fpage>146</fpage>
+                  <source>BROADCASTING</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3712a1310">
+            <label>144</label>
+            <p>
+               <mixed-citation id="d57e3719" publication-type="other">
+Hearings on S. 597 (Copyright Law Revision) Before the Subcomm. on
+Patents, Trademarks, and Copyrights of the Senate Comm. on the Judiciary, 90th
+Cong., 1st Sess., pt. 3, at 1004-05, 1021 (1967) [hereinafter referred to as 1967
+Senate Hearings].</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3734" publication-type="other">
+Id.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3744a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d57e3751" publication-type="other">
+Id.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3760a1310">
+            <label>146</label>
+            <p>
+               <mixed-citation id="d57e3767" publication-type="other">
+Id. pt. 4, at 1298.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3776a1310">
+            <label>147</label>
+            <p>
+               <mixed-citation id="d57e3783" publication-type="partial">
+p. 330 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3790a1310">
+            <label>148</label>
+            <p>
+               <mixed-citation id="d57e3797" publication-type="partial">
+pp. 329-38 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3804a1310">
+            <label>149</label>
+            <p>
+               <mixed-citation id="d57e3811" publication-type="book">
+NIMMER § 10.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3819" publication-type="book">
+P. AREEDA,
+ANTITRUST ANALYSIS376-87 (1967)<person-group>
+                     <string-name>
+                        <surname>Areeda</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>376</fpage>
+                  <source>ANTITRUST ANALYSIS</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e3847" publication-type="other">
+F. MACHLUP, AN ECONOMIC REVIEW OF THE
+PATENT SYSTEM (Senate Judiciary Comm., Subcomm. on Patents, Trademarks,
+and Copyright, Study No. 15, 85th Cong., 2d Sess. (1958)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3860a1310">
+            <label>151</label>
+            <p>
+               <mixed-citation id="d57e3867" publication-type="other">
+BUREAU OF THE CENSUS, CONCENTRATION RATIOS IN MANUFACTURING
+INDUSTRY: 1963, Report prepared for Senate Subcomm. on Antitrust and Monop-
+oly, Senate Comm. on the Judiciary, 90th Cong., 1st Sess., pt. I, 173-74 (1967).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3881a1310">
+            <label>152</label>
+            <p>
+               <mixed-citation id="d57e3888" publication-type="journal">
+Ross &amp; Chazen, Federal Regulation of Cable Television: The Visible
+Hand, 83HARV. L. REV.1820, I833-34 (1970).<person-group>
+                     <string-name>
+                        <surname>Ross</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1820</fpage>
+                  <volume>83</volume>
+                  <source>HARV. L. REV.</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3920a1310">
+            <label>153</label>
+            <p>
+               <mixed-citation id="d57e3927" publication-type="journal">
+Lacy, The Economics of Publishing, or Adam Smith and Litera-
+ture, 92DAEDALUS42, 44-45 (1963).<person-group>
+                     <string-name>
+                        <surname>Lacy</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <volume>92</volume>
+                  <source>DAEDALUS</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3959a1310">
+            <label>155</label>
+            <p>
+               <mixed-citation id="d57e3966" publication-type="other">
+White Motor Co. v. United States, 372 U.S. 253, 270-71 (1963)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3973a1310">
+            <label>156</label>
+            <p>
+               <mixed-citation id="d57e3980" publication-type="partial">
+p. 325 infra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e3987a1310">
+            <label>157</label>
+            <p>
+               <mixed-citation id="d57e3994" publication-type="journal">
+Plant 185-86.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4002" publication-type="journal">
+Horvitz, The Pricing of Textbooks and the Remuneration of Authors,
+56AM. ECON. REV., May, 1966, at 412, 419-20 (1965 Papers and Proceedings of
+the Am. Econ. Ass'n).<object-id pub-id-type="jstor">10.2307/1821304</object-id>
+                  <fpage>412</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4020" publication-type="book">
+S. UNWIN, supra note 129, at 63-66.  <fpage>63</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4032a1310">
+            <label>159</label>
+            <p>
+               <mixed-citation id="d57e4039" publication-type="journal">
+Michelman, supra note 29, at 1214.  <fpage>1214</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4052a1310">
+            <label>160</label>
+            <p>
+               <mixed-citation id="d57e4059" publication-type="other">
+F. MACHLUP, supra note 149, at 79.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4068a1310">
+            <label>161</label>
+            <p>
+               <mixed-citation id="d57e4075" publication-type="book">
+W. SHAKESPEARE, HAMLET, act III, sc. i, lines 79-82, (Variorum 13th ed.
+1905).<person-group>
+                     <string-name>
+                        <surname>Shakespeare</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>13</edition>
+                  <fpage>79</fpage>
+                  <source>HAMLET</source>
+                  <year>1905</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4107a1310">
+            <label>162</label>
+            <p>
+               <mixed-citation id="d57e4114" publication-type="partial">
+note 10 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4121a1310">
+            <label>163</label>
+            <p>
+               <mixed-citation id="d57e4128" publication-type="book">
+MACAULAY 23.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4137a1310">
+            <label>164</label>
+            <p>
+               <mixed-citation id="d57e4144" publication-type="book">
+DOCK 65  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4152" publication-type="book">
+L. PATTERSON, supra note 42, at 143, 183, 185, 197, 201.  <fpage>143</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4164a1310">
+            <label>165</label>
+            <p>
+               <mixed-citation id="d57e4171" publication-type="other">
+S. 543, 91st Cong., 1st Sess. § 302 (1969).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4179a1310">
+            <label>166</label>
+            <p>
+               <mixed-citation id="d57e4188" publication-type="other">
+REGISTER OF COPYRIGHTS, COPYRIGHT LAW REVISION, REPORT TO THE
+HOUSE COMM. ON THE JUDICIARY, 87th Cong., 1st Sess. 50 (Comm. Print 1961).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4197" publication-type="book">
+Guinan, Duration of Copyright, in COPYRIGHT SOC'Y OF THE U.S.A., STUDIES
+ON COPYRIGHT473, 494 (Arthur Fisher mem. ed. 1963)<person-group>
+                     <string-name>
+                        <surname>Guinan</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Duration of Copyright</comment>
+                  <fpage>473</fpage>
+                  <source>COPYRIGHT SOC'Y OF THE U.S.A., STUDIES ON COPYRIGHT</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4229" publication-type="other">
+17 U.S.C. § 2 (1964).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4235" publication-type="other">
+S.543, 91st Cong., 1st Sess. § 302(c) (1969).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4242a1310">
+            <label>167</label>
+            <p>
+               <mixed-citation id="d57e4249" publication-type="other">
+pp. 284-91 supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4258a1310">
+            <label>169</label>
+            <p>
+               <mixed-citation id="d57e4265" publication-type="book">
+Guinan, supra note 166, at 500.  <fpage>500</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4276" publication-type="other">
+Extending the Duration of Copyright Protection in Certain Cases, Hearing
+Before Subcomm. No. 3 of the House Comm. on the Judiciary, 87th Cong., 2d
+Sess., ser. 27, 60 (1962).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4289a1310">
+            <label>170</label>
+            <p>
+               <mixed-citation id="d57e4298" publication-type="book">
+A. PLANT, THE NEW COM-
+MERCE IN IDEAS AND INTELLECTUAL PROPERTY12 (1953).<person-group>
+                     <string-name>
+                        <surname>Plant</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>THE NEW COMMERCE IN IDEAS AND INTELLECTUAL PROPERTY</source>
+                  <year>1953</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4326" publication-type="journal">
+Chafee, Re-
+flections on the Law of Copyright, 45COLUM. L. REV.503, 508 (1945).<object-id pub-id-type="doi">10.2307/1117985</object-id>
+                  <fpage>503</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4342a1310">
+            <label>171</label>
+            <p>
+               <mixed-citation id="d57e4349" publication-type="other">
+Statement of Curtis G.
+Benjamin, Chairman of the Board, McGraw-Hill Book Company, Copyright or
+Public Domain (1966).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4362a1310">
+            <label>172</label>
+            <p>
+               <mixed-citation id="d57e4369" publication-type="other">
+Telephone conversation with A. McCaffrey, American Book Publishers
+Council, Oct. 30, 1970.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4380a1310">
+            <label>173</label>
+            <p>
+               <mixed-citation id="d57e4387" publication-type="book">
+L. PATTERSON, supra note 42, at 88-90.  <fpage>88</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4399a1310">
+            <label>174</label>
+            <p>
+               <mixed-citation id="d57e4406" publication-type="other">
+Chamberlain v. Feldman, 300 N.Y. 135, 89 N.E.2d 863 (1949).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4413a1310">
+            <label>175</label>
+            <p>
+               <mixed-citation id="d57e4420" publication-type="journal">
+Finkelstein, Public Performance
+Rights in Music and Performance Right Societies, 7COPYRIGHT PROBLEMS ANA-
+LYZED12-21 (1952) [hereinafter cited as Finkelstein].<person-group>
+                     <string-name>
+                        <surname>Finkelstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <volume>7</volume>
+                  <source>COPYRIGHT PROBLEMS ANALYZED</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4455a1310">
+            <label>176</label>
+            <p>
+               <mixed-citation id="d57e4462" publication-type="journal">
+Id. at 14.  <fpage>14</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4474a1310">
+            <label>177</label>
+            <p>
+               <mixed-citation id="d57e4481" publication-type="journal">
+Id. at 14.  <fpage>14</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4493a1310">
+            <label>178</label>
+            <p>
+               <mixed-citation id="d57e4500" publication-type="journal">
+note 176 supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4510a1310">
+            <label>179</label>
+            <p>
+               <mixed-citation id="d57e4517" publication-type="journal">
+p. 318 supra.  <fpage>318</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4529a1310">
+            <label>181</label>
+            <p>
+               <mixed-citation id="d57e4536" publication-type="book">
+MUSGRAVE, supra note 90, at 562-65  <fpage>562</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4547" publication-type="book">
+Eck-
+stein, A Survey of the Theory of Public Expenditure Criteria, in NATIONAL BU-
+REAU OF ECONOMIC RESEARCH, PUBLIC FINANCES: NEEDS, SOURCES OF UTILIZATION
+453 (1961).<person-group>
+                     <string-name>
+                        <surname>Eckstein</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">A Survey of the Theory of Public Expenditure Criteria</comment>
+                  <fpage>453</fpage>
+                  <source>NATIONAL BUREAU OF ECONOMIC RESEARCH, PUBLIC FINANCES: NEEDS, SOURCES OF UTILIZATION</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4584" publication-type="book">
+Eckstein, supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4593a1310">
+            <label>182</label>
+            <p>
+               <mixed-citation id="d57e4600" publication-type="other">
+Letter from F. Birkenhead to Stephen Breyer, Nov. 12, 1970.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4607a1310">
+            <label>184</label>
+            <p>
+               <mixed-citation id="d57e4614" publication-type="book">
+KAPLAN 96.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4623a1310">
+            <label>185</label>
+            <p>
+               <mixed-citation id="d57e4630" publication-type="other">
+Register of Copyrights, supra note 166, at 48.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4639a1310">
+            <label>186</label>
+            <p>
+               <mixed-citation id="d57e4646" publication-type="other">
+Hearings on the Copyright Law Revision Before
+Subcomm. No. 3 of the House Comm. on the Judiciary, 89th Cong., 1st Sess.,
+ser. 8, pt. 1, at 228-29 (1965).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4660a1310">
+            <label>187</label>
+            <p>
+               <mixed-citation id="d57e4667" publication-type="other">
+Copyright Act of 1911, 1 &amp; 2 Geo. V, ch. 46 § 3.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4674a1310">
+            <label>188</label>
+            <p>
+               <mixed-citation id="d57e4681" publication-type="other">
+Copyright Act of 1956, 4 &amp; 5 Eliz. 2, ch. 74, sched. 7.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4688a1310">
+            <label>189</label>
+            <p>
+               <mixed-citation id="d57e4695" publication-type="journal">
+Kase, Copyright in Czechoslovakia: The New Copyright Statute
+of I965, 14BULL. OF THE COPYRIGHT SOC'Y28, 45 (1966).<person-group>
+                     <string-name>
+                        <surname>Kase</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>28</fpage>
+                  <volume>14</volume>
+                  <source>BULL. OF THE COPYRIGHT SOC'Y</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4727a1310">
+            <label>190</label>
+            <p>
+               <mixed-citation id="d57e4734" publication-type="book">
+Copyright Law of Honduras, 1 UNESCO, COPYRIGHT LAWS &amp; TREATIES
+OF THE WORLD (I956-I970) (1970).<person-group>
+                     <string-name>
+                        <surname>Honduras</surname>
+                     </string-name>
+                  </person-group>
+                  <source>1 UNESCO, COPYRIGHT LAWS &amp; TREATIES OF THE WORLD</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4759a1310">
+            <label>191</label>
+            <p>
+               <mixed-citation id="d57e4766" publication-type="book">
+p. 325 supra.  <fpage>325</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4778a1310">
+            <label>192</label>
+            <p>
+               <mixed-citation id="d57e4785" publication-type="other">
+note 186 supra  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4795a1310">
+            <label>193</label>
+            <p>
+               <mixed-citation id="d57e4802" publication-type="other">
+Statement of Williams &amp; Wilkins Co., Copyright Law Revision, Hearings Before
+Subcomm. No. 3 of the House Comm. on the Judiciary, 89th Cong., 1st Sess.,
+ser. 8, pt. 3, 1511-18 (1965)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4814" publication-type="other">
+H.R. REP. NO. 2237, 89th Cong., 2d Sess. 58-66
+(1966).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4823" publication-type="book">
+G. GIPE, NEARER TO THE DUST (1967).<person-group>
+                     <string-name>
+                        <surname>Gipe</surname>
+                     </string-name>
+                  </person-group>
+                  <source>NEARER TO THE DUST</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4845a1310">
+            <label>194</label>
+            <p>
+               <mixed-citation id="d57e4852" publication-type="other">
+Association of Research Libraries, Newsletter No. 28, March 12, 1968,
+at 1.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4862a1310">
+            <label>195</label>
+            <p>
+               <mixed-citation id="d57e4869" publication-type="other">
+Register of Copyrights, supra note 166, at 24.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4878a1310">
+            <label>196</label>
+            <p>
+               <mixed-citation id="d57e4885" publication-type="book">
+CICP ii, 80.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4894a1310">
+            <label>197</label>
+            <p>
+               <mixed-citation id="d57e4901" publication-type="book">
+NIMMER § 145 (1967)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4909" publication-type="other">
+H.R. REP. NO. 2237, 89th
+Cong., 2d Sess. 64 (1966).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4919a1310">
+            <label>198</label>
+            <p>
+               <mixed-citation id="d57e4926" publication-type="journal">
+Cohen, Fair Use in the Law of Copyright, 6ASCAP
+COPYRIGHT LAW SYMPOSIUM43, 58 (1965).<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <volume>6</volume>
+                  <source>ASCAP COPYRIGHT LAW SYMPOSIUM</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e4957" publication-type="journal">
+2J. OF DOCUMENTARY REPRODUCTION29 (1939).<fpage>29</fpage>
+                  <volume>2</volume>
+                  <source>J. OF DOCUMENTARY REPRODUCTION</source>
+                  <year>1939</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4977a1310">
+            <label>199</label>
+            <p>
+               <mixed-citation id="d57e4984" publication-type="other">
+S. 543, 91st Cong., 1st Sess. § 107
+(1969).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e4994a1310">
+            <label>200</label>
+            <p>
+               <mixed-citation id="d57e5003" publication-type="other">
+H.R. REP. NO. 2237, 89th Cong., 2d Sess.
+64 (1966).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5013a1310">
+            <label>201</label>
+            <p>
+               <mixed-citation id="d57e5020" publication-type="book">
+CICP 70.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5028" publication-type="journal">
+Project, New Technology and the Law of Copyright: Repro-
+graphy and Computers, 15U.C.L.A. L. REV.931, 945 (1968) [hereinafter cited
+as UCLA Project].<fpage>931</fpage>
+                  <volume>15</volume>
+                  <source>U.C.L.A. L. REV.</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5054a1310">
+            <label>202</label>
+            <p>
+               <mixed-citation id="d57e5061" publication-type="book">
+AMERICAN BOOK PUBLISHERS COUNCIL, THE BUCK HILL FALLS REPORT19
+(1966).<person-group>
+                     <string-name>
+                        <surname>American Book Publishers Council</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>THE BUCK HILL FALLS REPORT</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5090a1310">
+            <label>203</label>
+            <p>
+               <mixed-citation id="d57e5097" publication-type="book">
+U.S. BUREAU OF THE CENSUS, STATISTICAL ABSTRACT OF THE UNITED STATES:
+1969, at 123.<person-group>
+                     <string-name>
+                        <surname>U.S. Bureau Of The Census</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>123</fpage>
+                  <source>STATISTICAL ABSTRACT OF THE UNITED STATES: 1969</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5122a1310">
+            <label>204</label>
+            <p>
+               <mixed-citation id="d57e5129" publication-type="journal">
+Special Report: ASCAP: Oldest, Biggest, Toughest, BROADCASTING148
+(Mar. 15, 1965).<issue>Mar. 15</issue>
+                  <fpage>148</fpage>
+                  <source>BROADCASTING</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5153a1310">
+            <label>205</label>
+            <p>
+               <mixed-citation id="d57e5160" publication-type="journal">
+Id.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5168" publication-type="book">
+U.S. BUREAU OF THE CENSUS, STATISTICAL ABSTRACT OF THE
+UNITED STATES: 1969, at 499.<person-group>
+                     <string-name>
+                        <surname>U.S. Bureau Of The Census</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>499</fpage>
+                  <source>STATISTICAL ABSTRACT OF THE UNITED STATES: 1969</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5193a1310">
+            <label>206</label>
+            <p>
+               <mixed-citation id="d57e5200" publication-type="book">
+U.S.
+BUREAU OF THE CENSUS, STATISTICAL ABSTRACT OF THE UNITED STATES: 1969, at
+123.<person-group>
+                     <string-name>
+                        <surname>U.S. Bureau Of The Census</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>123</fpage>
+                  <source>STATISTICAL ABSTRACT OF THE UNITED STATES: 1969</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5229a1310">
+            <label>207</label>
+            <p>
+               <mixed-citation id="d57e5236" publication-type="book">
+AMERICAN BOOK PUBLISHERS COUNCIL, THE BUCK HILL FALLS REPORT21
+(1966).<person-group>
+                     <string-name>
+                        <surname>American Book Publishers Council</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>21</fpage>
+                  <source>THE BUCK HILL FALLS REPORT</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5265a1310">
+            <label>208</label>
+            <p>
+               <mixed-citation id="d57e5272" publication-type="book">
+p. 317 supra.  <fpage>317</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5284a1310">
+            <label>209</label>
+            <p>
+               <mixed-citation id="d57e5291" publication-type="journal">
+ASCAP: A Record Year but Too Much 'Talk', BROADCASTING51 (March 4,
+1968).<issue>March 4</issue>
+                  <fpage>51</fpage>
+                  <source>BROADCASTING</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5314a1310">
+            <label>210</label>
+            <p>
+               <mixed-citation id="d57e5321" publication-type="journal">
+Finkelstein, Public Performance Rights in Music and Per-
+formance Right Societies, 7COPYRIGHT PROBLEMS ANALYZED1 (1961)<person-group>
+                     <string-name>
+                        <surname>Finkelstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <volume>7</volume>
+                  <source>COPYRIGHT PROBLEMS ANALYZED</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5352" publication-type="journal">
+Finkelstein,
+ASCAP as an Example of the Clearing House System in Operation, 14BULL. OF
+THE COPYRIGHT SOC'Y2 (1966).<person-group>
+                     <string-name>
+                        <surname>Finkelstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <volume>14</volume>
+                  <source>BULL. OF THE COPYRIGHT SOC'Y</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5388a1310">
+            <label>211</label>
+            <p>
+               <mixed-citation id="d57e5397" publication-type="book">
+CICP at 62, 71.  <fpage>62</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5408" publication-type="book">
+CICP 60.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5417a1310">
+            <label>214</label>
+            <p>
+               <mixed-citation id="d57e5424" publication-type="other">
+1967 Sen-
+ate Hearings 547-81  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5435" publication-type="other">
+CATV and Microforms, Speech by H. Hilton, 19th Annual
+Convention of the National Microform Association, April 28, 1970.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5445a1310">
+            <label>215</label>
+            <p>
+               <mixed-citation id="d57e5452" publication-type="other">
+Hartford-Empire Co. v. United States,
+323 U.S. 386 (1945)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5461" publication-type="other">
+Standard Oil Co. of Indiana v. United States, 283 U.S. 163
+(1931)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5470" publication-type="other">
+Automatic Radio Mfg. Co. v.
+Hazeltine Research, Inc., 339 U.S. 827 (1950).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5480" publication-type="other">
+United States v. ASCAP, 341 F.2d
+1003 (2d Cir. 1965)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5489" publication-type="other">
+[1940-43] CCH TRADE CAS ¶ 56,104</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5495" publication-type="other">
+[1950-51] CCH TRADE
+CAS. ¶ 62,595</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5504" publication-type="other">
+[1960] CCH TRADE CAS. ¶ 69,612.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5511a1310">
+            <label>216</label>
+            <p>
+               <mixed-citation id="d57e5518" publication-type="other">
+[1950-51] CCH TRADE CAS. ¶ 62,595,
+at 63,752.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5527" publication-type="journal">
+Finkelstein, Public Performance
+Rights in Music and Performance Right Societies, 7COPYRIGHT PROBLEMS ANA-
+LYZED1, I3-I5 (1961).<person-group>
+                     <string-name>
+                        <surname>Finkelstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <volume>7</volume>
+                  <source>COPYRIGHT PROBLEMS ANALYZED</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5562a1310">
+            <label>217</label>
+            <p>
+               <mixed-citation id="d57e5569" publication-type="book">
+A. RENOUARD, TRAITE DES DROIT d'AUTEURS,
+vol. 1, § IX, at 463 (1838).<person-group>
+                     <string-name>
+                        <surname>Renouard</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">§ IX</comment>
+                  <fpage>463</fpage>
+                  <volume>1</volume>
+                  <source>TRAITE DES DROIT d'AUTEURS</source>
+                  <year>1838</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5604a1310">
+            <label>218</label>
+            <p>
+               <mixed-citation id="d57e5611" publication-type="journal">
+U.C.L.A. Project 950-73  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5619" publication-type="journal">
+Committee to Investigate Copyright Problems, First
+Annual Report, 10BULL. OF THE COPYRIGHT SOC'Y1 (1960).<fpage>1</fpage>
+                  <volume>10</volume>
+                  <source>BULL. OF THE COPYRIGHT SOC'Y</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5643a1310">
+            <label>219</label>
+            <p>
+               <mixed-citation id="d57e5650" publication-type="book">
+CICP 68.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5658" publication-type="book">
+Id. at Table I.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5666" publication-type="book">
+Id. at 67, 77.  <fpage>67</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5678" publication-type="journal">
+UCLA Project 1026-27.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5686" publication-type="journal">
+pp. 319, 321 supra  <fpage>319</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5697" publication-type="journal">
+Benjamin, What
+Can Be Done to Save the Monograph?, SCIENTIFIC RESEARCH32 (Sept. 16, 1968).<person-group>
+                     <string-name>
+                        <surname>Benjamin</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Sept. 16</issue>
+                  <fpage>32</fpage>
+                  <source>SCIENTIFIC RESEARCH</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5728" publication-type="journal">
+Id. at 33.  <fpage>33</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5739" publication-type="journal">
+Id. at 33.  <fpage>33</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5751a1310">
+            <label>221</label>
+            <p>
+               <mixed-citation id="d57e5758" publication-type="journal">
+NATIONAL SCIENCE FOUNDA-
+TION, CHARACTERISTICS OF SCIENTIFIC JOURNALS 1949-1959 at 2, II, I2 (1964).<person-group>
+                     <string-name>
+                        <surname>National Science Foundation</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <source>CHARACTERISTICS OF SCIENTIFIC JOURNALS 1949-1959</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5787a1310">
+            <label>222</label>
+            <p>
+               <mixed-citation id="d57e5794" publication-type="journal">
+Id. at 11.  <fpage>11</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5806a1310">
+            <label>223</label>
+            <p>
+               <mixed-citation id="d57e5813" publication-type="book">
+p. 307 &amp; note 100 supra.  <fpage>307</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5825a1310">
+            <label>224</label>
+            <p>
+               <mixed-citation id="d57e5832" publication-type="journal">
+UCLA Project 946.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5840" publication-type="book">
+REPORT OF
+THE TASK GROUP ON DISSEMINATION OF INFORMATION, RECOMMENDATIONS FOR
+IMPROVING THE DISSEMINATION OF FEDERAL SCIENTIFIC AND TECHNICAL INFOR-
+MATION (Dec. 1969).<person-group>
+                     <string-name>
+                        <surname>Report Of The Task Group On Dissemination Of Information</surname>
+                     </string-name>
+                  </person-group>
+                  <source>RECOMMENDATIONS FOR IMPROVING THE DISSEMINATION OF FEDERAL SCIENTIFIC AND TECHNICAL INFORMATION</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5871" publication-type="journal">
+UCLA Project 973.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5880" publication-type="book">
+CICP 84.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5888" publication-type="book">
+note 100 supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5897a1310">
+            <label>225</label>
+            <p>
+               <mixed-citation id="d57e5904" publication-type="other">
+Copyright Act of 1956, 4 &amp; 5 Eliz. 2, c. 74, § 6(1)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5910" publication-type="book">
+THE
+SOC'Y OF AUTHORS &amp; THE PUBLISHERS ASS'N, PHOTOCOPYING AND THE LAW
+(1965).<source>THE SOC'Y OF AUTHORS &amp; THE PUBLISHERS ASS'N, PHOTOCOPYING AND THE LAW</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5930a1310">
+            <label>226</label>
+            <p>
+               <mixed-citation id="d57e5937" publication-type="other">
+S. 543, 91st Cong., 1st Sess., tit. II (1969).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5944a1310">
+            <label>228</label>
+            <p>
+               <mixed-citation id="d57e5951" publication-type="other">
+Statement of Professor Anthony G. Oettinger, 1967 Senate Hearings, pt. 2, at
+581, 588.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e5961a1310">
+            <label>229</label>
+            <p>
+               <mixed-citation id="d57e5968" publication-type="journal">
+UCLA
+Project 993-1000  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e5979" publication-type="journal">
+Greenbaum, Copyright and the Computer, 114CONG. REC.
+17042 (1968).<person-group>
+                     <string-name>
+                        <surname>Greenbaum</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>17042</fpage>
+                  <volume>114</volume>
+                  <source>CONG. REC.</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6011a1310">
+            <label>230</label>
+            <p>
+               <mixed-citation id="d57e6020" publication-type="journal">
+UCLA Project 1004-17.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6028" publication-type="other">
+S.543, 91st Cong., 1st
+Sess., § 110(1) (1969).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6038" publication-type="other">
+The Copyright Revision Bill in Relation to Computers,
+1967 Senate Hearings, pt. 2, at 570, 576.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6047" publication-type="other">
+S. 543, 91st Cong., 1st Sess. § 101 (1969).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6054a1310">
+            <label>231</label>
+            <p>
+               <mixed-citation id="d57e6061" publication-type="partial">
+note 229 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6068a1310">
+            <label>233</label>
+            <p>
+               <mixed-citation id="d57e6075" publication-type="other">
+S. 543, 91st Cong., 1st Sess. § 101 (1969).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6081" publication-type="other">
+Statement of EDUCOM on Copyright Law Revision, 1967 Senate
+Hearings, pt. 2, at 565.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6092a1310">
+            <label>234</label>
+            <p>
+               <mixed-citation id="d57e6099" publication-type="book">
+THE PRESIDENT'S COMMISSION ON THE PATENT SYSTEM, "TO PROMOTE
+THE PROGRESS OF . . . USEFUL ARTS": IN AN AGE OF EXPLODING TECHNOLOGY12
+(1966).<person-group>
+                     <string-name>
+                        <surname>The President's Commission On The Patent System</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>"TO PROMOTE THE PROGRESS OF . . . USEFUL ARTS": IN AN AGE OF EXPLODING TECHNOLOGY</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6131a1310">
+            <label>236</label>
+            <p>
+               <mixed-citation id="d57e6138" publication-type="partial">
+note 235 supra</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6145a1310">
+            <label>237</label>
+            <p>
+               <mixed-citation id="d57e6152" publication-type="partial">
+note 236 supra</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6159a1310">
+            <label>238</label>
+            <p>
+               <mixed-citation id="d57e6166" publication-type="book">
+McGovern, User Software Economics, in COMPUTERS-IN-LAW
+INSTITUTE, NATIONAL LAW CENTER, GEORGE WASHINGTON UNIVERSITY, 1969 PRO-
+CEEDINGS: THE LAW OF SOFTWARE L-8 [hereinafter referred to as McGovern,
+Software].<person-group>
+                     <string-name>
+                        <surname>McGovern</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">User Software Economics</comment>
+                  <source>COMPUTERS-IN-LAW INSTITUTE, NATIONAL LAW CENTER, GEORGE WASHINGTON UNIVERSITY, 1969 PROCEEDINGS: THE LAW OF SOFTWARE L-8</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6198a1310">
+            <label>239</label>
+            <p>
+               <mixed-citation id="d57e6205" publication-type="partial">
+note 236
+supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6215a1310">
+            <label>240</label>
+            <p>
+               <mixed-citation id="d57e6222" publication-type="journal">
+Pantages, The Problems of Packaged Programs, 14DATAMATION75
+(April1968)<person-group>
+                     <string-name>
+                        <surname>Pantages</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <fpage>75</fpage>
+                  <volume>14</volume>
+                  <source>DATAMATION</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6256" publication-type="journal">
+Reynolds, Software Protection and Software Sale, DATA PROCESS-
+ING MAGAZINE50 (May1967)<person-group>
+                     <string-name>
+                        <surname>Reynolds</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>50</fpage>
+                  <source>DATA PROCESSING MAGAZINE</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6287" publication-type="journal">
+Software Gap -A Growing Crisis for Computers,
+BUS. WEEK126, I32 (Nov. 5, 1966).<issue>Nov. 5</issue>
+                  <fpage>126</fpage>
+                  <source>BUS. WEEK</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6311a1310">
+            <label>241</label>
+            <p>
+               <mixed-citation id="d57e6318" publication-type="journal">
+Software Writing Called 5% Inspiration and 95% Perspiration by IBM
+Attorney, COMPUTERWORLD7 (Aug. 6, 1969).<issue>Aug. 6</issue>
+                  <volume>7</volume>
+                  <source>COMPUTERWORLD</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6341a1310">
+            <label>242</label>
+            <p>
+               <mixed-citation id="d57e6348" publication-type="journal">
+Reynolds, supra note 240, at 50.  <fpage>50</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6360a1310">
+            <label>244</label>
+            <p>
+               <mixed-citation id="d57e6367" publication-type="journal">
+McOustra, Legal Protection for Computer Programs, 8THE COM-
+PUTER J.289 (1965)<person-group>
+                     <string-name>
+                        <surname>McOustra</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>289</fpage>
+                  <volume>8</volume>
+                  <source>THE COMPUTER J.</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6398" publication-type="journal">
+McTiernen, Copyright Protection for Computer Programs,
+J. DATA MANAGEMENT (Jan.1966)<person-group>
+                     <string-name>
+                        <surname>McTiernen</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Jan.</issue>
+                  <source>J. DATA MANAGEMENT</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6426" publication-type="journal">
+UCLA Project 981-84.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6435" publication-type="book">
+1969
+COMPUTER CONFERENCE, supra note 238.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6447a1310">
+            <label>245</label>
+            <p>
+               <mixed-citation id="d57e6456" publication-type="journal">
+Note, Computer Programs and
+Proposed Revisions of the Patent and Copyright Laws, 81HARV. L. REV.1541,
+I549-52 (1968).<object-id pub-id-type="doi">10.2307/1339307</object-id>
+                  <fpage>1541</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6475a1310">
+            <label>246</label>
+            <p>
+               <mixed-citation id="d57e6482" publication-type="book">
+5 EDP INDUSTRY
+REPORT3 (March I2, 1970).<fpage>3</fpage>
+                  <source>5 EDP INDUSTRY REPORT</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6500" publication-type="book">
+McGovern, Free Competition and Illegal Restraints in
+Software, I969 COMPUTER CONFERENCE, supra note 238, at J-1, J-20 [hereinafter
+referred to as McGovern, Competition].<person-group>
+                     <string-name>
+                        <surname>McGovern</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Free Competition and Illegal Restraints in Software</comment>
+                  <fpage>J-1</fpage>
+                  <source>COMPUTERS-IN-LAW INSTITUTE, NATIONAL LAW CENTER, GEORGE WASHINGTON UNIVERSITY, 1969 PROCEEDINGS: THE LAW OF SOFTWARE L-8</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6532a1310">
+            <label>247</label>
+            <p>
+               <mixed-citation id="d57e6539" publication-type="other">
+Telephone conversation with George Cary, Office of Register of Copyrights,
+Washington, D.C., Nov. 16, 1970.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6548" publication-type="other">
+Washingtonian Pub. Co. v. Pearson, 306 U.S. 30 (1939).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6554" publication-type="journal">
+note 245 supra.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6564a1310">
+            <label>248</label>
+            <p>
+               <mixed-citation id="d57e6571" publication-type="book">
+McGovern, Competition
+J-19.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6582" publication-type="book">
+Doud, The Business of Software and Its Protection,
+I969 COMPUTER CONFERENCE, supra note 238, at P-1, P-8<person-group>
+                     <string-name>
+                        <surname>Doud</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Business of Software and Its Protection</comment>
+                  <fpage>P-1</fpage>
+                  <source>COMPUTERS-IN-LAW INSTITUTE, NATIONAL LAW CENTER, GEORGE WASHINGTON UNIVERSITY, 1969 PROCEEDINGS: THE LAW OF SOFTWARE L-8</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6610" publication-type="book">
+Goetz, Future Direction
+in the Software Industry, Id. at M-1 to M-5.<person-group>
+                     <string-name>
+                        <surname>Goetz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Business of Software and Its Protection</comment>
+                  <fpage>M-1</fpage>
+                  <source>COMPUTERS-IN-LAW INSTITUTE, NATIONAL LAW CENTER, GEORGE WASHINGTON UNIVERSITY, 1969 PROCEEDINGS: THE LAW OF SOFTWARE L-8</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6639a1310">
+            <label>249</label>
+            <p>
+               <mixed-citation id="d57e6646" publication-type="book">
+McGovern, Software, at L-1, L-8.  <fpage>L-1</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6658a1310">
+            <label>250</label>
+            <p>
+               <mixed-citation id="d57e6665" publication-type="book">
+Id.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6674a1310">
+            <label>251</label>
+            <p>
+               <mixed-citation id="d57e6681" publication-type="book">
+McGovern, Competition.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6690a1310">
+            <label>252</label>
+            <p>
+               <mixed-citation id="d57e6697" publication-type="book">
+Id. at J-19.  <fpage>J-19</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6709a1310">
+            <label>253</label>
+            <p>
+               <mixed-citation id="d57e6716" publication-type="book">
+McGovern, Competition  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6724" publication-type="book">
+McGovern, Software  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6732" publication-type="journal">
+Head &amp; Linick, Software
+Package Acquisition, 14DATAMATION22 (Oct.1968).<person-group>
+                     <string-name>
+                        <surname>Head</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Oct.</issue>
+                  <fpage>22</fpage>
+                  <volume>14</volume>
+                  <source>DATAMATION</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6768a1310">
+            <label>254</label>
+            <p>
+               <mixed-citation id="d57e6775" publication-type="book">
+Goetz, supra note 248, at M-2.  <fpage>M-2</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6787a1310">
+            <label>255</label>
+            <p>
+               <mixed-citation id="d57e6794" publication-type="journal">
+ADR to sell ioooth A UTOFLOW, 3COMPUTERWORLD41 (Dec. 31, 1969)<issue>Dec. 31</issue>
+                  <fpage>41</fpage>
+                  <volume>3</volume>
+                  <source>COMPUTERWORLD</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6816" publication-type="journal">
+Software Marketplace Reflects Realignment of Users, 3COMPUTERWORLD83 (Nov.
+12, 1969)<issue>Nov. 12</issue>
+                  <fpage>83</fpage>
+                  <volume>3</volume>
+                  <source>COMPUTERWORLD</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6841" publication-type="journal">
+Tailor-Made Packages Are Often Unneeded, 3COMPUTERWORLD5 (July
+9, 1969).<issue>July 9</issue>
+                  <fpage>5</fpage>
+                  <volume>3</volume>
+                  <source>COMPUTERWORLD</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6867a1310">
+            <label>256</label>
+            <p>
+               <mixed-citation id="d57e6874" publication-type="book">
+McGovern, Competition  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6882" publication-type="book">
+McGovern, Software.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6891a1310">
+            <label>257</label>
+            <p>
+               <mixed-citation id="d57e6898" publication-type="journal">
+Pantages, supra note 240, at 75.  <fpage>75</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6910a1310">
+            <label>258</label>
+            <p>
+               <mixed-citation id="d57e6917" publication-type="journal">
+Minini, Implementing the Very Large Applications - Soft-
+ware Package, 15DATAMATION141 (Dec.1969).<person-group>
+                     <string-name>
+                        <surname>Minini</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Dec.</issue>
+                  <fpage>141</fpage>
+                  <volume>15</volume>
+                  <source>DATAMATION</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e6952a1310">
+            <label>259</label>
+            <p>
+               <mixed-citation id="d57e6959" publication-type="journal">
+I970 Time-Sharing Supplement, 4COMPUTERWORLD
+(Mar. 25, 1970)<issue>Mar. 25</issue>
+                  <volume>4</volume>
+                  <source>COMPUTERWORLD</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e6981" publication-type="journal">
+Fano &amp; Corbato, Time-Sharing on Computers, 215SCIENTIFIC
+AM.128 (Sept.1966).<person-group>
+                     <string-name>
+                        <surname>Fano</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Sept.</issue>
+                  <fpage>128</fpage>
+                  <volume>215</volume>
+                  <source>SCIENTIFIC AM.</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7017a1310">
+            <label>260</label>
+            <p>
+               <mixed-citation id="d57e7024" publication-type="book">
+McGovern, Competition J-19.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7033a1310">
+            <label>261</label>
+            <p>
+               <mixed-citation id="d57e7040" publication-type="book">
+McGovern, Competition J-10.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7049a1310">
+            <label>262</label>
+            <p>
+               <mixed-citation id="d57e7056" publication-type="other">
+1967 Senate Hearings 589.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7065a1310">
+            <label>263</label>
+            <p>
+               <mixed-citation id="d57e7072" publication-type="journal">
+Pantages, supra note 240, at 75.  <fpage>75</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7084a1310">
+            <label>264</label>
+            <p>
+               <mixed-citation id="d57e7091" publication-type="other">
+S. Perlman,
+Computer Programs and Proprietary Rights: Defining the Framework, April 19,
+1970</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7104a1310">
+            <label>265</label>
+            <p>
+               <mixed-citation id="d57e7111" publication-type="other">
+Id. at 9, 10  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7119" publication-type="partial">
+notes 246, 248 supra.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7127a1310">
+            <label>267</label>
+            <p>
+               <mixed-citation id="d57e7134" publication-type="book">
+Goetz, supra note 248, at M-2.  <fpage>M-2</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7146a1310">
+            <label>268</label>
+            <p>
+               <mixed-citation id="d57e7155" publication-type="other">
+35 U.S.C. § 103 (1964).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7161" publication-type="other">
+MACHLUP, supra note 149  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7170" publication-type="journal">
+Note, Com-
+puter Programs and Proposed Revisions of the Patent and Copyright Laws, 81
+HARV. L. REV.1541, I552-54 (1968).<object-id pub-id-type="doi">10.2307/1339307</object-id>
+                  <fpage>1541</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7188" publication-type="partial">
+Application
+of Charles D. Prater, 415 F.2d 1393 (C.C.P.A. 1969)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7197" publication-type="partial">
+Application of Walter D.
+Bernhart 417 F.2d 1395 (C.C.P.A. 1969).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7206" publication-type="other">
+Statement of Edward J. Brenner, Commissioner of Patents, in Hearings on S. 2,
+S. 1042, S. 1377, S. 1691, S. 2164, S. 2597 before the Subcomm. on Patents, Trade-
+marks, and Copyrights of the Senate Comm. on the Judiciary, 90th Cong., 1st
+Sess. 393 (1968).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7222a1310">
+            <label>269</label>
+            <p>
+               <mixed-citation id="d57e7231" publication-type="journal">
+Developments in the Law - Com-
+petitive Torts, 77HARV. L. REV.888, 947-59 (1964).<object-id pub-id-type="doi">10.2307/1339053</object-id>
+                  <fpage>888</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7246" publication-type="journal">
+Software Gets a Hardsell Ap-
+proach, BUS. WEEK171 (Oct. 21, 1967)<issue>Oct. 21</issue>
+                  <fpage>171</fpage>
+                  <source>BUS. WEEK</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7269" publication-type="book">
+IBM License Agreement, 1969 COMPUTER
+CONFERENCE, supra note 238.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7280" publication-type="journal">
+Note, Computer Programs and Proposed Revisions of the Patent and Copyright
+Laws, 81HARV. L. REV.1541, I544, I546-47, I555 (1968).<object-id pub-id-type="doi">10.2307/1339307</object-id>
+                  <fpage>1541</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7295" publication-type="other">
+Lear v. Atkins, 395
+U.S. 653 (1969)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7304" publication-type="other">
+Sears, Roebuck &amp; Co. v. Stiffel Co., 376 U.S. 225 (1964)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7310" publication-type="other">
+Compco
+Corp. v. Day-Brite Lighting, Inc., 376 U.S. 234 (1964).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7320a1310">
+            <label>270</label>
+            <p>
+               <mixed-citation id="d57e7327" publication-type="other">
+1967 Senate
+Hearings 570-73.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7339a1310">
+            <label>271</label>
+            <p>
+               <mixed-citation id="d57e7346" publication-type="partial">
+note 244 supra.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e7352" publication-type="book">
+1969 COMPUTER CONFERENCE, supra note
+238  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e7364a1310">
+            <label>272</label>
+            <p>
+               <mixed-citation id="d57e7371" publication-type="other">
+1967 Senate Hearings 198-99, 570-
+73, 589.  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

@@ -1,0 +1,76 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">hudsonreview</journal-id>
+         <journal-id journal-id-type="jstor">j101056</journal-id>
+         <journal-title-group>
+            <journal-title>The Hudson Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Hudson Review, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0018702X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/3849086</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Chronicles</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Man, His Gaoler</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Vernon</given-names>
+                  <surname>Young</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1971</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">24</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i372066</issue-id>
+         <fpage>128</fpage>
+         <lpage>134</lpage>
+         <page-range>128-134</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1971 The Hudson Review, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3849086"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d36e184a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d36e191" publication-type="other">
+Gollancz, 1963</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e197" publication-type="other">
+Farrar, Straus &amp; Giroux, 1969</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

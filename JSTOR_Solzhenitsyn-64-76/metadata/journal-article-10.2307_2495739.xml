@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00376779</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/2495739</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Harold</given-names>
+                  <surname>Swayze</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i322534</issue-id>
+         <fpage>825</fpage>
+         <lpage>827</lpage>
+         <page-range>825-827</page-range>
+         <product>
+            <source>The Gulag Archipelago, 1918-1956: An Experiment in Literary Investigation, I-II.</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Aleksandr I.</given-names>
+               <surname>Solzhenitsyn</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Thomas P.</given-names>
+               <surname>Whitney</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Stalinist Terror in the Thirties: Documentation from the Soviet Press.</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Borys</given-names>
+               <surname>Levytsky</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1975 American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/2495739"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

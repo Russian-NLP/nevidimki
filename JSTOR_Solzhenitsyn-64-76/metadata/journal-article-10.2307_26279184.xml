@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">modefictstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013829</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Modern Fiction Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>THE PURDUE UNIVERSITY DEPARTMENT OF ENGLISH</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00267724</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1080658X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">18</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i26277043</issue-id>
+         <article-id pub-id-type="jstor">26279184</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>RECENT BOOKS ON MODERN FICTION</subject>
+               <subj-group>
+                  <subject>BOOKS REVIEWED</subject>
+                  <subj-group>
+                     <subject>CONTINENTAL</subject>
+                  </subj-group>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>PIERRE R.</given-names>
+                  <surname>HART</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>290</fpage>
+         <lpage>297</lpage>
+         <product>
+            <source>The Chameleon and the Dream</source>
+            <string-name>
+               <given-names>Karl D.</given-names>
+               <surname>Kramer</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Invisible Land</source>
+            <string-name>
+               <given-names>Elizabeth K.</given-names>
+               <surname>Beaujour</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Russia's Lost Literature of the Absurd</source>
+            <string-name>
+               <given-names>George</given-names>
+               <surname>Gibian</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Aleksandr Solzhenitsyn</source>
+            <string-name>
+               <given-names>Abraham</given-names>
+               <surname>Rothberg</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Vladimir Nabokov. University of Minnesota Pamphlets on American Writers</source>
+            <string-name>
+               <given-names>Julian</given-names>
+               <surname>Moynahan</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright © 1972 Purdue Research Foundation</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26279184"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

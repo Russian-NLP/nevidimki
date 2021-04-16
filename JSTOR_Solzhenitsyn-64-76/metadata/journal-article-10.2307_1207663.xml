@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">contlite</journal-id>
+         <journal-id journal-id-type="jstor">j100134</journal-id>
+         <journal-title-group>
+            <journal-title>Contemporary Literature</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Wisconsin Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00107484</issn>
+         <issn pub-type="epub">15489949</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1207663</article-id>
+         <title-group>
+            <article-title>The Myths of Summer: Philip Roth's "The Great American Novel"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Ben</given-names>
+                  <surname>Siegel</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Philip</given-names>
+                  <surname>Roth</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">17</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i251683</issue-id>
+         <fpage>171</fpage>
+         <lpage>190</lpage>
+         <page-range>171-190</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 Board of Regents of the University of Wisconsin System</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1207663"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d356e126a1310">
+            <p>
+               <mixed-citation id="d356e130" publication-type="journal">
+Geoffrey Wolff, "Beyond Portnoy," Newsweek, 3 Aug. 1970, p. 66.<person-group>
+                     <string-name>
+                        <surname>Wolff</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3 Aug.</issue>
+                  <fpage>66</fpage>
+                  <source>Newsweek</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e159a1310">
+            <p>
+               <mixed-citation id="d356e163" publication-type="journal">
+Philip Roth, "Writing American Fiction," Commentary, 31 (March
+1961), 224-25<person-group>
+                     <string-name>
+                        <surname>Roth</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>March</issue>
+                  <fpage>224</fpage>
+                  <volume>31</volume>
+                  <source>Commentary</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e198a1310">
+            <p>
+               <mixed-citation id="d356e202" publication-type="journal">
+Sheldon Frank, "Next Up: 'An Unbelievably Funny Novel,' " National
+Observer, 12 May 1973, p. 23.<person-group>
+                     <string-name>
+                        <surname>Frank</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>12 May</issue>
+                  <fpage>23</fpage>
+                  <source>National Observer</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e234a1310">
+            <p>
+               <mixed-citation id="d356e238" publication-type="journal">
+Alan Lelchuk, "On The Breast: An Interview," New York Review of
+Books, 19 Oct. 1972, p. 26.<person-group>
+                     <string-name>
+                        <surname>Lelchuk</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>19 Oct.</issue>
+                  <fpage>26</fpage>
+                  <source>New York Review of Books</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e271a1310">
+            <p>
+               <mixed-citation id="d356e275" publication-type="journal">
+John Leonard, "Cheever to Roth to Malamud," Atlantic, 231 (June
+1973), 115.<person-group>
+                     <string-name>
+                        <surname>Leonard</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>June</issue>
+                  <fpage>115</fpage>
+                  <volume>231</volume>
+                  <source>Atlantic</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e310a1310">
+            <p>
+               <mixed-citation id="d356e314" publication-type="journal">
+Wolff, p. 66.  <fpage>66</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e326a1310">
+            <p>
+               <mixed-citation id="d356e330" publication-type="journal">
+Alan Lelchuk, "On Satirizing Presidents: An Interview with Philip
+Roth," Atlantic, 228 (Dec. 1971), 84.<person-group>
+                     <string-name>
+                        <surname>Lelchuk</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Dec.</issue>
+                  <fpage>84</fpage>
+                  <volume>228</volume>
+                  <source>Atlantic</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e365a1310">
+            <p>
+               <mixed-citation id="d356e369" publication-type="journal">
+Peter S. Prescott, "At the Old Ball Game," Newsweek, 14 May 1973, p.
+125,<person-group>
+                     <string-name>
+                        <surname>Prescott</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>14 May</issue>
+                  <fpage>125</fpage>
+                  <source>Newsweek</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e401a1310">
+            <p>
+               <mixed-citation id="d356e405" publication-type="book">
+Philip Roth, The Great American Novel (New York: Holt, Rinehart and
+Winston, 1973)<person-group>
+                     <string-name>
+                        <surname>Roth</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Great American Novel</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e430a1310">
+            <p>
+               <mixed-citation id="d356e434" publication-type="journal">
+R. Z. Sheppard, "The Name of the Game," Time, 7 May 1973, p.
+69<person-group>
+                     <string-name>
+                        <surname>Sheppard</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>7 May</issue>
+                  <fpage>69</fpage>
+                  <source>Time</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e465" publication-type="journal">
+Richard Gilman, "Ball Five," Partisan Review, 40, No. 3 (1973), 467<person-group>
+                     <string-name>
+                        <surname>Gilman</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <fpage>467</fpage>
+                  <volume>40</volume>
+                  <source>Partisan Review</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e498a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d356e505" publication-type="book">
+Frank Norris, "The Great American Novelist," The Responsibilities of
+the Novelist (1903; rpt. Cambridge, Mass.: Walker-de Berry, Inc., 1962), p.
+230.<person-group>
+                     <string-name>
+                        <surname>Norris</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Great American Novelist</comment>
+                  <fpage>230</fpage>
+                  <source>The Responsibilities of the Novelist</source>
+                  <year>1903</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e540a1310">
+            <p>
+               <mixed-citation id="d356e544" publication-type="book">
+Jack Meyers, "Letter from the Publisher," Sports Illustrated, 12 March
+1973, p. 4.<person-group>
+                     <string-name>
+                        <surname>Meyers</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Letter from the Publisher</comment>
+                  <fpage>4</fpage>
+                  <source>Sports Illustrated</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e576a1310">
+            <p>
+               <mixed-citation id="d356e580" publication-type="journal">
+Philip Roth, "Reading Myself," Partisan Review, 40, No. 3 (1973),
+404-05<person-group>
+                     <string-name>
+                        <surname>Roth</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <fpage>404</fpage>
+                  <volume>40</volume>
+                  <source>Partisan Review</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e615a1310">
+            <p>
+               <mixed-citation id="d356e619" publication-type="journal">
+Wilfrid Sheed, "The Good Word: Howe's Complaint," New York Times Book
+Review, 6 May 1973, p. 2<person-group>
+                     <string-name>
+                        <surname>Sheed</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>6 May</issue>
+                  <fpage>2</fpage>
+                  <source>New York Times Book Review</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e650" publication-type="book">
+Roth's comments on "the uses of satire,"
+by others and himself, in Lelchuk, "On Satirizing Presidents," pp. 82-86, 88<person-group>
+                     <string-name>
+                        <surname>Roth</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">the uses of satire</comment>
+                  <fpage>82</fpage>
+                  <source>On Satirizing Presidents</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e679a1310">
+            <p>
+               <mixed-citation id="d356e683" publication-type="journal">
+John W. Aldridge, "Literary Onanism," Commentary, 58 (Sept. 1974),
+84.<person-group>
+                     <string-name>
+                        <surname>Aldridge</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Sept.</issue>
+                  <fpage>84</fpage>
+                  <volume>58</volume>
+                  <source>Commentary</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e718a1310">
+            <p>
+               <mixed-citation id="d356e722" publication-type="journal">
+Thomas R. Edwards, "The Great American Novel," New York Times
+Book Review, 6 May 1973, p. 27.<person-group>
+                     <string-name>
+                        <surname>Edwards</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>6 May</issue>
+                  <fpage>27</fpage>
+                  <source>New York Times Book Review</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e755a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d356e762" publication-type="book">
+Roger Angell, The Summer Game (New York: Popu-
+lar Library, 1972), pp. 319-20<person-group>
+                     <string-name>
+                        <surname>Angell</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>319</fpage>
+                  <source>The Summer Game</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e791a1310">
+            <p>
+               <mixed-citation id="d356e795" publication-type="journal">
+Eugene McCarthy, " 'In This Summer of Our Discontent': Gene
+McCarthy Comes to Bat-for Baseball," Los Angeles Times, 19 June 1974, p.
+7, cols, 1-3<person-group>
+                     <string-name>
+                        <surname>McCarthy</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>19 June</issue>
+                  <fpage>7</fpage>
+                  <source>Los Angeles Times</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e830a1310">
+            <p>
+               <mixed-citation id="d356e834" publication-type="journal">
+Stefan Kanfer, "The Greatest Game," Time, 30 April 1973, p. 82<person-group>
+                     <string-name>
+                        <surname>Kanfer</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>30 April</issue>
+                  <fpage>82</fpage>
+                  <source>Time</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e863a1310">
+            <p>
+               <mixed-citation id="d356e867" publication-type="journal">
+Edwards, p. 27  <fpage>27</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e879a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d356e886" publication-type="journal">
+Edwards, pp. 27-28  <fpage>27</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e898a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d356e905" publication-type="journal">
+William Gass, "The Sporting News," New York Review of Books, 31
+May 1973, p. 8<person-group>
+                     <string-name>
+                        <surname>Gass</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>31 May</issue>
+                  <fpage>8</fpage>
+                  <source>New York Review of Books</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e938a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d356e945" publication-type="book">
+Earnshaw Cook's Percentage Baseball (Cambridge, Mass.:
+M. I. T. Press, 1966)<person-group>
+                     <string-name>
+                        <surname>Cook</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Percentage Baseball</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e969" publication-type="book">
+Joseph F. Drury, Sr., "The Hell It Doesn't Curve," The Fireside
+Book of Baseball (New York: Simon and Schuster, 1956), pp. 98-101<person-group>
+                     <string-name>
+                        <surname>Drury</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Hell It Doesn't Curve</comment>
+                  <fpage>98</fpage>
+                  <source>The Fireside Book of Baseball</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1000" publication-type="book">
+Lawrence S. Ritter, The Glory of Their Times (New
+York: Macmillan, 1966)<person-group>
+                     <string-name>
+                        <surname>Ritter</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Glory of Their Times</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1025" publication-type="book">
+Roger Kahn's The Boys of Summer (New York: Harper and
+Row, 1973)<person-group>
+                     <string-name>
+                        <surname>Kahn</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Boys of Summer</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1049" publication-type="book">
+Roger Angell's The Summer Game<person-group>
+                     <string-name>
+                        <surname>Angell</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Summer Game</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1067" publication-type="book">
+Jim Brosnan's
+The Long Season<person-group>
+                     <string-name>
+                        <surname>Brosnan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Long Season</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1088" publication-type="other">
+Jim Bouton's Ball</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1094" publication-type="book">
+Mark Harris' Bang the Drum Slowly<person-group>
+                     <string-name>
+                        <surname>Harris</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Bang the Drum Slowly</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1112" publication-type="book">
+Robert Coover's The
+Universal Baseball Association<person-group>
+                     <string-name>
+                        <surname>Coover</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Universal Baseball Association</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1134" publication-type="book">
+Chaim Potok's The Chosen<person-group>
+                     <string-name>
+                        <surname>Potok</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Chosen</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1152" publication-type="other">
+St. Urbain's Horseman</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1158" publication-type="book">
+Joe DiMaggio and Dick Sisler in The Old Man and the Sea<person-group>
+                     <string-name>
+                        <surname>Dimaggio</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Old Man and the Sea</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1176" publication-type="other">
+notes 29 and 30</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1183a1310">
+            <p>
+               <mixed-citation id="d356e1187" publication-type="book">
+Robert Coover, The Universal Baseball Association, Inc., J. Henry
+Waugh, Prop, (New York: New American Library, 1968), p. 45.<person-group>
+                     <string-name>
+                        <surname>Coover</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>45</fpage>
+                  <source>The Universal Baseball Association</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1216a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d356e1223" publication-type="book">
+Philip Roth, Portnoy's Complaint (New York: Random House, 1969), p.
+69.<person-group>
+                     <string-name>
+                        <surname>Roth</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>69</fpage>
+                  <source>Portnoy's Complaint</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1252a1310">
+            <p>
+               <mixed-citation id="d356e1256" publication-type="journal">
+Philip Roth, "My Baseball Years," New York Times, 2 April 1973, p.
+35.<person-group>
+                     <string-name>
+                        <surname>Roth</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>2 April</issue>
+                  <fpage>35</fpage>
+                  <source>New York Times</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1288a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d356e1295" publication-type="journal">
+Gass, p. 8  <fpage>8</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1307a1310">
+            <p>
+               <mixed-citation id="d356e1311" publication-type="journal">
+New York Evening Enquirer<source>New York Evening Enquirer</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1320" publication-type="book">
+Portnoy's Complaint, "On the Air," and The Breast<person-group>
+                     <string-name>
+                        <surname>Complaint</surname>
+                     </string-name>
+                  </person-group>
+                  <source>On the Air</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1340a1310">
+            <p>
+               <mixed-citation id="d356e1344" publication-type="journal">
+Bernard F. Rodgers, Jr., "The Great American Novel
+and 'The Great American Joke,' " Critique, 16, No. 2 (1975), 12-29<person-group>
+                     <string-name>
+                        <surname>Rodgers</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>2</issue>
+                  <fpage>12</fpage>
+                  <volume>16</volume>
+                  <source>Critique</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1379a1310">
+            <p>
+               <mixed-citation id="d356e1383" publication-type="book">
+Frank Tousey's Five Cent Wide Awake Library. Of special relevance here are
+Muldoon's Base Ball Club in Boston (10 May 1890)<person-group>
+                     <string-name>
+                        <surname>Tousey</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Five Cent Wide Awake Library</source>
+                  <year>1890</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1407" publication-type="book">
+Muldoon's Base Ball
+Club in Philadelphia (7 June 1890)<person-group>
+                     <string-name>
+                        <surname>Muldoon</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Base Ball Club in Philadelphia</source>
+                  <year>1890</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1431" publication-type="book">
+Professor Christian Messenger of Witten-
+berg University-and to his paper, "Sport in the Dime Novel,"
+presented at the 1975 meeting of the Popular Culture Association<person-group>
+                     <string-name>
+                        <surname>Messenger</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sport in the Dime Novel</comment>
+                  <source>1975 meeting of the Popular Culture Association</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1463a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d356e1470" publication-type="book">
+Meyers, p. 4  <fpage>4</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1482a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d356e1489" publication-type="journal">
+Gilman, p. 470  <fpage>407</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1501a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d356e1508" publication-type="journal">
+Edwards, p. 27  <fpage>27</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1520a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d356e1527" publication-type="journal">
+Edwards, p. 27  <fpage>27</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1540a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d356e1547" publication-type="book">
+Lelchuk, "On Satirizing Presidents," p. 86<person-group>
+                     <string-name>
+                        <surname>Lelchuk</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>86</fpage>
+                  <source>On Satirizing Presidents</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1569a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d356e1576" publication-type="book">
+Lelchuk, "On The Breast," p. 27<person-group>
+                     <string-name>
+                        <surname>Lelchuk</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>27</fpage>
+                  <source>On The Breast</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1598a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d356e1605" publication-type="book">
+The Great American Novel<source>The Great American Novel</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d356e1614" publication-type="journal">
+Rodgers, p. 28, n. 13  <fpage>28</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1626a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d356e1633" publication-type="journal">
+Dorothy Rabinowitz, "Books in Brief," World, 2 (May-Aug. 1973), 50.<person-group>
+                     <string-name>
+                        <surname>Rabinowitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>50</fpage>
+                  <volume>2</volume>
+                  <source>World</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1662a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d356e1669" publication-type="journal">
+Gilman, p. 469  <fpage>469</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d356e1681a1310">
+            <p>
+               <mixed-citation id="d356e1685" publication-type="journal">
+Gilman, p. 471  <fpage>471</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

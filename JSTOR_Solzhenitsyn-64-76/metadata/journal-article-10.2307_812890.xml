@@ -1,0 +1,76 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">englishj</journal-id>
+         <journal-id journal-id-type="jstor">j100151</journal-id>
+         <journal-title-group>
+            <journal-title>The English Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Council of Teachers of English</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00138274</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/812890</article-id>
+         <title-group>
+            <article-title>Gogol's Hollow Men</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Thomas A.</given-names>
+                  <surname>Smith</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1972</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">61</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i233592</issue-id>
+         <fpage>32</fpage>
+         <lpage>35</lpage>
+         <page-range>32-35</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1972 The National Council of Teachers of English</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/812890"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d106e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d106e121" publication-type="book">
+Nikolai Gogol, Dead Souls, translated by
+Andrew R. MacAndrew (New York: The
+New American Library, Signet Classics, 1961).<person-group>
+                     <string-name>
+                        <surname>Gogol</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Dead Souls</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

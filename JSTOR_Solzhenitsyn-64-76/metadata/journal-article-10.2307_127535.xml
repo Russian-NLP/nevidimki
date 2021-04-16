@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360341</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14679434</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i207394</issue-id>
+         <article-id pub-id-type="doi">10.2307/127535</article-id>
+      
+         <title-group>
+            <article-title>Shklovsky's "Zoo" and Russian Berlin</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Richard</given-names>
+                  <surname>Sheldon</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1970</year>
+         </pub-date>
+         <fpage>262</fpage>
+         <lpage>274</lpage>
+         <page-range>262-274</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1970 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/127535"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d141e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d141e121" publication-type="book">
+Gleb Struve in his book Russkaia literatura v izgnanii
+(Russian Literature in Exile), New York, 1956, p. 25.<person-group>
+                     <string-name>
+                        <surname>Struve</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Russkaia literatura v izgnanii</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e150a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d141e157" publication-type="book">
+Vladimir Mayakovsky, Polnoe sobranie sochinenii (Complete Collected Works),
+13 vols., Moscow, 1955-61, XII, p. 463.<person-group>
+                     <string-name>
+                        <surname>Mayakovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>463</fpage>
+                  <volume>XII</volume>
+                  <source>Polnoe sobranie sochinenii</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e189a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d141e196" publication-type="book">
+Iiya Ehrenburg, Liudi, gody, zhizn' (People, Years, Life), Novyi mir, 6 vols., 1960-
+1965, III, chap. 2.<person-group>
+                     <string-name>
+                        <surname>Ehrenburg</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Liudi, gody, zhizn'</comment>
+                  <volume>III</volume>
+                  <source>Novyi mir</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e228a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d141e235" publication-type="journal">
+Robert C. Williams, "'Changing Landmarks' in Russian Berlin, 1922-1924,"
+The Slavic Review, XXVII (1968), pp. 581-93.<object-id pub-id-type="doi">10.2307/2494440</object-id>
+                  <fpage>581</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e252a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d141e259" publication-type="journal">
+David Shub, "The Trial of the SRs," The Russian Review, XXIII (1964), pp.
+362-69.<object-id pub-id-type="doi">10.2307/126213</object-id>
+                  <fpage>362</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e275a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d141e282" publication-type="book">
+Viktor B. Shklovsky, Sentimental'noe puteshestvie, Moscow and Berlin, 1923<person-group>
+                     <string-name>
+                        <surname>Shklovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sentimental'noe puteshestvie</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d141e303" publication-type="other">
+Richard Sheldon, Ithaca and London, 1970.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e310a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d141e317" publication-type="book">
+Ehrenburg, People, III, chap. 2.<person-group>
+                     <string-name>
+                        <surname>Ehrenburg</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 2</comment>
+                  <volume>III</volume>
+                  <source>People</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e342a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d141e349" publication-type="book">
+Patricia Blake, intr. to The Bedbug and Selected Poetry, by Vladimir Maya-
+kovsky, New York, 1960.<person-group>
+                     <string-name>
+                        <surname>Blake</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Bedbug and Selected Poetry</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e374a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d141e381" publication-type="book">
+Viktor B. Shklovsky, O Maiakovskom (Mayakovsky), Moscow, 1940, p. 177.<person-group>
+                     <string-name>
+                        <surname>Shklovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>177</fpage>
+                  <source>O Maiakovskom</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e406a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d141e413" publication-type="other">
+Gorky's Colloquy</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d141e419" publication-type="other">
+Alekseevich Peshkov (1897-1934).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e427a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d141e434" publication-type="journal">
+"Pis'ma Maksima Gor'kogo k V. F. Khodasevichu (1922-1925)" (Letters from
+Maxim Gorky to V. F. Khodasevich (1922-1925)), Novyi zhurnal, (1952) 29-31, no.
+29, p. 206.<issue>29</issue>
+                  <fpage>206</fpage>
+                  <volume>29</volume>
+                  <source>Novyi zhurnal</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d141e462" publication-type="book">
+Hugh McLean, appeared
+in Harvard Slavic Studies (Cambridge, 1953), I, pp. 280-334.<person-group>
+                     <string-name>
+                        <surname>McLean</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>280</fpage>
+                  <volume>I</volume>
+                  <source>Harvard Slavic Studies</source>
+                  <year>1953</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e494a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d141e501" publication-type="book">
+Letopis' zhizni i tvorehestva Maksima Gor'kogo (Chronicle of the Life and Work
+of Maksim Gorky), ed. B. V. Mikhailovsky, L. I. Ponomarev and V. R. Shcherbina,
+4 vols., Moscow, 1958-60, III, pp. 320-30.<person-group>
+                     <string-name>
+                        <surname>Mikhailovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>320</fpage>
+                  <volume>III</volume>
+                  <source>Letopis' zhizni i tvorehestva Maksima Gor'kogo</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e536a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d141e543" publication-type="book">
+Nina Berberova, The Italics Are Mine, New York, 1969, pp. 197-98,<person-group>
+                     <string-name>
+                        <surname>Berberova</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>197</fpage>
+                  <source>The Italics Are Mine</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e568a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d141e575" publication-type="book">
+Viktor B. Shklovsky, "Retsenziia na etu knigu" (A Review of This Book), Gam-
+burgskii schet (Hamburg Account), Leningrad, 1928, pp. 108-09.<person-group>
+                     <string-name>
+                        <surname>Shklovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Retsenziia na etu knigu</comment>
+                  <fpage>108</fpage>
+                  <source>Gamburgskii schet</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e607a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d141e614" publication-type="book">
+The Letters of Abelard and Héloïse, trans. by C. K. Scott Moncrieff, London,
+1925.<person-group>
+                     <string-name>
+                        <surname>Moncrieff</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Letters of Abelard and Héloïse</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e639a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d141e646" publication-type="book">
+Viktor B. Shklovsky, Rozanov, Petrograd, 1921<person-group>
+                     <string-name>
+                        <surname>Shklovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Rozanov</source>
+                  <year>1921</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d141e667" publication-type="book">
+O teorii prozy (The-
+ory of Prose), Moscow and Leningrad, 1925.<source>O teorii prozy</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d141e684a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d141e691" publication-type="book">
+"Druzheskoe pis'mo nachala XIX
+veka" (The Personal Letter at the Beginning of the XIX Century), Russkaia proza;
+sbornik statei (Russian Prose; a Collection of Articles), ed. by B. Eikhenbaum and Yu.
+Tynyanov, Leningrad, 1926, pp. 74-101<person-group>
+                     <string-name>
+                        <surname>Eikhenbaum</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Druzheskoe pis'mo nachala XIX veka</comment>
+                  <fpage>74</fpage>
+                  <source>Russkaia proza; sbornik statei</source>
+                  <year>1926</year>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

@@ -1,0 +1,65 @@
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">history</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50011487</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>History</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Historical Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00182648</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1468229X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24408921</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>REVIEWS AND SHORT NOTICES</subject>
+               <subj-group>
+                  <subject>GENERAL</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>T. J.</given-names>
+                  <surname>NOSSITER</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">59</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">195</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24402699</issue-id>
+         <fpage>158</fpage>
+         <lpage>159</lpage>
+         <product>
+            <source>QUANTIFICATION IN HISTORY</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>W. O.</given-names>
+               <surname>Aydelotte</surname>
+            </string-name>
+         </product>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/24408921"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360341</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14679434</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">31</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i207404</issue-id>
+         <article-id pub-id-type="doi">10.2307/128317</article-id>
+      
+         <title-group>
+            <article-title>"August 1914": Art and History</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Dorothy</given-names>
+                  <surname>Atkinson</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Nicholas S.</given-names>
+                  <surname>Pashin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>1</fpage>
+         <lpage>10</lpage>
+         <page-range>1-10</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1972 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/128317"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d211e126a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d211e133" publication-type="book">
+Aleksandr Solzhenitsyn, Avgust chetyrnadtsatogo, Paris, 1971, pp. 349-350.<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>349</fpage>
+                  <source>Avgust chetyrnadtsatogo</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e158a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d211e165" publication-type="book">
+C(eorg Lukács, Solschenizyn, Nenwied aend Berlin, 1970.<person-group>
+                     <string-name>
+                        <surname>Lukács</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Solschenizyn</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e187a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d211e194" publication-type="journal">
+. Solzhenitsyn, "Ne olychai degtemn shchi belit, na to sm etaia," Literaturaia
+gazeta, 1965, no. 131.<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>131</issue>
+                  <source>Literaturaia gazeta</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e223a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d211e230" publication-type="book">
+V. Shklovsky, Lev Tolstoi, Moscow, 1967, p. 310.<person-group>
+                     <string-name>
+                        <surname>Shklovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>310</fpage>
+                  <source>Lev Tolstoi</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e256a1310">
+            <label>6</label>
+          
+          
+            <p>
+               <mixed-citation id="d211e265" publication-type="book">
+God voiny, Moscow,
+1915.<source>God voiny</source>
+                  <year>1915</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e280" publication-type="book">
+Kratkii strategicheskii ocherk voiny 1914-
+1918 gg., vyp.1, Moscowv, 1918<volume>1</volume>
+                  <source>Kratkii strategicheskii ocherk voiny 1914-1918 gg., vyp.</source>
+                  <year>1918</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e299" publication-type="book">
+Strategicheskii ocherk voiny 1914-1918 gg.,
+chast' I, comp. Ia. Tsikhovich, Moscowv, 1922.<source>Strategicheskii ocherk voiny 1914-1918 gg.</source>
+                  <year>1922</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e314" publication-type="book">
+P. N. Bogdanovich, Vtorzhenie
+v Vostochnuiu Prussiu v avguste 1914 goda, Buenos Aires, 1964, p. 5.<person-group>
+                     <string-name>
+                        <surname>Bogdanovich</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>Vtorzhenie v Vostochnuiu Prussiu v avguste 1914 goda</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e343a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d211e350" publication-type="book">
+Nicholas N. Golovin, Nachalo voiny 1914 g. i operatsii v Vostochnoi Prussii, Prague,
+1926.<person-group>
+                     <string-name>
+                        <surname>Golovin</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Nachalo voiny 1914 g. i operatsii v Vostochnoi Prussii</source>
+                  <year>1926</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e374" publication-type="book">
+The Russian Campaign of 1914, Fort Leavenwortlh, Kansas, 1933.<source>The Russian Campaign of 1914</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e387a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d211e394" publication-type="book">
+Helmuth von Moltke, Erinnerungen, Briefe, Dokumente, 1877-1916, Stuttgart,
+1922, pp. 434-435<person-group>
+                     <string-name>
+                        <surname>von Moltke</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>434</fpage>
+                  <source>Erinnerungen, Briefe, Dokumente, 1877-1916</source>
+                  <year>1922</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e423a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d211e430" publication-type="other">
+Bogdanovich, pp. 9, 260.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e437a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d211e444" publication-type="book">
+li. N. Danilov, Rossiia v mirovoi voine, 1914-1915, Berlin, 1924, p. 55.<person-group>
+                     <string-name>
+                        <surname>Danilov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>55</fpage>
+                  <source>Rossiia v mirovoi voine, 1914-1915</source>
+                  <year>1924</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e469a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d211e476" publication-type="book">
+Alfred Knox, With the Russian Army, 1914-1917, London, 1921, vol. I, pp. xxx-
+xxxii'.<person-group>
+                     <string-name>
+                        <surname>Knox</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xxx</fpage>
+                  <volume>I</volume>
+                  <source>With the Russian Army, 1914-1917</source>
+                  <year>1921</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e509a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d211e516" publication-type="book">
+Ecldmuiind Ironside, Tannenberg, London, 1925, p. 282.<person-group>
+                     <string-name>
+                        <surname>Ironside</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>282</fpage>
+                  <source>Tannenberg</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d211e541a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d211e548" publication-type="book">
+Islijill Berlin, The Hedgehog and the Fox, Newv York, 1966.<person-group>
+                     <string-name>
+                        <surname>Berlin</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Hedgehog and the Fox</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

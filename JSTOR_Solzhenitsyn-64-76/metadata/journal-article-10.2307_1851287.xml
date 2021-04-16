@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amerhistrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100010</journal-id>
+         <journal-title-group>
+            <journal-title>The American Historical Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Historical Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028762</issn>
+         <issn pub-type="epub">19375239</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1851287</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews of Books</subject>
+               <subj-group>
+                  <subject>Modern Europe</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Marc</given-names>
+                  <surname>Raeff</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i305031</issue-id>
+         <fpage>426</fpage>
+         <lpage>427</lpage>
+         <page-range>426-427</page-range>
+         <product>
+            <source>Die Petersburger Religios-Philosophischen Vereiningungen: Die Entwicklung des religiosen Selbstverstandnisses ihrer Intelligencija-Mitglieder (1901-1917). Forschungen zur Osteuropaischen Geschichte, volume 19</source>
+            <string-name>
+               <given-names>Jutta</given-names>
+               <surname>Scherrer</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1976 The American Historical Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1851287"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

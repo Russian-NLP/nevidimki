@@ -1,0 +1,260 @@
+
+
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt13x1ck4</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Dark Ages and the Age of Gold</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>FRASER</surname>
+               <given-names>RUSSELL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781400869046</isbn>
+      <isbn content-type="epub">1400869048</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON, NEW JERSEY</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1973</copyright-year>
+         <copyright-holder>PRINCETON UNIVERSITY PRESS</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13x1ck4"/>
+      <abstract abstract-type="short">
+         <p>In this original and provocative book Russell Fraser has set himself no less a task than the description and interpretation of one of the signal "facts" of Western history-the breaking away of the present from the medieval past. He locates this break in England in the sixteenth century, and on the continent two hundred years earlier. Unafraid to synthesize, he weaves a rich fabric of quotations, allusions, and examples from art, music, philosophy, theology, and physical science to explain the cultural transition to the modern world.</p>
+         <p>Although the author ranges from Plato to the present, his focus is concentrated on the major figures of the Middle Ages and the Renaissance, especially Shakespeare, "the last and greatest of medieval artists." His intention is always to draw together and compare medieval. Renaissance, and contemporary attitudes so that the reader can see the past becoming the present, how and when this transformation occurred, and for what reasons.</p>
+         <p>Originally published in 1973.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="437"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.2</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fraser</surname>
+                           <given-names>Russell</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.4</book-part-id>
+                  <title-group>
+                     <label>I</label>
+                     <title>The Past As Prologue</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The late sixteenth century in England is defined by a seriousness that might have satisfied Matthew Arnold, and that makes the centuries before it appear irresponsible in contrast. The Middle Ages, conversely, are like a Georgian prologue to the earnest Victorian thing, or like Shrovetide before the austerities of Lent, when</p>
+                     <p>The people take their fill of recreation,</p>
+                     <p>And buy repentance, ere they grow devout.</p>
+                     <p>Or they are the Dark Ages, and the Renaissance a purposive scattering of the dark.</p>
+                     <p>This is the aspect under which sixteenth-century writers were most apt to see their own time in relation to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.5</book-part-id>
+                  <title-group>
+                     <label>II</label>
+                     <title>Poetry and the Illative Voice</title>
+                  </title-group>
+                  <fpage>38</fpage>
+                  <abstract>
+                     <p>Gabriel Harvey, in writing down the past as abortive, is the optimistic man. He sneers at Greece and Rome the better to laud his own time and to establish its uniqueness. Samuel Daniel, who is not inclined much to sneering, scrutinizes Greece and Rome more narrowly than most of his contemporaries because he sees no time as exemplary. He is the old-fashioned or pessimistic man. His root assumptions are two, and either, if received, would have nipped the modern world in its making. The first: “Perfection is not the portion of man.” From Daniel’s disbelief in perfectibility all his other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.6</book-part-id>
+                  <title-group>
+                     <label>III</label>
+                     <title>The Father of Lies</title>
+                  </title-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>The task of the votary is threefold: “to pray, beare, and doe.”¹ On the maker of poetry in the renascent age, a similar function is enjoined. But that poetry inclines to action does not answer perfectly to the criticism of the detractors of poetry. The ancient functions of teaching and delighting, though made preliminary now, continue to be equally weighted and approved. The pragmatic spirit is jealous of their equality. And so, in its avidity for profit, it disturbs the old and nice equivalence of profit and pleasure. Teaching gains inexorably on delighting. Utility is exalted. Erasmus makes a hero</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.7</book-part-id>
+                  <title-group>
+                     <label>IV</label>
+                     <title>The Regiment of Virtue</title>
+                  </title-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>The Renaissance poet who justifies art for its own sake-is-not essaying a defense of pure poetry. He is incapable even of the concept. Really he is retorting on his critics,<italic>Je m’en Fîche,</italic>as to men of another order and so beneath his notice. The argument advanced in the<italic>Republic</italic>that pure poetry is worthless bites deep, and especially in an age which, like the Renaissance, makes a fetish of worth. That is why, though there are ironists who bid goodbye to use, the more conventional response of the Elizabethan poet is to insist on what is useful and commit</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.8</book-part-id>
+                  <title-group>
+                     <label>V</label>
+                     <title>The Woman of Jericho</title>
+                  </title-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>To the Middle Ages all things are grist, and poetry not less than philosophy. The definition of use implicit in this period is, however, eccentric and perhaps a contradiction in terms. Amplitude is of its essence, as in the advice the philosopher proffers to the voyagers whose ship has moored offshore. “If,” says Epictetus, “you go on land to get fresh water, you may pick up as an extra on your way a small mussel or a little fish.” Medieval man is engrossed and so detained by the prospect of this peripheral yield. Renaissance man, who rivets his attention to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.9</book-part-id>
+                  <title-group>
+                     <label>VI</label>
+                     <title>The Language of Earth</title>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>The Middle Ages are the period of cultural assimilation. Medieval man does not select and exclude, like man in the Renaissance. He is more accommodating and opportunistic. The opportunism that defines him is commended, not surprisingly, by Shakespeare, who is the supreme opportunist:</p>
+                     <p>There is some soul of goodness in things evil,</p>
+                     <p>Would men observingly distill it out.</p>
+                     <p>Another way of describing this accommodating instinct is to say that the Middle Ages do not canonize only what is or appears to be useful. That is why this period is able to come to terms with poetry. But as it declines</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.10</book-part-id>
+                  <title-group>
+                     <label>VII</label>
+                     <title>The Seeds of Psyche</title>
+                  </title-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>Catholicity and not exclusiveness is the watchword of the medieval poet. It is also his defense against that medieval critic who, as he bases his attack on the old Platonic position, anticipates the criticism of the Renaissance. He has been met already in the twelfth century, attacking literature in the name of the new dialectics and later of Scholasticism. To the equable view of Jean de Meun that poetry, philosophy, and scholarship are the same, he opposes the more discriminating assertion of St. Thomas Aquinas that poetry is “the least of all the sciences.” St. Thomas, although he is a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.11</book-part-id>
+                  <title-group>
+                     <label>VIII</label>
+                     <title>The Oil and Water of Poetry and Truth</title>
+                  </title-group>
+                  <fpage>264</fpage>
+                  <abstract>
+                     <p>Man in the dark age supposes, congruently, that truth is couched in dark sayings (Psalm LXXVII). Modern man, the denizen of the age of gold, takes his text from the more hopeful prophet of the Book of Numbers: “With him will I speak mouth to mouth, even apparently, and not in dark speeches” (12:8). Apparent speaking, the perfect accessibility of truth, suggests that art is supererogatory.</p>
+                     <p>But the early seventeenth century is the Age of Shakespeare? It is, however, the immensity of Shakespeare’s achievement that sponsors the identification. The eccentricity of the achievement is discounted. Shakespeare as psychologist and maker</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.12</book-part-id>
+                  <title-group>
+                     <label>IX</label>
+                     <title>Procrustes’ Bed</title>
+                  </title-group>
+                  <fpage>301</fpage>
+                  <abstract>
+                     <p>The poet is committed to fabricating a golden world and the result is a world of<italic>papier-mâché.</italic>But the mendacious poet, the father of lies, does not hold the field alone. A rival tradition, whose chief intention is heuristic, enlists the poet in the regiment of virtue. The medieval wholeness is broken. Art is an insubstantial pageant or else it is a tractate.</p>
+                     <p>The chief imperative enjoined on this instrumental art of the rival tradition is clarity. That is why didactic poetry, which obliterates nice distinctions in the service of truth, often verges on bathos. The imperative is pragmatic. As</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.13</book-part-id>
+                  <title-group>
+                     <label>X</label>
+                     <title>The Watch That Ends the Night</title>
+                  </title-group>
+                  <fpage>337</fpage>
+                  <abstract>
+                     <p>The impulse to congruity is hopeful, and like so much else in the ambiguous history of Renaissance thought, like the fevered insistence on the value of time, it is a despairing impulse as it communicates revulsion from the world of phenomena in which antinomies jostle endlessly for place. The amorphous world is denied as the régisseur elaborates his decorous<italic>ensemble.</italic>Obsessive form, which is founded on purgation or willful exclusion, opposes the more catholic language of earth. The opposition governs along the entire spectrum. Not only poetry and the drama but music is put to its purgation. In each case</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.14</book-part-id>
+                  <title-group>
+                     <title>Works Consulted</title>
+                  </title-group>
+                  <fpage>377</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x1ck4.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>397</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,54 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">foreignpolicy</journal-id>
+         <journal-id journal-id-type="jstor">j100163</journal-id>
+         <journal-title-group>
+            <journal-title>Foreign Policy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Affairs, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00157228</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1147842</article-id>
+         <title-group>
+            <article-title>Beyond Detente</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Edward M.</given-names>
+                  <surname>Kennedy</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1974</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</issue>
+         <issue-id>i248102</issue-id>
+         <fpage>3</fpage>
+         <lpage>29</lpage>
+         <page-range>3-29</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 National Affairs, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1147842"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

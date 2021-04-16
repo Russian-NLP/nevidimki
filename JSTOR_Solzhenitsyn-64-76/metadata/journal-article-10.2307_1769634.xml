@@ -1,0 +1,234 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">complite</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100130</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Comparative Literature</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oregon</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00104124</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19458517</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/1769634</article-id>
+         <title-group>
+            <article-title> Confinement in Die Verwandlung and Les Séquestrés d'Altona </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Mary Ann</given-names>
+                  <surname>Witt</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1971</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">23</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i301465</issue-id>
+         <fpage>32</fpage>
+         <lpage>44</lpage>
+         <page-range>32-44</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1971 University of Oregon</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/1769634"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d22e129a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d22e136" publication-type="book">
+Bernhard Blume in "Lyrismus der Zelle,"
+Almanach 79 (Frankfurt, S. Fischer Verlag, 1965), pp. 92-98<person-group>
+                     <string-name>
+                        <surname>Blume</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Lyrismus der Zelle</comment>
+                  <fpage>92</fpage>
+                  <source>Almanach 79</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e168a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d22e177" publication-type="book">
+Maja Goth, Franz Kafka et les lettres françaises (1928-1955) (Paris,
+1956)<person-group>
+                     <string-name>
+                        <surname>Goth</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Franz Kafka et les lettres françaises (1928-1955)</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e202a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d22e209" publication-type="journal">
+"La 'Fortune' de Kafka," La Revue de Paris (March, 1960), p. 111.<issue>March</issue>
+                  <fpage>111</fpage>
+                  <source>La Revue de Paris</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e228a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d22e235" publication-type="journal">
+Sartre's article in L'Express, 9-17-59<person-group>
+                     <string-name>
+                        <surname>Sartre</surname>
+                     </string-name>
+                  </person-group>
+                  <source>L'Express</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e253" publication-type="book">
+"Vous etes formidables," in
+Situations V<comment content-type="section">Vous etes formidables</comment>
+                  <volume>V</volume>
+                  <source>Situations</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e273a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d22e280" publication-type="book">
+L'Etre et le neant (Paris, 1955), p. 635.<fpage>635</fpage>
+                  <source>L'Etre et le neant</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e296a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d22e303" publication-type="book">
+Ibid.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e310a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d22e317" publication-type="book">
+Situations II (Paris, 1948), p. 313.<fpage>313</fpage>
+                  <source>Situations II</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e333a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d22e340" publication-type="book">
+Les Séquestrés d'Altona (Paris, 1960), p. 164.<fpage>164</fpage>
+                  <source>Les Séquestrés d'Altona</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e356a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d22e363" publication-type="book">
+Die Verwandlung, in Franz Kafka,
+Die Erzählungen (Frankfurt, 1961), p. 87<person-group>
+                     <string-name>
+                        <surname>Kafka</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Die Verwandlung</comment>
+                  <fpage>87</fpage>
+                  <source>Die Erzählungen</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e395a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d22e402" publication-type="journal">
+S. John,
+"Sacrilege and Metamorphosis, Two Aspects of Sartre's Imagery," MLQ, XX
+(1959), 57-66<person-group>
+                     <string-name>
+                        <surname>John</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>57</fpage>
+                  <volume>XX</volume>
+                  <source>MLQ</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e438a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d22e445" publication-type="book">
+Heinz Politzer, Franz Kafka, Parable and Paradox (Ithaca,
+1962), p. 72<person-group>
+                     <string-name>
+                        <surname>Politzer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>72</fpage>
+                  <source>Franz Kafka, Parable and Paradox</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e474a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d22e481" publication-type="journal">
+"Madness in Sartre: Sequestration and the Room," YFS, No. 30 (Fall-
+Winter 1962-63), pp. 63-67<issue>30</issue>
+                  <fpage>63</fpage>
+                  <source>YFS</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e504a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d22e511" publication-type="journal">
+Ibid., p. 67.<fpage>67</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

@@ -1,0 +1,76 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amerjewiyearbook</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50008731</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Jewish Year Book</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>AMERICAN JEWISH COMMITTEE AND JEWISH PUBLICATION SOCIETY OF AMERICA</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00658987</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">22139583</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23604060</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review of the Year</subject>
+               <subj-group>
+                  <subject>OTHER COUNTRIES</subject>
+                  <subj-group>
+                     <subject>Eastern Europe</subject>
+                  </subj-group>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Soviet Union</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Leon</given-names>
+                  <surname>Shapiro</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1970</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">71</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23603973</issue-id>
+         <fpage>460</fpage>
+         <lpage>468</lpage>
+         <permissions>
+            <copyright-statement>COPYRIGHT 1970 THE AMERICAN JEWISH COMMITTEE AND THE JEWISH PUBLICATION SOCIETY OF AMERICA</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23604060"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d183e129a1310">
+            <label>•</label>
+            <p>
+               <mixed-citation id="d183e136" publication-type="other">
+Shlomo Rabinovitch, Yidn in Soviet Farband (Moscow, 1965), p. 47.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

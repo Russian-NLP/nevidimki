@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">socialresearch</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50001019</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Social Research</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Graduate Faculty of Political and Social Science, New School for Social Research</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0037783X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">41</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40043615</issue-id>
+         <article-id pub-id-type="jstor">40970183</article-id>
+         <title-group>
+            <article-title>The Prophet and the Marrano: Two Ways of Religious Being in the Soviet Union</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>RICHARD</given-names>
+                  <surname>LOURIE</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>328</fpage>
+         <lpage>339</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1974 New School for Social Research</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40970183"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d50e107a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d50e114" publication-type="other">
+Alexander Solzhenitsyn, Stories and Prose Poems, translated by Michael Glenny
+(New York: Bantam Books, 1972), p. 106.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e124a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d50e131" publication-type="other">
+Alexander Solzhenitsyn, Nobel Lecture, translated by F. D. Reeve (New York:
+Farrar, Straus &amp; Giroux, 1972), p. 32.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e141a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d50e148" publication-type="other">
+Ibid., p. 33.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e155a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d50e162" publication-type="other">
+Letters to the Future: A Study of Sinyavsky /Tertz, to be published by Cornell
+University Press in September 1974.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e173a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d50e180" publication-type="other">
+Czeslaw Milosz, "On Modern Russian Literature and the West,"
+California Slavic Studies, Vol. VI (Berkeley: University of California Press, 1971).</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">slaveasteuroj</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100362</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Slavic and East European Journal</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>American Association of Teachers of Slavic and East European Languages AATSEEL of the U.S., Inc.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00376752</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">17</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i213477</issue-id>
+         <article-id pub-id-type="doi">10.2307/306106</article-id>
+      
+         <title-group>
+            <article-title>American and Canadian Doctoral Dissertations in Slavic and East European Languages and Literatures, 1961-72</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Alex M.</given-names>
+                  <surname>Shane</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1973</year>
+         </pub-date>
+         <fpage>184</fpage>
+         <lpage>216</lpage>
+         <page-range>184-216</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 AATSEEL of the U.S., Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/306106"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <ref-list>
+        <title>Notes</title>
+        <ref id="d162e114a1310">
+            <label>1</label>
+          
+            <mixed-citation id="d162e121" publication-type="other">
+"The Ph.D. in Foreign Languages-Particularly in the 'New' Fields," in The
+Ph.D. in English and Foreign Languages: A Conference Report (New York: Asc.
+of Depts. of English and Asc. of Depts. of Foreign Langs., 1973), 23.</mixed-citation>
+        </ref>
+        <ref id="d162e134a1310">
+            <label>2</label>
+          
+            <mixed-citation id="d162e141" publication-type="journal">
+Slavic Review, 23 (1964), 797-812<fpage>797</fpage>
+               <volume>23</volume>
+               <source>Slavic Review</source>
+               <year>1964</year>
+            </mixed-citation>
+            <mixed-citation id="d162e159" publication-type="partial">
+24 (1965), 752-61</mixed-citation>
+            <mixed-citation id="d162e165" publication-type="partial">
+25 (1966), 710-17</mixed-citation>
+            <mixed-citation id="d162e172" publication-type="partial">
+26 (1967),
+705-12</mixed-citation>
+            <mixed-citation id="d162e181" publication-type="partial">
+27 (1968), 694-704</mixed-citation>
+            <mixed-citation id="d162e187" publication-type="partial">
+28 (1969), 699-708</mixed-citation>
+            <mixed-citation id="d162e193" publication-type="partial">
+29 (1970), 766-76</mixed-citation>
+            <mixed-citation id="d162e199" publication-type="partial">
+30 (1971), 927-41</mixed-citation>
+            <mixed-citation id="d162e205" publication-type="partial">
+31 (1972), 951-66</mixed-citation>
+        </ref>
+        <ref id="d162e212a1310">
+            <label>3</label>
+          
+            <mixed-citation id="d162e219" publication-type="journal">
+Modern Language Journal, 47 (1963), 131<fpage>131</fpage>
+               <volume>47</volume>
+               <source>Modern Language Journal</source>
+               <year>1963</year>
+            </mixed-citation>
+            <mixed-citation id="d162e237" publication-type="partial">
+48 (1964), 231-32, 446</mixed-citation>
+            <mixed-citation id="d162e243" publication-type="partial">
+49 (1965), 498-99</mixed-citation>
+            <mixed-citation id="d162e250" publication-type="partial">
+51 (1967), 99</mixed-citation>
+            <mixed-citation id="d162e256" publication-type="partial">
+52 (1968), 100</mixed-citation>
+            <mixed-citation id="d162e262" publication-type="partial">
+53 (1969), 53-54, 586-87</mixed-citation>
+            <mixed-citation id="d162e268" publication-type="partial">
+55 (1971), 60-61</mixed-citation>
+            <mixed-citation id="d162e274" publication-type="partial">
+56 (1972),
+49-51</mixed-citation>
+            <mixed-citation id="d162e283" publication-type="partial">
+57 (1973), 34-36</mixed-citation>
+        </ref>
+        <ref id="d162e290a1310">
+            <label>5</label>
+          
+            <mixed-citation id="d162e297" publication-type="book">
+Doctoral Research on Russia and the Soviet Union (New York: New York Univ.
+Press, 1960).<source>Doctoral Research on Russia and the Soviet Union</source>
+               <year>1960</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d162e314a1310">
+            <label>6</label>
+          
+            <mixed-citation id="d162e321" publication-type="journal">
+Howard I. Aronson, "American Doctoral Dissertations in the Fields of Slavic
+and East European Languages and Literatures," SEEJ, 7 (1963), 1-8<object-id pub-id-type="jstor">10.2307/304784</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d162e337a1310">
+            <label>8</label>
+          
+            <mixed-citation id="d162e344" publication-type="other">
+Ph.D. graduating in 1949</mixed-citation>
+            <mixed-citation id="d162e350" publication-type="other">
+Ph.D. graduating in 1965</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

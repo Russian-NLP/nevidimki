@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">soutatlabull</journal-id>
+         <journal-id journal-id-type="jstor">j100371</journal-id>
+         <journal-title-group>
+            <journal-title>South Atlantic Bulletin</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>South Atlantic Modern Language Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00382868</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">40</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i360510</issue-id>
+         <article-id pub-id-type="doi">10.2307/3199119</article-id>
+         
+         <title-group>
+            <article-title>The Theme of Atonement in Yuli Daniel's "Atonement"</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Richard L.</given-names>
+                  <surname>Chapple</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>53</fpage>
+         <lpage>60</lpage>
+         <page-range>53-60</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3199119"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d43e113a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e120" publication-type="book">
+Yuli Daniel (Nikolai Arzhak),
+This is Moscow Speaking and Other Stories (New York: Collier Books, 1970)<person-group>
+                     <string-name>
+                        <surname>Daniel</surname>
+                     </string-name>
+                  </person-group>
+                  <source>This is Moscow Speaking and Other Stories</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e145a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d43e152" publication-type="book">
+Leopold Labedz and Max
+Hayward, editors, On Trial; The Case of Sinyavsky (Tertz) and Daniel (Arzhak)
+(London: Collins and Harvill Press, 1967)<person-group>
+                     <string-name>
+                        <surname>Labedz</surname>
+                     </string-name>
+                  </person-group>
+                  <source>On Trial; The Case of Sinyavsky (Tertz) and Daniel (Arzhak)</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e181a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d43e188" publication-type="book">
+Margaret Dalton, Andrei Siniavskii and Julii Daniel; Two Soviet "Heretical"
+Writers (Würzburg, West Germany: Jal Verlag, 1973)<person-group>
+                     <string-name>
+                        <surname>Dalton</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Andrei Siniavskii and Julii Daniel; Two Soviet "Heretical" Writers</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e213a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d43e220" publication-type="book">
+Nikolai Arzhak, Govorit Moskva; Povesti i rasskazy [This is Moscow
+Speaking; Tales and Stories] (New York: Inter-Language Literary Associates,
+1966) p. 8. My translation.<person-group>
+                     <string-name>
+                        <surname>Arzhak</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <source>This is Moscow Speaking; Tales and Stories</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e253a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d43e260" publication-type="book">
+Solzhenitsyn's The First Circle<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The First Circle</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e278" publication-type="book">
+Sinyavsky's The Trial
+Begins<person-group>
+                     <string-name>
+                        <surname>Sinyavsky</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Trial Begins</source>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e300a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d43e307" publication-type="book">
+Labedz and Hayward, pp. 164, 171  <fpage>164</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

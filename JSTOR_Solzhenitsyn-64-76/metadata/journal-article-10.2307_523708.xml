@@ -1,0 +1,227 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">afristudrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100049</journal-id>
+         <journal-title-group>
+            <journal-title>African Studies Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>African Studies Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00020206</issn>
+         <issn pub-type="epub">15552462</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/523708</article-id>
+         <title-group>
+            <article-title>Poets and Politics: Speculation on Political Roles and Attitudes in West African Poetry</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Thomas</given-names>
+                  <surname>Knipp</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">18</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i222801</issue-id>
+         <fpage>39</fpage>
+         <lpage>49</lpage>
+         <page-range>39-49</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/523708"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Notes</title>
+         <ref id="d1e113a1310">
+            <label>3</label>
+            <mixed-citation id="d1e122" publication-type="book">
+Dr. Nwoga's text (1967:
+202-3)  </mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1e143a1310">
+            <mixed-citation id="d1e147" publication-type="book">
+Almond, G.A. and S. Verba. (1966) The Civic Culture. Boston: Little, Brown and Company.<person-group>
+                  <string-name>
+                     <surname>Almond</surname>
+                  </string-name>
+               </person-group>
+               <source>The Civic Culture</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e169a1310">
+            <mixed-citation id="d1e173" publication-type="book">
+Awoonor, K. (1971) Night of My Blood. Garden City, New York: Doubleday.<person-group>
+                  <string-name>
+                     <surname>Awoonor</surname>
+                  </string-name>
+               </person-group>
+               <source>Night of My Blood</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e195a1310">
+            <mixed-citation id="d1e199" publication-type="book">
+Awoonor, K. and G. Adali-Mortty. (1968) Messages: Poems from Ghana. London: Heinemann.<person-group>
+                  <string-name>
+                     <surname>Awoonor</surname>
+                  </string-name>
+               </person-group>
+               <source>Messages: Poems from Ghana</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e221a1310">
+            <mixed-citation id="d1e225" publication-type="book">
+Clark, J.P. (1965) A Reed in the Tide. London: Longmans.<person-group>
+                  <string-name>
+                     <surname>Clark</surname>
+                  </string-name>
+               </person-group>
+               <source>A Reed in the Tide</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e248a1310">
+            <mixed-citation id="d1e252" publication-type="book">
+Diop, D. (1973) Hammer Blows and Other Writings. Translated and edited by Simon Mpondo and
+Frank Jones. Bloomington, Indiana: Indiana University Press.<person-group>
+                  <string-name>
+                     <surname>Diop</surname>
+                  </string-name>
+               </person-group>
+               <source>Hammer Blows and Other Writings</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e277a1310">
+            <mixed-citation id="d1e281" publication-type="book">
+Hughes, L. (ed.). (1963) Poems from Black Africa. Bloomington, Indiana: Indiana University Press.<person-group>
+                  <string-name>
+                     <surname>Hughes</surname>
+                  </string-name>
+               </person-group>
+               <source>Poems from Black Africa</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e303a1310">
+            <mixed-citation id="d1e307" publication-type="book">
+Moore, G. and U. Beier. (1970) Modern Poetry from Africa. Baltimore: Penguin Books.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Modern Poetry from Africa</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e329a1310">
+            <mixed-citation id="d1e333" publication-type="book">
+Nwoga, D. (1967) West African Verse. London: Longmans.<person-group>
+                  <string-name>
+                     <surname>Nwoga</surname>
+                  </string-name>
+               </person-group>
+               <source>West African Verse</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e355a1310">
+            <mixed-citation id="d1e359" publication-type="book">
+Okigbo, C. (1971) Labyrinths: Poems. New York: Africana Publishing Company.<person-group>
+                  <string-name>
+                     <surname>Okigbo</surname>
+                  </string-name>
+               </person-group>
+               <source>Labyrinths: Poems</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e381a1310">
+            <mixed-citation id="d1e385" publication-type="book">
+Parks, F.K. (1965) Songs from the Wilderness. London: University of London Press.<person-group>
+                  <string-name>
+                     <surname>Parks</surname>
+                  </string-name>
+               </person-group>
+               <source>Songs from the Wilderness</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e408a1310">
+            <mixed-citation id="d1e412" publication-type="book">
+Peters, L. (1967) Satellites. London: Heinemann.<person-group>
+                  <string-name>
+                     <surname>Peters</surname>
+                  </string-name>
+               </person-group>
+               <source>Satellites</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e434a1310">
+            <mixed-citation id="d1e438" publication-type="book">
+---. (1971) Katchikali. London: Heinemann.<person-group>
+                  <string-name>
+                     <surname>Peters</surname>
+                  </string-name>
+               </person-group>
+               <source>Katchikali</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e460a1310">
+            <mixed-citation id="d1e464" publication-type="book">
+U'Tamsi, F.T. (1964) Brush Fire. Translated by Sangodare Akanji. Ibadan, Nigeria: Mbari Publishing
+Company.<person-group>
+                  <string-name>
+                     <surname>U'Tamsi</surname>
+                  </string-name>
+               </person-group>
+               <source>Brush Färe</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e489a1310">
+            <mixed-citation id="d1e493" publication-type="book">
+---. (1970) Selected Poems. Translated by Gerald Moore. London: Heinemann, Africana Writers
+Series.<person-group>
+                  <string-name>
+                     <surname>U'Tamsi</surname>
+                  </string-name>
+               </person-group>
+               <source>Selected Poems</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

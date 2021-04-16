@@ -1,0 +1,75 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">furrow</journal-id>
+         <journal-id journal-id-type="jstor">j50000363</journal-id>
+         <journal-title-group>
+            <journal-title>The Furrow</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Furrow Trust</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00163120</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">27680046</article-id>
+         <title-group>
+            <article-title>Peace</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Paul</given-names>
+                  <surname>Surlis</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>11</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">25</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</issue>
+         <issue-id>i27680042</issue-id>
+         <fpage>604</fpage>
+         <lpage>609</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1974 The Furrow Trust</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/27680046"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d15e107a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d15e114" publication-type="other">
+The Concept of Peace by Professor Macquarrie, published
+by Harper and Row, Evanston, San Francisco, London, $4.95.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e124a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d15e131" publication-type="other">
+The Church in the Modern World, chapter 3,
+par. 38</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

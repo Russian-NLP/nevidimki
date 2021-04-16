@@ -1,0 +1,154 @@
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">hudsonreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j101056</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Hudson Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Hudson Review, Inc.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0018702X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/3856922</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Long Novels and Short Stories</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>William H.</given-names>
+                  <surname>Pritchard</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>4</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i372194</issue-id>
+         <fpage>225</fpage>
+         <lpage>240</lpage>
+         <page-range>225-240</page-range>
+         <product>
+            <source>August 1914</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Alexander</given-names>
+               <surname>Solzhenitsyn</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Transparent Things</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Vladimir</given-names>
+               <surname>Nabokov</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Turkey Hash</source>
+            <string-name>Craig Nova</string-name>
+         </product>
+         <product>
+            <source>Saw</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Steve</given-names>
+               <surname>Katz</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Quake</source>
+            <string-name>Rudolph Wurlitzer</string-name>
+         </product>
+         <product>
+            <source>Margins</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>David</given-names>
+               <surname>Kranes</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Satyr</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Robert</given-names>
+               <surname>DeMaria</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Long Division</source>
+            <string-name>Anne Roiphe</string-name>
+         </product>
+         <product>
+            <source>Necessary Objects</source>
+            <string-name>Lois Gould</string-name>
+         </product>
+         <product>
+            <source>Edwin Mullhouse: The Life and Death of an American Writer 1943-1954 by Jeffrey Cartwright</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Steven</given-names>
+               <surname>Millhauser</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Sunlight Dialogues</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>John</given-names>
+               <surname>Gardner</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Sinning with Annie</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Paul</given-names>
+               <surname>Theroux</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Sadness</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Donald</given-names>
+               <surname>Barthelme</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Temptation of Jack Orkney and Other Stories</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Doris</given-names>
+               <surname>Lessing</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Museums and Women</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>John</given-names>
+               <surname>Updike</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1973 The Hudson Review, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/3856922"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

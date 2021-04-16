@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">americanscholar</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50002325</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Scholar</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>United Chapters of Phi Beta Kappa</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00030937</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">21622892</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">39</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40054230</issue-id>
+         <article-id pub-id-type="jstor">41209738</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>The Revolving Bookstand</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>In the Center Ring</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Earl</given-names>
+                  <surname>Rovit</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>12</month>
+            <year>1969</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1970</year>
+         </pub-date>
+         <fpage>166</fpage>
+         <lpage>170</lpage>
+         <page-range>166, 168, 170</page-range>
+         <product>
+            <source>The First Circle</source>
+            <string-name>
+               <given-names>Aleksandr I.</given-names>
+               <surname>Solzhenitsyn</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Cancer Ward</source>
+            <string-name>
+               <given-names>Alexander</given-names>
+               <surname>Solzhenitsyn</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/41209738"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

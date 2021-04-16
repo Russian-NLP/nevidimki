@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360341</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14679434</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i207417</issue-id>
+         <article-id pub-id-type="doi">10.2307/127715</article-id>
+      
+         <title-group>
+            <article-title>
+           Vasilii Belov--Chronicler of the Soviet Village 
+        </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Geoffrey A.</given-names>
+                  <surname>Hosking</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Vasilii</given-names>
+                  <surname>Belov</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>165</fpage>
+         <lpage>185</lpage>
+         <page-range>165-185</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/127715"/>
+      
+      
+         <custom-meta-group>
+        
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d64e141a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d64e148" publication-type="book">
+V. Belov, Plotnitskie rasskazy (Arkhangelsk, 1968), p. 157.<person-group>
+                     <string-name>
+                        <surname>Belov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>157</fpage>
+                  <source>Plotnitskie rasskazy</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e173a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d64e180" publication-type="other">
+"Zemlia. Liudi. Literatura," Druzhba narodov, 1970, no. 9, p. 254.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e187a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d64e194" publication-type="journal">
+"The Russian Peasant
+Rediscovered: 'Village Prose' of the 1960s," Slavic Review32, no. 4 (December 1973):
+705-24.<object-id pub-id-type="doi">10.2307/2495492</object-id>
+                  <fpage>705</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e213a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d64e220" publication-type="book">
+"Bobrishnyi ugor," in Belov, Kholmy (Moscow, 1973), p. 531.<person-group>
+                     <string-name>
+                        <surname>Belov</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Bobrishnyi ugor</comment>
+                  <fpage>531</fpage>
+                  <source>Kholmy</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e250a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d64e257" publication-type="other">
+"Literatura i iazyk," Voprosy literatury, 1967, no. 6, p. 99.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e264a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d64e271" publication-type="other">
+Belov, Kholmy, p. 216.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e278a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d64e285" publication-type="other">
+Ibid., p. 218.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e292a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d64e299" publication-type="book">
+Sel'skie povesti (Moscow, 1971), pp. 134-5.<fpage>134</fpage>
+                  <source>Sel'skie povesti</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e315a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d64e322" publication-type="other">
+Belov, Kholmy, p. 253.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e329a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d64e336" publication-type="other">
+Ibid., p. 314.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e344a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d64e351" publication-type="other">
+Ibid., pp. 326-33.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e358a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d64e365" publication-type="other">
+Ibid., pp. 353-54.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e372a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d64e379" publication-type="other">
+Ibid., p. 361.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e386a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d64e393" publication-type="other">
+Ibid., p. 362.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e400a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d64e407" publication-type="journal">
+my article, "The Search for an Image of Man in Contemporary Soviet Fiction,"
+Forum for Modern Language Studies, in press.<person-group>
+                     <string-name>
+                        <surname>my article</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Forum for Modern Language Studies</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e429a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d64e436" publication-type="book">
+Gleb Žekulin, "The
+Contemporary Countryside in Soviet Literature: A Search for New Values," in The
+Soviet Rural Community, ed. James R. Millar, (Urbana, Ill., 1971), pp. 376-404.<person-group>
+                     <string-name>
+                        <surname>Žekulin</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Contemporary Countryside in Soviet Literature: A Search for New Values</comment>
+                  <fpage>376</fpage>
+                  <source>The Soviet Rural Community</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e472a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d64e479" publication-type="journal">
+Novyi mir, 1968, no. 7, p. 20.<issue>7</issue>
+                  <fpage>20</fpage>
+                  <source>Novyi mir</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e498a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d64e505" publication-type="other">
+Ibid., pp. 12-13, 19.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e512a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d64e519" publication-type="other">
+Ibid., pp. 52-3.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e526a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d64e533" publication-type="other">
+Ibid., p. 53</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e540a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d64e547" publication-type="other">
+Ibid., pp. 25-28, 45</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e554a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d64e561" publication-type="journal">
+Novyi mir, 1968, no. 7, p. 49<issue>7</issue>
+                  <fpage>49</fpage>
+                  <source>Novyi mir</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e579" publication-type="book">
+Boris Pasternak, Doktor Zhivago (Milan, 1957),
+p. 68.<person-group>
+                     <string-name>
+                        <surname>Pasternak</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>68</fpage>
+                  <source>Doktor Zhivago</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e609a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d64e616" publication-type="journal">
+Novyi mir, 1969, no. 8, p. 159.<issue>8</issue>
+                  <fpage>159</fpage>
+                  <source>Novyi mir</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e635a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d64e642" publication-type="other">
+Ibid., p. 167.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e649a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d64e656" publication-type="other">
+Ibid., pp. 174-77.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e663a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d64e670" publication-type="other">
+Ibid., pp. 171-72</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e676" publication-type="book">
+Kratkaia literaturnaia entsiklopediia, vol.
+6 (Moscow, 1971), p. 153.<fpage>153</fpage>
+                  <volume>6</volume>
+                  <source>Kratkaia literaturnaia entsiklopediia</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e698" publication-type="journal">
+Belov's story "Ry-
+batskaia baika," Nash sovremennik, 1971, no. 7, pp. 98-101.<person-group>
+                     <string-name>
+                        <surname>Belov</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>7</issue>
+                  <fpage>98</fpage>
+                  <source>Nash sovremennik</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e730a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d64e737" publication-type="journal">
+Novyi mir, 1969, no. 8, pp. 178-84.<issue>8</issue>
+                  <fpage>178</fpage>
+                  <source>Novyi mir</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e756a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d64e763" publication-type="journal">
+Sever, 1972, no. 4, P 3.<issue>4</issue>
+                  <fpage>3</fpage>
+                  <source>Sever</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e783a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d64e790" publication-type="journal">
+Ibid., no. 4, p. 29<issue>4</issue>
+                  <fpage>29</fpage>
+                  <source>Sever</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e808" publication-type="other">
+no. 5, p. 8.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e815a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d64e822" publication-type="other">
+Ibid., no. 5, pp. 30-34, 49-50, 54.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e829a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d64e836" publication-type="other">
+Ibid., no. 4, pp. 6-10</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e843a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d64e850" publication-type="other">
+Ibid., p. 31.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e857a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d64e864" publication-type="other">
+Ibid., no. 5, pp. 3-12</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e871a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d64e878" publication-type="other">
+Ibid., pp. 12-28.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e886a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d64e893" publication-type="other">
+Ibid., no. 5, pp. 29-31</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e900a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d64e907" publication-type="journal">
+Molodaia gvardiia, 1967, no. 9, p. 251<issue>9</issue>
+                  <fpage>251</fpage>
+                  <source>Molodaia gvardiia</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e925" publication-type="other">
+no. 10, p. 292.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e932a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d64e939" publication-type="other">
+Novyi mir, 1969, no. 3, p. 245.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e946a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d64e953" publication-type="journal">
+Literaturnaia gazeta, 31 January1968.<issue>31 January</issue>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e969a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d64e976" publication-type="journal">
+Ibid., 14 February, 13 March 1968<issue>14 February</issue>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e992a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d64e999" publication-type="journal">
+"Tochka opory: eticheskie problemy sovremennoi prozy,"
+Don, 1968, no. 6, pp. 168-81<issue>6</issue>
+                  <fpage>168</fpage>
+                  <source>Don</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1021" publication-type="other">
+no. 7, pp. 178-87.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1027" publication-type="journal">
+Peter Ehlen, "Emancipation Through Morality," Studies
+in Soviet Thought13, nos. 3-4 (September-December 1973): 203-17.<person-group>
+                     <string-name>
+                        <surname>Ehlen</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <fpage>203</fpage>
+                  <volume>13</volume>
+                  <source>Studies in Soviet Thought</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e1063a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d64e1070" publication-type="journal">
+Don, 1968, no. 7, p. 186.<issue>7</issue>
+                  <fpage>186</fpage>
+                  <source>Don</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e1089a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d64e1096" publication-type="journal">
+Nash sovremennik, 1961, no. 3, pp. 48-87.<issue>3</issue>
+                  <fpage>48</fpage>
+                  <source>Nash sovremennik</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e1115a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d64e1122" publication-type="journal">
+Don, 1968, no. 7, p. 187.<issue>7</issue>
+                  <fpage>187</fpage>
+                  <source>Don</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e1141a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d64e1148" publication-type="book">
+Sel'skie povesti, (Moscow, 1971).<source>Sel'skie povesti</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e1161a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d64e1168" publication-type="journal">
+Literaturnaia gazeta, 6 February1974<issue>6 February</issue>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1183" publication-type="journal">
+Zvezda, 1972, no. 11, pp. 217-20.<issue>11</issue>
+                  <fpage>217</fpage>
+                  <source>Zvezda</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

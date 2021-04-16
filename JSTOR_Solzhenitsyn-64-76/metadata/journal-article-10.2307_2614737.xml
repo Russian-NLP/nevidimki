@@ -1,0 +1,74 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">inteaffaroyainst</journal-id>
+         <journal-id journal-id-type="jstor">j100185</journal-id>
+         <journal-title-group>
+            <journal-title>International Affairs (Royal Institute of International Affairs 1944-)</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00205850</issn>
+         <issn pub-type="epub">14682346</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2614737</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+               <subj-group>
+                  <subject>U.S.S.R. and Eastern Europe</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>P. Frank</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1971</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">47</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i324588</issue-id>
+         <fpage>170</fpage>
+         <lpage>172</lpage>
+         <page-range>170-172</page-range>
+         <product>
+            <source>In Quest of Justice: Protest and Dissent in the Soviet Union Today.</source>
+            <string-name>Abraham Brumberg</string-name>
+         </product>
+         <product>
+            <source>My Testimony.</source>
+            <string-name>Anatoly Marchenko</string-name>
+            <string-name>Michael Scammell</string-name>
+         </product>
+         <product>
+            <source>Our Own People: A Memoir of "Ignace Reiss" and His Friends.</source>
+            <string-name>Elizabeth K. Poretsky</string-name>
+         </product>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2614737"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

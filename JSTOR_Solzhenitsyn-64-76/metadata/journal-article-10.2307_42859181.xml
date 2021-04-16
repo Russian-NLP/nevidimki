@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">socisciequar</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50010312</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Social Science Quarterly</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Southwestern Social Science Association and The University of Texas at Austin</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00384941</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15406237</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">54</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40108773</issue-id>
+         <article-id pub-id-type="jstor">42859181</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>BOOK REVIEWS</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>David R.</given-names>
+                  <surname>Jones</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>9</month>
+            <year>1973</year>
+         </pub-date>
+         <fpage>424</fpage>
+         <lpage>425</lpage>
+         <product>
+            <source>The Heirs of Stalin: Dissidence and the Soviet Regime</source>
+            <string-name>
+               <given-names>Abraham</given-names>
+               <surname>Rothberg</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1973 Southwestern Social Science Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/42859181"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">canaslavpape</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000944</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Canadian Slavonic Papers / Revue Canadienne des Slavistes</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Canadian Association of Slavists</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00085006</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23752475</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">13</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2/3</issue>
+         <issue-id>i40039037</issue-id>
+         <article-id pub-id-type="jstor">40866342</article-id>
+         <title-group>
+            <article-title>Preliminary Remarks on the Literary Craft of Solzhenitsyn</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>NIKOLAI V.</given-names>
+                  <surname>PERVUSHIN</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1971</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1971</year>
+         </pub-date>
+         <fpage>141</fpage>
+         <lpage>146</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/40866342"/>
+      
+      
+         <abstract>
+            <p>Les oeuvres de Soljénitsyne présentent non seulement un intéret historique, moral et documentaire, mais ont également une valeur artistique et esthétique indéniable. Ses romans et nouvelles sont bien construits, il emploie différents moyens littéraires, y compris l'ironie, la parodie, le sarcasme. Il possède le don d'une analyse profonde du monde intérieur de ses héros. Certains critiques étrangers le considèrent même comme un des rares "réalistes socialistes" dans le meilleur sens du mot, dont les oeuvres auraient pu ouvrir de nouveaux horizons à la littérature soviétique, s'il n'avait pas été exclu de la littérature par les autorités. Un trait commun distingue ses oeuvres: le fait que les héros de ses romans vivent dans un milieu artificiellement limité, confiné, comme dans une prison, un camp de concentration, un hôpital. Celà ouvre d'intéressantes possibilités d'une étude approfondie des personnages de ses oeuvres, de leur psychologie, de leurs interrelations. Le language de ses oeuvres est original et puissant.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1730e120a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d1730e127" publication-type="other">
+George Lukacs, Soljénitsyne (Paris N.R.F., 1970), pp. 71-74.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1730e134a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d1730e141" publication-type="other">
+M. Bakhtin, Problemy poetiki Dostoevskogo, Sov. Pisatel' (Moscow, 1963), p. 362.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1730e147" publication-type="other">
+M. Bakhtin, Problemy tvorchestva Dostoevskogo (Leningrad, 1929), p. 243.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1730e154a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d1730e161" publication-type="other">
+B. Bosanquet, Three Lectures on Aesthetics (London, 1915).</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

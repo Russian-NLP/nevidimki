@@ -1,0 +1,73 @@
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">goveoppo</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50014436</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Government and Opposition</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Government and Opposition, London School of Economics and Political Science</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0017257X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14777053</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44481964</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review Articles</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Problems of Interest Articulation and Group Influence in the Soviet Union</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>A. H.</given-names>
+                  <surname>Brown</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>4</month>
+            <year>1972</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">7</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40188320</issue-id>
+         <fpage>229</fpage>
+         <lpage>243</lpage>
+         <page-range>229, 231, 233, 235, 237, 239, 241, 243</page-range>
+         <product>
+            <source>Interest Groups in Soviet Politics</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>H. Gordon</given-names>
+               <surname>Skilling</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Franklyn</given-names>
+               <surname>Griffiths</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>© 1972 Government and Opposition Ltd.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/44481964"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">sovietstudies</journal-id>
+         <journal-id journal-id-type="jstor">j100376</journal-id>
+         <journal-title-group>
+            <journal-title>Soviet Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>University of Glasgow</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00385859</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">27</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i208273</issue-id>
+         <article-id pub-id-type="jstor">150456</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Sheila</given-names>
+                  <surname>Fitzpatrick</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>491</fpage>
+         <lpage>493</lpage>
+         <page-range>491-493</page-range>
+         <product>
+            <source>Novy Mir. A. Selection 1925-1967</source>
+            <string-name>
+              <given-names>Michael</given-names>
+              <surname>Glenny</surname>
+            </string-name>
+          </product>
+         <permissions>
+            <copyright-statement>Copyright 1975 University of Glasgow Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/150456"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

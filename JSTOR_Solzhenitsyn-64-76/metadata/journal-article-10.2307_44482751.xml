@@ -1,0 +1,127 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">goveoppo</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50014436</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Government and Opposition</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Government and Opposition, with the assistance of the London School of Economics and Political Science</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0017257X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14777053</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44482751</article-id>
+         <title-group>
+            <article-title>Presidentialism and the Parties in the French Fifth Republic</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Wright</given-names>
+                  <surname>Vincent</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">10</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40188376</issue-id>
+         <fpage>24</fpage>
+         <lpage>45</lpage>
+         <permissions>
+            <copyright-statement>© 1975 Government and Opposition Ltd.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/44482751"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d36e126a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d36e133" publication-type="other">
+Malcolm Anderson, op. cit., p. 266.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e140a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d36e147" publication-type="other">
+Cartes sur table, Pans, 1972.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e154a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d36e161" publication-type="other">
+J. C. Colliard, Les Républicains Indépendants, Paris, 1971.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e168a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d36e175" publication-type="other">
+Le Nouvel Observateur, 15 July 1974.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e183a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d36e190" publication-type="other">
+Jean Chariot, op. cit., pp. 216-17.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e197a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d36e204" publication-type="other">
+IFOP poll published in France Soir, 16 May 1974.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e211a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d36e218" publication-type="other">
+Conseil politique of the party, reported
+in Le Monde, 25 June 1974.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e228a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d36e235" publication-type="other">
+L'Humanité y 18 June 1974.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e242a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d36e249" publication-type="other">
+V. Wright and H. Machin, 'The French Socialist Party in 1973:
+Performance and Prospects', Government and Opposition, Vol. 9, No. 2, Spring
+1974, pp. 123-45.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

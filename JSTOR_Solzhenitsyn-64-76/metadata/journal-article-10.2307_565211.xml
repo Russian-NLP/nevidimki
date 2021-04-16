@@ -1,0 +1,68 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">englhistrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100150</journal-id>
+         <journal-title-group>
+            <journal-title>The English Historical Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Longman Group Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00138266</issn>
+         <issn pub-type="epub">14774534</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">565211</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews of Books</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>R. I.</given-names>
+                  <surname>McKibbin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">91</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">358</issue>
+         <issue-id>i224393</issue-id>
+         <fpage>166</fpage>
+         <lpage>167</lpage>
+         <page-range>166-167</page-range>
+         <product>
+            <source>Oswald Mosley</source>
+            <string-name>
+               <given-names>Robert</given-names>
+               <surname>Skidelsky</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1976 Longman Group Ltd. and Contributors</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/565211"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

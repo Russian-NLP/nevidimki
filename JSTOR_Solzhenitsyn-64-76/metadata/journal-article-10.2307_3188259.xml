@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">soutcentbull</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100372</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The South Central Bulletin</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>South Central Modern Language Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0038321X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i359774</issue-id>
+         <article-id pub-id-type="doi">10.2307/3188259</article-id>
+      
+         <title-group>
+            <article-title>The Shakespearean Self-Author</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Albert W.</given-names>
+                  <surname>Fields</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>12</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>150</fpage>
+         <lpage>156</lpage>
+         <page-range>150-156</page-range>
+         <self-uri xlink:href="https://www.jstor.org/stable/3188259"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d15e108a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d15e115" publication-type="book">
+Of the Laws of Ecclesiastical Polity, I.vii.2-4, in The
+Works of Richard Hooker, ed. John Keble<person-group>
+                     <string-name>
+                        <surname>Keble</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Of the Laws of Ecclesiastical Polity</comment>
+                  <fpage>2</fpage>
+                  <volume>I</volume>
+                  <source>The Works of Richard Hooker</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e146" publication-type="other">
+rev. R. W.
+Church and F. Paget (7th ed., New York: Burt Franklin,
+1887, repr. 1970)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e159a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d15e166" publication-type="book">
+Paradise Lost, 111.108, in The Complete Poems and
+Major Prose, ed. Merritt Y. Hughes (New York: The
+Odyssey Press, 1957)<person-group>
+                     <string-name>
+                        <surname>Hughes</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Paradise Lost</comment>
+                  <fpage>108</fpage>
+                  <volume>111</volume>
+                  <source>The Complete Poems and Major Prose</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e203" publication-type="book">
+"reason is but choosing," in
+Areopagitica, p. 733<comment content-type="section">reason is but choosing</comment>
+                  <fpage>733</fpage>
+                  <source>Areopagitica</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e222a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d15e229" publication-type="book">
+The Complete Works of
+Shakespeare, ed. Hardin Craig (Glenview, Ill.: Scott,
+Foresman and Company, 1961)<person-group>
+                     <string-name>
+                        <surname>Craig</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Complete Works of Shakespeare</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e258a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d15e265" publication-type="book">
+Robert B. Heilman,
+This Great Stage (Baton Rouge: Louisiana State Univ.
+Press, 1948), chs. IV and V, but especially p. 115<person-group>
+                     <string-name>
+                        <surname>Heilman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chs. IV</comment>
+                  <fpage>115</fpage>
+                  <source>This Great Stage</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e301a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d15e308" publication-type="book">
+Marion B. Smith's comments on the Elizabethan
+view of man as a compound of contraditions in Dualities in
+Shakespeare (Toronto: Univ. of Toronto Press, 1966), pp.
+12-18<person-group>
+                     <string-name>
+                        <surname>Smith's</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>Dualities in Shakespeare</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e342" publication-type="book">
+Marion H. Parker's treatment of mercy and
+justice in The Slave ofLife: A Study of Shakespeare and the
+Idea of Justice (London: Chatto &amp; Windus, 1955), passim,
+esp. ch. 3<person-group>
+                     <string-name>
+                        <surname>Parker's</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">ch. 3</comment>
+                  <source>The Slave ofLife: A Study of Shakespeare and the Idea of Justice</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e377a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d15e384" publication-type="book">
+Mario Praz, The Flaming Heart (Garden
+City, N.Y.: Doubleday &amp; Co., Inc., 1958), pp. 90-145<person-group>
+                     <string-name>
+                        <surname>Praz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>90</fpage>
+                  <source>The Flaming Heart</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e413a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d15e420" publication-type="book">
+The Gulag Archipelago, 1918-1956 (tr. Thomas P.
+Whitney. New York: Harper and Row, 1973), pp. 173-74<fpage>173</fpage>
+                  <source>The Gulag Archipelago, 1918-1956</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e439a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d15e446" publication-type="journal">
+W. H. Durham's treatment of self-deception in
+"What Art Thou Angelo?" University of California
+Publications in English, VII (1942), 167-74<person-group>
+                     <string-name>
+                        <surname>Durham's</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>167</fpage>
+                  <volume>VII</volume>
+                  <source>University of California Publications in English</source>
+                  <year>1942</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e481a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d15e488" publication-type="journal">
+Robert J. Bauer's discussion of Edmund as a
+"singular being" who "must assert the superior value of
+himself in the face of all circumstances, laws, opponents" in
+"'Despite of Mine Own Nature': Edmund and the Orders,
+Cosmic and Moral," TSLL, X (1968-69), 359-66<person-group>
+                     <string-name>
+                        <surname>Bauer's</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>359</fpage>
+                  <volume>X</volume>
+                  <source>TSLL</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e529a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d15e536" publication-type="journal">
+Waldo F. McNeir's comments on Edmund's
+"aborted peripety" in "The Role of Edmund in King Lear,"
+SEL, VIII (1968), 187-216<person-group>
+                     <string-name>
+                        <surname>McNeir's</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>187</fpage>
+                  <volume>VIII</volume>
+                  <source>SEL</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e572a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d15e579" publication-type="book">
+Arthur Sewell, "Tragedy and the 'Kingdom of
+Ends"' in Shakespeare: Modern Essays in Criticism, ed.
+Leonard F. Dean (rev. ed.; New York: Oxford Univ. Press,
+1967), pp. 295, 305-307<person-group>
+                     <string-name>
+                        <surname>Sewell</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Tragedy and the 'Kingdom of Ends</comment>
+                  <fpage>295</fpage>
+                  <source>Shakespeare: Modern Essays in Criticism</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e617a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d15e624" publication-type="book">
+A. C. Bradley, e. g., views Coriolanus as prideful
+and self-ignorant in The British Academy, Second Annual
+Shakespeare Lecture, Coriolanus (London, 1912), pp. 17-19<person-group>
+                     <string-name>
+                        <surname>Bradley</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>17</fpage>
+                  <source>The British Academy, Second Annual Shakespeare Lecture, Coriolanus</source>
+                  <year>1912</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e655" publication-type="book">
+Hardin Craig, "Coriolanus:
+Interpretation," pp. 199-209<person-group>
+                     <string-name>
+                        <surname>Craig</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>199</fpage>
+                  <source>Coriolanus: Interpretation</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e679" publication-type="book">
+Rodney Poisson,
+"Coriolanus as Aristotle's Magnanimous Man," pp.
+210-224, both in Pacific Coast Studies in Shakespeare, ed.
+Waldo F. McNeir and Thelma N. Greenfield (Eugene:
+Univ. of Oregon Press, 1966)<person-group>
+                     <string-name>
+                        <surname>Poisson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Coriolanus as Aristotle's Magnanimous Man</comment>
+                  <fpage>210</fpage>
+                  <source>Pacific Coast Studies in Shakespeare</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d15e720a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d15e727" publication-type="book">
+Smith, pp. 41-42.  <fpage>41</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

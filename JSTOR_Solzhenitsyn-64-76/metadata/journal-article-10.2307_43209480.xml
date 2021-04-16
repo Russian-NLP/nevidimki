@@ -1,0 +1,61 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ilpolitico</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013926</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Il Politico</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Istituto di Scienze Politiche dell'Università degli Studi di Pavia</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0032325X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">2239611X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43209480</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>NOTE E DISCUSSIONI</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>THE ROLE OF POLITICS AND THE INTELLECTUAL FREEDOMS IN THE COMMUNIST COUNTRIES</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kenneth V.</given-names>
+                  <surname>Lottich</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>6</month>
+            <year>1967</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">32</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40125722</issue-id>
+         <fpage>396</fpage>
+         <lpage>404</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43209480"/>
+         <abstract>
+            <p>Il ruolo della politica all'Est ed all'Ovest sembra presentare diverse importanti differenze: ad eccezione di pochi leaders in Europa Occidentale, l'approccio occidentale è pragmatico, quello orientale è ideologicamente idealistico e si serve della politica come di un pretesto per l'azione. Pertanto i Cinesi sono diventati, piuttosto stranamente, più idealistici (cioè più fermamente attaccati ad idee fisse) di Mosca. Mao Tse Tung insiste maggiormente sul « diventare rossi » prima che « esperti ». La pubblicazione in URSS (novembre 1962) di « Un giorno nella vita di Ivan Denisovich » di Alexander Solzhenitsyn, è servita a dimostrare questa differenza ideologica: per Krusciov, apparentemente, la fermezza e la volontà di Ivan nel seguire le istruzioni ricevute era una raccomandazione sufficiente per la pubblicazione ; ma indubbiamente i Cinesi vedevano Ivan come un'accusa allo Stalinismo cosa che, superficialmente, era vera. Recentemente, la condanna infer ta ad Andrei Siniavski e a Yuri Daniel per mano della casta dirigente sovietica sembra confermare questa non poi tanto sottile differenza ideologica. L'affare Siniavski (Tertz)-Daniel da una parte ha semplicemente sottolineato una presunta differenza cardinale fra Est ed Ovest in materia di censura e controllo diretto, dall'altra rappresenta un tentativo di rendere meno netta la distinzione fra i rossi cinesi e quelli del Kremlino.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

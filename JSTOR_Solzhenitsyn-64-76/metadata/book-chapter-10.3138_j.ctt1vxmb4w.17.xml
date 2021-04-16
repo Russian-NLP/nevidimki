@@ -1,0 +1,525 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt13kh4md</collection-id>
+      <volume>3</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1vxmb4w</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Literary History of Canada</book-title>
+         <subtitle>Canadian Literature in English, Volume III (Second Edition)</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>General Editor</role>
+            <name name-style="western">
+               <surname>KLINCK</surname>
+               <given-names>CARL F.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="editor">Editors</role>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>BAILEY</surname>
+               <given-names>ALFRED G.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>BISSELL</surname>
+               <given-names>CLAUDE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>DANIELLS</surname>
+               <given-names>ROY</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib5">
+            <name name-style="western">
+               <surname>FRYE</surname>
+               <given-names>NORTHROP</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib6">
+            <name name-style="western">
+               <surname>PACEY</surname>
+               <given-names>DESMOND</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>1976</year>
+      </pub-date>
+      <isbn content-type="ppub">9780802062789</isbn>
+      <isbn content-type="epub">9781487589370</isbn>
+      <publisher>
+         <publisher-name>University of Toronto Press</publisher-name>
+         <publisher-loc>TORONTO; BUFFALO</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1976</copyright-year>
+         <copyright-holder>UNIVERSITY OF TORONTO PRESS</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.3138/j.ctt1vxmb4w"/>
+      <abstract abstract-type="short">
+         <p>This major effort of a large group of scholars working in the field of English-language Canadian literature provides a comprehensive, up-to-date reference work.It represents a positive attempt to give a history of Canada in terms of writings which deserve attention because of significant thought, form, and use of language.</p>
+      </abstract>
+      <counts>
+         <page-count count="406"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Klinck</surname>
+                           <given-names>Carl F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+                  <abstract>
+                     <p>The<italic>Literary History of Canada</italic>, first published in 1965, is now issued in three volumes. During revision completed in 1975, the contents grew beyond a single set of covers. Parts i to iii of the original book are now in Volume i ; part iv is now in Volume ii. The new chapters concerned with the years 1960 to 1973 are in this third volume.</p>
+                     <p>The project for a<italic>Literary History</italic>was begun in 1957 and was brought to its first goal of publication by the editors and twenty-nine other contributors in 1965. They have been joined in recent years</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Politics and Literature in the 1960s</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BISSELL</surname>
+                           <given-names>CLAUDE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>At the opening of the sixties, Canadians were aware that a new political age had begun, although its contours were still vague. The long years of Liberal rule, prolonged smoothly, with a sense of decorous inevitability under Louis St Laurent, had come to an end in the election of 10 June 1957, and had been firmly sealed in March 1958, when the Conservatives under John Diefenbaker had turned a precarious hold on office into a triumphant take over. An even more dramatic reversal took place later in the year in Quebec when the Liberals under Jean Lesage won the election</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Course of Canadian Criticism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PACEY</surname>
+                           <given-names>DESMOND</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>16</fpage>
+                  <abstract>
+                     <p>These rules imply some disconcerting home-truths, and as a native of New Zealand who is distrustful of American influences in Canada, whose style is not noted for its colloquial ease, who has written a plethora of general articles on the past, present, and future of Canadian literature, and who is always duly respectful of his betters, I am perhaps tempting Fate by citing them. There has been a tendency for Canadian literary criticism to be strongly influenced by persons not of Canadian origin; there has been a continuing strain of nationalistic defensiveness in it; it has with a few notable</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Literary Criticism and Scholarship</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LANE</surname>
+                           <given-names>LAURIAT</given-names>
+                           <suffix>JR</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>How narrowly must we define literary scholarship, including criticism, to delimit our subject yet keep some sense of its full scope?* Many books usually identified with other fields are also important as literary scholarship. And then there are the writings of Marshall McLuhan.</p>
+                     <p>In the past few years McLuhan has brought out at least eight major contributions to 'McLuhanism':<italic>The Gutenberg Galaxy</italic>(1962),<italic>Understanding Media</italic>(1964),<italic>The Medium is the Message</italic>(1967, with Quentin Fiore),<italic>War and Peace in the Global Village</italic>(1968, with Fiore),<italic>Through the Vanishing Point</italic>(1968, with Harley Parker),<italic>Counterblast</italic>(1970),<italic>Culture is Our Business</italic>(1970),</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Canadian History</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CROSS</surname>
+                           <given-names>MICHAEL S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>It was a buoyant time for Canadian historians. Massive growth of universities, and especially of graduate schools, expanded the numbers in the profession; the centennial and the rise of nationalism provided publishers and readers for their works. It was easy, in all of the hubbub, to fail to notice that the period was one of promise more than of accomplishment.</p>
+                     <p>Yet there were important landmarks. Some memorable books were published, such as: Carl Berger's<italic>The Sense of Power</italic>; W.J. Eccles'<italic>The Canadian Frontier, 1534–1760</italic>and<italic>France in America</italic>; Eric Ross's<italic>Beyond the River and the Bay: Some Observations on the</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Philosophical Literature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOUDGE</surname>
+                           <given-names>THOMAS A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>84</fpage>
+                  <abstract>
+                     <p>A dominant fact about Canadian philosophical literature in the 1960s is that it greatly increased in volume. A large part of the volume consisted of articles in journals, as was the case elsewhere in the Anglo-American world. But there was also a substantial number of books. This was a period of unprecedented expansion in higher education across the country. Older departments of philosophy made many additional appointments in a short space of time, and at the newer universities new appointments had to be made to set up their departments. Thus the total population of academic philosophers became much larger than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Religious and Theological Writings</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRANT</surname>
+                           <given-names>JOHN WEBSTER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>104</fpage>
+                  <abstract>
+                     <p>By the early 1960s, religious thinking was again undergoing a dramatic turnabout. Questions once more overshadowed affirmations, and the questions were posed with vehemence rather than with the wistfulness that had characterized the liberal era. In retrospect one can see that the neo-orthodoxy prevalent in the 1940s and 1950s had carried the seeds of its own downfall. By distinguishing divine revelation from human speculation it had exposed the pretensions of western social and political institutions to embody the essential values of Christianity. But what of the claims of the churches themselves to embody the gospel in their structures and formularies?</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Physical Sciences and Engineering</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHAPMAN</surname>
+                           <given-names>JOHN H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>In the sixties began a decade of debate, centred on the question of a 'science policy' for Canada. The debate was a sign of a maturing scientific community, growing and expanding out of a colonial reliance on the older members of the English-speaking world for leadership in science and technology.</p>
+                     <p>Science policy, meaning agreed national objectives for research (which is particularly costly in the physical sciences), was hardly an issue prior to 1960, there being too little science to have much policy about. The National Research Council came into being after the World War I, ostensibly to bring the economic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Biological Sciences</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SWINTON</surname>
+                           <given-names>WILLIAM E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>There have been considerable advances in the biological and medical sciences in the last decade and it would be impracticable as well as misleading to regard the printed book as the whole, or even the most important source of the story. Equally, although it might prove useful to give a list of the works or the authors' names, it would not necessarily reveal Canadian thought and its trends and it would not separate either from the mosaic of world science.</p>
+                     <p>A reader cannot have reached these pages without having absorbed the various meanings or interpretations of the words 'literary' and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Writing in the Social Sciences</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MAYO</surname>
+                           <given-names>HENRY B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>136</fpage>
+                  <abstract>
+                     <p>In Volume ii of the<italic>Literary History of Canada</italic>(p 52), the concluding remark was made that as the number of scholars in the social sciences increased, scholarly writing in these fields would also expand rapidly. That prediction has been amply borne out. The university 'explosion' of the 1960s has been accompanied by, and has partly even caused, a cultural explosion in all kinds of literary and artistic output – in the most narrowly 'cultural' fields as well as in the social sciences.</p>
+                     <p>Aside from American foundations, the great patrons of the social sciences in Canada in the past used</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Critical Theory:</title>
+                     <subtitle>Some Trends</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSS</surname>
+                           <given-names>MALCOLM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>Sometimes one wonders if literary criticism in Canada has not become a verbal universe in its own right, containing and controlling under its own inexorable laws all those spun-off pieces of mind – novels, poems, plays – that seem to whirl in archetypal space behind the fragile garrison line of the 49th parallel.</p>
+                     <p>Yet, as George Woodcock observed in an essay 'Away from Lost Worlds,' published in 1964 (included in<italic>Odysseus Ever Returning: Essays on Canadian Writers and Writings</italic>[1970] 10–11) it is 'only in the last decade' that 'Canadians have turned with any seriousness or much depth to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Essays and Biography</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CONRON</surname>
+                           <given-names>BRANDON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THOMAS</surname>
+                           <given-names>CLARA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>176</fpage>
+                  <abstract>
+                     <p>In the period between 1960 and 1973 the Canadian essay continued to be influenced largely by the directness and force of journalism. As an instrument reflecting topical concerns it conveyed the alternating moods of disillusion and of national boostering which centred particularly around various political and emotional responses to Canada's centennial in 1967. The essay also reflected interpretations of changing life styles in Western civilization under the impact of technology, as thoughtful writers contemplated seriously or humorously the contrast between old and new standards of morality, dress, warfare, and even of critical literary assessment. The note of nostalgia for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Children's Literature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EGOFF</surname>
+                           <given-names>SHEILA A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>204</fpage>
+                  <abstract>
+                     <p>By the 1960s children's books in other countries, particularly the United States, had begun to change as society changed. Television in particular brought children into the adult world more quickly than ever before and all the current problems, doubts, and uncertainties began to be reflected in children's books. Abandoning the story-cum-adventure convention, the children's novel became the fictional equivalent of the 'young person's guide to problems' – psychological, physical, and sociological.</p>
+                     <p>Almost none of these quite dramatic shifts in subject and taste showed up in Canada. Canadian children's books, whether from determination or as the result of circumstance, did not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.16</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Drama and Theatre</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RIPLEY</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>212</fpage>
+                  <abstract>
+                     <p>'Theatre ... as something of value to a discerning public has never counted in the life of English-language Canada,' lamented Nathan Cohen in 1959. 'Nor is it likely to in the reasonably foreseeable future,' he concluded.¹ And at the time the late critic's pessimism was neither unique nor unfounded. Given our theatrical tradition, or lack of it, not even the blithest visionary could have anticipated that within a dozen years a coast-to-coast chain of twenty-three Anglophone and Francophone companies would offer a total of 6,489 performances in a single season (1971–2), and that 3,112 of these would feature Canadian plays.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.17</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEW</surname>
+                           <given-names>WILLIAM H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>Much Canadian fiction between 1960 and 1973 demonstrated a continuity with the past.* It was academic, sometimes arcane, usually middle class in its affirmation and rejection of values, and it was concerned with the psychic isolation that recurs so frequently as a motif in modern literature. The landscape continued to exert its presence, formidable both as an ally and an antagonist in characters' various quests for answers, identities, comfort, and consolation. Characters continued to question their own and their society's failings. And authors – in conscious parody, laconic understatement, wry reflection, and bitter wit – demonstrated their appreciation of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.18</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Poetry</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WOODCOCK</surname>
+                           <given-names>GEORGE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>284</fpage>
+                  <abstract>
+                     <p>In 1963, writing in<italic>Canadian Literature</italic>on 'poets in their twenties,' George Bowering – himself of that generation – made the accurately prophetic remark: 'If the publishers can keep up with the poets (and some of them are becoming unusually receptive) the next ten years will be, in terms of sheer quantity at least, the most fruitful in the history of Canadian poetry.' Events have proved him dramatically right, although not entirely through the receptiveness of publishers, since the vast increase in the production and availability of poetry during the past decade has been due very largely to the enterprise</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.19</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRYE</surname>
+                           <given-names>NORTHROP</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>318</fpage>
+                  <abstract>
+                     <p>It is difficult to know what to say, as a general conclusion, to this part of the<italic>Literary History</italic>that is not already said or implied in my previous conclusion. Ten or twelve years is not a generation, much less, even in these future-shock days, a historical period. The logical starting point, I think, has to be the reason for producing a volume of this size so few years after the original one, and the reason is not difficult to grasp. Mr Cross, writing on history, says that five hundred books in that field were produced during five of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.20</book-part-id>
+                  <title-group>
+                     <title>Bibliography and Notes</title>
+                  </title-group>
+                  <fpage>333</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.21</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>341</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.22</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>344</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1vxmb4w.23</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">booksabroad</journal-id>
+         <journal-id journal-id-type="jstor">j50000046</journal-id>
+         <journal-title-group>
+            <journal-title>Books Abroad</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00067431</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/40129510</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Commentaries</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>József Lengyel: Chronicler of Cruel Years</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>George</given-names>
+                  <surname>Gömöri</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">49</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i40003870</issue-id>
+         <fpage>471</fpage>
+         <lpage>474</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1975 The University of Oklahoma Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40129510"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>[Endnotes]</title>
+         <ref id="d365e117a1310">
+            <label>1</label>
+            <mixed-citation id="d365e124" publication-type="other">
+Attila Tamás, Irodalom és emberi teljesség,
+Budapest, 1973, p. 217.</mixed-citation>
+         </ref>
+         <ref id="d365e134a1310">
+            <label>2</label>
+            <mixed-citation id="d365e141" publication-type="other">
+Visegrádi utca, republished in Budapest, 1957.</mixed-citation>
+         </ref>
+         <ref id="d365e148a1310">
+            <label>3</label>
+            <mixed-citation id="d365e155" publication-type="other">
+BA 47:2, pp. 398-99.</mixed-citation>
+         </ref>
+         <ref id="d365e162a1310">
+            <label>4</label>
+            <mixed-citation id="d365e169" publication-type="other">
+"A
+Small, Angry Old Gentleman" restored in the Eng-
+lish edition of the book (Peter Owen, 1970).</mixed-citation>
+         </ref>
+         <ref id="d365e183a1310">
+            <label>5</label>
+            <mixed-citation id="d365e192" publication-type="other">
+Solzhenitsyn's Ivan Denisovich was published
+in the November 1962 number of Novyj Mir;</mixed-citation>
+            <mixed-citation id="d365e201" publication-type="other">
+Lengyel's "A Small, Angry Old Gentleman" in the
+November 1962 number of the Budapest magazine
+Uj Irás.</mixed-citation>
+         </ref>
+         <ref id="d365e214a1310">
+            <label>6</label>
+            <mixed-citation id="d365e221" publication-type="other">
+József Lengyel, From Beginning to End, Lon-
+don, Peter Owen, 1966, p. 124.</mixed-citation>
+         </ref>
+         <ref id="d365e231a1310">
+            <label>7</label>
+            <mixed-citation id="d365e238" publication-type="other">
+Ibid., p. 9.</mixed-citation>
+         </ref>
+         <ref id="d365e245a1310">
+            <label>8</label>
+            <mixed-citation id="d365e252" publication-type="other">
+Szembesítés bears the heading "To
+be regarded as a manuscript"</mixed-citation>
+         </ref>
+         <ref id="d365e262a1310">
+            <label>9</label>
+            <mixed-citation id="d365e269" publication-type="other">
+József Lengyel, Ézsau mondja, Budapest, Szépi-
+rodalmi, 1969, p. 30.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

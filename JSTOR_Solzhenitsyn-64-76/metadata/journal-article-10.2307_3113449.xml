@@ -1,0 +1,259 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">busihistrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100113</journal-id>
+         <journal-title-group>
+            <journal-title>The Business History Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Harvard Graduate School of Business Administration</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00076805</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3113449</article-id>
+         <title-group>
+            <article-title>An American Businessman in the Soviet Union: The Reimer Report</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robert W.</given-names>
+                  <surname>Clawson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">50</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i356606</issue-id>
+         <fpage>203</fpage>
+         <lpage>218</lpage>
+         <page-range>203-218</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 The President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3113449"/>
+         <abstract>
+            <p>In 1930 Jacob Reimer, along with sixteen other employees of International Harvester, went to the Soviet Union for one year to service agricultural implements and to train Soviet workers in their use. This document describes his experiences.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d113e120a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d113e127" publication-type="journal">
+Amtorg Economic Review of the Soviet Union, July
+1, 1929, 239<issue>July 1</issue>
+                  <fpage>239</fpage>
+                  <source>Amtorg Economic Review of the Soviet Union</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e150a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d113e157" publication-type="book">
+John Quigley, The Soviet Foreign Trade Monopoly
+(Columbus, Ohio, 1974), 21, 49<person-group>
+                     <string-name>
+                        <surname>Quigley</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>21</fpage>
+                  <source>The Soviet Foreign Trade Monopoly</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e186a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d113e193" publication-type="book">
+Ibid, 90-91  <fpage>90</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e205a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d113e212" publication-type="book">
+George Katkov, The Trial of Bukharin (New York, 1969), 76<person-group>
+                     <string-name>
+                        <surname>Katkov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>76</fpage>
+                  <source>The Trial of Bukharin</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e238a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d113e247" publication-type="book">
+Richard A. Hough, The Potemkin Mutiny (Englewood Cliffs, N.J., 1963)<person-group>
+                     <string-name>
+                        <surname>Hough</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Potemkin Mutiny</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e268" publication-type="book">
+Aleksandr Solzhenitsyn, The Gulag Archipelago
+1918-1956, Vol. 1 (New York, 1973), 24-92<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>24</fpage>
+                  <volume>1</volume>
+                  <source>The Gulag Archipelago 1918-1956</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e300" publication-type="book">
+Boris Levytsky, The Uses of
+Terror (New York, 1972), 11-73<person-group>
+                     <string-name>
+                        <surname>Levytsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11</fpage>
+                  <source>The Uses of Terror</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e328" publication-type="book">
+Nicholas Bethell, The Last Secret (New York, 1974)<person-group>
+                     <string-name>
+                        <surname>Bethell</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Last Secret</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e350a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d113e357" publication-type="journal">
+Amtorg Economic Review of the Soviet Union, August 1, 1929,
+266<issue>August 1</issue>
+                  <fpage>266</fpage>
+                  <source>Amtorg Economic Review of the Soviet Union</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e380a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d113e389" publication-type="journal">
+Ann Dryden, "A Note on the Conversion of Collective Farms into
+State Farms", Association for the Study of Soviet Type Economics Bulletin, VII, No. 3,
+17-19<person-group>
+                     <string-name>
+                        <surname>Dryden</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <fpage>17</fpage>
+                  <volume>VII</volume>
+                  <source>Economics Bulletin</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e424a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d113e433" publication-type="book">
+Lazar Volin, "The Russian Peasant:
+From Emancipation to Kolkhoz" in Cyril Black, ed., The Transformation of Russian Society
+(Cambridge, Mass., 1960), 292-311<person-group>
+                     <string-name>
+                        <surname>Volin</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Russian Peasant: From Emancipation to Kolkhoz</comment>
+                  <fpage>292</fpage>
+                  <source>The Transformation of Russian Society</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e468a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d113e475" publication-type="book">
+Michael T. Florinsky, ed., Encyclopedia of Russia and
+the Soviet Union, (New York, 1961), 290<person-group>
+                     <string-name>
+                        <surname>Florinsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>290</fpage>
+                  <source>Encyclopedia of Russia and the Soviet Union</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e504a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d113e511" publication-type="book">
+Leonard Shapiro, The Origin of the Communist Autocracy (New
+York, 1965), 296-361<person-group>
+                     <string-name>
+                        <surname>Shapiro</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>296</fpage>
+                  <source>The Origin of the Communist Autocracy</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e539" publication-type="book">
+E. H. Carr, The Bolshevik Revolution, 1917-1923, (Balti-
+more, Md., 1952), 269-279<person-group>
+                     <string-name>
+                        <surname>Carr</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>269</fpage>
+                  <source>The Bolshevik Revolution, 1917-1923</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">science</journal-id>
+         <journal-id journal-id-type="jstor">j100000</journal-id>
+         <journal-title-group>
+            <journal-title>Science</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>American Association for the Advancement of Science</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00368075</issn>
+         <issn pub-type="epub">10959203</issn>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>journal-series-title</meta-name>
+               <meta-value>New Series</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">174</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4011</issue>
+         <issue-id>i299610</issue-id>
+         <article-id pub-id-type="jstor">1733394</article-id>
+         
+         <title-group>
+            <article-title>The New Biology: What Price Relieving Man's Estate?</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Leon R.</given-names>
+                  <surname>Kass</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>19</day>
+            <month>11</month>
+            <year>1971</year>
+         </pub-date>
+         <fpage>779</fpage>
+         <lpage>788</lpage>
+         <page-range>779-788</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1971 American Association for the Advancement of Science</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1733394"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References and Notes</title>
+            <ref id="d71e114a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d71e121" publication-type="journal">
+R. G. Edwards, B. D. Bavister, P. C. Steptoe,
+Nature 221, 632 (1969).<person-group>
+                     <string-name>
+                     <surname>Edwards</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>632</fpage>
+               <volume>221</volume>
+               <source>Nature</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e153a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d71e160" publication-type="journal">
+R. G. Edwards, P. C. Steptoe, J. M. Purdy,
+ibid. 227, 1307 (1970).<person-group>
+                     <string-name>
+                     <surname>Edwards</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1307</fpage>
+               <volume>227</volume>
+               <source>Nature</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e192a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d71e199" publication-type="journal">
+H. J. Muller, Science 134, 643 (1961).<object-id pub-id-type="jstor">10.2307/1708261</object-id>
+               <fpage>643</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e212a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d71e219" publication-type="book">
+J. M. R. Delgado, Physical Control of the
+Mind: Toward a Psychocivilized Society
+(Harper &amp; Row, New York, 1969).<person-group>
+                     <string-name>
+                     <surname>Delgado</surname>
+                  </string-name>
+                  </person-group>
+               <source>Physical Control of the Mind: Toward a Psychocivilized Society</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e249a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d71e256" publication-type="book">
+F. Bacon, The Advancement of Learning,
+Book I, H. G. Dick, Ed. (Random House,
+New York, 1955), p. 193.<person-group>
+                     <string-name>
+                     <surname>Bacon</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>193</fpage>
+               <source>The Advancement of Learning, Book I</source>
+               <year>1955</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e288a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d71e295" publication-type="book">
+C. S. Lewis, The Abolition of Man (Macmil-
+lan, New York, 1965), pp. 69-71.<person-group>
+                     <string-name>
+                     <surname>Lewis</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>69</fpage>
+               <source>The Abolition of Man</source>
+               <year>1965</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e324a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d71e331" publication-type="journal">
+D. D. Rutstein, Daedalus (Spring 1969), p. 523.<person-group>
+                     <string-name>
+                     <surname>Rutstein</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Spring</issue>
+               <fpage>523</fpage>
+               <source>Daedalus</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e360a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d71e367" publication-type="journal">
+E. J. Cassell, Commentary (June 1969), p.
+73.<person-group>
+                     <string-name>
+                     <surname>Cassell</surname>
+                  </string-name>
+                  </person-group>
+               <issue>June</issue>
+               <fpage>73</fpage>
+               <source>Commentary</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e399a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d71e406" publication-type="journal">
+B. Glass, Science 171, 23 (1971).<object-id pub-id-type="jstor">10.2307/1731074</object-id>
+               <fpage>23</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e419a1310">
+               <label>10</label>
+               
+               <mixed-citation id="d71e426" publication-type="book">
+Aldous Huxley's Brave New
+World [(Harper &amp; Row, New York, 1969)]<source>Brave New World</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e443a1310">
+               <label>12</label>
+               
+               
+               <mixed-citation id="d71e452" publication-type="journal">
+J. Cent. Conf. Amer. Rabbis (January 1968),
+p. 27.<issue>January</issue>
+               <fpage>27</fpage>
+               <source>J. Cent. Conf. Amer. Rabbis</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e475a1310">
+               <label>16</label>
+               
+               <mixed-citation id="d71e482" publication-type="book">
+P. Handler,
+Ed, Biology and the Future of Man (Oxford
+Univ. Press, New York, 1970), p. 55.<person-group>
+                     <string-name>
+                     <surname>Handler</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>55</fpage>
+               <source>Biology and the Future of Man</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

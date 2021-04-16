@@ -1,0 +1,385 @@
+
+
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctvd58rqk</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Interest Groups in Soviet Politics</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>SKILLING</surname>
+               <given-names>H. GORDON</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>GRIFFITHS</surname>
+               <given-names>FRANKLYN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>12</day>
+         <month>03</month>
+         <year>2019</year>
+      </pub-date>
+      <isbn content-type="ppub">9780691656762</isbn>
+      <isbn content-type="epub">9780691198477</isbn>
+      <isbn content-type="epub">0691198470</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON, NEW JERSEY</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1971</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctvd58rqk"/>
+      <abstract abstract-type="short">
+         <p> &lt;p&gt;It is now generally agreed that since Stalin's death there has been a definite broadening of group participation in policy formation and implementation. The contributors to this volume analyze seven elite political interest groups at the upper and middle levels of the Soviet social structure. &lt;p&gt;Originally published in 1971. &lt;p&gt;The &lt;strong&gt;Princeton Legacy Library uses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These editions preserve the original texts of these important books while presenting them in durable paperback and hardcover editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.2</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Skilling</surname>
+                           <given-names>H. Gordon</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Griffiths</surname>
+                           <given-names>Franklyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER I</label>
+                     <title>Interest Groups and Communist Politics:</title>
+                     <subtitle>An Introduction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SKILLING</surname>
+                           <given-names>H. GORDON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>THE IDEA that interest groups may play a significant role in communist politics has, until recently, not been seriously entertained either by Western political scientists or by Soviet legal specialists. The concept of “totalitarianism” that dominated the analysis of communism in the West seemed to preclude the possibility that interest groups could challenge or affect the single ruling party as the fount of all power. The uniqueness of a totalitarian system was deemed to lie in the very totality of its political power, excluding, as it were by definition, any area of autonomous behavior by groups other than the state</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER II</label>
+                     <title>Groups in Soviet Politics:</title>
+                     <subtitle>Some Hypotheses</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SKILLING</surname>
+                           <given-names>H. GORDON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>IT IS THE central assumption of this volume that in the seventeen years since Stalin’s death the Soviet political system has been passing through a period of transition, characterized among other things by the increased activity of political interest groups and the presence of group conflict. Although decision-making in its final stage still remains in the hands of a relatively small group of leaders at the top of the party hierarchy, there has been, it is assumed, a broadening of group participation in the crucial preliminary stages of policy deliberation and in the subsequent phase of implementation. These aspects of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER III</label>
+                     <title>The Party Apparatchiki</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOUGH</surname>
+                           <given-names>JERRY F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>AS SCHOLARS began to speak of the existence of interest groups in the Soviet Union, they have almost invariably pointed to the party <italic>apparatchiki</italic> as one of the key groups in the political process. Implicitly or explicitly, most would follow the lead of Zbigniew Brzezinski and Samuel Huntington in describing the <italic>apparatchiki</italic> as men with a “highly professionalized career pattern”—with loyalties “more exclusive” and a commitment “more intense” than Western politicians. In this view of the party apparatus, the commitment of party officials to the apparatus has important consequences for the apparatus as a group: “The organizational tradition and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER IV</label>
+                     <title>The Security Police</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BARGHOORN</surname>
+                           <given-names>FREDERICK C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>THE activities of political organizations, or of the political systems in the contexts of which these institutions function, may be better understood if data can be examined in a comparative frame that sharpens perception of similarities, and differences. The Committee of State Security (KGB) and the Ministry of Internal Affairs (MVD) in the USSR, and the Federal Bureau of Investigation (FBI) and the Central Intelligence Agency (CIA), in the USA, for example, are similar in important respects but the scope, methods, and impact of their operations differ as widely as do the political systems that these agencies serve. Both sets</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER V</label>
+                     <title>The Military</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOLKOWICZ</surname>
+                           <given-names>ROMAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>THE concept of interest groups in a political system presupposes two conditions: (a) distinct sets of interests and values shared by groups or institutional memberships and (b) the existence of “conflict” in the system, i.e., a modicum of tolerance for the public and private articulation of policy-relevant interests and values which are not necessarily those of the ruling elite. In pluralistic systems we have come to accept the idea and reality of interest groups as a vital factor in the political process and social transaction in which the leaders manipulate or accommodate various group demands. In a totalitarian or authoritarian</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VI</label>
+                     <title>The Industrial Managers</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HARDT</surname>
+                           <given-names>JOHN P.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRANKEL</surname>
+                           <given-names>THEODORE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>THE SOVIET industrial managerial group is large, currently numbering over 100,000. For several reasons this group of industrial enterprise managers continues to be more homogeneous in training, performance, and behavior than the more extensive group of Soviet managers and planners as a whole. But whereas there has been considerable continuity in the characteristics and group identification of those industrial managers who came onto the scene during the Stalin era, in recent years a Soviet version of the entrepreneur with a more sophisticated knowledge of management science has become increasingly important. The simple and overriding gross output criterion has been progressively</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VII</label>
+                     <title>The Economists</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JUDY</surname>
+                           <given-names>RICHARD W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>THE BROADEST possible definition of Soviet economists would embrace all individuals educated or occupied as economists. So defined, the members of the group would share few attributes beyond those of the definition itself. A definition and analysis based purely on occupational or educational considerations would present little of interest. This study concentrates instead on the elite group of professional Soviet economists who occupy leading academic, planning, and administrative positions and who articulate viewpoints on major questions of economic theory, policy, and research methodology. An early finding was that this set of elite Soviet economists is heterogenous with respect to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VIII</label>
+                     <title>The Writers</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SIMMONS</surname>
+                           <given-names>ERNEST J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>THE Authors Guild in the United States is a professional interest group concerned with securing the best contract arrangements with its friendly enemies the publishers and with protecting writers against disadvantageous rulings of the courts or government in all matters relating to literature. One thing organized writers in America will oppose to the bitter end is any infringement on their freedom of expression. As an organized group their influence on the country’s cultural development, as well as its political and social policies, is considerable. The Soviet Writers’ Union may also in theory be regarded as a professional interest group but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER IX</label>
+                     <title>The Jurists</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BARRY</surname>
+                           <given-names>DONALD D.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BERMAN</surname>
+                           <given-names>HAROLD J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>IN speaking of Soviet jurists as an interest group, we use the language of a school of political science which interprets political processes in terms of groups exerting influence to secure public action in support of their respective interests.¹ Within this school, widely varying definitions have been put forward; depending on the definition, interest groups may include such diverse types of associations as organized labor, the scientific community, and the local Rotary Club.² For no apparent reason, lawyers have hardly been mentioned in the literature on interest groups, although they seem to qualify under virtually all the definitions. We believe</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER X</label>
+                     <title>A Tendency Analysis of Soviet Policy-Making</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRIFFITHS</surname>
+                           <given-names>FRANKLYN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>335</fpage>
+                  <abstract>
+                     <p>THE ENDEAVOR to employ interest group conceptions in the analysis of contemporary Soviet politics must provoke a sense of uncertainty in the researcher. Not only do Soviet realities resist any ready transference of notions which are derived largely from American experience, but the available theories of group politics and interest groups have notable deficiencies which have to be dealt with. At the same time, the empirical data to which an interest group approach directs us in looking at Soviet politics raise questions not only about prevailing views of the Soviet political system, but also about current conceptions of the political</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XI</label>
+                     <title>Group Conflict in Soviet Politics:</title>
+                     <subtitle>Some Conclusions</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SKILLING</surname>
+                           <given-names>H. GORDON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>379</fpage>
+                  <abstract>
+                     <p>THIS FINAL chapter will attempt to draw conclusions not only from the essays of the contributors to this volume but also from other books and articles which have employed an interest group analysis, or an approximation thereof, or which have dealt with specific groups in Soviet politics.¹ It will also discuss some further applications of interest group analysis and evaluate some of the criticisms of this approach.</p>
+                     <p>The groups we have been examining in this book, although substantial in size, form a relatively small proportion of the total population. We may roughly estimate the numbers involved as 100,000 to 200,000</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.15</book-part-id>
+                  <title-group>
+                     <title>LIST OF CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>417</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.16</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>419</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvd58rqk.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>435</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

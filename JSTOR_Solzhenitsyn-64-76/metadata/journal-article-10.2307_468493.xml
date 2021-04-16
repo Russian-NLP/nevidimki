@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">newlitehist</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100300</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>New Literary History</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>University of Virginia</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00286087</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1080661X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i220187</issue-id>
+         <article-id pub-id-type="doi">10.2307/468493</article-id>
+      
+         <title-group>
+            <article-title>The Psychology of Reading</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Gillian</given-names>
+                  <surname>Cohen</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>75</fpage>
+         <lpage>90</lpage>
+         <page-range>75-90</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1972 New Literary History, The University of Virginia</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/468493"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d36e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d36e121" publication-type="journal">
+A. M. Kershner, "Speed of Reading in an Adult Population under Differential
+Conditions," Journal of Applied Psychology, 48 (1964), 25-28.<person-group>
+                     <string-name>
+                        <surname>Kershner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <volume>48</volume>
+                  <source>Journal of Applied Psychology</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e153a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d36e160" publication-type="book">
+E. B. Huey, The Psychology and Pedagogy of Reading (Cambridge, Mass.,
+1968).<person-group>
+                     <string-name>
+                        <surname>Huey</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Psychology and Pedagogy of Reading</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e185a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d36e192" publication-type="book">
+F. Smith, Understanding Reading (New York, 1971).<person-group>
+                     <string-name>
+                        <surname>Smith</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Understanding Reading</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e214a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d36e221" publication-type="journal">
+J. S. Bruner and D. A. O'Dowd, "A Note on the Informativeness of Parts of
+Words," Language and Speech, I (1958), 98-100.<person-group>
+                     <string-name>
+                        <surname>Bruner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>98</fpage>
+                  <volume>I</volume>
+                  <source>Language and Speech</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e254a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d36e261" publication-type="book">
+G. A. Sperling, in Early Experience and Visual Information Processing in
+Perceptual and Reading Disorders, ed. F. H. Young and D. B. Lindsley, National
+Academy of Sciences (Washington, D. C., 1970).<person-group>
+                     <string-name>
+                        <surname>Sperling</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Early Experience and Visual Information Processing in Perceptual and Reading Disorders</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e290a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d36e297" publication-type="journal">
+E. Wallach, "Perceptual Recognition of Approximations to English in Relation
+to Spelling Achievement," Journal of Educational Psychology, 54 (1963), 57-62.<person-group>
+                     <string-name>
+                        <surname>Wallach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>57</fpage>
+                  <volume>54</volume>
+                  <source>Journal of Educational Psychology</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e329a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d36e336" publication-type="journal">
+J. R. Pierce and J. E. Karlin, "Reading Rates and the Information Rate of a
+Human Channel," Bell Systems Technical Journal, 36 (1957), 497-516.<person-group>
+                     <string-name>
+                        <surname>Pierce</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>497</fpage>
+                  <volume>36</volume>
+                  <source>Bell Systems Technical Journal</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e368a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d36e375" publication-type="book">
+U. Neisser, Cognitive Psychology (New York, 1967).<person-group>
+                     <string-name>
+                        <surname>Neisser</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Cognitive Psychology</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e397a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d36e404" publication-type="journal">
+J. Morton, "Interaction of Information in Word Recognition," Psychological
+Review, 76 (1969), 165-78.<person-group>
+                     <string-name>
+                        <surname>Morton</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>165</fpage>
+                  <volume>76</volume>
+                  <source>Psychological Review</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e436a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d36e443" publication-type="journal">
+C. E. Shannon, "A Mathematical Theory of Communication," Bell Systems
+Technical Journal, 27 (1948), 379-423.<person-group>
+                     <string-name>
+                        <surname>Shannon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>379</fpage>
+                  <volume>27</volume>
+                  <source>Bell Systems Technical journal</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e476a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d36e483" publication-type="journal">
+I A. Chapanis, "The Reconstruction of Abbreviated Printed Messages,"
+Journal of Experimental Psychology, 48 (1954), 496-510.<person-group>
+                     <string-name>
+                        <surname>Chapanis</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>496</fpage>
+                  <volume>48</volume>
+                  <source>Journal of Experimental Psychology</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e515a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d36e522" publication-type="book">
+W. R. Garner, Uncertainty and Structure of Psychological Concepts (New
+York, 1962).<person-group>
+                     <string-name>
+                        <surname>Garner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Uncertainty and Structure of Psychological Concepts</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e547a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d36e554" publication-type="journal">
+J. Morton, "A Model for Continuous Language Behavior," Language and
+Speech, 7 (1964), 40-70.<person-group>
+                     <string-name>
+                        <surname>Morton</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>40</fpage>
+                  <volume>7</volume>
+                  <source>Language and Speech</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e586a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d36e593" publication-type="journal">
+C. D. Hardyck and L. F. Petrinovich, "Sub-vocal Speech and Comprehension
+as a Function of Difficulty Level of Reading Material," Journal of Verbal Learning
+and Verbal Behaviour, 9 (1970), 647-52.<person-group>
+                     <string-name>
+                        <surname>Hardyck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>647</fpage>
+                  <volume>9</volume>
+                  <source>Journal of Verbal Learning and Verbal Behaviour</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e628a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d36e635" publication-type="journal">
+R. Conrad, "Short Term Memory Processes in the Deaf," British Journal of
+Psychology, 61 (1970), 179-95.<person-group>
+                     <string-name>
+                        <surname>Conrad</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>179</fpage>
+                  <volume>61</volume>
+                  <source>British Journal of Psychology</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e667a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d36e674" publication-type="journal">
+E. Z. Rothkopf, "Incidental Memory for Location of Information in Text,"
+Journal of Verbal Learning and Verbal Behaviour, 10 (1971), 608-13.<person-group>
+                     <string-name>
+                        <surname>Rothkopf</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>608</fpage>
+                  <volume>10</volume>
+                  <source>Journal of Verbal Learning and Verbal Behaviour</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e707a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d36e714" publication-type="journal">
+D. W. J. Corcoran and D. L. Weening, "Acoustic Factors in Visual Search,"
+Quarterly Journal of Experimental Psychology, 20 (1968), 83-85.<person-group>
+                     <string-name>
+                        <surname>Corcoran</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>83</fpage>
+                  <volume>20</volume>
+                  <source>Quarterly Journal of Experimental Psychology</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e746a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d36e753" publication-type="journal">
+H. Rubenstein, S. L. Spafford, and M. A. Rubenstein, "Evidence for Phonemic
+Recording in Visual Word Recognition," Journal of Verbal Learning and Verbal
+Behaviour, 10 (1971), 645-57.<person-group>
+                     <string-name>
+                        <surname>Rubenstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>645</fpage>
+                  <volume>10</volume>
+                  <source>Journal of Verbal Learning and Verbal Behaviour</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e788a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d36e795" publication-type="book">
+F. Smith, Understanding Reading.<person-group>
+                     <string-name>
+                        <surname>Smith</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Understanding Reading</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e814a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d36e821" publication-type="journal">
+G. Cohen, "Search Times for Combinations of Visual, Phonemic and Semantic
+Targets in Reading Prose," Perception and Psychophysics, 8 (1970), 370-72.<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>370</fpage>
+                  <volume>8</volume>
+                  <source>Perception and Psychophysics</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e853a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d36e860" publication-type="book">
+M. Garrett and J. A. Fodor, "Psychological Theories and Linguistic Con-
+structs," in Verbal Behavior and General Behavior Theory, ed. T. R. Dixon and D.
+L. Horton (Englewood Cliffs, N. J., 1968)<person-group>
+                     <string-name>
+                        <surname>Garrett</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Psychological Theories and Linguistic Constructs</comment>
+                  <source>Verbal Behavior and General Behavior Theory</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e891" publication-type="journal">
+S. Fillenbaum, "Psycholinguistics,"
+Annual Review of Psychology, 22 ( 1971), 251-308<person-group>
+                     <string-name>
+                        <surname>Fillenbaum</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>251</fpage>
+                  <volume>22</volume>
+                  <source>Annual Review of Psychology</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e923a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d36e930" publication-type="journal">
+P. C. Wason, "The Contexts of Plausible Denial," Journal of Verbal Learning
+and Verbal Behaviour, 4 (1965), 7-1 I.<person-group>
+                     <string-name>
+                        <surname>Wason</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <volume>4</volume>
+                  <source>Journal of Verbal Learning and Verbal Behaviour</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e963a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d36e970" publication-type="journal">
+D. I. Slobin, "Grammatical Transformations and Sentence Comprehension in
+Childhood and Adulthood," Journal of Verbal Learning and Verbal Behaviour, 5
+(1966), 219-27.<person-group>
+                     <string-name>
+                        <surname>Slobin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>219</fpage>
+                  <volume>5</volume>
+                  <source>Journal of Verbal Learning and Verbal Behaviour</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1005a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d36e1012" publication-type="book">
+I. M. Schlesinger, Sentence Structure and the Reading Process (The Hague,
+1968).<person-group>
+                     <string-name>
+                        <surname>Schlesinger</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sentence Structure and the Reading Process</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1037a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d36e1044" publication-type="journal">
+P. N. Johnson-Laird and R. Stevenson, "Memory for Syntax," Nature, 227
+(1970), 412.<person-group>
+                     <string-name>
+                        <surname>Johnson-Laird</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>412</fpage>
+                  <volume>227</volume>
+                  <source>Nature</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1076a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d36e1083" publication-type="journal">
+D. G. Mackay, "To End Ambiguous Sentences," Perception and Psychophysics,
+I (1966), 426-36.<person-group>
+                     <string-name>
+                        <surname>Mackay</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>426</fpage>
+                  <volume>I</volume>
+                  <source>Perception and Psychophysics</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1115a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d36e1122" publication-type="book">
+G. Lakoff, "Presupposition and Relative Well-formedness," in Semantics,
+ed. D. D. Steinberg and L. A. Jakobovits (Cambridge, 1971).<person-group>
+                     <string-name>
+                        <surname>Lakoff</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Presupposition and Relative Well-formedness</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1147a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d36e1154" publication-type="journal">
+A. M. Collins and M. R. Quillian, "Retrieval Times from Semantic Memory,"
+Yournal of Verbal Learning and Verbal Behaviour, 8 (1969), 240-47.<person-group>
+                     <string-name>
+                        <surname>Collins</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>240</fpage>
+                  <volume>8</volume>
+                  <source>Yournal of Verbal Learning and Verbal Behaviour</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1187a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d36e1194" publication-type="book">
+F. Smith, Understanding Reading.<person-group>
+                     <string-name>
+                        <surname>Smith</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Understanding Reading</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1213a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d36e1220" publication-type="journal">
+J. S. Sachs, "Recognition Memory for Syntactic and Semantic Aspects of Con-
+nected Discourse," Perception and Psychophysics, 2 (1967), 437.<person-group>
+                     <string-name>
+                        <surname>Sachs</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>437</fpage>
+                  <volume>2</volume>
+                  <source>Perception and Psychophysics</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1252a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d36e1259" publication-type="book">
+P. A. Kolers, in Basic Studies in Reading, ed. H. Levin and J. Williams (New
+York, 1970).<person-group>
+                     <string-name>
+                        <surname>Kolers</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Basic Studies in Reading</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1284a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d36e1291" publication-type="book">
+T. S. Ingram, "The Nature of Dyslexia," in Young and Lindsley.<person-group>
+                     <string-name>
+                        <surname>Ingram</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Nature of Dyslexia</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e1310a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d36e1317" publication-type="journal">
+J. C. Marshall and F. Newcombe, "Syntactic and Semantic Errors in Paralexia,"
+Neuropsychologia, 4 (1966), 169-76.<person-group>
+                     <string-name>
+                        <surname>Marshall</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>169</fpage>
+                  <volume>4</volume>
+                  <source>Neuropsychologia</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

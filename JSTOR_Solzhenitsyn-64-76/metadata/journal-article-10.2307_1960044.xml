@@ -1,0 +1,76 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amerpoliscierevi</journal-id>
+         <journal-id journal-id-type="jstor">j100077</journal-id>
+         <journal-title-group>
+            <journal-title>The American Political Science Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Political Science Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00030554</issn>
+         <issn pub-type="epub">15375943</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1960044</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John A.</given-names>
+                  <surname>Armstrong</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">68</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i306775</issue-id>
+         <fpage>1827</fpage>
+         <lpage>1828</lpage>
+         <page-range>1827-1828</page-range>
+         <product>
+            <source>Aspects of Religion in the Soviet Union, 1917-1967</source>
+            <string-name>
+               <given-names>Thomas E.</given-names>
+               <surname>Bird</surname>
+            </string-name>
+            <string-name>
+               <given-names>Andrew Q.</given-names>
+               <surname>Blain</surname>
+            </string-name>
+            <string-name>
+               <given-names>Richard H.</given-names>
+               <surname>Marshall</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1960044"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

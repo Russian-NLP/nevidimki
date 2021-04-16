@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianlanguagej</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50017151</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Russian Language Journal / Русский язык</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Carleton University and Michigan State University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360252</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">103</issue>
+         <issue-id>i40147337</issue-id>
+         <article-id pub-id-type="jstor">43668362</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Язык и литература</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>WOMEN IN SOLŽENICYN'S "OLEN' I ŠALAŠOVKA"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Irene J.</given-names>
+                  <surname>Matthews</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>51</fpage>
+         <lpage>59</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/43668362"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <ref-list>
+        <title>NOTES</title>
+        <ref id="d64e110a1310">
+            <label>1</label>
+          
+            <mixed-citation id="d64e117" publication-type="other">
+Giovanni Grazzini, Solzhenitsyn, tr. Eric Mosbacher (London:
+Michael Joseph, 1973), p. 87.</mixed-citation>
+        </ref>
+        <ref id="d64e127a1310">
+            <label>2</label>
+          
+            <mixed-citation id="d64e134" publication-type="other">
+Aleksandr Solženicyn, Sobranie sočinenij v šesti tomax (Frank-
+furt/Main: Possev-Verlag, 1969), V, p. 19.</mixed-citation>
+        </ref>
+        <ref id="d64e144a1310">
+            <label>3</label>
+          
+            <mixed-citation id="d64e151" publication-type="other">
+"Solzhenitsyn' s
+Women," in Aleksandr Solzhenitsyn: Critical Essays and Docu-
+mentary Materials, edited by J. B. Dunlop, R. Haugh, A. Klimoff
+(Belmont, Mass.: Nordland Publishing Company, 1973), p. 127.</mixed-citation>
+        </ref>
+        <ref id="d64e167a1310">
+            <label>4</label>
+          
+            <mixed-citation id="d64e174" publication-type="other">
+Grazzini, p. 87.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">justsystj</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50002728</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Justice System Journal</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Institute for Court Management of the National Center for State Courts</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0098261X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i20877495</issue-id>
+         <article-id pub-id-type="jstor">20877503</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>THE IRONY OF ACCEPTANCE: SOLZHENITSYN'S CRITIQUE OF THE RUSSIAN SOCIALIST STATE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Geoff</given-names>
+                  <surname>Gallas</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>195</fpage>
+         <lpage>200</lpage>
+         <product>
+            <source>FROM UNDER THE RUBBLE</source>
+            <string-name>
+               <given-names>ALEXANDER</given-names>
+               <surname>SOLZHENITSYN</surname>
+            </string-name>
+            <string-name>
+               <given-names>MIKHAIL</given-names>
+               <surname>AGURSKY</surname>
+            </string-name>
+            <string-name>A.B.</string-name>
+            <string-name>
+               <given-names>EUGENY</given-names>
+               <surname>BARABANOV</surname>
+            </string-name>
+            <string-name>
+               <given-names>VADIM</given-names>
+               <surname>BORISOV</surname>
+            </string-name>
+            <string-name>
+               <given-names>F.</given-names>
+               <surname>KORSAKOV</surname>
+            </string-name>
+            <string-name>
+               <given-names>IGOR</given-names>
+               <surname>SHAFAREVICH</surname>
+            </string-name>
+            <string-name>
+               <given-names>A.M.</given-names>
+               <surname>BROCK</surname>
+            </string-name>
+            <string-name>
+               <given-names>MILANDA</given-names>
+               <surname>HAIGH</surname>
+            </string-name>
+            <string-name>
+               <given-names>MARITA</given-names>
+               <surname>SAPIETS</surname>
+            </string-name>
+            <string-name>
+               <given-names>HILARY</given-names>
+               <surname>STERNBERG</surname>
+            </string-name>
+            <string-name>
+               <given-names>HARRY</given-names>
+               <surname>WILLETTS</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/20877503"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

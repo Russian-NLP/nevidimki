@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">salmagundi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000696</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Salmagundi</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Skidmore College</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00363529</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">28</issue>
+         <issue-id>i40023840</issue-id>
+         <article-id pub-id-type="jstor">40546828</article-id>
+         <title-group>
+            <article-title>Wrong and Right: The Art of Comedy</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>LIONEL</given-names>
+                  <surname>ABEL</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>3</fpage>
+         <lpage>19</lpage>
+         <permissions>
+            <copyright-statement>© 1975 Skidmore College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40546828"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d50e107a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d50e114" publication-type="other">
+Sidney Hook's essay: "Pragmatism and the Tragic Sense of Life", in
+Contemporary American Philosophy, 1970.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e124a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d50e131" publication-type="other">
+The Spectator, No. 62.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

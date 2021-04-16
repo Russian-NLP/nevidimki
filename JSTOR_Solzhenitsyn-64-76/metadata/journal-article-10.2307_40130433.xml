@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">booksabroad</journal-id>
+         <journal-id journal-id-type="jstor">j50000046</journal-id>
+         <journal-title-group>
+            <journal-title>Books Abroad</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00067431</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/40130433</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>The Writer in Exile</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Thirteen Years after Ivan Denisovich: A New Kontinent</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Walter F.</given-names>
+                  <surname>Kolonosky</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">50</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40003873</issue-id>
+         <fpage>313</fpage>
+         <lpage>318</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1976 The University of Oklahoma Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40130433"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>[Endnotes]</title>
+         <ref id="d1422e117a1310">
+            <label>1</label>
+            <mixed-citation id="d1422e126" publication-type="other">
+Alfred Erich Senn, "An Intracontinental
+Forum?," Problems of Communism, vol. 24, no. 3
+(1975), pp. 46-47.</mixed-citation>
+            <mixed-citation id="d1422e138" publication-type="other">
+Hilary Sternberg in "The New Kontinent,"
+Survey, vol. 20, no. 4 (1974), pp. 167-71.</mixed-citation>
+         </ref>
+         <ref id="d1422e148a1310">
+            <label>2</label>
+            <mixed-citation id="d1422e157" publication-type="other">
+Gustaw Herling-Grudzinski, "Z Arxipelagu na
+Kontynent," Kultura (Paris), 10/325 (1974), pp.
+84-88.</mixed-citation>
+            <mixed-citation id="d1422e169" publication-type="other">
+"Voices from a Continent," The Times
+Literary Supplement, 11 October 1974, p. 1131.</mixed-citation>
+         </ref>
+         <ref id="d1422e179a1310">
+            <label>4</label>
+            <mixed-citation id="d1422e188" publication-type="other">
+Pyatigorsky's essay is entitled "Comments on the
+Metaphysical Situation," Kontinent, no. 1, pp. 211-
+24.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

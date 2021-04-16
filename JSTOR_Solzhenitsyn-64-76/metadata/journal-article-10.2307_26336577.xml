@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="misc">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revuphillouv</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50014624</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Revue philosophique de Louvain</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>L'INSTITUT SUPÉRIEUR DE PHILOSOPHIE</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00353841</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17831768</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>journal-series-title</meta-name>
+               <meta-value>QUATRIÈME SÉRIE</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">69</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i26334882</issue-id>
+         <article-id pub-id-type="jstor">26336577</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>CHRONIQUES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>CHRONIQUE GÉNÉRALE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Jacques</given-names>
+                  <surname>Étienne</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Jean-Pierre</given-names>
+                  <surname>Deschepper</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>André</given-names>
+                  <surname>Léonard</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Josette</given-names>
+                  <surname>Liégeois</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1971</year>
+         </pub-date>
+         <fpage>449</fpage>
+         <lpage>464</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/26336577"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

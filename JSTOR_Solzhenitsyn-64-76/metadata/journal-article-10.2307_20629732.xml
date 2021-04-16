@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">intejsoci</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000659</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>International Journal of Sociology</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>M. E. Sharpe</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00207659</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15579336</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2/3</issue>
+         <issue-id>i20629730</issue-id>
+         <article-id pub-id-type="jstor">20629732</article-id>
+         <title-group>
+            <article-title>Introduction: To My Non-Russian Reader</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Alexander</given-names>
+                  <surname>Yanov</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1976</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>3</fpage>
+         <lpage>12</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1977 M. E. Sharpe, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/20629732"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d925e120a1310">
+            <label>*</label>
+          
+            <p>
+               <mixed-citation id="d925e127" publication-type="other">
+"The Slavophiles and Konstantin Leont'ev," Soviet Studies in
+Philosophy, Fall 1970 (Vol. IX, no. 2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d925e136" publication-type="other">
+"The Worker as Theme:
+Sociological Comments on Literary Criticism," Soviet Soci-
+ology, Winter 1971-72 (Vol. X, no. 3)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d925e148" publication-type="other">
+"The Work-Situation
+Play1 and the Literary Hero of the Seventies," Soviet Studies
+in Philosophy, Spring 1973 (Vol. XI, no. 4).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d925e161a1310">
+            <label>*</label>
+          
+            <p>
+               <mixed-citation id="d925e168" publication-type="other">
+M. Fainsod
+in Smolensk under Soviet Rule</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d925e178a1310">
+            <label>*</label>
+          
+            <p>
+               <mixed-citation id="d925e185" publication-type="other">
+"An Alternative," Molodoi kommunist, 1974, no. 2, p. 71.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d925e192a1310">
+            <label>*</label>
+          
+            <p>
+               <mixed-citation id="d925e199" publication-type="other">
+Ibid., p. 72.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

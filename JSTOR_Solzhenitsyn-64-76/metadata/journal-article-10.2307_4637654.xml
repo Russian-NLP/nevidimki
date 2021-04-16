@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">antiochreview</journal-id>
+         <journal-id journal-id-type="jstor">j101453</journal-id>
+         <journal-title-group>
+            <journal-title>The Antioch Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Antioch Review, Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00035769</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/4637654</article-id>
+         <title-group>
+            <article-title>Tides and the Affairs of Men: Reflections on Art and Science</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Joseph R. Burke</string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>M. S. Gussenhoven</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i413419</issue-id>
+         <fpage>73</fpage>
+         <lpage>82</lpage>
+         <page-range>73-82</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 The Antioch Review, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4637654"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d330e114a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d330e121" publication-type="other">
+The Col-
+lected Poems of Wallace Stevens by permission of Alfred A. Knopf, Inc.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

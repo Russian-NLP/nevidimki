@@ -1,0 +1,62 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">fortnight</journal-id>
+         <journal-id journal-id-type="jstor">j50000422</journal-id>
+         <journal-title-group>
+            <journal-title>Fortnight</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Fortnight Publications</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">01417762</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">25544760</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Books</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Breeze of a Drama</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Mark</given-names>
+                  <surname>Storey</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>2</day>
+            <month>11</month>
+            <year>1973</year>
+         </pub-date>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">71</issue>
+         <issue-id>i25544747</issue-id>
+         <fpage>16</fpage>
+         <lpage>17</lpage>
+         <product>
+            <source>Candle in the Wind</source>
+            <string-name>
+               <given-names>Alexander</given-names>
+               <surname>Solzhenitsyn</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/25544760"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

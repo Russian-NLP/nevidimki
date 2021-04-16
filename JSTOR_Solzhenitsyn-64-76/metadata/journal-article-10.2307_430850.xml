@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jaestartcrit</journal-id>
+         <journal-id journal-id-type="jstor">j100200</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Aesthetics and Art Criticism</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The American Society for Aesthetics</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00218529</issn>
+         <issn pub-type="epub">15406245</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">35</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i217835</issue-id>
+         <article-id pub-id-type="doi">10.2307/430850</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Bertram</given-names>
+                  <surname>Morris</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>87</fpage>
+         <lpage>89</lpage>
+         <page-range>87-89</page-range>
+         <product>
+            <source>John Dewey's Aesthetic Philosophy</source>
+            <string-name>
+              <given-names>Philip M.</given-names>
+              <surname>Zeltner</surname>
+            </string-name>
+          </product>
+         <permissions>
+            <copyright-statement>Copyright 1976 The American Society for Aesthetics</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/430850"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

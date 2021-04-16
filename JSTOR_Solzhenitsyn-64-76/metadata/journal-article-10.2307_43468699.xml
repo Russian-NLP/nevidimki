@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">southwestreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013644</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Southwest Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Southern Methodist University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00384712</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">21685487</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">60</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40137233</issue-id>
+         <article-id pub-id-type="jstor">43468699</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>CRITIC AT LARGE</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Prison of Peoples</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>ABRAHAM</given-names>
+                  <surname>ROTHBERG</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>73</fpage>
+         <lpage>80</lpage>
+         <permissions>
+            <copyright-statement>© 1975 Southern Methodist University Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/43468699"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d162e117a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d162e124" publication-type="other">
+Alexander I. Solzhenitsyn, The Gulag Archipelago, 1918-1956, trans. Thomas
+P. Whitney (New York: Harper &amp; Row, 1974), $12.50.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d162e134a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d162e141" publication-type="other">
+S. A. Malsagoff, An Island Hell (1926),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d162e147" publication-type="other">
+Allan Pim and Edward Bateson,
+Report on Russian Timber Camps (1931),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d162e156" publication-type="other">
+Red Gaols
+(1935),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d162e166" publication-type="other">
+Vladimir Tchernavin, I Speak for the Silent Prisoners of the Soviets (1935),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d162e172" publication-type="other">
+George Kitchin, Prisoner of the OGPU (1935),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d162e178" publication-type="other">
+Ivan Solonevich, Escape from Rus-
+sian Chains (1938),</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

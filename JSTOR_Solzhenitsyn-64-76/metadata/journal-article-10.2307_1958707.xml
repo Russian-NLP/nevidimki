@@ -1,0 +1,72 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amerpoliscierevi</journal-id>
+         <journal-id journal-id-type="jstor">j100077</journal-id>
+         <journal-title-group>
+            <journal-title>The American Political Science Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Political Science Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00030554</issn>
+         <issn pub-type="epub">15375943</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1958707</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Gayle Durham</given-names>
+                  <surname>Hollander</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">67</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i306768</issue-id>
+         <fpage>1054</fpage>
+         <lpage>1055</lpage>
+         <page-range>1054-1055</page-range>
+         <product>
+            <source>Soviet Prison Camp Speech: A Survivor's Glossary</source>
+            <string-name>
+               <given-names>Meyer</given-names>
+               <surname>Galler</surname>
+            </string-name>
+            <string-name>
+               <given-names>Harlan E.</given-names>
+               <surname>Marquess</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1958707"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

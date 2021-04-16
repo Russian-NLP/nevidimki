@@ -1,0 +1,613 @@
+
+
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt4z97s</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt13x13sc</book-id>
+      <subj-group>
+         <subject content-type="call-number">DB215.6.S58</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Czechoslovak Republic</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+            <subj-group>
+               <subject content-type="lcsh">Intervention, 1968-</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Czechoslovak Republic</subject>
+         <subj-group>
+            <subject content-type="lcsh">Politics and government</subject>
+            <subj-group>
+               <subject content-type="lcsh">1968-</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Czechoslovakia's Interrupted Revolution</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>SKILLING</surname>
+               <given-names>HAROLD GORDON</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781400871155</isbn>
+      <isbn content-type="epub">1400871158</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>Princeton, New Jersey</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1976</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13x13sc"/>
+      <abstract abstract-type="short">
+         <p>For about eight months in 1968 Czechoslovakia underwent rapid and radical changes that were unparalleled in the history of communist reform; in the eight months that followed, those changes were dramatically reversed. H. Gordon Skilling provides a comprehensive analysis of the events of 1968, assessing their significance both for Czechoslovakia and for communism generally. The author's account is based on all available written sources, including unpublished Communist Party documents and interviews conducted in Czechoslovakia in 1967, 1968, and 1969. He examines the historical background, the main reforms and political forces of 1968, international reactions, the Soviet intervention, and the experiment's collapse, concluding with his reasons for regarding the events of the Prague spring as a movement of revolutionary proportions.</p>
+         <p>The author's account is based on all available written sources, including unpublished Communist Party documents and interviews conducted in Czechoslovakia in 1967, 1968, 1969. He examines the historical background, the main reforms and political forces on 1968, international reactions, the Soviet intervention, and the experiment's collapse, concluding with his reasons for regarding the events of the Prague spring as a movement of revolutionary proportions.</p>
+         <p>Originally published in 1976.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="944"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Skilling</surname>
+                           <given-names>Harold Gordon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.4</book-part-id>
+                  <title-group>
+                     <title>LIST OF ABBREVIATIONS</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER I</label>
+                     <title>Communism and Czechoslovak Traditions</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Communist regimes have almost without exception repudiated the dominant traditions of their countries’ history and claimed to have established brand-new patterns of politics and society. At the same time they have sought to depict communism as a projection of the “revolutionary” and “progressive” elements of their national heritage and to incorporate these in the mythology of the new order. In most cases, as, for instance, Soviet Russia, the past thus rejected was autocratic and reactionary, and only selected radical traditions were regarded as the forerunners of communism. In Czechoslovakia, however, the dominant tradition was democratic, deeply rooted in the feelings</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER II</label>
+                     <title>The Dualism of Czechoslovak Communism:</title>
+                     <subtitle>From Gottwald to Novotný</subtitle>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>This brief excursion into the background of Czechoslovak communism brings out its ambivalent and erratic past, illustrated by the extraordinary shifts of policy between 1921 and 1929, between 1935 and 1940, and between 1945 and 1948. At times communism was in tune with the democratic and national views of Czechs and Slovaks and gained widespread sympathy and support. At other times it was at odds with the dominant national attitudes and became a dogmatic sect, isolated from the mainstream of national life. On some occasions it supported Czechoslovak democracy and the independence and territorial integrity of the Republic; on other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER III</label>
+                     <title>The Mounting Crisis</title>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>At the end of 1964 Novotný, having just attained his sixtieth year and having completed eleven years as First Secretary and seven as President, was reelected to the latter office by unanimous vote of the National Assembly. His reelection was not attended by a glorification of Novotný as an individual and was interpreted officially as an expression of confidence in the party and its successes during the previous decade. Errors and shortcomings were conveniently ignored. It was claimed that the union of the two positions, the presidency and the first secretaryship, had been proven correct, since the party had exercised</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER IV</label>
+                     <title>Science, Scholarship, and the Party</title>
+                  </title-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>Ever since the death of Stalin, and in particular since 1956, party leadrers and ideologues had been conducting a bitter campaign against what they termed “revisionism” in almost all spheres of scholarship, especially in philosophy, history, and the social sciences. In the name of Marxism-Leninism and the traditional party domination of all fields of intellectual activity, the party sought to curb the growing tendencies among scholars toward freer inquiry and greater objectivity generated by Khrushchev’s assault on Stalin at the 20th congress of the CPSU. The constitution of 1960 had given explicit endorsement of Marxism-Leninism as “the scientific world outlook”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER V</label>
+                     <title>The Political System under Fire</title>
+                  </title-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>The political system inherited from Gottwald and modeled essentially on the Soviet prototype remained substantially unchanged throughout the fifteen years of Novotný’s rule. The major state institutions embodied in the constitution of 1960 and the party organs incorporated in successive statutes provided a bureaucratic foundation for an extreme concentration of power in the hands of Novotný. The domination of “the party” over all aspects of political life made it in effect the only “subject” of the political system. The very term “party” was, however, a meaningless one, inasmuch as the mass of members had few rights and little influence, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VI</label>
+                     <title>The Fall of Novotný</title>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>The fall of Novotný came as a surprise both to the general public and to the party membership. During fifteen years of rule he had shown an extraordinary capacity to survive. Although unable to resort to extreme measures of terror in the later years, he surmounted repeated crises and continued to govern by employing administrative coercion and manipulation, coupled with piecemeal and reluctant concessions. The regime enjoyed substantial support, primarily in the apparatus, but also in the army and police, the people’s militia, the state bureaucracy, and even among the broad masses. Neither the workers nor the peasants evinced active</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VII</label>
+                     <title>Prelude to Change</title>
+                     <subtitle>(January and February)</subtitle>
+                  </title-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>On January 6 the Central Committee announced the replacement of Antonín Novotný as First Secretary by Alexander Dubček, in a brief communiqué that was at once startling and ambiguous.¹ Such a shift, removing a leader from his key post after fifteen years of rule, as in other communist countries, could have profound and incalculable repercussions. Yet at first there was little evidence of a basic change of direction and hence some reason to believe that nothing more than “a change of guard” had occurred, replacing a discredited leader with one of his faithful colleagues and supporters. As a commentator, in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER VIII</label>
+                     <title>Spontaneity and Consolidation</title>
+                     <subtitle>(March and Early April)</subtitle>
+                  </title-group>
+                  <fpage>196</fpage>
+                  <abstract>
+                     <p>From the early days of March political developments assumed a dynamic and spontaneous character that awakened the fears of some that the party was no longer fully in command of the movement for reform. There was an extraordinary outburst of public discussion, “an eruption of freedom,”¹ which included mounting criticism of the power centers of the old political system and strong pressures for change. As a result, institutions of government and the mass associations, and even some organs of the party, began to take initiatives without waiting for authorization from above. As a result, the leadership was to some extent</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER IX</label>
+                     <title>The Step-by-Step Strategy Challenged</title>
+                     <subtitle>(April and Early June)</subtitle>
+                  </title-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>The eight weeks from early April to early June, between the two plenary sessions of the Central Committee, constituted a period of sharp political conflict and modest preliminary steps toward reform. Dubček hewed to a line of carefully preparing future reforms and deferring more fundamental policy changes to the regular party congress to be held in early 1969. Yet within the party clear divisions of opinion were crystallizing, especially on the issue of calling an extraordinary congress to accelerate the pace of reform. Moreover, public opinion was voicing demands often going far beyond the Action Program.</p>
+                     <p>In the two months</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER X</label>
+                     <title>Reforms Amid Tension</title>
+                     <subtitle>(June to Mid-July)</subtitle>
+                  </title-group>
+                  <fpage>261</fpage>
+                  <abstract>
+                     <p>The decision to call the 14th congress was described by one analyst as the end of “phase one” of the democratization experiment which had been characterized by “a combination of ‘enlightened’ political<italic>reform</italic>from above with elements of popular initiative of the ‘quiet<italic>revolution</italic>’ type from below.” A new phase was beginning, which would involve the codification of the victories already won and the first steps toward a democratic and pluralist model.¹ In the six weeks following the May plenum several concrete reforms were adopted and many others were being studied and prepared. This was accomplished amidst gathering tension in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XI</label>
+                     <title>The Storm Gathers</title>
+                     <subtitle>(Before and After Čierna)</subtitle>
+                  </title-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>The Warsaw letter and the Czechoslovak reply had exposed before the entire world the profound conflict of viewpoint between Prague and its partners in the Warsaw alliance. Prague and Moscow seemed to be embarked on a collision course comparable to the clash of wills that had produced the bloc crises of 1948 and 1956, and likely to precipitate a new breach in the international communist movement. The Rumanian and Yugoslav regimes, and the Italian party, had made clear their sympathy for Prague, but others firmly supported Moscow. The French Communist Party, alarmed by the “extreme gravity of the situation,” saw</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XII</label>
+                     <title>A New Political System</title>
+                  </title-group>
+                  <fpage>333</fpage>
+                  <abstract>
+                     <p>The January overthrow, in part the product of deep dissatisfaction with the existing political system, opened the way for its reform but did not at once produce a blueprint for a new political model or even a set of specific reform proposals.¹ Prior to January, as noted in earlier chapters, the idea of “broadening” and “deepening” socialist democracy had been proclaimed officially at both the 12th and 13th congresses, but Novotný and his chief associates were reluctant to admit any changes that would seriously weaken the authority of the party or significantly alter its mode of operation. The January communiqué,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XIII</label>
+                     <title>Rehabilitation and Justice</title>
+                  </title-group>
+                  <fpage>373</fpage>
+                  <abstract>
+                     <p>Anger over the illegalities of the fifties and resentment over the delays and inadequacies in the rehabilitation of the victims after 1956 was a major element in the developing political crisis of the sixties. After January the rectification of these injustices became a subject of fervent public discussion and by mid-March an essential component of the official program. The flood of revelations concerning the full dimensions of the evils of the fifties had a strong impact on public opinion, communist and non-communist, and intensified the determination to achieve a complete rehabilitation of those who had suffered persecution and to mete</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XIV</label>
+                     <title>Planned Market Socialism</title>
+                  </title-group>
+                  <fpage>412</fpage>
+                  <abstract>
+                     <p>January did not bring any immediate change in official policy with regard to persisting economic problems or the development of the system of economic management.¹ Neither the communiqué nor the resolution mentioned economic reform. Both asserted the need for concentrating attention on the economic tasks arising from the decisions of the December 1967 plenum and the plan for 1968. In the budget discussions in the National Assembly a few days after the plenum, černík reviewed the economy in relatively positive terms, referring to the “correct” policy of the 13th congress and the growth in national income and in living standards</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.19</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XV</label>
+                     <title>Federalism and the Slovak Problem</title>
+                  </title-group>
+                  <fpage>451</fpage>
+                  <abstract>
+                     <p>The initial January communiqué did not suggest, even by implication, that the unsatisfactory state of Czech-Slovak relations had been a significant causal factor in the shift of leadership or that any major changes in these relations, other than an “improvement” in the activity of the Slovak National Council, was envisaged.¹ Even the choice of Dubček, as the first Slovak to be elected to the top post in the party’s history, did not imply increased attention to the Slovak question, since he was not publicly known as a protagonist of reform in this respect. Moreover, in his early statements, while referring</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.20</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XVI</label>
+                     <title>Conflicting Tendencies in the Party</title>
+                  </title-group>
+                  <fpage>493</fpage>
+                  <abstract>
+                     <p>The removal of Novotný, the climax of a bitter clash of social and political forces, marked the opening of an intense conflict between rival tendencies, which crystallized into more and more distinct groups, divided in their attitudes toward the issues of reform. Old groupings realigned, and new ones emerged, each seeking to maintain, or to achieve, positions of power and thus to influence the future course of events. During the eight months from January to August the balance of forces was in constant flux and had not reached a stable equilibrium by the end of August. The two extraordinary party</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.21</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XVII</label>
+                     <title>Non-Communists and Public Opinion</title>
+                  </title-group>
+                  <fpage>526</fpage>
+                  <abstract>
+                     <p>The privileged position of the Communist Party during the two decades after 1948 had as its obverse side the lack of privileges, or even of ordinary rights, of non-communist citizens. These were “the nameless,” as Alexander Kliment called them in an article in<italic>Literární listy</italic>, who could be defined only in negative terms—“<italic>non</italic>-party,<italic>non</italic>-communist … ,<italic>bezpartijní</italic>.” Having no “public forum of their own” and holding usually “no significant position in society,” they became “anonymous and passive,” “alienated.” As a result of the party’s monopolization, political life was “practically speaking annulled”; “society disintegrated into powerless and resigned individuals….”¹ Lip</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.22</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XVIII</label>
+                     <title>Social Groups and Organizations</title>
+                  </title-group>
+                  <fpage>563</fpage>
+                  <abstract>
+                     <p>Czechoslovak society, wrote the sociologist, Pavel Machonin, in 1969, had become a society “richly differentiated and clearly stratified and consequently differentiated also in interests and opinions.” Before January, however, this “definite, objectively given interest orientation … could not be fully manifested in a clash of opinions or in political activity, thus creating a latent tension taking on the character of a crisis.” This situation created “a powerful coalition of social forces” interested in the change of the existing “bureaucratic-egalitarian order” and produced, in January, “a radical political outburst of the social and cultural crisis.” With the collapse of the old</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.23</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XIX</label>
+                     <title>A Foreign Policy with “Its Own Face”</title>
+                  </title-group>
+                  <fpage>617</fpage>
+                  <abstract>
+                     <p>For some weeks after January it appeared that the changeover in leadership was not intended seriously to affect the sphere of external relations. The initial communiqué, as well as the unpublished resolution, emphasized unity with the Soviet Union and with the world socialist system and made no other references to foreign policy. The party daily refuted any speculations about changes, either in foreign policy proper, or in relations with the world communist movement.¹ Presidium statements did not touch on foreign affairs throughout the first three months.² Dubček’s visit to Moscow on February 1 implied that there would be no break</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.24</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XX</label>
+                     <title>The Reactions of the Ruling Communist Parties</title>
+                  </title-group>
+                  <fpage>659</fpage>
+                  <abstract>
+                     <p>The hostile response to Czechoslovak reform plans by the Soviet Union and the other members of the Warsaw “five” has already been discussed at many points in preceding chapters. The favorable reaction of Yugoslavia and Rumania, and some of the major non-ruling communist parties, has also been mentioned. In this chapter a more systematic analysis of the attitudes to Czechoslovakia of the other European communist regimes, including Albania, will be made on the basis of the statements of leading figures, press commentary, and radio broadcasts.¹ This will involve not a content analysis using quantitative measurements, but a qualitative assessment of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.25</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XXI</label>
+                     <title>Military Intervention</title>
+                  </title-group>
+                  <fpage>713</fpage>
+                  <abstract>
+                     <p>Without warning, just before midnight, during the night of August 20-21, the armed forces of the “five” entered Czechoslovakia, crossing four of its frontiers by road and by air, from the GDR, Hungary, Poland, and the USSR. This massive onslaught was followed, shortly after midnight, by a direct blow at the capital city, with the arrival at the Prague airport of several special planes, which then coordinated the landing in rapid succession of military planes bearing troops commissioned to seize the key points in the city and to arrest the leaders. Presumably, Bulgarian troops were either air-lifted or crossed Soviet</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.26</book-part-id>
+                  <title-group>
+                     <label>CHAPTER XXII</label>
+                     <title>Resistance and Capitulation</title>
+                  </title-group>
+                  <fpage>759</fpage>
+                  <abstract>
+                     <p>In the days, weeks, and months following the invasion, there was a paradoxical medley of resistance and capitulation. The Presidium, in its fateful meeting during the night of August 20-21, did not even discuss the possibility of violent resistance. Its declaration, approved after midnight, noted that the army, security corps, and People’s Militia had not been given the order to defend the country and called on the people not to oppose the invading troops “since the defense of our state frontiers is now impossible.” The declaration, after condemning the invasion, called on all functionaries to remain at their posts and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.27</book-part-id>
+                  <title-group>
+                     <title>EPILOGUE.</title>
+                     <subtitle>Dubček’s Decline and Fall</subtitle>
+                  </title-group>
+                  <fpage>813</fpage>
+                  <abstract>
+                     <p>With the return of Dubček and the others from Moscow life began slowly to return to normal in occupied Czechoslovakia. During the first week of September work in the factories and on the farms resumed; the provisioning of the population was assured; transportation was restored. Gradually the occupying troops were withdrawn from the printing presses and broadcasting stations, and radio, television, and the press began to function normally. The troops evacuated other public buildings and were withdrawn from urban centers to less noticeable bases in the countryside. Much more difficult, however, was the “normalization” of political conditions, and still more,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.28</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION:</title>
+                     <subtitle>Reform, Revolution, or Counterrevolution?</subtitle>
+                  </title-group>
+                  <fpage>824</fpage>
+                  <abstract>
+                     <p>During the first eight months of 1968 communism in Czechoslovakia underwent a process of radical change which, although only in its initial stage, was unequaled in the history of communist reform. In the eight months following the invasion, this process was interrupted, at least partially, and then, after the fall of Dubček in April 1969, reversed in all its major aspects. The traditional dualism of Czechoslovak communism, discussed at the outset of this book, was thus once again illustrated in the persons of Dubček, the reform leader, and his successor, Husák. Although by no means free of pro-Soviet and authoritarian</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.29</book-part-id>
+                  <title-group>
+                     <title>APPENDICES</title>
+                  </title-group>
+                  <fpage>853</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.30</book-part-id>
+                  <title-group>
+                     <title>A BIBLIOGRAPHIC NOTE</title>
+                  </title-group>
+                  <fpage>891</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.31</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>899</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x13sc.32</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>925</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group>
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00376779</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2495323</article-id>
+         <title-group>
+            <article-title>Solzhenitsyn's Portrait of Stalin</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Gary</given-names>
+                  <surname>Kern</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i322527</issue-id>
+         <fpage>1</fpage>
+         <lpage>22</lpage>
+         <page-range>1-22</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2495323"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1765e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1765e121" publication-type="book">
+Alexander Solzhenitsyn, Sobranie sochinenii v shesti tomakh (Frankfurt am
+Main: Possev, 1969-70), 1:116<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>116</fpage>
+                  <volume>1</volume>
+                  <source>Sobranie sochinenii v shesti tomakh</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e152" publication-type="book">
+One Day in the Life of Ivan Denisovich, trans.
+Ronald Hingley and Max Hayward (New York: Bantam, 1969), pp. 176-77.<person-group>
+                     <string-name>
+                        <surname>Hingley</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>176</fpage>
+                  <source>One Day in the Life of Ivan Denisovich</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e181a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1765e188" publication-type="book">
+Georg Lukács, Solzhenitsyn, trans. William David Graf (Cambridge, Mass.,
+1971), p. 13.<person-group>
+                     <string-name>
+                        <surname>Lukács</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <source>Solzhenitsyn</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e217a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1765e224" publication-type="book">
+Alexander Solzhenitsyn, The First Circle, trans. Thomas P. Whitney (New
+York: Bantam, 1969), pp. 82-83<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <source>The First Circle</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e253a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1765e260" publication-type="journal">
+G. Schaarschmidt, "Interior Monologue and Soviet
+Literary Criticism," Canadian Slavonic Papers, 7 (1966): 143-45<person-group>
+                     <string-name>
+                        <surname>Schaarschmidt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>143</fpage>
+                  <volume>7</volume>
+                  <source>Canadian Slavonic Papers</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e291" publication-type="journal">
+R. Luplow, "Narrative Style and Structure in One
+Day in the Life of Ivan Denisovich," Russian Literature TriQuarterly, no. 1 (1971),
+p. 400<person-group>
+                     <string-name>
+                        <surname>Luplow</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <fpage>400</fpage>
+                  <source>Russian Literature TriQuarterly</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e325" publication-type="journal">
+Vladimir J. Rus, "One Day
+in the Life of Ivan Denisovich: A Point of View Analysis," Canadian Slavonic Papers,
+13 (1971): 167<person-group>
+                     <string-name>
+                        <surname>Rus</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>167</fpage>
+                  <volume>13</volume>
+                  <source>Canadian Slavonic Papers</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e361a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1765e368" publication-type="book">
+Alexander Solzhenitsyn, V kruge pervom (New York: Harper &amp; Row, 1969),
+p. 80<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>80</fpage>
+                  <source>V kruge pervom</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e397a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1765e404" publication-type="journal">
+Problems of Communism,
+16, no. 6 (1967): 80.<issue>6</issue>
+                  <fpage>80</fpage>
+                  <volume>16</volume>
+                  <source>Problems of Communism</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e430a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1765e437" publication-type="book">
+Philip Roth, Our Gang (New York: Bantam, 1972), pp. 24-25.<person-group>
+                     <string-name>
+                        <surname>Roth</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>24</fpage>
+                  <source>Our Gang</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e462a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1765e469" publication-type="other">
+Solzhenitsyn's quotations are very close to passages on pp. 83, 73, 77, 242, and
+239</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e478" publication-type="book">
+I. V. Stalin, Kratkaia biografiia, 2nd ed. (Moscow, 1950)<person-group>
+                     <string-name>
+                        <surname>Stalin</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <source>Kratkaia biografiia</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e503a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1765e510" publication-type="book">
+T. H. Rigby, ed., The Stalin Dictatorship: Khrushchev's "Secret Speech" and
+Other Documents (Sydney, 1968), p. 71<person-group>
+                     <string-name>
+                        <surname>Rigby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>71</fpage>
+                  <source>The Stalin Dictatorship: Khrushchev's "Secret Speech" and Other Documents</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e538" publication-type="book">
+Milovan Djilas, Conversations with Stalin (New York, 1962), pp. 106-7.<person-group>
+                     <string-name>
+                        <surname>Djilas</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>106</fpage>
+                  <source>Conversations with Stalin</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e563a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1765e572" publication-type="book">
+Roy A. Medvedev'sLet History Judge (New York, 1971)<person-group>
+                     <string-name>
+                        <surname>Medvedev</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Let History Judge</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e593" publication-type="other">
+Solzhenitsyn's Arkhipelag Gulag</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e601a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1765e608" publication-type="journal">
+Edward J. Brown, "Solzhenitsyn's Cast of Characters," Slavic and East European
+Journal, 15, no. 2 (1971): 162-63.<object-id pub-id-type="doi">10.2307/306386</object-id>
+                  <fpage>162</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e624a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1765e631" publication-type="other">
+Rigby, The Stalin Dictatorship, p. 50.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e638a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d1765e645" publication-type="book">
+Dante's Inferno, trans. and commentary by John D. Sinclair (New York,
+1968), p. 65<person-group>
+                     <string-name>
+                        <surname>Sinclair</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>65</fpage>
+                  <source>Dante's Inferno</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e673" publication-type="other">
+Sinclair points out that the "fair stream" may signify eloquence (p. 69).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e680a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1765e687" publication-type="journal">
+Vladimir Grebenschikov, "Les cercles
+infernaux chez Soljenitsyne et Dante," Canadian Slavonic Papers, 13 (1971): 154-58.<person-group>
+                     <string-name>
+                        <surname>Grebenschikov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>154</fpage>
+                  <volume>13</volume>
+                  <source>Canadian Slavonic Papers</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e719a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1765e726" publication-type="other">
+Lukács, Solzhenitsyn, p. 58.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e733a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1765e740" publication-type="book">
+Goethe's Faust, trans. Walter Kaufmann (New York: Anchor, 1963),
+pp. 468-69.<person-group>
+                     <string-name>
+                        <surname>Kaufmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>468</fpage>
+                  <source>Goethe's Faust</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e770a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d1765e777" publication-type="other">
+Brown, "Solzhenitsyn's Cast of Characters," p. 164.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e784a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d1765e791" publication-type="other">
+Rigby, The Stalin Dictatorship, p. 29.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e798a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d1765e805" publication-type="journal">
+Robin Blackburn, "The Politics of The First Circle," New Left Review
+(London), September-October 1970, p. 61.<person-group>
+                     <string-name>
+                        <surname>Blackburn</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>September</issue>
+                  <fpage>61</fpage>
+                  <source>New Left Review (London)</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e837a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d1765e844" publication-type="other">
+Lukács, Solzhenitsyn, p. 52.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e851a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d1765e860" publication-type="journal">
+Lucio Colletti, "The Question of Stalin," New Left
+Review, May-June 1970, pp. 61-81.<person-group>
+                     <string-name>
+                        <surname>Colletti</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>61</fpage>
+                  <source>New Left Review</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

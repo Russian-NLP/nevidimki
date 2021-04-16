@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">virgquarrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012528</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Virginia Quarterly Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>University of Virginia</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0042675X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">48</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i26442745</issue-id>
+         <article-id pub-id-type="jstor">26443378</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>DISCUSSIONS OF NEW BOOKS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>THE GROWING EDGE OF FREEDOM</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Ian</given-names>
+                  <surname>Stevenson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>280</fpage>
+         <lpage>288</lpage>
+         <product>
+            <source>The Medvedev Papers</source>
+            <string-name>
+               <given-names>Zhores A.</given-names>
+               <surname>Medvedev</surname>
+            </string-name>
+            <string-name>
+               <given-names>Vera</given-names>
+               <surname>Rich</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>A Question of Madness</source>
+            <string-name>
+               <given-names>Zhores A.</given-names>
+               <surname>Medvedev</surname>
+            </string-name>
+            <string-name>
+               <given-names>Roy A.</given-names>
+               <surname>Medvedev</surname>
+            </string-name>
+            <string-name>
+               <given-names>Ellen</given-names>
+               <surname>de Kadt</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Let History Judge: The Origins and Consequences of Stalinism</source>
+            <string-name>
+               <given-names>Roy A.</given-names>
+               <surname>Medvedev</surname>
+            </string-name>
+            <string-name>
+               <given-names>Colleen</given-names>
+               <surname>Taylor</surname>
+            </string-name>
+            <string-name>
+               <given-names>David</given-names>
+               <surname>Joravsky</surname>
+            </string-name>
+            <string-name>
+               <given-names>Georges</given-names>
+               <surname>Haupt</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright, 1972, Virginia Quarterly Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26443378"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

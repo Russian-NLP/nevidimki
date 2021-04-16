@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">worldpolitics</journal-id>
+         <journal-id journal-id-type="jstor">j100410</journal-id>
+         <journal-title-group>
+            <journal-title>World Politics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Princeton University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00438871</issn>
+         <issn pub-type="epub">10863338</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">28</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i308697</issue-id>
+         <article-id pub-id-type="doi">10.2307/2010066</article-id>
+         
+         <title-group>
+            <article-title>A Dissenting View on the Group Approach to Soviet Politics</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>William E.</given-names>
+                  <surname>Odom</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>542</fpage>
+         <lpage>567</lpage>
+         <page-range>542-567</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 Princeton University Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2010066"/>
+         
+         
+         <abstract>
+            <p>In the struggle to find a successor to the totalitarian model for study of Soviet politics, the interest-group approach has won significant support. Yet this concept fails to meet all three of Huntington's criteria for a "useful" model. First, the group concept emphasizes the peripheral at the expense of what is of critical importance. Second, as a comparative concept it introduces errors in logic as well as a myriad of ambiguities in definition and taxonomy. Third, it is more likely to obscure than to clarify the dynamic character of the Soviet system. The group approach does not promise, as some assert, to bring the study of Soviet politics into the mainstream of comparative political theory. In contrast, the totalitarian model still goes far toward meeting Huntington's criteria. When supplemented by the notion of political culture and by middle-range concepts of organization theory and bureaucracy, the totalitarian model retains great heuristic value as an ideal construct from which Soviet realities diverge in various ways.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

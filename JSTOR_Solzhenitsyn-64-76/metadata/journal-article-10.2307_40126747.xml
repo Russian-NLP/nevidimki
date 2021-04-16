@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">booksabroad</journal-id>
+         <journal-id journal-id-type="jstor">j50000046</journal-id>
+         <journal-title-group>
+            <journal-title>Books Abroad</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00067431</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/40126747</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>The Writer as Critic of His Age</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Art for Man's Sake: Alexander Solzhenitsyn</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>J. G.</given-names>
+                  <surname>Garrard</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">47</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40003859</issue-id>
+         <fpage>49</fpage>
+         <lpage>53</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1972 The University of Oklahoma Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40126747"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d3375e117a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d3375e124" publication-type="other">
+J. G. Garrard, "The 'Inner Freedom' of Alexander Solzhenitsyn," in
+BA 45:1, pp. 7-17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3375e133" publication-type="other">
+"Alexander Solzhenitsyn's August 1914" in BA 46:3, pp. 409-411.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>[Endnotes]</title>
+         <ref id="d3375e149a1310">
+            <label>1</label>
+            <mixed-citation id="d3375e156" publication-type="other">
+Solzhenitsyn: A Documentary Record, Leopold
+Labedz, ed. New York, 1971, p. 84.</mixed-citation>
+            <mixed-citation id="d3375e165" publication-type="other">
+Sobranie sochinenij, vol. VI, Frankfurt a.M., 1970.</mixed-citation>
+         </ref>
+         <ref id="d3375e172a1310">
+            <label>2</label>
+            <mixed-citation id="d3375e179" publication-type="other">
+Donald Fanger, "Solzhenitsyn: Art and Foreign
+Matter," Problems of Communism, May-June, 1972,
+p. 58.</mixed-citation>
+         </ref>
+         <ref id="d3375e192a1310">
+            <label>3</label>
+            <mixed-citation id="d3375e199" publication-type="other">
+Solzhenitsyn: A Documentary Record, p. 84.</mixed-citation>
+         </ref>
+         <ref id="d3375e206a1310">
+            <label>4</label>
+            <mixed-citation id="d3375e213" publication-type="other">
+Donald Fanger, "Solzhenitsyn: Art and Foreign
+Matter," p. 60.</mixed-citation>
+         </ref>
+         <ref id="d3375e224a1310">
+            <label>5</label>
+            <mixed-citation id="d3375e231" publication-type="other">
+The New York Times, Sunday, 9 April 1972.</mixed-citation>
+         </ref>
+         <ref id="d3375e238a1310">
+            <label>6</label>
+            <mixed-citation id="d3375e247" publication-type="other">
+The New York Times, Saturday, 30 September
+and Saturday, 7 October 1972.</mixed-citation>
+            <mixed-citation id="d3375e256" publication-type="other">
+(The New
+YorkTimes Magazine, Sunday, 1 October 1972, p.
+82).</mixed-citation>
+         </ref>
+         <ref id="d3375e269a1310">
+            <label>7</label>
+            <mixed-citation id="d3375e276" publication-type="other">
+Mary
+McCarthy, writing in The Saturday Review, 16
+September 1972,</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">irisunivrevi</journal-id>
+         <journal-id journal-id-type="jstor">j50000206</journal-id>
+         <journal-title-group>
+            <journal-title>Irish University Review</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Irish University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00211427</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i25476992</issue-id>
+         <article-id pub-id-type="jstor">25476999</article-id>
+         <title-group>
+            <article-title>Samuel Beckett Bibliography: Comments and Corrections</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib>
+              <string-name>
+                  <given-names>James</given-names>
+                  <surname>Mays</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>189</fpage>
+         <lpage>208</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1972 Irish University Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25476999"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d1e107a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d1e114" publication-type="other">
+Raymond Federman and John Fletcher, Samuel Beckett: His Works and
+His Critics. An Essay in Bibliography (Berkeley, Los Angeles, London:
+University of California Press 1970). xiii + 383 pages, £7.15.</mixed-citation>
+            </ref>
+            <ref id="d1e127a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d1e134" publication-type="other">
+Josephine Jacobsen and William R. Mueller, "Samuel Beckett's Long
+Saturday: To Wait or Not to Wait?" — on pp.76-97.</mixed-citation>
+            </ref>
+            <ref id="d1e144a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d1e151" publication-type="other">
+Irish University Review I (Spring 1971), 272.</mixed-citation>
+            </ref>
+            <ref id="d1e158a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d1e165" publication-type="other">
+Michèle Foucré, Le geste et la parole dans le théâtre de Samuel Beckett
+(Paris: Nizet 1970).</mixed-citation>
+            </ref>
+            <ref id="d1e176a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d1e183" publication-type="other">
+"Ausgewählte
+Bibliographie" of the Suhrkamp Taschenbücher Warten auf Godot (1971).</mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

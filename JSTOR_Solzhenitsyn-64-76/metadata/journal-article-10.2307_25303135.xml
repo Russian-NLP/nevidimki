@@ -1,0 +1,95 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">chicagorev</journal-id>
+         <journal-id journal-id-type="jstor">j50000300</journal-id>
+         <journal-title-group>
+            <journal-title>Chicago Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Chicago Review</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00093696</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/25303135</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Signals from Other Worlds</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Thomas</given-names>
+                  <surname>Joyce</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i25303079</issue-id>
+         <fpage>178</fpage>
+         <lpage>180</lpage>
+         <product>
+            <source>Strivers' Row</source>
+            <string-name>
+               <given-names>John T.</given-names>
+               <surname>Irwin</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Prospice</source>
+            <string-name>
+               <given-names>J. C. R.</given-names>
+               <surname>Green</surname>
+            </string-name>
+            <string-name>
+               <given-names>Michael</given-names>
+               <surname>Edwards</surname>
+            </string-name>
+            <string-name>
+               <given-names>Martin</given-names>
+               <surname>Booth</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Spit in the Ocean (SITO)</source>
+            <string-name>
+               <given-names>Ken</given-names>
+               <surname>Kesey</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Antaeus</source>
+            <string-name>
+               <given-names>Danial</given-names>
+               <surname>Halpern</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1974 Chicago Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25303135"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,79 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">eductheaj</journal-id>
+         <journal-id journal-id-type="jstor">j100147</journal-id>
+         <journal-title-group>
+            <journal-title>Educational Theatre Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Theatre Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00131989</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/3206605</article-id>
+         <title-group>
+            <article-title>An Idea of Theatre History: An Informal Plea</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>David</given-names>
+                  <surname>Grimsted</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i360848</issue-id>
+         <fpage>425</fpage>
+         <lpage>432</lpage>
+         <page-range>425-432</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 American Theatre Association, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3206605"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d162e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d162e121" publication-type="journal">
+Alan Woods speaks convincingly
+of this problem in "Theatre Reconstruction: Tentative Steps Toward a Methodology," Theatre
+Survey, 12 (May 1971), 46-57<person-group>
+                     <string-name>
+                        <surname>Woods</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>46</fpage>
+                  <volume>12</volume>
+                  <source>Theatre Survey</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

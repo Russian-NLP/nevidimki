@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="misc">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">booksabroad</journal-id>
+         <journal-id journal-id-type="jstor">j50000046</journal-id>
+         <journal-title-group>
+            <journal-title>Books Abroad</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00067431</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">40128145</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Francis Ponge: The Reality of Things</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Introduction: Notes toward a "Francis Ponge in Norman"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Ivar</given-names>
+                  <surname>Ivask</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">48</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40003865</issue-id>
+         <fpage>647</fpage>
+         <lpage>651</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1974 The University of Oklahoma Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40128145"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

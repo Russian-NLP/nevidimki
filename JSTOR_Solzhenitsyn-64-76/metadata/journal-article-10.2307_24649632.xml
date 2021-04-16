@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russhisthistruss</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012803</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Russian History</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>University Center for International Studies UNIVERSITY OF PITTSBURGH</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0094288X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">18763316</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i24649619</issue-id>
+         <article-id pub-id-type="jstor">24649632</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>BOOK REVIEWS/COMPTES RENDUS</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Allen</given-names>
+                  <surname>McConnell</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>105</fpage>
+         <lpage>106</lpage>
+         <product>
+            <source>Voices in Exile: The Decembrist Memoirs</source>
+            <string-name>
+               <given-names>Glynn</given-names>
+               <surname>Barratt</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>©Copyright 1976 Charles Schlacks, Jr. and University Center for International Studies University of Pittsburgh</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/24649632"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

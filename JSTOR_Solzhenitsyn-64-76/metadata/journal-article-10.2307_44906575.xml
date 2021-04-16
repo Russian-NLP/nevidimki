@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">osteuropa</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50021164</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Osteuropa</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Deutschen Gesellschaft für Osteuropakunde</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00306428</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">25093444</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">24</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i40207916</issue-id>
+         <article-id pub-id-type="jstor">44906575</article-id>
+         <title-group>
+            <article-title>DIE DISSIDENTEN UND DIE ENTSPANNUNG</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>KURT</given-names>
+                  <surname>MARKO</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>366</fpage>
+         <lpage>371</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/44906575"/>
+      
+      
+         <abstract>
+            <p>Prominent dissidents are, in a way, cards in the poker of detente; due to their relatively „privileged“ status, their situation is not representative of the mass of the nonconformist intellectuals in the USSR. On the other hand, Solzhenitsyn, in his ”GULag“, has posed the central question of the Soviet system: its attitude toward its own past and to the despotism of Stalin, a question which also concerns its relations with the nonconformists. The makeshift explanation of the ”personality cult” does not hold water, nor does the insistence on distinguishing between socialism as such and the crimes committed under it. After all, the half measures and muted words of the fifties and sixties were followed by new misdeeds, and Stalin is back as honorable man and leading theoretician of Marxism-Leninism. The West cannot ignore the moral dimensions of the conflict between regime and dissidents, irrespective of all endeavors at detente and all the talk about nonintervention in Soviet affairs. The picture is completed by the use made of the present anti-dissident campaign by the GDR which labels as enemies of detente all those in the West who are in sympathy with the dissidents.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>ger</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

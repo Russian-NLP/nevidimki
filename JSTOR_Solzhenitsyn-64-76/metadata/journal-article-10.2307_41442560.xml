@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">europeanjudaism</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50003614</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>European Judaism: A Journal for the New Europe</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Athenaeum-Polak &amp; Van Gennep Ltd.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00143006</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17522323</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40070366</issue-id>
+         <article-id pub-id-type="jstor">41442560</article-id>
+         <title-group>
+            <article-title>The Wisdom of Insecurity On the Role of Progressive Judaism Today</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Dow</given-names>
+                  <surname>Marmur</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>12</month>
+            <year>1976</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1977</year>
+         </pub-date>
+         <fpage>16</fpage>
+         <lpage>20</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/41442560"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d120e113a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d120e120" publication-type="other">
+Alan W. Watts, The Meaning of Happiness, Village
+Press, London, 1968, p. 50.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d120e130a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d120e137" publication-type="other">
+"The Return of Islam", Commentary, January 1976,</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d120e144a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d120e151" publication-type="other">
+From Under the Rubble, Fontana/Collins, London,
+1976, pp. 105 ff.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d120e161a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d120e168" publication-type="other">
+"A Second Look at Doom", Encounter, March 1976.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d120e176a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d120e183" publication-type="other">
+"On the Necessity of Jewish-Marxist Dialogue",
+Judaism, Winter 1976.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d120e193a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d120e200" publication-type="other">
+European Judaism, 68/1 Summer 1968.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d120e207a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d120e214" publication-type="other">
+Jürgen Moltmann, Theology of Hope, JCM Press,
+London, 1969, p. 338.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

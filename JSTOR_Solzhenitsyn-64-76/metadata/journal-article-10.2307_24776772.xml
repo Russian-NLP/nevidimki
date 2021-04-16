@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">mosajintestudlit</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013819</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Mosaic: A Journal for the Interdisciplinary Study of Literature</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The University of Manitoba Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00271276</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19255683</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i24775529</issue-id>
+         <article-id pub-id-type="jstor">24776772</article-id>
+         <title-group>
+            <article-title>HUNGARIAN PROSE LITERATURE TODAY</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>MIHÁLY</given-names>
+                  <surname>SÜKÖSD</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1968</year>
+         </pub-date>
+         <fpage>110</fpage>
+         <lpage>119</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/24776772"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d92e101a1310">
+            <label>l</label>
+          
+            <p>
+               <mixed-citation id="d92e108" publication-type="other">
+The Plough and the Pen. Writings from Hungary 1930-56, Ilona Duczynska
+and Karl Polanyi ed., with a foreword by W. H. Auden, London: Peter Owen and
+Toronto: McClelland and Stewart, 1963.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d92e121a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d92e128" publication-type="other">
+his essay "Small Nation, Great Soul. On Reading the Old Testament, 1954",
+Mosaic, I, 1 (October 1967), 39-51.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

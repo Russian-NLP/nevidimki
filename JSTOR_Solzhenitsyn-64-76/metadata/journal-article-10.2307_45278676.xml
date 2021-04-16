@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">UNKNOWN</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000976</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>New Zealand Slavonic Journal</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Department of Russian Victoria University of Wellington</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00288683</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">27034518</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <issue-id>i40228480</issue-id>
+         <article-id pub-id-type="doi">10.2307/45278676</article-id>
+         <title-group>
+            <article-title>A FISSURE IN TIME THE ART OF VLADIMIR NABOKOV</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Bruce</given-names>
+                  <surname>Mason</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1969</year>
+         </pub-date>
+         <fpage>1</fpage>
+         <lpage>16</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/45278676"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

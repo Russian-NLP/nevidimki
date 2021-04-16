@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360341</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14679434</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i207414</issue-id>
+         <article-id pub-id-type="doi">10.2307/128012</article-id>
+      
+         <title-group>
+            <article-title>Anna Akhmatova's "Requiem, 1935-1940"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robin</given-names>
+                  <surname>Kemball</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Anna</given-names>
+                  <surname>Akhmatova</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>303</fpage>
+         <lpage>312</lpage>
+         <page-range>303-312</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/128012"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d57e126a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d57e133" publication-type="book">
+Anna Akhmatova, Rekviem (Munich, 1963).<person-group>
+                     <string-name>
+                        <surname>Akhmatova</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Rekviem</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e154" publication-type="other">
+pp. 22-24, Kak byl vpervye izdan "Rekviem"</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d57e161a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d57e168" publication-type="journal">
+("When Russia, racked by self-perdition") appeared in
+the Russian Review18, no. 4 (October 1959): 312.<object-id pub-id-type="doi">10.2307/126173</object-id>
+                  <fpage>312</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d57e184a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d57e191" publication-type="book">
+Anna Akhmatova, Sochineniia, 2 vols. (Washington, 1965-1968), 2: 343.<person-group>
+                     <string-name>
+                        <surname>Akhmatova</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>343</fpage>
+                  <volume>2</volume>
+                  <source>Sochineniia</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d57e220a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d57e227" publication-type="journal">
+Russian Review29, no. 1 (January 1970): 104.<object-id pub-id-type="doi">10.2307/127138</object-id>
+                  <fpage>104</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d57e241a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d57e248" publication-type="book">
+Anna Akhmatova, Sochineniia, 1
+(2d ed.): 359-370.<person-group>
+                     <string-name>
+                        <surname>Akhmatova</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>359</fpage>
+                  <volume>1</volume>
+                  <source>Sochineniia</source>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

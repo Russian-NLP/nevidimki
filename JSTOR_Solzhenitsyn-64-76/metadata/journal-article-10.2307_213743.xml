@@ -1,0 +1,58 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">geogrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100165</journal-id>
+         <journal-title-group>
+            <journal-title>Geographical Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Geographical Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00167428</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/213743</article-id>
+         <title-group>
+            <article-title>Dionysus Westward: Early Religion and the Economic Geography of Wine</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Dan</given-names>
+                  <surname>Stanislawski</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">65</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i210822</issue-id>
+         <fpage>427</fpage>
+         <lpage>444</lpage>
+         <page-range>427-444</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 The American Geographical Society of New York</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/213743"/>
+         <abstract>
+            <p>Wine has been important in sea trade for many thousands of years. Not only has it been significant as an immediate source of profit, but almost three thousand years ago it played a major role in the establishment of Greek towns and farms in areas stretching from the Levant to Italy. In spite of its intrinsic attractions, wine might not have functioned in this way except for its millennial association with religion, especially with the Great Mother cult, which was dominant in Mediterranean regions and with which Dionysus, later to be god of wine, was affiliated. Greek expansion might have taken place in any event, but the velocity and strength of it were increased by the fact that wine trade and viticulture traveled with religious endorsement. In vino veritas-et lucrum.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

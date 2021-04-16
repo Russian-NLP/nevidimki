@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amerjagriecon</journal-id>
+         <journal-id journal-id-type="jstor">j100057</journal-id>
+         <journal-title-group>
+            <journal-title>American Journal of Agricultural Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>American Agricultural Economics Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00029092</issn>
+         <issn pub-type="epub">14678276</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">57</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i253053</issue-id>
+         <article-id pub-id-type="doi">10.2307/1239074</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>General Sessions</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Policy Formation and the Economist</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>J. Carroll</given-names>
+                  <surname>Bottum</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>12</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>764</fpage>
+         <lpage>768</lpage>
+         <page-range>764-768</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 American Agricultural Economics Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1239074"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d658578e123a1310">
+               
+               <mixed-citation id="d658578e127" publication-type="book">
+Bonnen, James T. "The University in Public Policy Edu-
+cation." Increasing Understanding of Public Prob-
+lems and Policies-1970, pp. 5-14. Chicago: Farm
+Foundation, 1970.<person-group>
+                     <string-name>
+                     <surname>Bonnen</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">The University in Public Policy Education</comment>
+               <fpage>5</fpage>
+               <source>Increasing Understanding of Public Problems and Policies-1970</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e165a1310">
+               
+               <mixed-citation id="d658578e169" publication-type="other">
+Davis, Chester. "The Development of Agricultural Policy
+Since the End of the World War." Farmers in a
+Changing World, pp. 297-326. Washington: U.S.
+Government Printing Office, 1940.</mixed-citation>
+            </ref>
+            <ref id="d658578e185a1310">
+               
+               <mixed-citation id="d658578e189" publication-type="book">
+Hamilton, Edith. The Greek Way. New York: W.W.
+Norton &amp; Co., 1942.<person-group>
+                     <string-name>
+                     <surname>Hamilton</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Greek Way</source>
+               <year>1942</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e214a1310">
+               
+               <mixed-citation id="d658578e218" publication-type="book">
+Keynes, John Maynard. Essays in Persuasion. New York:
+Harcourt, Brace &amp; Co., 1932.<person-group>
+                     <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+                  </person-group>
+               <source>Essays in Persuasion</source>
+               <year>1932</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e244a1310">
+               
+               <mixed-citation id="d658578e248" publication-type="journal">
+Kohls, Richard L. "Economic Research and Education
+for Commercial Agriculture." Amer. J. Agr. Econ.
+56 (1974):1009-13.<object-id pub-id-type="doi">10.2307/1239035</object-id>
+               <fpage>1009</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e267a1310">
+               
+               <mixed-citation id="d658578e271" publication-type="journal">
+Nielson, James. "Accountability and Innovation: Chal-
+lenges for Agricultural Economists." Amer. J. Agr.
+Econ. 56 (1974):865-77.<object-id pub-id-type="doi">10.2307/1239013</object-id>
+               <fpage>865</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e290a1310">
+               
+               <mixed-citation id="d658578e294" publication-type="book">
+Ogden, Daniel M. "How National Policy Is Made." In-
+creasing Understanding of Public Problems and
+Policies-1971, pp. 5-10. Chicago: Farm Founda-
+tion, 1971.<person-group>
+                     <string-name>
+                     <surname>Ogden</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">How National Policy Is Made</comment>
+               <fpage>5</fpage>
+               <source>Increasing Understanding of Public Problems and Policies-1971</source>
+               <year>1971</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e332a1310">
+               
+               <mixed-citation id="d658578e336" publication-type="book">
+Rossiter, Clinton. "The Democratic Process." Goals for
+Americans; Programs for Action in the Sixties, The
+President's Commission on National Goals, pp.
+61-78. New York: Prentice-Hall, 1960.<person-group>
+                     <string-name>
+                     <surname>Rossiter</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">The Democratic Process</comment>
+               <fpage>61</fpage>
+               <source>Goals for Americans; Programs for Action in the Sixties</source>
+               <year>1960</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e374a1310">
+               
+               <mixed-citation id="d658578e378" publication-type="book">
+Schumpeter, Joseph. Capitalism, Socialism and Democ-
+racy. New York: Harper &amp; Row, Publishers 1947.<person-group>
+                     <string-name>
+                     <surname>Schumpeter</surname>
+                  </string-name>
+                  </person-group>
+               <source>Capitalism, Socialism and Democracy</source>
+               <year>1947</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e403a1310">
+               
+               <mixed-citation id="d658578e407" publication-type="other">
+Simon, William E. "Statement before Subcommittee on
+Priorities and Economy in Government of the Joint
+Economic Committee." Apr. 1975.</mixed-citation>
+            </ref>
+            <ref id="d658578e421a1310">
+               
+               <mixed-citation id="d658578e425" publication-type="book">
+Solzhenitsyn, Aleksandr I. The Gulag Archipelago. New
+York: Harper &amp; Row, Publishers, 1974.<person-group>
+                     <string-name>
+                     <surname>Solzhenitsyn</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Gulag Archipelago</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d658578e450a1310">
+               
+               <mixed-citation id="d658578e454" publication-type="other">
+Spitze, Robert F. "Searching for the Educator's Role
+with Public Economic Policy." Special Publication
+30, pp. 77-96. Paul A. Funk Recognition Program,
+College of Agriculture, University of Illinois, Mar.
+1974.</mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

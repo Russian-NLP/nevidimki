@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">teacsoci</journal-id>
+         <journal-id journal-id-type="jstor">j100486</journal-id>
+         <journal-title-group>
+            <journal-title>Teaching Sociology</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Sage Publications</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">0092055X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i256515</issue-id>
+         <article-id pub-id-type="jstor">1316870</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Developments in Introductory Sociology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Use of Literature in Teaching Introductory Sociology: A Case Study</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Robert Alun</given-names>
+                  <surname>Jones</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1975</year>
+         </pub-date>
+         <fpage>177</fpage>
+         <lpage>196</lpage>
+         <page-range>177-196</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 Sage Publications, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1316870"/>
+         
+         
+         <abstract>
+            <p>With the support of the Undergraduate Instructional Awards Program of the University of Illinois, an attempt was made to teach introductory sociology using selections from fifteen novels and one play as supplementary reading material. The evaluation of this innovation conducted by the Office of Instructional Resources of the University resulted in several conclusions: (1) students taught through these materials indicate that it is a good method; (2) students feel that such materials substantially improve their understanding of sociological concepts; (3) in the absence of a comparative study using control groups, it is difficult to assess whether students do learn more through this method, although some tentative suggestions concerning its unique value are made; and (4) serious obstacles exist to the successful utilization of these materials, related to both the instructor(s) and the materials themselves, and recommendations for overcoming these obstacles are proposed.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>Notes</title>
+            <ref id="d127e129a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d127e136" publication-type="journal">
+Wilson (1971: 967)  <fpage>967</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d127e157a1310">
+               
+               <mixed-citation id="d127e161" publication-type="book">
+BERGER, P. and B. BERGER (1972) Sociology: A Biographical Approach. New
+York: Basic Books.<person-group>
+                     <string-name>
+                     <surname>Berger</surname>
+                  </string-name>
+                  </person-group>
+               <source>Sociology: A Biographical Approach</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d127e186a1310">
+               
+               <mixed-citation id="d127e190" publication-type="journal">
+BLAUNER, R. (1964) "Review of Lewis Oser's Sociology Through Literature: An
+Introductory Reader." Amer. J. of Sociology 69: 425-426.<object-id pub-id-type="jstor">10.2307/2775118</object-id>
+               <fpage>425</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d127e206a1310">
+               
+               <mixed-citation id="d127e210" publication-type="journal">
+COSER, L. (1973) Personal letter to author (December 20).<person-group>
+                     <string-name>
+                     <surname>Coser</surname>
+                  </string-name>
+                  </person-group>
+               <issue>December 20</issue>
+               <source>Personal letter to author</source>
+               <year>1973</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d127e235a1310">
+               
+               <mixed-citation id="d127e239" publication-type="book">
+--- (1963) Sociology Through Literature: An Introductory Reader. Englewood
+Cliffs, N.J.: Prentice-Hall.<person-group>
+                     <string-name>
+                     <surname>Coser</surname>
+                  </string-name>
+                  </person-group>
+               <source>Sociology Through Literature: An Introductory Reader</source>
+               <year>1963</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d127e265a1310">
+               
+               <mixed-citation id="d127e269" publication-type="book">
+DABAGHIAN, J. (1970) Mirror of Man: Readings in Sociology and Literature.
+Boston: Little, Brown.<person-group>
+                     <string-name>
+                     <surname>Dabaghian</surname>
+                  </string-name>
+                  </person-group>
+               <source>Mirror of Man: Readings in Sociology and Literature</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d127e294a1310">
+               
+               <mixed-citation id="d127e298" publication-type="book">
+OFSHE, R. (1970) The Sociology of the Possible. Englewood Cliffs, N.J.:
+Prentice-Hall.<person-group>
+                     <string-name>
+                     <surname>Ofshe</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Sociology of the Possible</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d127e323a1310">
+               
+               <mixed-citation id="d127e327" publication-type="journal">
+PORTERFIELD, A. (1947) "Some uses of literature in teaching sociology."
+Sociology and Soc. Research 41, 6 (August).<person-group>
+                     <string-name>
+                     <surname>Porterfield</surname>
+                  </string-name>
+                  </person-group>
+               <issue>6</issue>
+               <volume>41</volume>
+               <source>Sociology and Soc. Research</source>
+               <year>1947</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d127e359a1310">
+               
+               <mixed-citation id="d127e363" publication-type="journal">
+WILSON, W. J. (1971) "Reviews of Jane Dabaghian's Mirror of Man: Readings in
+Sociology and Literature, and Richard Ofshe's The Sociology of the Possible."
+Amer. Soc. Rev. 36: 966-967.<object-id pub-id-type="doi">10.2307/2093753</object-id>
+               <fpage>966</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">musicaltimes</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100296</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Musical Times</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Novello &amp; Company, Ltd.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00274666</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">117</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1603</issue>
+         <issue-id>i239454</issue-id>
+         <article-id pub-id-type="doi">10.2307/957768</article-id>
+      
+         <title-group>
+            <article-title>Music in London</article-title>
+         </title-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>9</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>752</fpage>
+         <lpage>758</lpage>
+         <page-range>752-753+755+757-758</page-range>
+      
+         <self-uri xlink:href="https://www.jstor.org/stable/957768"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

@@ -1,0 +1,136 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">canaslavpape</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000944</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Canadian Slavonic Papers / Revue Canadienne des Slavistes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Canadian Association of Slavists</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00085006</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23752475</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">40866188</article-id>
+         <title-group>
+            <article-title>Conflict in Czechoslovakia: The Developing Crisis</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J. ALEX</given-names>
+                  <surname>BOUČEK</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>1968</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">10</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40039028</issue-id>
+         <fpage>479</fpage>
+         <lpage>501</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/40866188"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>SELECTED BIBLIOGRAPHY OF CZECHOSLOVAK NEWS MEDIA</title>
+         <ref id="d85e101a1310">
+            <mixed-citation id="d85e105" publication-type="other">
+CTK (Ceskoslovenská tisková kanceláf) Prague, State Press Agency.</mixed-citation>
+         </ref>
+         <ref id="d85e112a1310">
+            <mixed-citation id="d85e116" publication-type="other">
+Kulturni tvorba (Cultural Creation; rrague, a weekly or the Central Com-
+mittee's Ideological Department.</mixed-citation>
+         </ref>
+         <ref id="d85e126a1310">
+            <mixed-citation id="d85e130" publication-type="other">
+Kultúrny zivot (Cultural Life) Bratislava, a weekly of the Slovak Writers
+Union.</mixed-citation>
+         </ref>
+         <ref id="d85e140a1310">
+            <mixed-citation id="d85e144" publication-type="other">
+Literární listy (Literary Papers) Prague, a weekly organ of the Czechoslovak
+Union of Writers, (since March 1968) .</mixed-citation>
+         </ref>
+         <ref id="d85e155a1310">
+            <mixed-citation id="d85e159" publication-type="other">
+Literární noviny (Literary News) Prague, a weekly organ of the Ministry
+of Culture (since October 1967) .</mixed-citation>
+         </ref>
+         <ref id="d85e169a1310">
+            <mixed-citation id="d85e173" publication-type="other">
+Lidová demokracie (People's Democracy) Prague, a daily of the Czech
+People's (Catholic) Party.</mixed-citation>
+         </ref>
+         <ref id="d85e183a1310">
+            <mixed-citation id="d85e187" publication-type="other">
+Miada fronta (Young Front) Prague, a daily of the Czechoslovak Youth
+League.</mixed-citation>
+         </ref>
+         <ref id="d85e197a1310">
+            <mixed-citation id="d85e201" publication-type="other">
+Nova my si (New Mind) Prague, the party s theoretical and political
+monthly.</mixed-citation>
+         </ref>
+         <ref id="d85e211a1310">
+            <mixed-citation id="d85e215" publication-type="other">
+Flamen (Flame) Prague, a literary monthly.</mixed-citation>
+         </ref>
+         <ref id="d85e222a1310">
+            <mixed-citation id="d85e226" publication-type="other">
+Práce (Labour/Work) Prague, a trade union daily.</mixed-citation>
+         </ref>
+         <ref id="d85e234a1310">
+            <mixed-citation id="d85e238" publication-type="other">
+Pravda (Truth) Bratislava, a daily of the Slovak Communist Party.</mixed-citation>
+         </ref>
+         <ref id="d85e245a1310">
+            <mixed-citation id="d85e249" publication-type="other">
+Reporter Prague, a biweekly of the Journalist's Union.</mixed-citation>
+         </ref>
+         <ref id="d85e256a1310">
+            <mixed-citation id="d85e260" publication-type="other">
+Rude pravo (Red Rights) Prague, a daily of Czechoslovak Communist
+Party.</mixed-citation>
+         </ref>
+         <ref id="d85e270a1310">
+            <mixed-citation id="d85e274" publication-type="other">
+Student Prague, a weekly published by Prague university students.</mixed-citation>
+         </ref>
+         <ref id="d85e281a1310">
+            <mixed-citation id="d85e285" publication-type="other">
+Svobodné slovo (Free Word) Prague, a daily of the Czechoslovak Socialist
+Party.</mixed-citation>
+         </ref>
+         <ref id="d85e295a1310">
+            <mixed-citation id="d85e299" publication-type="other">
+Smëena (Shift) Bratislava, a daily of the Slovak Youth Committee.</mixed-citation>
+         </ref>
+         <ref id="d85e307a1310">
+            <mixed-citation id="d85e311" publication-type="other">
+Zemëdelské noviny (Agricultural News) Prague, a daily of the agricultural
+sector.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

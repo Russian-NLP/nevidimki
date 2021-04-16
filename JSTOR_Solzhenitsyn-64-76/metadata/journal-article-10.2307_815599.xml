@@ -1,0 +1,95 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">englishj</journal-id>
+         <journal-id journal-id-type="jstor">j100151</journal-id>
+         <journal-title-group>
+            <journal-title>The English Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Council of Teachers of English</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00138274</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/815599</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Teaching Ideas</subject>
+               <subj-group>
+                  <subject>Close-up: Teaching Writing</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>You (Expletive Deleted), Mary</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Allen S.</given-names>
+                  <surname>Munneke</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">64</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i233622</issue-id>
+         <fpage>69</fpage>
+         <lpage>71</lpage>
+         <page-range>69-71</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 National Council of Teachers of English</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/815599"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d141e131a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d141e138" publication-type="book">
+Hart Day Leavitt &amp; D. A. Sohn,
+Stop, Look, and Write (New York,
+Bantam), 1964.<person-group>
+                     <string-name>
+                        <surname>Leavitt</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Stop, Look, and Write</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d141e167a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d141e174" publication-type="journal">
+Ken Donelson, "Censorship in the
+1970's," English Journal, 63 (Febru-
+ary, 1974). p. 48.<object-id pub-id-type="doi">10.2307/813680</object-id>
+                  <fpage>48</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

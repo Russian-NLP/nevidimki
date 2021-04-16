@@ -1,0 +1,116 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">claj</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50011209</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>CLA Journal</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>College Language Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00078549</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44329184</article-id>
+         <title-group>
+            <article-title>"THE MAN DIED", PRISON NOTES OF WOLE SOYINKA: A RECORDER AND VISIONARY</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Lucy K.</given-names>
+                  <surname>Hayden</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>6</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">18</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40181293</issue-id>
+         <fpage>542</fpage>
+         <lpage>552</lpage>
+         <permissions>
+            <copyright-statement>Copyright, 1975 College Language Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/44329184"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d113e107a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d113e114" publication-type="other">
+Janheinz John, Ula Schild, Almut Nordman, eds., Who's Who in African Litera-
+ture (Tubingen: Horst Erdmann Velag, 1972), pp. 371-74.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e124a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d113e131" publication-type="other">
+Wole Soyinka, "The Failure of the Writer in Africa," The Africa Reader:
+Independent Africa, eds. Wilfred Cartey and Martin Kilson (New York: Vintage
+Books, 1970), p. 142.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e144a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d113e151" publication-type="other">
+Wole Soyinka, The Man Died (New York: Harper and Row, Publishers, 1972),
+p. 18.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e161a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d113e168" publication-type="other">
+Aleksandr I. Solzhenitsyn, The Gulag Archipelago 1918-1956, trans. Thomas
+P. Whitney (New York: Harper and Row, 1973), pp. 534-35.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e179a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d113e186" publication-type="other">
+James Joyce, A Portrait of the Artist as a Young Man (New York: Viking
+Press, 1973), p. 203.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e196a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d113e203" publication-type="other">
+Soyinka, "Failure of the Writer in Africa," p. 136.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e210a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d113e217" publication-type="other">
+Stephen Cohen, review of Gulag Archipelago and Letter to the Soviet Leaders.
+The New York Times Book Review (June 16, 1974), 14.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

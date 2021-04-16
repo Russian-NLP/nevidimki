@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">booksabroad</journal-id>
+         <journal-id journal-id-type="jstor">j50000046</journal-id>
+         <journal-title-group>
+            <journal-title>Books Abroad</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Oklahoma Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00067431</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/40125001</article-id>
+         <title-group>
+            <article-title>Nadezhda Mandelstam's Remarkable Memoirs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Gleb</given-names>
+                  <surname>Struve</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1971</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">45</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40003850</issue-id>
+         <fpage>18</fpage>
+         <lpage>25</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1970 The University of Oklahoma Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40125001"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d4530e107a1310">
+            <label>**</label>
+            <p>
+               <mixed-citation id="d4530e114" publication-type="other">
+BA: Sobranie sočinenii. G. P. Struve, B. A. Filippov-
+Filistinsky, eds. Reviewed by Ivar Ivask. 30:3, p. 294;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4530e123" publication-type="other">
+Sobranie sočinenii. II. G. P. Struve, B. A. Filippov,
+eds. Reviewed by Anthony Hippesley. 42:1, p. 152;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4530e132" publication-type="other">
+Sobranie sočinenii v dvux tomax. I: Stixotvorenija.
+G. P. Struve, B. A. Filippov, eds. Reviewed by Michael Klimenko. 40:2, p. 222;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4530e142" publication-type="other">
+Sobranie sočinenii. III:
+Očerkj. Pis'ma. G. P. Struve, B. A. Filippov, eds. Reviewed by Victor Terras. 44:2, p. 328.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

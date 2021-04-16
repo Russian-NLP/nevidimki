@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360341</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14679434</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i207380</issue-id>
+         <article-id pub-id-type="doi">10.2307/126861</article-id>
+      
+         <title-group>
+            <article-title>Three Inner Emigres: Anna Akhmatova, Osip Mandelshtam, Nikolai Zabolotsky</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Helen</given-names>
+                  <surname>Muchnic</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1967</year>
+         </pub-date>
+         <fpage>13</fpage>
+         <lpage>25</lpage>
+         <page-range>13-25</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1967 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/126861"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d183e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d183e121" publication-type="journal">
+The New York Review of Books, December 23, 1965.<issue>December 23</issue>
+                  <source>The New York Review of Books</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d183e137a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d183e144" publication-type="book">
+Anna Akhmatova, Sochineniya. Vol. I. Edited and with Notes and Introduc-
+tory Essays by G. P. Struve and B. A. Filipoff. Washington, D. C. and New
+York, Inter-Language Literary Associates, 1965.<person-group>
+                     <string-name>
+                        <surname>Akhmatova</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>I</volume>
+                  <source>Sochineniya</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d183e175" publication-type="book">
+Osip Mandelshtam, Sobraniye Sochinenii. Vol. I. Edited by Professor G. P.
+Struve and B. A. Filipoff, with Introductory Essays by Professor Clarence
+Brown, Professor G. P. Struve, and E. M. Rais. Washington, Inter-Language
+Literary Associates, 1964.<person-group>
+                     <string-name>
+                        <surname>Mandelshtam</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>I</volume>
+                  <source>Sobraniye Sochinenii</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d183e209" publication-type="book">
+Nikolai Zabolotsky, Stikhotvoreniya. Edited by G. P. Struve and B. A. Fili-
+poff, with Introductory Essays by Aleksis Rannit, Boris Filipoff, and E. Rais.
+Washington, D. C.-New York, Inter-Language Literary Associates, 1965.<person-group>
+                     <string-name>
+                        <surname>Zabolotsky</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Stikhotvoreniya</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

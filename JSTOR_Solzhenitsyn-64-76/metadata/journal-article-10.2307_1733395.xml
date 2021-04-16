@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">science</journal-id>
+         <journal-id journal-id-type="jstor">j100000</journal-id>
+         <journal-title-group>
+            <journal-title>Science</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>American Association for the Advancement of Science</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00368075</issn>
+         <issn pub-type="epub">10959203</issn>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>journal-series-title</meta-name>
+               <meta-value>New Series</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">174</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4011</issue>
+         <issue-id>i299610</issue-id>
+         <article-id pub-id-type="jstor">1733395</article-id>
+         
+         <title-group>
+            <article-title>The Cholinergic Synapse and the Site of Memory</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>J. Anthony</given-names>
+                  <surname>Deutsch</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>19</day>
+            <month>11</month>
+            <year>1971</year>
+         </pub-date>
+         <fpage>788</fpage>
+         <lpage>794</lpage>
+         <page-range>788-794</page-range>
+         
+         <permissions>
+            <copyright-statement>Copyright 1971 American Association for the Advancement of Science</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1733395"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References and Notes</title>
+            <ref id="d267e116a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d267e123" publication-type="journal">
+E. Tanzi, Riv. Sper. Freniat. 19, 149 (1893).<person-group>
+                     <string-name>
+                     <surname>Tanzi</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>149</fpage>
+               <volume>19</volume>
+               <source>Riv. Sper. Freniat.</source>
+               <year>1893</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e152a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d267e159" publication-type="book">
+J. C. Eccles, in Brain
+Mechanisms and Learning (Thomas, Spring-
+field, 111., 1961), pp. 335-352<person-group>
+                     <string-name>
+                     <surname>Eccles</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>335</fpage>
+               <source>Brain Mechanisms and Learning</source>
+               <year>1961</year>
+            </mixed-citation>
+               <mixed-citation id="d267e190" publication-type="book">
+The Physiol-
+ogy of Synapses (Academic Press, New
+York, 1964).<source>The Physiology of Synapses</source>
+               <year>1964</year>
+            </mixed-citation>
+               <mixed-citation id="d267e208" publication-type="journal">
+W. A. Spencer and R. Wigdor
+[Physiologist 8, 278 (1965)]<person-group>
+                     <string-name>
+                     <surname>Spencer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>278</fpage>
+               <volume>8</volume>
+               <source>Physiologist</source>
+               <year>1965</year>
+            </mixed-citation>
+               <mixed-citation id="d267e240" publication-type="journal">
+F. B. Bes-
+wick and R. T. W. L. Conroy [J. Physiol.
+London 180, 134 (1965)]<person-group>
+                     <string-name>
+                     <surname>Beswick</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>134</fpage>
+               <volume>180</volume>
+               <source>J. Physiol. London</source>
+               <year>1965</year>
+            </mixed-citation>
+               <mixed-citation id="d267e274" publication-type="journal">
+J. C.
+Fentress and R. Doty [Fed. Proc. 25, 573
+(1965)]<person-group>
+                     <string-name>
+                     <surname>Fentress</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>573</fpage>
+               <volume>25</volume>
+               <source>Fed. Proc.</source>
+               <year>1965</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e309a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d267e316" publication-type="journal">
+S. K. Sharpless, Annu. Rev. Physiol. 26, 357
+(1964).<person-group>
+                     <string-name>
+                     <surname>Sharpless</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>357</fpage>
+               <volume>26</volume>
+               <source>Annu. Rev. Physiol.</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e348a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d267e355" publication-type="journal">
+W. R. Russell and P. W. Nathan, Brain 69,
+280 (1946).<person-group>
+                     <string-name>
+                     <surname>Russell</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>280</fpage>
+               <volume>69</volume>
+               <source>Brain</source>
+               <year>1946</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e388a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d267e395" publication-type="book">
+G. A. Talland, Deranged Memory (Academic
+Press, New York, 1965).<person-group>
+                     <string-name>
+                     <surname>Talland</surname>
+                  </string-name>
+                  </person-group>
+               <source>Deranged Memory</source>
+               <year>1965</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e420a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d267e427" publication-type="book">
+L. S. Goodman and A. Gilman, The Phar-
+macological Basis of Therapeutics (Macmillan,
+New York, 1965).<person-group>
+                     <string-name>
+                     <surname>Goodman</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Pharmacological Basis of Therapeutics</source>
+               <year>1965</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e456a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d267e463" publication-type="journal">
+W. Feldberg and A. Vartiainen, J. Physiol.
+London 83, 103 (1934)<person-group>
+                     <string-name>
+                     <surname>Feldberg</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>103</fpage>
+               <volume>83</volume>
+               <source>J. Physiol. London</source>
+               <year>1934</year>
+            </mixed-citation>
+               <mixed-citation id="d267e494" publication-type="journal">
+R. L. Volle and G.
+B. Koelle, J. Pharmacol. Exp. Ther. 133, 223
+(1961).<person-group>
+                     <string-name>
+                     <surname>Volle</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>223</fpage>
+               <volume>133</volume>
+               <source>J. Pharmacol. Exp. Ther.</source>
+               <year>1961</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e529a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d267e536" publication-type="journal">
+J. A. Deutsch, M. D. Hamburg, H. Dahl,
+Science 151, 221 (1966).<object-id pub-id-type="jstor">10.2307/1717333</object-id>
+               <fpage>221</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e552a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d267e559" publication-type="journal">
+J. A. Deutsch and S. F. Leibowitz, ibid. 153,
+1917 (1966).<person-group>
+                     <string-name>
+                     <surname>Deutsch</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1917</fpage>
+               <volume>153</volume>
+               <source>Science</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e591a1310">
+               <label>11</label>
+               
+               <mixed-citation id="d267e598" publication-type="journal">
+J. DeGroot,
+Verh. Kon. Ned. Akad. Wettensch. Afdel-
+Natuurk. Sect. II, 52 (1957)<person-group>
+                     <string-name>
+                     <surname>DeGroot</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>52</fpage>
+               <source>Verh. Kon. Ned. Akad. Wettensch. Afdel-Natuurk.</source>
+               <year>1957</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e631a1310">
+               <label>13</label>
+               
+               <mixed-citation id="d267e638" publication-type="other">
+J. A. Deutsch and J. Stone, in preparation.</mixed-citation>
+            </ref>
+            <ref id="d267e645a1310">
+               <label>14</label>
+               
+               <mixed-citation id="d267e652" publication-type="journal">
+M. D. Hamburg, Science 156, 973 (1967).<object-id pub-id-type="jstor">10.2307/1721553</object-id>
+               <fpage>973</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e665a1310">
+               <label>15</label>
+               
+               <mixed-citation id="d267e672" publication-type="journal">
+G. B. Biederman, Quart. J. Exp. Psychol. 22,
+384 (1970).<person-group>
+                     <string-name>
+                     <surname>Biederman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>384</fpage>
+               <volume>22</volume>
+               <source>Quart. J. Exp. Psychol.</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e704a1310">
+               <label>16</label>
+               
+               <mixed-citation id="d267e711" publication-type="journal">
+N. I. Wiener and J. A. Deutsch, J. Comp.
+Physiol. Psychol. 66, 613 (1968).<person-group>
+                     <string-name>
+                     <surname>Wiener</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>613</fpage>
+               <volume>66</volume>
+               <source>J. Comp. Physiol. Psychol.</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e743a1310">
+               <label>17</label>
+               
+               <mixed-citation id="d267e750" publication-type="journal">
+L. R. Squire, Psychon. Sci. 19 (1), 49 (1970).<person-group>
+                     <string-name>
+                     <surname>Squire</surname>
+                  </string-name>
+                  </person-group>
+               <issue>1</issue>
+               <fpage>49</fpage>
+               <volume>19</volume>
+               <source>Psychon. Sci.</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e782a1310">
+               <label>18</label>
+               
+               <mixed-citation id="d267e789" publication-type="journal">
+G. B. Biederman, ibid., in press.<person-group>
+                     <string-name>
+                     <surname>Biederman</surname>
+                  </string-name>
+                  </person-group>
+               <issue>1</issue>
+               <volume>19</volume>
+               <source>Psychon. Sci.</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e819a1310">
+               <label>19</label>
+               
+               <mixed-citation id="d267e826" publication-type="journal">
+J. A. Deutsch and K. Rocklin, Nature 216,
+89 (1967).<person-group>
+                     <string-name>
+                     <surname>Deutsch</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>89</fpage>
+               <volume>216</volume>
+               <source>Nature</source>
+               <year>1967</year>
+            </mixed-citation>
+               <mixed-citation id="d267e857" publication-type="journal">
+A. Pazzagli and G. Pepeu,
+lint. J. Neuropharmacol. 4, 291 (1964).<person-group>
+                     <string-name>
+                     <surname>Pazzagli</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>291</fpage>
+               <volume>4</volume>
+               <source>J. Neuropharmacol.</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e889a1310">
+               <label>20</label>
+               
+               <mixed-citation id="d267e896" publication-type="journal">
+Deutsch and Rocklin (19</mixed-citation>
+               <mixed-citation id="d267e902" publication-type="journal">
+11</mixed-citation>
+               <mixed-citation id="d267e908" publication-type="journal">
+Wiener and Deutsch (16)</mixed-citation>
+            </ref>
+            <ref id="d267e915a1310">
+               <label>21</label>
+               
+               <mixed-citation id="d267e922" publication-type="book">
+W. C. Cutting, Handbook of Pharmacology;
+The Actions and Uses of Drugs (Appleton-
+Century-Crofts, New York, 1964).<person-group>
+                     <string-name>
+                     <surname>Cutting</surname>
+                  </string-name>
+                  </person-group>
+               <source>Handbook of Pharmacology; The Actions and Uses of Drugs</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e951a1310">
+               <label>22</label>
+               
+               <mixed-citation id="d267e958" publication-type="journal">
+F. A. Huppert and J. A. Deutsch, Quart. J.
+Exp. Psychol. 21, 267 (1969).<person-group>
+                     <string-name>
+                     <surname>Huppert</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>267</fpage>
+               <volume>21</volume>
+               <source>Quart. J. Exp. Psychol.</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e990a1310">
+               <label>23</label>
+               
+               <mixed-citation id="d267e997" publication-type="other">
+F. A. Huppert, personal communication.</mixed-citation>
+            </ref>
+            <ref id="d267e1004a1310">
+               <label>24</label>
+               
+               <mixed-citation id="d267e1011" publication-type="journal">
+A. C. Anderson, J. Comp. Psychol. 30, 399
+(1940)<person-group>
+                     <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>399</fpage>
+               <volume>30</volume>
+               <source>J. Comp. Psychol.</source>
+               <year>1940</year>
+            </mixed-citation>
+               <mixed-citation id="d267e1042" publication-type="journal">
+M. E. Bunch and W. K. Magdsick,
+ibid. 16, 385 (1933)<person-group>
+                     <string-name>
+                     <surname>Bunch</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>385</fpage>
+               <volume>16</volume>
+               <source>J. Comp. Psychol.</source>
+               <year>1933</year>
+            </mixed-citation>
+               <mixed-citation id="d267e1073" publication-type="journal">
+M. E. Bunch and E. S.
+Lang, ibid. 27, 449 (1939)<person-group>
+                     <string-name>
+                     <surname>Bunch</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>449</fpage>
+               <volume>27</volume>
+               <source>J. Comp. Psychol.</source>
+               <year>1939</year>
+            </mixed-citation>
+               <mixed-citation id="d267e1105" publication-type="journal">
+H. B. Hubert,
+Behavior Monogr. 2, No. 6 (1915).<person-group>
+                     <string-name>
+                     <surname>Hubert</surname>
+                  </string-name>
+                  </person-group>
+               <issue>6</issue>
+               <volume>2</volume>
+               <source>Behavior Monogr.</source>
+               <year>1915</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e1138a1310">
+               <label>25</label>
+               
+               <mixed-citation id="d267e1145" publication-type="journal">
+J. A. Deutsch and S. F. Leibowitz, Science
+153, 1017 (1966).<object-id pub-id-type="jstor">10.2307/1719375</object-id>
+               <fpage>1017</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e1161a1310">
+               <label>26</label>
+               
+               <mixed-citation id="d267e1168" publication-type="journal">
+J. A. Deutsch and H. Lutzky, Nature 213,
+742 (1967).<person-group>
+                     <string-name>
+                     <surname>Deutsch</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>742</fpage>
+               <volume>213</volume>
+               <source>Nature</source>
+               <year>1967</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e1200a1310">
+               <label>27</label>
+               
+               <mixed-citation id="d267e1207" publication-type="other">
+S. F. Leibowitz, J. A. Deutsch, E. E. Coons,
+in preparation.</mixed-citation>
+            </ref>
+            <ref id="d267e1217a1310">
+               <label>28</label>
+               
+               <mixed-citation id="d267e1224" publication-type="journal">
+Z. M. Bacq and G. C. Brown, J. Physiol.
+London 89, 45 (1937).<person-group>
+                     <string-name>
+                     <surname>Bacq</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>45</fpage>
+               <volume>89</volume>
+               <source>J. Physiol. London</source>
+               <year>1937</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e1256a1310">
+               <label>29</label>
+               
+               <mixed-citation id="d267e1263" publication-type="other">
+J. A. Deutsch and K. Rocklin, in preparation.</mixed-citation>
+            </ref>
+            <ref id="d267e1270a1310">
+               <label>30</label>
+               
+               <mixed-citation id="d267e1277" publication-type="journal">
+J. A. Deutsch and N. I. Wiener, J. Comp.
+Physiol. Psychol. 69, 179 (1969).<person-group>
+                     <string-name>
+                     <surname>Deutsch</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>179</fpage>
+               <volume>69</volume>
+               <source>J. Comp. Physiol. Psychol.</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d267e1310a1310">
+               <label>31</label>
+               
+               <mixed-citation id="d267e1317" publication-type="book">
+P. L. Carlton, in Reinforcement and Behavior,
+J. T. Tapp, Ed. (Academic Press, New York,
+1969), pp. 286-327.<person-group>
+                     <string-name>
+                     <surname>Carlton</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>286</fpage>
+               <source>Reinforcement and Behavior</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

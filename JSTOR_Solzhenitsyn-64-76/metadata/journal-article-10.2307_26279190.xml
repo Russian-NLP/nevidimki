@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">modefictstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50013829</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Modern Fiction Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>THE PURDUE UNIVERSITY DEPARTMENT OF ENGLISH</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00267724</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1080658X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">18</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i26277043</issue-id>
+         <article-id pub-id-type="jstor">26279190</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>RECENT BOOKS ON MODERN FICTION</subject>
+               <subj-group>
+                  <subject>BOOKS REVIEWED</subject>
+                  <subj-group>
+                     <subject>GENERAL</subject>
+                  </subj-group>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>PETER L.</given-names>
+                  <surname>HAYS</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>309</fpage>
+         <lpage>314</lpage>
+         <product>
+            <source>Modern Fiction: A Formalist Approach</source>
+            <string-name>
+               <given-names>William J.</given-names>
+               <surname>Handy</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Fictions and Events: Essays in Criticism and Literary History</source>
+            <string-name>
+               <given-names>Warner</given-names>
+               <surname>Berthoff</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Novelist at the Crossroads and Other Essays on Fiction and Criticism</source>
+            <string-name>
+               <given-names>David</given-names>
+               <surname>Lodge</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>The Politics of Twentieth-Century Novelists</source>
+            <string-name>
+               <given-names>George A.</given-names>
+               <surname>Panichas</surname>
+            </string-name>
+            <string-name>
+               <given-names>John W.</given-names>
+               <surname>Aldridge</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright © 1972 Purdue Research Foundation</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26279190"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

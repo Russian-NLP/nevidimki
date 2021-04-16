@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00376779</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="doi">10.2307/2495492</article-id>
+         <title-group>
+            <article-title>The Russian Peasant Rediscovered: "Village Prose" of the 1960s</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Geoffrey A.</given-names>
+                  <surname>Hosking</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">32</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i322526</issue-id>
+         <fpage>705</fpage>
+         <lpage>724</lpage>
+         <page-range>705-724</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1973 The American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/2495492"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d316e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d316e121" publication-type="journal">
+New York Times, Apr. 3,1972<issue>Apr. 3</issue>
+                  <source>New York Times</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e137a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d316e144" publication-type="book">
+Gleb Žekulin, "The
+Contemporary Countryside in Soviet Literature: A Search for New Values," in James
+R. Millar, ed., The Soviet Rural Community (Urbana, 1971), pp. 376-404<person-group>
+                     <string-name>
+                        <surname>Žekulin</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Contemporary Countryside in Soviet Literature: A Search for New Values</comment>
+                  <fpage>376</fpage>
+                  <source>The Soviet Rural Community</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e179a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d316e186" publication-type="other">
+Vladimir Soloukhin's Vladimirskie proselki</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e192" publication-type="journal">
+Novyi mir,
+1957, no. 9, pp. 82-141<issue>9</issue>
+                  <fpage>82</fpage>
+                  <source>Novyi mir</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e214" publication-type="other">
+no. 10, pp. 75-134</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e221" publication-type="book">
+Stella Miskin: A Walk in Rural Russia (London, 1966; New York, 1967).<person-group>
+                     <string-name>
+                        <surname>Miskin</surname>
+                     </string-name>
+                  </person-group>
+                  <source>A Walk in Rural Russia</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e243a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d316e250" publication-type="other">
+Leonov,
+in Barsuki</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e259" publication-type="other">
+Pilniak, in Golyi god</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e267a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d316e274" publication-type="book">
+Sidney Ploss, Conflict and Decision-Making in Soviet Russia: A Case Study of
+Agricultural Policy, 1953-1963 (Princeton, 1965)<person-group>
+                     <string-name>
+                        <surname>Ploss</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Conflict and Decision-Making in Soviet Russia: A Case Study of Agricultural Policy, 1953-1963</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e298" publication-type="book">
+Erich Strauss, Soviet Agriculture
+in Perspective (London, 1969), chap. 8<person-group>
+                     <string-name>
+                        <surname>Strauss</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 8</comment>
+                  <source>Soviet Agriculture in Perspective</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e327a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d316e334" publication-type="book">
+Valentin Ovechkin, Trudnaia vesna (Moscow,
+1956)<person-group>
+                     <string-name>
+                        <surname>Ovechkin</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Trudnaia vesna</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e358" publication-type="journal">
+Gleb Žekulin, "Aspects of Peasant Life as
+Portrayed in Contemporary Soviet Literature," Canadian Slavic Studies, 1, no. 4 (1967):
+555-58<person-group>
+                     <string-name>
+                        <surname>Žekulin</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>4</issue>
+                  <fpage>555</fpage>
+                  <volume>1</volume>
+                  <source>Canadian Slavic Studies</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e395" publication-type="journal">
+Ovechkin's sketches were presented in English in
+Soviet Studies, 4, no. 4 (1953): 447-68<person-group>
+                     <string-name>
+                        <surname>Ovechkin</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>4</issue>
+                  <fpage>447</fpage>
+                  <volume>4</volume>
+                  <source>Soviet Studies</source>
+                  <year>1953</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e430" publication-type="other">
+5, no. 3 (1954): 289-99</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e436" publication-type="other">
+6, no. 1 (1954): 77-91</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e442" publication-type="other">
+8, no. 3 (1957): 279-98</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e449a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d316e456" publication-type="other">
+Ovechkin, Trudnaia vesna, p. 319</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e463a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d316e470" publication-type="journal">
+Literaturnaia gazeta, Jan. 31, 1968<issue>Jan. 31</issue>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e485" publication-type="journal">
+Dimitry Pospielovsky, "The 'Link System'
+in Soviet Agriculture," Soviet Studies, 21, no. 4 (1970): 415<object-id pub-id-type="jstor">10.2307/149975</object-id>
+                  <fpage>415</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e500" publication-type="book">
+Kaznimye
+sumasshestviem, ed. A. Artemov, L. Rar, and M. Slavinsky (Frankfurt am Main, 1971),
+pp. 184-85<person-group>
+                     <string-name>
+                        <surname>Artemov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>184</fpage>
+                  <source>Kaznimye sumasshestviem</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e532a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d316e539" publication-type="other">
+Dorosh's Derevenskii dnevnik</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e545" publication-type="journal">
+Literaturnaia
+Moskva, 1956, no. 2, pp. 549-626<issue>2</issue>
+                  <fpage>549</fpage>
+                  <source>Literaturnaia Moskva</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e567" publication-type="journal">
+Novyi mir, 1958, no. 7, pp. 3-27<issue>7</issue>
+                  <fpage>3</fpage>
+                  <source>Novyi mir</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e586" publication-type="other">
+1961, no. 7,
+pp. 3-51</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e595" publication-type="other">
+1962, no. 10, pp. 9-46</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e601" publication-type="other">
+1964, no. 6, pp. 11-83</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e607" publication-type="other">
+1965, no. 1, pp. 81-87</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e613" publication-type="other">
+1969, no. 1,
+pp. 3-41, and no. 2, pp. 6-59</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e622" publication-type="other">
+1970, no. 9, pp. 39-73</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e629" publication-type="journal">
+Novyi mir, 1970,
+no. 9, esp. pp. 49-56<issue>9</issue>
+                  <fpage>49</fpage>
+                  <source>Novyi mir</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e652a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d316e659" publication-type="journal">
+Oktiabr', 1956, no. 6, pp. 3-90<issue>6</issue>
+                  <fpage>3</fpage>
+                  <source>Oktiabr</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e677" publication-type="other">
+Alfred Dressler (Oxford, 1967)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e685a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d316e692" publication-type="journal">
+Novyi mir, 1961, no. 1, pp. 21-71<issue>1</issue>
+                  <fpage>21</fpage>
+                  <source>Novyi mir</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e711a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d316e718" publication-type="journal">
+Samokhin in Khochu byt' chestnym, in Novyi mir, 1963, no. 2,
+pp. 150-86<person-group>
+                     <string-name>
+                        <surname>Samokhin</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>2</issue>
+                  <fpage>150</fpage>
+                  <source>Khochu byt' chestnym, in Novyi mir</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e750a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d316e757" publication-type="journal">
+Novyi mir, 1961, no. 1, p. 67<issue>1</issue>
+                  <fpage>67</fpage>
+                  <source>Novyi mir</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e776a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d316e783" publication-type="journal">
+Novyi mir, 1962, no. 12, pp. 3-26<issue>12</issue>
+                  <fpage>3</fpage>
+                  <source>Novyi mir</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e802a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d316e809" publication-type="journal">
+Novyi mir, 1963, no. 1, pp. 42-63<issue>1</issue>
+                  <fpage>42</fpage>
+                  <source>Novyi mir</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e828a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d316e835" publication-type="other">
+L. Rzhevsky, "Obraz rasskazchika v povesti Solzhenitsyna 'Odin
+den' Ivana Denisovicha,'"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e844" publication-type="book">
+Prochten'e tvorcheskogo
+slova (New York, 1970), pp. 237-52<fpage>237</fpage>
+                  <source>Prochten'e tvorcheskogo slova</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e862" publication-type="journal">
+Vladimir J. Rus, "One Day in the Life of Ivan
+Denisovich: A Point of View Analysis," Canadian Slavonic Papers, 13 (1971): 165-78<person-group>
+                     <string-name>
+                        <surname>Rus</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>165</fpage>
+                  <volume>13</volume>
+                  <source>Canadian Slavonic Papers</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e895a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d316e902" publication-type="other">
+Fedor Abramov, Dve zimy i tri leta</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e908" publication-type="journal">
+Novyi mir, 1968, nos. 1-3<issue>1</issue>
+                  <source>Novyi mir</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e923" publication-type="book">
+"Sovetskii pisatel'," Leningrad, 1969<source>Sovetskii pisatel</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e936" publication-type="other">
+Boris Mozhaev, Iz zhizni Fedora Ktz'kina</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e942" publication-type="journal">
+Novyi mir, 1966, no. 7<issue>7</issue>
+                  <source>Novyi mir</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e957" publication-type="other">
+Vasilii Belov, Privychnoe delo</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e963" publication-type="journal">
+Sever, 1966, no. 1<issue>1</issue>
+                  <source>Sever</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e978" publication-type="book">
+Za tremia volokami (Moscow: "Sovetskii pisatel',"
+1968)<comment content-type="section">Sovetskii pisatel</comment>
+                  <source>Za tremia volokami</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e996" publication-type="book">
+Sel'skie povesti by the Komsomol publishing house, Molodaia Gvardiia
+(Moscow, 1971)<person-group>
+                     <string-name>
+                        <surname>Komsomol</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sel'skie povesti</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1021a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d316e1028" publication-type="journal">
+Novyi mir, 1969, no. 8, pp. 158-84<issue>8</issue>
+                  <fpage>158</fpage>
+                  <source>Novyi mir</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1046" publication-type="journal">
+"Sluchainye
+etiudy," Nash sovremennik, 1971, no. 7, pp. 95-102<issue>7</issue>
+                  <fpage>95</fpage>
+                  <source>Nash sovremennik</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1069a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d316e1076" publication-type="journal">
+Literaturnaia gazeta, Nov. 22, 1967, p. 4<issue>Nov. 22</issue>
+                  <fpage>4</fpage>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1095a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d316e1102" publication-type="journal">
+Literaturnaia gazeta, Jan. 31, 1968, p. 5<issue>Jan. 31</issue>
+                  <fpage>5</fpage>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1121a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d316e1128" publication-type="journal">
+Literaturnaia gazeta, Jan. 17, 1968, p. 6<issue>Jan. 17</issue>
+                  <fpage>6</fpage>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1147a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d316e1154" publication-type="journal">
+Literaturnaia gazeta, Feb. 28, 1968, p. 6<issue>Feb. 28</issue>
+                  <fpage>6</fpage>
+                  <source>Literaturnaia gazeta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1172" publication-type="other">
+I. Dedkov and A. Dement'ev,
+in Novyi mir</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1181" publication-type="journal">
+V. Chalmaev, "Neizbezhnost'," Molodaia gvardiia, 1968, no. 9, pp. 259-89<person-group>
+                     <string-name>
+                        <surname>Chalmaev</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>9</issue>
+                  <fpage>259</fpage>
+                  <source>Molodaia gvardiia</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1210" publication-type="journal">
+I. Dedkov,
+"Stranitsy derevenskoi zhizni," Novyi mir, 1969, no. 3, pp. 231-46<person-group>
+                     <string-name>
+                        <surname>Dedkov</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <fpage>231</fpage>
+                  <source>Novyi mir</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1241" publication-type="journal">
+A. Dement'ev, "O
+traditsiiakh i narodnosti," Novyi mir, 1969, no. 4, pp. 215-35<person-group>
+                     <string-name>
+                        <surname>Dement'ev</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>4</issue>
+                  <fpage>215</fpage>
+                  <source>Novyi mir</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1272" publication-type="journal">
+V. N. Pavlov, "Spory o
+slavianofil'stve i russkom patriotizme v sovetskoi nauchnoi literature, 1967-70 gg.," Grani,
+no. 82 (1971), pp. 183-211<person-group>
+                     <string-name>
+                        <surname>Pavlov</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>82</issue>
+                  <fpage>183</fpage>
+                  <source>Grani</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1308a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d316e1315" publication-type="journal">
+Max Hayward, "The Decline of Socialist Realism," Survey, 18, no. 1 (Winter
+1972): 73-97, esp. pp. 93-94<person-group>
+                     <string-name>
+                        <surname>Hayward</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <fpage>73</fpage>
+                  <volume>18</volume>
+                  <source>Survey</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1350a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d316e1357" publication-type="other">
+S. P. Zalygin, Na Irtyshe</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1363" publication-type="journal">
+Novyi mir, 1964,
+no. 2, pp. 3-80<issue>2</issue>
+                  <fpage>3</fpage>
+                  <source>Novyi mir</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1385" publication-type="other">
+V. F. Tendriakov, Podenka—vek korotkii</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1392" publication-type="journal">
+Novyi mir, 1965, no. 5, pp. 95-141<issue>5</issue>
+                  <fpage>95</fpage>
+                  <source>Novyi mir</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1410" publication-type="journal">
+Moskva, 1968, no. 3, pp. 3-138<issue>3</issue>
+                  <fpage>3</fpage>
+                  <source>Moskva</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1428" publication-type="other">
+N. Voronov, Iunost' v Zheleznodol'-
+ske</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1437" publication-type="journal">
+Novyi mir, 1968, no. 11, pp. 3-95<issue>11</issue>
+                  <fpage>3</fpage>
+                  <source>Novyi mir</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1455" publication-type="other">
+no. 12, pp. 31-110</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1461" publication-type="journal">
+V. Shukshin, "Iz detstva Ivana Popova," Novyi mir, 1968, no. 11, pp. 98-110<person-group>
+                     <string-name>
+                        <surname>Shukshin</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>11</issue>
+                  <fpage>98</fpage>
+                  <source>Novyi mir</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1490" publication-type="journal">
+V. Voinovich, Zhizn' i neobychainye prikliucheniia soldata Ivana Chonkina, in Grani,
+no. 72 (1969), pp. 3-83<person-group>
+                     <string-name>
+                        <surname>Voinovich</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>72</issue>
+                  <fpage>3</fpage>
+                  <source>Zhizn' i neobychainye prikliucheniia soldata Ivana Chonkina, in Grani</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1521" publication-type="book">
+Vladimir Maximov, Sem'
+dnei tvoreniia (Frankfurt am Main, 1972)<person-group>
+                     <string-name>
+                        <surname>Maximov</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sem' dnei tvoreniia</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1545" publication-type="journal">
+my "Selected
+Bibliography of Recent Village Prose in the Soviet Union," ABSEES, 4, no. 2 (October
+1973), Special Section<issue>2</issue>
+                  <volume>4</volume>
+                  <source>ABSEES</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1571a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d316e1578" publication-type="book">
+Richard Wortman, The Crisis of Russian Populism (Cambridge, 1967)<person-group>
+                     <string-name>
+                        <surname>Wortman</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Crisis of Russian Populism</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d316e1600a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d316e1607" publication-type="journal">
+Alec
+Nove, "Soviet Agriculture Under Brezhnev," Slavic Review, 29, no. 3 (1970): 379-410<object-id pub-id-type="doi">10.2307/2493154</object-id>
+                  <fpage>379</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1622" publication-type="journal">
+Leonid Ivanov, "V Rodinoni Kraiu," Neva, 1972, no. 6,
+pp. 118-36<person-group>
+                     <string-name>
+                        <surname>Ivanov</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>6</issue>
+                  <fpage>118</fpage>
+                  <source>Neva</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1653" publication-type="book">
+Andrei Amal'rik's
+Nezhelannoe puteshestvie v Sibir' (New York, 1970), written at the same time: oii pp.
+163-75<person-group>
+                     <string-name>
+                        <surname>Amal'rik</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>163</fpage>
+                  <source>Nezhelannoe puteshestvie v Sibir</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d316e1685" publication-type="book">
+Manya Harari and Max
+Hayward: Involuntary Journey to Siberia (New York, 1970)<person-group>
+                     <string-name>
+                        <surname>Harari</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Involuntary Journey to Siberia</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

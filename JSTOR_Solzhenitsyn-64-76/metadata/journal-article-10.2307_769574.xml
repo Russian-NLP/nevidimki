@@ -1,0 +1,446 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">biogmemofellroya</journal-id>
+         <journal-id journal-id-type="jstor">j100466</journal-id>
+         <journal-title-group>
+            <journal-title>Biographical Memoirs of Fellows of the Royal Society</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Royal Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00804606</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">769574</article-id>
+         <title-group>
+            <article-title>Bertrand Arthur William Russell, Earl Russell. 1872-1970</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>G.</given-names>
+                  <surname>Kreisel</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">19</volume>
+         <issue-id>i231396</issue-id>
+         <fpage>583</fpage>
+         <lpage>620</lpage>
+         <page-range>583-620</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/769574"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d120e119a1310">
+            <mixed-citation id="d120e123" publication-type="book">
+Bernard, J. F. 1973. Talleyrand. New York.<person-group>
+                  <string-name>
+                     <surname>Bernard</surname>
+                  </string-name>
+               </person-group>
+               <source>Talleyrand</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e142a1310">
+            <mixed-citation id="d120e146" publication-type="journal">
+Cantor, G. 1885. Review of Frege (1884). Deutsche Literaturzeitung, 6, 728-729<person-group>
+                  <string-name>
+                     <surname>Cantor</surname>
+                  </string-name>
+               </person-group>
+               <fpage>728</fpage>
+               <volume>6</volume>
+               <source>Deutsche Literaturzeitung</source>
+            </mixed-citation>
+            <mixed-citation id="d120e170" publication-type="other">
+pp. 440-441 of Zermelo (1932)</mixed-citation>
+         </ref>
+         <ref id="d120e177a1310">
+            <mixed-citation id="d120e181" publication-type="book">
+Cantor, G. 1899. Letter to Dedekind; reprinted on pp. 443-447<person-group>
+                  <string-name>
+                     <surname>Cantor</surname>
+                  </string-name>
+               </person-group>
+               <fpage>443</fpage>
+               <source>Letter to Dedekind</source>
+            </mixed-citation>
+            <mixed-citation id="d120e202" publication-type="other">
+Zermelo (1932)</mixed-citation>
+         </ref>
+         <ref id="d120e209a1310">
+            <mixed-citation id="d120e213" publication-type="book">
+Crawshay-Williams, R. 1970. Russell remembered. London.<person-group>
+                  <string-name>
+                     <surname>Crawshay-Williams</surname>
+                  </string-name>
+               </person-group>
+               <source>Russell remembered</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e233a1310">
+            <mixed-citation id="d120e237" publication-type="book">
+Dedekind, R. 1872. Stetigkeit und irrationale Zahlen. Braunschweig.<person-group>
+                  <string-name>
+                     <surname>Dedekind</surname>
+                  </string-name>
+               </person-group>
+               <source>Stetigkeit und irrationale Zahlen</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e256a1310">
+            <mixed-citation id="d120e260" publication-type="book">
+Dedekind, R. 1888. Was sind und was sollen die Zahlen. Braunschweig.<person-group>
+                  <string-name>
+                     <surname>Dedekind</surname>
+                  </string-name>
+               </person-group>
+               <source>Was sind und was sollen die Zahlen</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e279a1310">
+            <mixed-citation id="d120e283" publication-type="book">
+Descartes, R. 1637. Discours de la mdthode. Leyden.<person-group>
+                  <string-name>
+                     <surname>Descartes</surname>
+                  </string-name>
+               </person-group>
+               <source>Discours de la mdthode</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e302a1310">
+            <mixed-citation id="d120e306" publication-type="book">
+Frege, G. 1879. Begriffsschrift. Halle a/S.<person-group>
+                  <string-name>
+                     <surname>Frege</surname>
+                  </string-name>
+               </person-group>
+               <source>Begriffsschrift</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e325a1310">
+            <mixed-citation id="d120e329" publication-type="book">
+Frege, G. 1884. Grundlagen der Arithmetik. Breslau.<person-group>
+                  <string-name>
+                     <surname>Frege</surname>
+                  </string-name>
+               </person-group>
+               <source>Grundlagen der Arithmetik</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e348a1310">
+            <mixed-citation id="d120e352" publication-type="book">
+Frege, G. 1893. Grundgesetze der Arithmetik. Jena.<person-group>
+                  <string-name>
+                     <surname>Frege</surname>
+                  </string-name>
+               </person-group>
+               <source>Grundgesetze der Arithmetik</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e372a1310">
+            <mixed-citation id="d120e376" publication-type="book">
+Getty, P. J. 1963. My life and fortunes. New York.<person-group>
+                  <string-name>
+                     <surname>Getty</surname>
+                  </string-name>
+               </person-group>
+               <source>My life and fortunes</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e395a1310">
+            <mixed-citation id="d120e399" publication-type="journal">
+Jensen, R. B. 1972. The fine structure of L. Annals of Mathematical Logic, 4, 229-308.<person-group>
+                  <string-name>
+                     <surname>Jensen</surname>
+                  </string-name>
+               </person-group>
+               <fpage>229</fpage>
+               <volume>4</volume>
+               <source>L. Annals of Mathematical Logic</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e424a1310">
+            <mixed-citation id="d120e428" publication-type="journal">
+Hermann, I. 1949. Denkpsychologische Betrachtungen im Gebiete der mathema-
+tischen Mengenlehre. Schweiz. Z. Psychologie, 8, 189-231.<person-group>
+                  <string-name>
+                     <surname>Hermann</surname>
+                  </string-name>
+               </person-group>
+               <fpage>189</fpage>
+               <volume>8</volume>
+               <source>Schweiz. Z. Psychologie</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e457a1310">
+            <mixed-citation id="d120e461" publication-type="book">
+Holmberg, M. A. (ed.) 1951. Les prix Nobel en 1950. Stockholm.<person-group>
+                  <string-name>
+                     <surname>Holmberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Les prix Nobel en 1950</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e480a1310">
+            <mixed-citation id="d120e484" publication-type="book">
+Hume, D. 1777. An enquiry concerning the principles of morals. London.<person-group>
+                  <string-name>
+                     <surname>Hume</surname>
+                  </string-name>
+               </person-group>
+               <source>An enquiry concerning the principles of morals</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e503a1310">
+            <mixed-citation id="d120e507" publication-type="book">
+McCarthy, M. T. 1952. The groves of Academe. New York.<person-group>
+                  <string-name>
+                     <surname>McCarthy</surname>
+                  </string-name>
+               </person-group>
+               <source>The groves of Academe</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e527a1310">
+            <mixed-citation id="d120e531" publication-type="book">
+Maistre, J. de 1821. Les soirees de Saint-Pitersbourg ou entretiens sur le gouvernement
+temporel de la providence: suivis d'un Traitd sur les sacrifices. Paris.<person-group>
+                  <string-name>
+                     <surname>Maistre</surname>
+                  </string-name>
+               </person-group>
+               <source>Les soirees de Saint-Pitersbourg ou entretiens sur le gouvernement temporel de la providence: suivis d'un Traitd sur les sacrifices</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e553a1310">
+            <mixed-citation id="d120e557" publication-type="book">
+Musil, R. 1930. Der Mann ohne Eigenschaften. Berlin.<person-group>
+                  <string-name>
+                     <surname>Musil</surname>
+                  </string-name>
+               </person-group>
+               <source>Der Mann ohne Eigenschaften</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e576a1310">
+            <mixed-citation id="d120e580" publication-type="book">
+Nkrumah, K. 1970. Consciencism (rev. ed.). London and New York.<person-group>
+                  <string-name>
+                     <surname>Nkrumah</surname>
+                  </string-name>
+               </person-group>
+               <source>Consciencism</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e599a1310">
+            <mixed-citation id="d120e603" publication-type="book">
+Rokeach, M. 1964. The three Christs of Ypsilanti; a psychological study. New York.<person-group>
+                  <string-name>
+                     <surname>Rokeach</surname>
+                  </string-name>
+               </person-group>
+               <source>The three Christs of Ypsilanti; a psychological study</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e622a1310">
+            <mixed-citation id="d120e626" publication-type="book">
+Schilpp, P. A. (ed.) 1944. The philosophy of Bertrand Russell. Evanston and Chicago.<person-group>
+                  <string-name>
+                     <surname>Schilpp</surname>
+                  </string-name>
+               </person-group>
+               <source>The philosophy of Bertrand Russell</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e645a1310">
+            <mixed-citation id="d120e649" publication-type="book">
+Solzhenitsyn, A. I. 1968. The first circle. London.<person-group>
+                  <string-name>
+                     <surname>Solzhenitsyn</surname>
+                  </string-name>
+               </person-group>
+               <source>The first circle</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e669a1310">
+            <mixed-citation id="d120e673" publication-type="book">
+Solzhenitsyn, A. I. 1968. The cancer ward. London.<person-group>
+                  <string-name>
+                     <surname>Solzhenitsyn</surname>
+                  </string-name>
+               </person-group>
+               <source>The cancer ward</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e692a1310">
+            <mixed-citation id="d120e696" publication-type="book">
+Sturm, C. 1835. Mémoire sur la resolution des equations numbriques. Mémoires prd-
+sentes par divers savants dtrangers a l'Academie Royale des Sciences de l'Institut de
+France, Sciences Mathdmatiques et Physiques, 6.<person-group>
+                  <string-name>
+                     <surname>Sturm</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Mémoire sur la resolution des equations numbriques</comment>
+               <volume>6</volume>
+               <source>Mémoires prdsentes par divers savants dtrangers a l'Academie Royale des Sciences de l'Institut de France, Sciences Mathdmatiques et Physiques</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e728a1310">
+            <mixed-citation id="d120e732" publication-type="book">
+Watling, J. 1970. Bertrand Russell. Edinburgh.<person-group>
+                  <string-name>
+                     <surname>Watling</surname>
+                  </string-name>
+               </person-group>
+               <source>Bertrand Russell</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e751a1310">
+            <mixed-citation id="d120e755" publication-type="journal">
+Zermelo, E. 1930. über Grenzzahlen und Mengenbereiche. Fund. Math. 16, 29-47.<person-group>
+                  <string-name>
+                     <surname>Zermelo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>29</fpage>
+               <volume>16</volume>
+               <source>Fund. Math.</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e780a1310">
+            <mixed-citation id="d120e784" publication-type="book">
+Zermelo, E. (ed.) 1932. Georg Cantor: Gesammelte Abhandlungen. Berlin.<person-group>
+                  <string-name>
+                     <surname>Zermelo</surname>
+                  </string-name>
+               </person-group>
+               <source>Georg Cantor: Gesammelte Abhandlungen</source>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>Bibliography</title>
+         <ref id="d120e812a1310">
+            <mixed-citation id="d120e816" publication-type="book">
+pp. 111-115 of Watling (1970)  <fpage>111</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e828a1310">
+            <mixed-citation id="d120e832" publication-type="book">
+The autobiography of Bertrand Russell, 1872-1914, 1914-1944, 1944-1968,
+Atlantic Monthly Press, 1967, 1968, 1969 resp. N.B.-Page numbers
+quoted in the memoir refer to the hard cover edition.<source>The autobiography of Bertrand Russell</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e851a1310">
+            <mixed-citation id="d120e855" publication-type="journal">
+On some difficulties in the theory of transfinite numbers and order types.
+Proc. Lond. Math. Soc. (2) 4, 29-53 (1906).<issue>2</issue>
+               <fpage>29</fpage>
+               <volume>4</volume>
+               <source>Proc. Lond. Math. Soc.</source>
+               <year>1906</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e881a1310">
+            <mixed-citation id="d120e885" publication-type="book">
+A history of western philosophy. New York, 1945.<source>A history of western philosophy</source>
+               <year>1945</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e899a1310">
+            <mixed-citation id="d120e903" publication-type="book">
+Introduction to mathematical philosophy. London, 1919.<source>Introduction to mathematical philosophy</source>
+               <year>1919</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e916a1310">
+            <mixed-citation id="d120e920" publication-type="book">
+My mental development, pp. 1-20 in Schilpp (1944).  <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e932a1310">
+            <mixed-citation id="d120e936" publication-type="journal">
+What desires are politically important ? Nobel lecture 11 December 1950,
+pp. 259-270<issue>11 December</issue>
+               <fpage>259</fpage>
+               <source>Nobel lecture</source>
+               <year>1950</year>
+            </mixed-citation>
+            <mixed-citation id="d120e958" publication-type="book">
+Holmberg (1951)  </mixed-citation>
+         </ref>
+         <ref id="d120e967a1310">
+            <mixed-citation id="d120e971" publication-type="journal">
+On denoting. Mind, 14, 479-493 (1905).<fpage>479</fpage>
+               <volume>14</volume>
+               <source>Mind</source>
+               <year>1905</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e990a1310">
+            <mixed-citation id="d120e994" publication-type="book">
+My philosophical development. New York, 1959.<source>My philosophical development</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e1007a1310">
+            <mixed-citation id="d120e1011" publication-type="book">
+A critical exposition of the philosophy of Leibniz. Cambridge, 1900.<source>A critical exposition of the philosophy of Leibniz</source>
+               <year>1900</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e1025a1310">
+            <mixed-citation id="d120e1029" publication-type="book">
+(With A. N. WHITEHEAD) Principia mathematica, vol. 1. Cambridge, 1910.<person-group>
+                  <string-name>
+                     <surname>Whitehead</surname>
+                  </string-name>
+               </person-group>
+               <volume>1</volume>
+               <source>Principia mathematica</source>
+               <year>1910</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e1054a1310">
+            <mixed-citation id="d120e1058" publication-type="book">
+The principles of mathematics. London, 1903.<source>The principles of mathematics</source>
+               <year>1903</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d120e1071a1310">
+            <mixed-citation id="d120e1075" publication-type="book">
+The problems of philosophy. London, 1921.<source>The problems of philosophy</source>
+               <year>1921</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

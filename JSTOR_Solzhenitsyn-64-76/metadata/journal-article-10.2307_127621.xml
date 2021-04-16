@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360341</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14679434</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i207412</issue-id>
+         <article-id pub-id-type="doi">10.2307/127621</article-id>
+      
+         <title-group>
+            <article-title>The Young Kornei Chukovsky (1905-1914): A Liberal Critic In Search of Cultural Unity</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Jeffrey</given-names>
+                  <surname>Brooks</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>50</fpage>
+         <lpage>62</lpage>
+         <page-range>50-62</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/127621"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d43e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d43e121" publication-type="book">
+M. Petrovsky, Kniga o Kornee Chukovskom, Moscow, 1966, p. 3.<person-group>
+                     <string-name>
+                        <surname>Petrovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>Kniga o Kornee Chukovskom</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e146a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d43e153" publication-type="journal">
+Chukovsky, "Tsiferblat g. Beltova," Vesy, vol. II, 1906, p. 51<person-group>
+                     <string-name>
+                        <surname>Chukovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>51</fpage>
+                  <volume>II</volume>
+                  <source>Vesy</source>
+                  <year>1906</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e181" publication-type="journal">
+idem, "Ob estetiche-
+skom nigilizme," Vesy, vol. II, 1906, p. 81.<person-group>
+                     <string-name>
+                        <surname>Chukovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>81</fpage>
+                  <volume>II</volume>
+                  <source>Vesy</source>
+                  <year>1906</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e213a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d43e220" publication-type="journal">
+Svoboda i zhizn', September 10, 1906.<issue>September 10</issue>
+                  <source>Svoboda i zhizn'</source>
+                  <year>1906</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e236a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d43e243" publication-type="journal">
+Svoboda i zhizn', November 5, 1906<issue>November 5</issue>
+                  <source>Svoboda i zhizn'</source>
+                  <year>1906</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e258" publication-type="journal">
+Nashe ekho, no. 2, 1907.<issue>2</issue>
+                  <source>Nashe ekho</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e275a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d43e282" publication-type="journal">
+A. S. Izgoev, in Rech', April 3, 1907.<person-group>
+                     <string-name>
+                        <surname>Izgoev</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April 3</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e307a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d43e314" publication-type="journal">
+D. Ovsianiko-Kulikovsky, Rech', October 4, 1910.<person-group>
+                     <string-name>
+                        <surname>Ovsianiko-Kulikovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>October 4</issue>
+                  <source>Rech'</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e339a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d43e346" publication-type="book">
+Ot Chekhova do nashikh dnei, 2nd ed., 1908, pp.
+3-8<edition>2</edition>
+                  <fpage>3</fpage>
+                  <source>Ot Chekhova do nashikh dnei</source>
+                  <year>1908</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e368" publication-type="journal">
+Rech', July 8, 1907<issue>July 8</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e383" publication-type="journal">
+Rech', July 21, 1907.<issue>July 21</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e399a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d43e406" publication-type="journal">
+Svoboda i zhizn', November 2, 1906.<issue>November 2</issue>
+                  <source>Svoboda i zhizn'</source>
+                  <year>1906</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e422a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d43e429" publication-type="other">
+Ot Chekhova do nashikh dnei, p. 31.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e436a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d43e443" publication-type="other">
+Ibid., p. 96.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e451a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d43e458" publication-type="other">
+Ibid., p. 9.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e465a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d43e472" publication-type="journal">
+Rech', November 4, 1907.<issue>November 4</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e488a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d43e495" publication-type="journal">
+Rech', January 1, 1908<issue>January 1</issue>
+                  <source>Rech'</source>
+                  <year>1908</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e510" publication-type="journal">
+Rech', November 4, 1907<issue>November 4</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e525" publication-type="other">
+Ot Chekova do nashikh dnei,
+pp. 6-7.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e535a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d43e542" publication-type="journal">
+Rech', November 4, 1907.<issue>November 4</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e558a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d43e565" publication-type="journal">
+Rech', August 16, 1907.<issue>August 16</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e581a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d43e588" publication-type="journal">
+Ibid.<issue>August 16</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e605a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d43e612" publication-type="journal">
+Rech', July 1, 1907.<issue>July 1</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e628a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d43e635" publication-type="journal">
+Rech', February 7, 1908.<issue>February 7</issue>
+                  <source>Rech'</source>
+                  <year>1908</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e651a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d43e658" publication-type="journal">
+Rech', July 29, 1907.<issue>July 29</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e674a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d43e681" publication-type="journal">
+Rech', July 1, 1907.<issue>July 1</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e697a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d43e704" publication-type="journal">
+Ibid.<issue>July 1</issue>
+                  <source>Rech'</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e720a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d43e727" publication-type="book">
+Chukovsky, Nat Pinkerton i sovremennaia literatura–kuda my prishli?, Moscow,
+1910.<person-group>
+                     <string-name>
+                        <surname>Chukovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Nat Pinkerton i sovremennaia literatura–kuda my prishli?</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e753a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d43e760" publication-type="other">
+Ibid., p. 20.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e767a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d43e774" publication-type="other">
+Ibid., p. 27.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e781a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d43e788" publication-type="other">
+Ibid., pp. 42-43.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e795a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d43e802" publication-type="other">
+Ibid., p. 49.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e809a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d43e816" publication-type="other">
+Ibid., p. 64.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e823a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d43e830" publication-type="journal">
+Rech, February 21, 1910.<issue>February 21</issue>
+                  <source>Rech</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e847a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d43e854" publication-type="book">
+Chukovsky, "Obzory literaturnoi zhizni 1910 god," reprinted in his Sobranie so-
+chinenii, vol. 6, Moscow, 1969, p. 395.<person-group>
+                     <string-name>
+                        <surname>Chukovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Obzory literaturnoi zhizni 1910 god</comment>
+                  <fpage>395</fpage>
+                  <volume>6</volume>
+                  <source>Sobranie sochinenii</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e889a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d43e896" publication-type="journal">
+M. Gorky, "O pisateliakh samouchkakh," Sovremennyi mir, vol. II, 1911.<person-group>
+                     <string-name>
+                        <surname>Gorky</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>II</volume>
+                  <source>Sovremennyi mir</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e921a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d43e928" publication-type="journal">
+Chukovsky, "My i oni," first printed in Rech', October 1, October 29, November 8,
+1911<person-group>
+                     <string-name>
+                        <surname>Chukovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>October 1</issue>
+                  <source>Rech'</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e956" publication-type="book">
+Litsa i maski, St. Petersburg, 1914, p. 179.<fpage>179</fpage>
+                  <source>Litsa i maski</source>
+                  <year>1914</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e972a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d43e979" publication-type="other">
+Ibid., p. 192.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e986a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d43e993" publication-type="other">
+Ibid., p. 194.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1000a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d43e1007" publication-type="other">
+Ibid., p. 195.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1015a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d43e1022" publication-type="other">
+Ibid., p. 203.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1029a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d43e1036" publication-type="other">
+Ibid., p. 205.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1043a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d43e1050" publication-type="other">
+Chukovsky, Sobranie sochinenii, vol. 6, p. 412.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1057a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d43e1064" publication-type="journal">
+Rech', August 22, 1910.<issue>August 22</issue>
+                  <source>Rech'</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1080a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d43e1087" publication-type="book">
+Chukovsky, Sovremenniki, Moscow, 1962, pp. 160-162<person-group>
+                     <string-name>
+                        <surname>Chukovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>160</fpage>
+                  <source>Sovremenniki</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1111" publication-type="journal">
+Tolstoy's article was pub-
+lished in Rech', November 13, 1910.<person-group>
+                     <string-name>
+                        <surname>Tolstoy</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>November 13</issue>
+                  <source>Rech'</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1140a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d43e1147" publication-type="journal">
+Rech', April 2, 1910.<issue>April 2</issue>
+                  <source>Rech'</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1164a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d43e1171" publication-type="journal">
+Rech', December 14, 1910.<issue>December 14</issue>
+                  <source>Rech'</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1187a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d43e1194" publication-type="journal">
+Rech', June 11, 1911.<issue>June 11</issue>
+                  <source>Rech'</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1210a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d43e1217" publication-type="other">
+Chukovsky, "Nekrasov i modernisty," in Litsa i maski, pp. 206-217.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1224a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d43e1231" publication-type="other">
+Sobranie sochinenii, vol. 6, pp.
+445-461.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1241a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d43e1248" publication-type="other">
+Chukovsky, "O detskom iazyke," in Litsa i maski, p. 324.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1255a1310">
+            <label>46</label>
+          
+            <p>
+               <mixed-citation id="d43e1262" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1270a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d43e1277" publication-type="other">
+Chukovsky, "Futuristy," printed in Litsa i maski.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1284a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d43e1291" publication-type="other">
+Ibid., pp. 125-126.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1298a1310">
+            <label>49</label>
+          
+            <p>
+               <mixed-citation id="d43e1305" publication-type="other">
+Ibid., p. 135.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1312a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d43e1319" publication-type="other">
+Chukovsky, Poet anarkhist—Uolt Uitman, 1907</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1325" publication-type="other">
+idem, Poeziia griadushchei demo-
+kratii, 1914</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1334" publication-type="journal">
+Rech', May 21, 1911.<issue>May 21</issue>
+                  <source>Rech'</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1350a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d43e1357" publication-type="other">
+Chukovsky, in Litsa i maski, p. 135.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e1364a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d43e1371" publication-type="other">
+Ibid., p. 136.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

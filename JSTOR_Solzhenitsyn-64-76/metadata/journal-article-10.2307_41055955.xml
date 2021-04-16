@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">etudslavesteuro</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50001099</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Études Slaves et Est-Européennes / Slavic and East-European Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Slavic and East European Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00142190</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">12</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2/3</issue>
+         <issue-id>i40047055</issue-id>
+         <article-id pub-id-type="jstor">41055955</article-id>
+         <title-group>
+            <article-title>Solzhenitsyn's «Matrena's Home»</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Peter</given-names>
+                  <surname>Rossbacher</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1967</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1967</year>
+         </pub-date>
+         <fpage>114</fpage>
+         <lpage>121</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/41055955"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <ref-list>
+        <title>NOTES</title>
+        <ref id="d484e113a1310">
+            <label>1</label>
+          
+            <mixed-citation id="d484e120" publication-type="other">
+Russian text of Matrerías Home was also published in A. Solzhenitsyn, Izbrannoe,
+Chicago, 1965.</mixed-citation>
+            <mixed-citation id="d484e129" publication-type="other">
+H. T. Willetts came out in Half-way to the Moon,
+New Writing from Russia, Edited by P. Blake and M. Hayward, New York, 1965.</mixed-citation>
+        </ref>
+        <ref id="d484e139a1310">
+            <label>2</label>
+          
+            <mixed-citation id="d484e146" publication-type="other">
+L. Koehler in Alexander
+Solzhenitsyn and Russian Literary Tradition, The Russian Review, No. 2, 1967, pp. 176-184.</mixed-citation>
+            <mixed-citation id="d484e155" publication-type="other">
+R. Gul', A. Solzhenitsyn, sotsrealizm i shkola Remizova, Novyi
+zhurnal, No. 71, 1963, p. 61.</mixed-citation>
+            <mixed-citation id="d484e164" publication-type="other">
+V. Erlich,
+Post-Stalin Trends in Russian Literature, The Slavic Review, No. 3, pp. 409-411,</mixed-citation>
+            <mixed-citation id="d484e174" publication-type="other">
+M. Hay-
+ward, Solzhenitsyn's Place in Contemporary Soviet Literature, ibid., pp. 432-436.</mixed-citation>
+        </ref>
+        <ref id="d484e184a1310">
+            <label>3</label>
+          
+            <mixed-citation id="d484e191" publication-type="other">
+N. Berdiaev, The Origin of Russian Communism, Ann Arbor, 1965, p. 76.</mixed-citation>
+        </ref>
+        <ref id="d484e198a1310">
+            <label>4</label>
+          
+            <mixed-citation id="d484e205" publication-type="other">
+S. Esenin, Sobra-
+nie sochinenii v piati tomakh, Moscow, 1961, 1, p. 119.</mixed-citation>
+        </ref>
+        <ref id="d484e216a1310">
+            <label>6</label>
+          
+            <mixed-citation id="d484e223" publication-type="other">
+V.G. Belinskii, Polnoe sobranie sochinenii, Moscow, 1954, IV, p. 261.</mixed-citation>
+        </ref>
+        <ref id="d484e230a1310">
+            <label>7</label>
+          
+            <mixed-citation id="d484e237" publication-type="other">
+L. Shestov, Chekhov and Other Essays, Ann Arbor, 1966, p. 104.</mixed-citation>
+        </ref>
+        <ref id="d484e244a1310">
+            <label>8</label>
+          
+            <mixed-citation id="d484e251" publication-type="other">
+F. Mauriac, The Living Thoughts of Pascal, New York, 1940, p. 61.</mixed-citation>
+        </ref>
+        <ref id="d484e258a1310">
+            <label>10</label>
+          
+            <mixed-citation id="d484e265" publication-type="other">
+R. Gul', A. Solzhenitsyn, sotsrealizm i shkola Remizova, Novyi Zhurnal, 1963, No. 71,
+p. 61.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

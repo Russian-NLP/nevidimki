@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">procacadpoliscie</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100433</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Proceedings of the Academy of Political Science</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Academy of Political Science</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00650684</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">28</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i249936</issue-id>
+         <article-id pub-id-type="doi">10.2307/1173709</article-id>
+      
+         <title-group>
+            <article-title>The Old and the New in Soviet Literature</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Patricia</given-names>
+                  <surname>Blake</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1965</year>
+         </pub-date>
+         <fpage>44</fpage>
+         <lpage>53</lpage>
+         <page-range>44-53</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1965 The Academy of Political Science</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1173709"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d8e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d8e121" publication-type="journal">
+Pravda Ukrainy, April 10, 1963<issue>April 10</issue>
+                  <source>Pravda Ukrainy</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d8e137a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d8e144" publication-type="journal">
+Molodaya Gvardiya, November 1964<issue>November</issue>
+                  <source>Molodaya Gvardiya</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d8e160a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d8e167" publication-type="journal">
+Zarya Vostoka, February 2, 1964<issue>February 2</issue>
+                  <source>Zarya Vostoka</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d8e183a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d8e190" publication-type="journal">
+Literaturnaya Gruziya, December 1963<issue>December</issue>
+                  <source>Literaturnaya Gruziya</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

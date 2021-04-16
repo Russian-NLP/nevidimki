@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">newblackfriars</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50016089</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>New Blackfriars</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>English Dominicans</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00284289</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17412005</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">55</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">647</issue>
+         <issue-id>i40127694</issue-id>
+         <article-id pub-id-type="jstor">43246110</article-id>
+         <title-group>
+            <article-title>Ivan Denisovich: Towards the Repossession of History</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Francis</given-names>
+                  <surname>Barker</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>156</fpage>
+         <lpage>164</lpage>
+         <self-uri xlink:href="https://www.jstor.org/stable/43246110"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1e101a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d1e108" publication-type="other">
+Opposition Currents in the U.S.S.R. by Ted Harding in International,
+Vol. 2, No. 1.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1e118a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d1e125" publication-type="other">
+Georg Lukács, Solzhenitsyn, London, 1970.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1e132a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d1e139" publication-type="other">
+Penguin Modern Classics edition of One Day in
+the Life of Ivan Denisovich, trans. Ralph Parker, 1963.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1e149a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d1e156" publication-type="other">
+Roland Barthes, Writing Degree Zero, trans. Lavers and Smith,
+London, 1967.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1e167a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d1e174" publication-type="other">
+Solzhenitsyn, Nobel Prize Lecture, trans. Nicholas Bethell, London, 1973, p. 29.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

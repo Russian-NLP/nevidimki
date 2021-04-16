@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">slaveasteurorev2</journal-id>
+         <journal-id journal-id-type="jstor">j101339</journal-id>
+         <journal-title-group>
+            <journal-title>The Slavonic and East European Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00376795</issn>
+         <issn pub-type="epub">22224327</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4206954</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>N. J.</given-names>
+                  <surname>Anning</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">52</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">129</issue>
+         <issue-id>i392025</issue-id>
+         <fpage>613</fpage>
+         <lpage>614</lpage>
+         <page-range>613-614</page-range>
+         <product>
+            <source>Solzhenitsyn</source>
+            <string-name>
+               <given-names>C.</given-names>
+               <surname>Moody</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Solzhenitsyn: A Documentary Record</source>
+            <string-name>
+               <given-names>L.</given-names>
+               <surname>Labedz</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1974 University of London</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4206954"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

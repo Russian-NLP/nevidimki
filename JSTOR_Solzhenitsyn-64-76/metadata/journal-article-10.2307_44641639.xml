@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">navawarcollrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50020059</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Naval War College Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Naval War College</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00281484</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">24757047</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">28</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i40193938</issue-id>
+         <article-id pub-id-type="jstor">44641639</article-id>
+         <title-group>
+            <article-title>A PERSPECTIVE OF THE MILITARY AND THE MEDIA</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Carl J.</given-names>
+                  <surname>Migdail</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>2</fpage>
+         <lpage>9</lpage>
+      
+         <self-uri xlink:href="https://www.jstor.org/stable/44641639"/>
+      
+      
+         <abstract>
+            <p>For the past 4 years the Naval War College has invited numerous representatives of the press and television to meet with the students in plenary sessions and in smaller informal groups. These frank and at times heated discussions have produced a greater awareness among the students of the role of the news media in a free society. As Mr. Migdail describes in some detail, it has also led to a greater understanding of the problems and feelings of the professional military officers.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">canaslavpape</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000944</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Canadian Slavonic Papers / Revue Canadienne des Slavistes</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Canadian Association of Slavists</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00085006</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23752475</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">13</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2/3</issue>
+         <issue-id>i40039037</issue-id>
+         <article-id pub-id-type="jstor">40866351</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>REVIEW ARTICLES</subject>
+            </subj-group>
+         </article-categories>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1971</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1971</year>
+         </pub-date>
+         <fpage>253</fpage>
+         <lpage>260</lpage>
+         <product>
+            <source>Solschenizyn</source>
+            <string-name>
+               <given-names>Georg</given-names>
+               <surname>Lukács</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>A.I. Solzhenitsyn</source>
+            <string-name>
+               <given-names>R.</given-names>
+               <surname>Pletnev</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/40866351"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

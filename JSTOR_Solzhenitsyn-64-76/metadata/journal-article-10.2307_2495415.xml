@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">slavicreview</journal-id>
+         <journal-id journal-id-type="jstor">j100363</journal-id>
+         <journal-title-group>
+            <journal-title>Slavic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association for the Advancement of Slavic Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00376779</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2495415</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review Articles</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Mirror of Soviet Dissent</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Vera S.</given-names>
+                  <surname>Dunham</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">32</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i322525</issue-id>
+         <fpage>595</fpage>
+         <lpage>600</lpage>
+         <page-range>595-600</page-range>
+         <product>
+            <source>Uncensored Russia: Protest and Dissent in the Soviet Union: The Unofficial Moscow Journal a Chronicle of Current Events.</source>
+            <string-name>
+               <given-names>Peter</given-names>
+               <surname>Reddaway</surname>
+            </string-name>
+            <string-name>
+               <given-names>Julius</given-names>
+               <surname>Telesin</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1973 American Association for the Advancement of Slavic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2495415"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

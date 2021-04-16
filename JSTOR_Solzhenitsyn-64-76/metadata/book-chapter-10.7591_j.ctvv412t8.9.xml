@@ -1,0 +1,262 @@
+
+
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.7591/j.ctvv412t8</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Slavic Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Letters to the Future</book-title>
+         <subtitle>An Approach to Sinyavsky-Tertz</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>LOURIE</surname>
+               <given-names>RICHARD</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>06</month>
+         <year>2019</year>
+      </pub-date>
+      <isbn content-type="ppub">9780801408908</isbn>
+      <isbn content-type="epub">9781501744211</isbn>
+      <isbn content-type="epub">1501744216</isbn>
+      <publisher>
+         <publisher-name>Cornell University Press</publisher-name>
+         <publisher-loc>ITHACA; LONDON</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1975</copyright-year>
+         <copyright-holder>Cornell University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/10.7591/j.ctvv412t8"/>
+      <abstract abstract-type="short">
+         <p> &lt;p&gt;To fill the void that resulted from the shattering of his Marxist beliefs, Andrei Sinyavsky invented Abram Tertz. Weaving together biography and keen literary insights, this book traces the metamorphosis of Sinyavsky, teacher and critic, into Tertz, clandestine writer of fantastical fiction. It reviews the crises in Soviet society before and after Stalin's death, and describes the loss of faith that precipitated Sinyavsky 's dual existence, ending with the writer's arrest, trial, and imprisonment in 1966.  &lt;p&gt;Sympathetic yet critical, Mr. Lourie treats all of Sinyavsky's pretrial writings. He discusses<italic>The Trial Begins</italic>, <italic>Thought Unaware</italic>, <italic>On Socialist Realism</italic>, <italic>The Fantastic Stories</italic>, and <italic>The Makepeace Experiment</italic> as works of art and as visible signs of complex and changing relationships. Each work is assessed in the context within which it was written, and is compared with other Russian works and with contemporary Polish, European, and American writings. Sinyavsky's literary criticism, published in Russia under his own name, is evaluated on its own terms and in the light of his fiction.  &lt;p&gt;In addition to all of the published writings, Mr. Lourie makes full use of the record of Sinyavsky's trial, reminiscences of his friends, and the small body of critical literature available. The book provides not only a balanced and eloquent appraisal of the life and art of a modern Russian master, but it offers an extraordinary view into the mind of a Soviet intellectual.  </p>
+      </abstract>
+      <counts>
+         <page-count count="272"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lourie</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Metamorphosis of Sinyavsky-Tertz</title>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>Andrei Sinyavsky and his metamorphosis into Abram Tertz cannot be understood without a sense of the specific culture that nurtured, shaped, and menaced Sinyavsky. Whether or not Russia is a world unto itself or dramatic proof of the breadth of European civilization is an old and intriguing question which will be looked at, through Sin yavsky’s eyes, at the proper time; the problem here, however, is to sketch in the particular milieu of the Soviet intellectual, with its own distinct dimensions of experience and points of reference. Sinyavsky is read in the West not only because he became a celebrated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Trial</title>
+                  </title-group>
+                  <fpage>38</fpage>
+                  <abstract>
+                     <p>The trial of Andrei Sinyavsky and Yuli Daniel, an event at which amorphous historical forces were suddenly arranged into symbolic patterns, is a microcosm of Soviet society at a definite moment in time. In the prelude to the trial and in its actual machinations, as well as in the very principle behind it—that of trying writers for “criminal” ideas—the legacy of the Stalinist past is clear. But new elements are present and old ones absent: the accused did not vanish in the night, they were given the semblance of a trial, and their sentence was not ten to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>On Socialist Realism</title>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>The death of the great tyrant and the reading of the list of his crimes shook the entire communist world. The new era was quickly tagged “the Thaw” (from Ilya Ehren burg’s novel of that title), an image suggesting hope and re birth and, by implication, defining Stalinism in winter’s metaphors of ice and darkness. Both of these seasons of history were to become themes in Sinyavsky’s work. For a time the situation remained relatively fluid and shook with waves of liberated energy. The Poles brought back Go mulka and carefully but boldly started out on a Polish road to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Trial Begins</title>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>The <italic>Trial Begins</italic> was written in the same year as <italic>On Socialist Realism.</italic> Even the most cursory examination of the two works will reveal their common concern and internal similarities. It is possible that Sinyavsky worked on both of them at the same time, but it seems to me more likely that he worked out the main principles of his argument in the essay before trying his hand at fictionalizing his ideas. In any case, it is best to speak of the novel as a continuation of the essay in a different genre, the artistic concerns of the essay having</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Solitaria</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Thought Unaware</italic> belongs to both aphoristic and con fessional literature. It has its place beside Baudelaire’s <italic>My Heart Laid Bare</italic> and Rousseau’s <italic>Confessions</italic>, but it is a very Russian work, richly imbued with the metaphysical spirit of the Silver Age in general and with the personality and style of the Silver Age aphorist Vasily Rozanov in par ticular. The problems of such literature are well known vanity, straight or inverse, is the Heisenberg factor in all examinations of the self, and the following exchange from Sinyavsky’s trial should be interpreted in that light:</p>
+                     <p>
+                        <italic>Judge:</italic> All those “unguarded thoughts” of yours</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Science and Fiction:</title>
+                     <subtitle>Fantastic Stories</subtitle>
+                  </title-group>
+                  <fpage>124</fpage>
+                  <abstract>
+                     <p>Science occupies a place of pride both in the rather undefined cultural mythology of the West and in the Communist religion of history. Without making a prolonged detour into the past, we can simply state that the trinity of logic, science, and technology has been gradually moving toward a position of preeminence in human thinking and affairs since the Renaissance and that, although its disappearance from the scene is hardly to be predicted, it is no longer regarded as an unmitigated blessing. Quite the reverse, science (including logic and technology) has in recent times come under attack in both the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>History versus the People</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>
+                        <italic>The Makepeace Experiment</italic> (<italic>Lyubimov</italic>) was written, according to Sinyavsky’s testimony at his trial, during the years 1961-1962, although it was not published in the West until 1965. Along with <italic>On Socialist Realism</italic> and <italic>The Trial Begins</italic> it was part of the specific literary evidence used by the prosecution against him, and thus Sinyavsky was tried on the basis of his first works and his last. In the fact that the works which define the beginning and the end of his literary career as Abram Tertz are the ones by which he was tried, there is a grotesque poetic justice and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Sinyavsky as a Critic</title>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>The works of fiction and nonfiction that Sinyavsky published under the pen name of Tertz betray common origins, common preoccupations, and a continuous process of cross fertilization. But when the critical works of Sinyavsky published in the Soviet Union are compared with the works of Tertz, a sharp contrast emerges, not so much in the sub stance or concern of the works as in the constricted con tours of the former, reflecting the conditions under which they were written, the taboos they had to confront. The criticism published in the Soviet Union is often cramped into caution by the pressures</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Epilogue:</title>
+                     <subtitle>Sinyavsky for Russia and for the West</subtitle>
+                  </title-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>Andrei Sinyavsky has returned from his years of forced labor, but not to Moscow, his native city, where he is no longer allowed to live. This second stage of his punishment, a constant reminder of the power of the authorities, pre vents him from reestablishing contact with the people, sights, and spirit of the city which figures so directly in many of his works; though he never took his city as his theme, Moscow was present as an ambiance, a backdrop, a flavor in nearly everything he wrote. Russia is generous in providing its writers with subjects, and Sinyavsky returns</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>201</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.14</book-part-id>
+                  <title-group>
+                     <title>Selected Bibliography</title>
+                  </title-group>
+                  <fpage>212</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctvv412t8.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>223</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

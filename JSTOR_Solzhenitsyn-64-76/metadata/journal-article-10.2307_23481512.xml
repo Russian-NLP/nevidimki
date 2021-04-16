@@ -1,0 +1,59 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">businessecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50007992</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Business Economics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>National Association of Business Economists</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0007666X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1554432X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23481512</article-id>
+         <title-group>
+            <article-title>Presidential Address: It's Time to Rethink Basic Economic Policy</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Carl H.</given-names>
+                  <surname>Madden</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23481312</issue-id>
+         <fpage>7</fpage>
+         <lpage>12</lpage>
+         <permissions>
+            <copyright-statement>COPYRIGHT 1976 THE NATIONAL ASSOCIATION OF BUSINESS ECONOMISTS</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23481512"/>
+         <abstract>
+            <p>The adequacy of neo-Keynesian economics to cope with the political-economic situation of the present is severely questioned. The lack of explicit economic policies in significant areas is noted and the detrimental results of this are underscored. The objective of today's high employment policy is closely examined; central planning as a means of achieving this is reviewed and discarded. Finally a direction beyond neo-Keynesian economics is indicated.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

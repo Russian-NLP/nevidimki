@@ -1,0 +1,1922 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">annureviecolsyst</journal-id>
+         <journal-id journal-id-type="jstor">j100441</journal-id>
+         <journal-title-group>
+            <journal-title>Annual Review of Ecology and Systematics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Annual Reviews Inc.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00664162</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2096816</article-id>
+         <title-group>
+            <article-title>On the Principles of Thermodynamics in Ecology</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Vincent F.</given-names>
+                  <surname>Gallucci</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</volume>
+         <issue-id>i336647</issue-id>
+         <fpage>329</fpage>
+         <lpage>357</lpage>
+         <page-range>329-357</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1973 Annual Reviews Inc.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2096816"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Literature Cited</title>
+         <ref id="d92e114a1310">
+            <label>1</label>
+            <mixed-citation id="d92e121" publication-type="journal">
+Agnew, A. D. Q., Flux, J. E. C. 1970.
+Plant dispersal by hares (Lepus capensis
+L.) in Kenya. Ecology51:735-7<object-id pub-id-type="doi">10.2307/1934057</object-id>
+               <fpage>735</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e140a1310">
+            <label>2</label>
+            <mixed-citation id="d92e147" publication-type="journal">
+Allen, L. H., Jensen, S. E., Lemon, E.
+R. 1971. Plant response to carbon diox-
+ide enrichment under field conditions:
+A stimulation. Science173:256-8<object-id pub-id-type="jstor">10.2307/1732690</object-id>
+               <fpage>256</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e170a1310">
+            <label>3</label>
+            <mixed-citation id="d92e177" publication-type="journal">
+Atlan, H. 1968. Application of informa-
+tion theory to the study of the stimulat-
+ing effects of ionizing radiation, thermal
+energy, and other environmental fac-
+tors. J. Theor. Biol.21:45-70<person-group>
+                  <string-name>
+                     <surname>Atlan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>45</fpage>
+               <volume>21</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e218a1310">
+            <label>4</label>
+            <mixed-citation id="d92e225" publication-type="book">
+Barnett, S. A., Mount, L. E. 1967. Re-
+sistance to cold in mammals. In Ther-
+mobiology, ed. A. H. Rose, 411-77.
+New York: Academic. 653 pp.<person-group>
+                  <string-name>
+                     <surname>Barnett</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Resistance to cold in mammals</comment>
+               <fpage>411</fpage>
+               <source>Thermobiology</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e264a1310">
+            <label>5</label>
+            <mixed-citation id="d92e271" publication-type="journal">
+Bartlett, P. N., Gates, D. M. 1967. The
+energy budget of a lizard on a tree
+trunk. Ecology48:315-22<person-group>
+                  <string-name>
+                     <surname>Bartlett</surname>
+                  </string-name>
+               </person-group>
+               <fpage>315</fpage>
+               <volume>48</volume>
+               <source>Ecology</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e306a1310">
+            <label>6</label>
+            <mixed-citation id="d92e313" publication-type="journal">
+Bazzaz, F. A., Boyer, J. S. 1972. A com-
+pensating method for measuring carbon
+dioxide exchange, transpiration, and
+diffuse resistances of plants under con-
+trolled environmental conditions.
+Ecology53:343-9<object-id pub-id-type="doi">10.2307/1934091</object-id>
+               <fpage>343</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e342a1310">
+            <label>7</label>
+            <mixed-citation id="d92e349" publication-type="journal">
+Billings, W. D., Morris, R. J. 1951. Re-
+flection of visible and infrared radiation
+from leaves of different ecological
+groups. Am. J. Bot.38:327-31<person-group>
+                  <string-name>
+                     <surname>Billings</surname>
+                  </string-name>
+               </person-group>
+               <fpage>327</fpage>
+               <volume>38</volume>
+               <source>Am. J. Bot.</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e387a1310">
+            <label>8</label>
+            <mixed-citation id="d92e394" publication-type="journal">
+Brett, J. R. 1971. Energetic responses of
+salmon to temperature. A study of some
+thermal relations in the physiology and
+freshwater ecology of sockeye salmon
+(Oncorhynchus nerka). Am. Zool.11:
+99-113<person-group>
+                  <string-name>
+                     <surname>Brett</surname>
+                  </string-name>
+               </person-group>
+               <fpage>99</fpage>
+               <volume>11</volume>
+               <source>Am. Zool.</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e438a1310">
+            <label>9</label>
+            <mixed-citation id="d92e445" publication-type="book">
+Bridgeman, P. W. 1941. The Nature of
+Thermodynamics. Cambridge, Mass.:
+Harvard Univ. Press. 239 pp.<person-group>
+                  <string-name>
+                     <surname>Bridgeman</surname>
+                  </string-name>
+               </person-group>
+               <source>The Nature of Thermodynamics</source>
+               <year>1941</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e474a1310">
+            <label>10</label>
+            <mixed-citation id="d92e481" publication-type="book">
+BrookhavenSymposium. 1969. Diver-
+sity and Stabilityin Ecological Systems.
+Upton, New York: Brookhaven Symp.
+Biol. Vol. 22<person-group>
+                  <string-name>
+                     <surname>Brookhaven</surname>
+                  </string-name>
+               </person-group>
+               <volume>22</volume>
+               <source>Diversity and Stabilityin Ecological Systems</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e517a1310">
+            <label>11</label>
+            <mixed-citation id="d92e524" publication-type="journal">
+Brock, T. D. 1970. High temperature
+systems. Ann. Rev. Ecol. Syst.1:191-
+220<object-id pub-id-type="jstor">10.2307/2096771</object-id>
+               <fpage>191</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e543a1310">
+            <label>12</label>
+            <mixed-citation id="d92e550" publication-type="journal">
+Brostow, W. 1972. Between laws of
+thermodynamics and coding of infor-
+mation. Science178:123-6<object-id pub-id-type="jstor">10.2307/1734852</object-id>
+               <fpage>123</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e569a1310">
+            <label>13</label>
+            <mixed-citation id="d92e576" publication-type="journal">
+Brown, J. H., Lasiewski, R. C. 1972.
+Metabolism of weasels: The cost of
+being long and thin. Ecology53:
+939-43<object-id pub-id-type="doi">10.2307/1934312</object-id>
+               <fpage>939</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e599a1310">
+            <label>14</label>
+            <mixed-citation id="d92e606" publication-type="journal">
+Caldwell, M. M. 1968. Solar radiation
+as an ecological factor for alpine plants.
+Ecol. Monogr.38:243-68<person-group>
+                  <string-name>
+                     <surname>Caldwell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>243</fpage>
+               <volume>38</volume>
+               <source>Ecol. Monogr.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e641a1310">
+            <label>15</label>
+            <mixed-citation id="d92e648" publication-type="other">
+Charnov, E. 1973. Optimal foraging:
+Some theoretical explorations. PhD
+thesis. Univ. Washington, Seattle</mixed-citation>
+         </ref>
+         <ref id="d92e661a1310">
+            <label>16</label>
+            <mixed-citation id="d92e668" publication-type="journal">
+Ciures, A., Margineanu, D. 1970. Ther-
+modynamics in biology: An intruder? J
+Theor. Biol.28:147-50<person-group>
+                  <string-name>
+                     <surname>Ciures</surname>
+                  </string-name>
+               </person-group>
+               <fpage>147</fpage>
+               <volume>28</volume>
+               <source>J Theor. Biol.</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e704a1310">
+            <label>17</label>
+            <mixed-citation id="d92e711" publication-type="journal">
+Conrad, M. 1972. Stability of foodwebs
+and its relation to species diversity. J
+Theor. Biol.34:325-35<person-group>
+                  <string-name>
+                     <surname>Conrad</surname>
+                  </string-name>
+               </person-group>
+               <fpage>325</fpage>
+               <volume>34</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e746a1310">
+            <label>18</label>
+            <mixed-citation id="d92e753" publication-type="journal">
+Dayton, P. K. 1971. Competition,
+disturbance and community organiza-
+tion: The provision and subsequent
+utilization of space in a rocky inter-
+tidal community. Ecol. Monogr.41:
+351-89<person-group>
+                  <string-name>
+                     <surname>Dayton</surname>
+                  </string-name>
+               </person-group>
+               <fpage>351</fpage>
+               <volume>41</volume>
+               <source>Ecol. Monogr.</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e797a1310">
+            <label>19</label>
+            <mixed-citation id="d92e804" publication-type="book">
+Denbigh, K. G. 1951. The Thermody-
+namics of the Steady State. New York:
+Wiley. 103 pp.<person-group>
+                  <string-name>
+                     <surname>Denbigh</surname>
+                  </string-name>
+               </person-group>
+               <source>The Thermodynamics of the Steady State</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e833a1310">
+            <label>20</label>
+            <mixed-citation id="d92e840" publication-type="journal">
+Dixon, J. R., Emery, A. H. 1965. Se-
+mantics, operationalism, and the
+molecular-statistical model in thermo-
+dynamics. Am. Sci.53:428-35<person-group>
+                  <string-name>
+                     <surname>Dixon</surname>
+                  </string-name>
+               </person-group>
+               <fpage>428</fpage>
+               <volume>53</volume>
+               <source>Am. Sci.</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e878a1310">
+            <label>21</label>
+            <mixed-citation id="d92e885" publication-type="journal">
+Ehrler, W. L., Van Bavel, C. H. 1968.
+Leaf diffusion resistance, illuminance,
+and transpiration. Plant Physiol.43:
+208-14<person-group>
+                  <string-name>
+                     <surname>Ehrler</surname>
+                  </string-name>
+               </person-group>
+               <fpage>208</fpage>
+               <volume>43</volume>
+               <source>Plant Physiol.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e923a1310">
+            <label>22</label>
+            <mixed-citation id="d92e930" publication-type="book">
+Elton, C. S. 1927. Animal Ecology.
+London: Sidgwick and Jackson. 209 pp.<person-group>
+                  <string-name>
+                     <surname>Elton</surname>
+                  </string-name>
+               </person-group>
+               <source>Animal Ecology</source>
+               <year>1927</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e956a1310">
+            <label>23</label>
+            <mixed-citation id="d92e963" publication-type="journal">
+Emlen, J. M. 1966. The role of time and
+energy in food preference. Am. Natur.
+100:611-7<person-group>
+                  <string-name>
+                     <surname>Emlen</surname>
+                  </string-name>
+               </person-group>
+               <fpage>611</fpage>
+               <volume>100</volume>
+               <source>Am. Natur.</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e998a1310">
+            <label>24</label>
+            <mixed-citation id="d92e1005" publication-type="journal">
+Feeny, P. 1970. Season changes in oak
+leaf tannins and nutrients as a cause of
+spring feedings by winter moth caterpil-
+lars. Ecology51:565-80<object-id pub-id-type="doi">10.2307/1934037</object-id>
+               <fpage>565</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1028a1310">
+            <label>25</label>
+            <mixed-citation id="d92e1035" publication-type="journal">
+Fisher, R. A., Corbet, A. S., Williams,
+C. B. 1943. The relation between the
+number of species and the number of
+individuals in a random sample of an
+animal population. J. Anim. Ecol.12:
+42-58<object-id pub-id-type="doi">10.2307/1411</object-id>
+               <fpage>42</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1064a1310">
+            <label>26</label>
+            <mixed-citation id="d92e1071" publication-type="journal">
+Fox, R. F. 1971. Entropy reduction
+in open systems. J. Theor. Biol.31:
+43-6<person-group>
+                  <string-name>
+                     <surname>Fox</surname>
+                  </string-name>
+               </person-group>
+               <fpage>43</fpage>
+               <volume>31</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1106a1310">
+            <label>27</label>
+            <mixed-citation id="d92e1113" publication-type="other">
+Fry, F. E. 1967. Responses of vertebrate
+poikilotherms to temperature.</mixed-citation>
+            <mixed-citation id="d92e1122" publication-type="book">
+See Ref.
+4, 375-409  <fpage>375</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1137a1310">
+            <label>28</label>
+            <mixed-citation id="d92e1144" publication-type="other">
+Gallucci, V. F. A thermodynamic view
+of exploited populations. Unpublished</mixed-citation>
+         </ref>
+         <ref id="d92e1155a1310">
+            <label>29</label>
+            <mixed-citation id="d92e1162" publication-type="book">
+Gates, D. M. 1962. Energy Exchange in
+the Biosphere. New York: Harper and
+Row. 151 pp.<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <source>Energy Exchange in the Biosphere</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1191a1310">
+            <label>30</label>
+            <mixed-citation id="d92e1198" publication-type="journal">
+Gates, D. M. 1964. Leaf temperature
+and transpiration. Agron. J.56:273-7<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <fpage>273</fpage>
+               <volume>56</volume>
+               <source>Agron. J.</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1230a1310">
+            <label>31</label>
+            <mixed-citation id="d92e1237" publication-type="book">
+Gates, D. M. 1967. Energy exchange
+between organism and environment. Bi-
+ometeorology. Proc. Ann. Biol. Colloq.,
+28th, ed. W. P. Lowry, 1-22. Corvallis,
+Oregon: Oregon State Univ. Press. 171
+PP.<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Energy exchange between organism and environment</comment>
+               <fpage>1</fpage>
+               <source>Biometeorology. Proc. Ann. Biol. Colloq., 28th</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1281a1310">
+            <label>32</label>
+            <mixed-citation id="d92e1288" publication-type="book">
+Gates, D. M. 1967. Water balance in
+terrestrial ecosystems. In Transport
+Phenomena in Atmospheric and Eco-
+logical Systems, 21-36. New York:
+ASME. 87 pp.<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Water balance in terrestrial ecosystems</comment>
+               <fpage>21</fpage>
+               <source>Transport Phenomena in Atmospheric and Ecological Systems</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1329a1310">
+            <label>33</label>
+            <mixed-citation id="d92e1336" publication-type="journal">
+Gates, D. M. 1968. Energy exchange
+between organisms and environment.
+Aust. J. Sci.31:67-74<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <fpage>67</fpage>
+               <volume>31</volume>
+               <source>Aust. J. Sci.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1371a1310">
+            <label>34</label>
+            <mixed-citation id="d92e1378" publication-type="journal">
+Gates, D. M. 1968. Toward under-
+standing ecosystems. Advan. Ecol. Res.
+5:1-35<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>5</volume>
+               <source>Advan. Ecol. Res.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1414a1310">
+            <label>35</label>
+            <mixed-citation id="d92e1421" publication-type="journal">
+Gates, D. M. 1968. Transpiration and
+leaf temperature. Ann. Rev. Plant
+Physiol.19:211-38<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <fpage>211</fpage>
+               <volume>19</volume>
+               <source>Ann. Rev. Plant Physiol.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1456a1310">
+            <label>36</label>
+            <mixed-citation id="d92e1463" publication-type="conference">
+Gates, D. M. 1969. Climate and stabil-
+ity. Brookhaven Symp. Biol.22:115-27<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Climate and stability</comment>
+               <fpage>115</fpage>
+               <volume>22</volume>
+               <source>Brookhaven Symp. Biol.</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1498a1310">
+            <label>37</label>
+            <mixed-citation id="d92e1505" publication-type="journal">
+Gates, D. M., Benedict, C. M. 1963.
+Convection phenomena from plants in
+still air. Am. J. Bot.50:563-73<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <fpage>563</fpage>
+               <volume>50</volume>
+               <source>Am. J. Bot.</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1540a1310">
+            <label>38</label>
+            <mixed-citation id="d92e1547" publication-type="journal">
+Gates, D. M., Keegan, H. J., Schleter, J.
+C., Weidner, V. R. 1965. Spectral prop-
+erties of plants. Appl. Opt.4:11-20<person-group>
+                  <string-name>
+                     <surname>Gates</surname>
+                  </string-name>
+               </person-group>
+               <fpage>11</fpage>
+               <volume>4</volume>
+               <source>Appl. Opt.</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1582a1310">
+            <label>39</label>
+            <mixed-citation id="d92e1589" publication-type="journal">
+Gates, D. M., Tantraporn, W. 1952.
+The reflectivity of deciduous trees and
+herbaceous plants in the infrared to 25
+,u. Science115:613-16<object-id pub-id-type="jstor">10.2307/1679323</object-id>
+               <fpage>613</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1612a1310">
+            <label>40</label>
+            <mixed-citation id="d92e1619" publication-type="journal">
+Gatlin, L. L. 1966. The information
+content of DNA. J. Theor. Biol.10:
+281-300<person-group>
+                  <string-name>
+                     <surname>Gatlin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>281</fpage>
+               <volume>10</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1655a1310">
+            <label>41</label>
+            <mixed-citation id="d92e1662" publication-type="book">
+Glansdorff, P., Prigogine, I. 1971. Ther-
+modynamic Theory of Structure, Stabil-
+ity and Fluctuations. New York:
+Wiley-Interscience. 306 pp.<person-group>
+                  <string-name>
+                     <surname>Glansdorff</surname>
+                  </string-name>
+               </person-group>
+               <source>Thermodynamic Theory of Structure, Stability and Fluctuations</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1694a1310">
+            <label>42</label>
+            <mixed-citation id="d92e1701" publication-type="book">
+Goel, N. S., Maitra, S. C., Montroll, E.
+W. 1971. On the Volterra and other
+Nonlinear Models of Interacting Popu-
+lations. New York: Academic. 145 pp.<person-group>
+                  <string-name>
+                     <surname>Goel</surname>
+                  </string-name>
+               </person-group>
+               <source>On the Volterra and other Nonlinear Models of Interacting Populations</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1733a1310">
+            <label>43</label>
+            <mixed-citation id="d92e1740" publication-type="journal">
+Golley, F. B. 1960. Energy dynamics of
+a food chain of an old-field community.
+Ecol. Monogr.30:187-207<person-group>
+                  <string-name>
+                     <surname>Golley</surname>
+                  </string-name>
+               </person-group>
+               <fpage>187</fpage>
+               <volume>30</volume>
+               <source>Ecol. Monogr.</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1775a1310">
+            <label>44</label>
+            <mixed-citation id="d92e1782" publication-type="book">
+Gorski, F. 1966. Plant Growth and En-
+tropy Production. Krakow, Poland:
+Zakland Fizjologii Roslin P. A. N. 102
+pp. (In English)<person-group>
+                  <string-name>
+                     <surname>Gorski</surname>
+                  </string-name>
+               </person-group>
+               <source>Plant Growth and Entropy Production</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1814a1310">
+            <label>45</label>
+            <mixed-citation id="d92e1821" publication-type="book">
+Griffith, J. S. 1965. IInformation theory
+and memory. In Molecular Biophysics,
+ed. B. Pullman, M. Weissbluth, 411-35.
+New York: Academic. 452 pp.<person-group>
+                  <string-name>
+                     <surname>Griffith</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Information theory and memory</comment>
+               <fpage>411</fpage>
+               <source>Molecular Biophysics</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1859a1310">
+            <label>46</label>
+            <mixed-citation id="d92e1866" publication-type="journal">
+Hadley, N. F. 1970. Micrometeorology
+and the energy exchange in two desert
+arthropods. Ecology51:434-44<object-id pub-id-type="doi">10.2307/1935378</object-id>
+               <fpage>434</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1886a1310">
+            <label>47</label>
+            <mixed-citation id="d92e1893" publication-type="book">
+Hazen, W. E. 1970. Readirigs in Popu-
+lation and Community Ecology. Phila-
+delphia: Saunders. 2nd ed. 421 pp.<person-group>
+                  <string-name>
+                     <surname>Hazen</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>Readirigs in Population and Community Ecology</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1925a1310">
+            <label>48</label>
+            <mixed-citation id="d92e1932" publication-type="journal">
+Heinrich, B., Raven, P. H. 1972. Ener-
+getics and pollination ecology. Science
+176:597-602<object-id pub-id-type="jstor">10.2307/1734463</object-id>
+               <fpage>597</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1951a1310">
+            <label>49</label>
+            <mixed-citation id="d92e1958" publication-type="other">
+Hubbell, S. P. 1969. A systems analysis
+of the ecological bioenergetics of a ter-
+restrial isopod. PhD thesis. Univ. Cali-
+fornia, Berkeley. 126 pp.</mixed-citation>
+         </ref>
+         <ref id="d92e1974a1310">
+            <label>50</label>
+            <mixed-citation id="d92e1981" publication-type="journal">
+Hurd, L. E., Mellinger, M. V., Wolf, L.
+L., McNaughton, S. J. 1971. Stability
+and diversity at three trophic levels in
+terrestrial successional ecosystems.
+Science173:1134-6<object-id pub-id-type="jstor">10.2307/1732509</object-id>
+               <fpage>1134</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2007a1310">
+            <label>51</label>
+            <mixed-citation id="d92e2014" publication-type="journal">
+Hurlbert, S. H. 1971. The noncon-
+cept of species diversity: A critique and
+alternative parameters. Ecology52:
+577-85<object-id pub-id-type="doi">10.2307/1934145</object-id>
+               <fpage>577</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2037a1310">
+            <label>52</label>
+            <mixed-citation id="d92e2044" publication-type="conference">
+Hutcheson, K., Shenton, L. R., Bailey,
+R. C. 1972. Diversity: What is it? Pre-
+sented at Advan. Inst. Stat. Ecol., Penn-
+sylvania State University, University
+Park, Pennsylvania<person-group>
+                  <string-name>
+                     <surname>Hutcheson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Diversity: What is it?</comment>
+               <source>Advan. Inst. Stat. Ecol., Pennsylvania State University, University Park, Pennsylvania</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2083a1310">
+            <label>53</label>
+            <mixed-citation id="d92e2090" publication-type="journal">
+Johnson, H. A. 1970. Information the-
+ory in biology after 18 years. Science
+168:1545-50<object-id pub-id-type="jstor">10.2307/1730201</object-id>
+               <fpage>1545</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2109a1310">
+            <label>54</label>
+            <mixed-citation id="d92e2116" publication-type="conference">
+Katz, P. L. 1972. Optimal Control The-
+oryApplied toa Predator with Multiple
+Prey Species. Presented at Hawaii Int.
+Conf. Systems Sci., 6th, Honolulu, Ha-
+waii, 1973<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Optimal Control Theory Applied toa Predator with Multiple Prey Species</comment>
+               <source>Hawaii Int. Conf. Systems Sci., 6th, Honolulu, Hawaii, 1973</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2154a1310">
+            <label>55</label>
+            <mixed-citation id="d92e2161" publication-type="journal">
+Kavanau, J. L., Rischer, C. E. 1972.
+Influences of ambient temperature on
+ground squirrel activity. Ecology53:
+158-64<object-id pub-id-type="doi">10.2307/1935723</object-id>
+               <fpage>158</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2184a1310">
+            <label>56</label>
+            <mixed-citation id="d92e2191" publication-type="journal">
+Kerner, E. H. 1957. A statistical me-
+chanics of interacting biological species.
+Bull. Math. Biophys.19:121-46<person-group>
+                  <string-name>
+                     <surname>Kerner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>121</fpage>
+               <volume>19</volume>
+               <source>Bull. Math. Biophys.</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2226a1310">
+            <label>57</label>
+            <mixed-citation id="d92e2233" publication-type="journal">
+Kerner, E. H. 1959. Further consider-
+ations on the statistical mechanics of
+biological associations. Bull. Math. Bio-
+phys.21:217-55<person-group>
+                  <string-name>
+                     <surname>Kerner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>217</fpage>
+               <volume>21</volume>
+               <source>Bull. Math. Biophys.</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2271a1310">
+            <label>58</label>
+            <mixed-citation id="d92e2278" publication-type="journal">
+Kerner, E. H. 1961. On the Volterra-
+Lotka principle. Bull. Math. Biophys.
+23:141-57<person-group>
+                  <string-name>
+                     <surname>Kerner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>141</fpage>
+               <volume>23</volume>
+               <source>Bull. Math. Biophys.</source>
+               <year>1961</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2314a1310">
+            <label>59</label>
+            <mixed-citation id="d92e2321" publication-type="journal">
+Kerner, E. H. 1964. Dynamical aspects
+of kinetics. Bull. Math. Biophys.26:
+333-49<person-group>
+                  <string-name>
+                     <surname>Kerner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>333</fpage>
+               <volume>26</volume>
+               <source>Bull. Math. Biophys.</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2356a1310">
+            <label>60</label>
+            <mixed-citation id="d92e2363" publication-type="book">
+Kerner, E. H. 1972. Gibbs Ensemble:
+Biological Ensemble. The Application
+of Statistical Mechanics to Ecologi-
+cal, Neural and Biological Networks.
+New York: Gordon and Breach. 167
+PP.<person-group>
+                  <string-name>
+                     <surname>Kerner</surname>
+                  </string-name>
+               </person-group>
+               <source>Gibbs Ensemble: Biological Ensemble. The Application of Statistical Mechanics to Ecological, Neural and Biological Networks</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2401a1310">
+            <label>61</label>
+            <mixed-citation id="d92e2408" publication-type="book">
+Khinchin, A. I. 1957. Mathematical
+Foundations of Information Theory.
+Transl. R. Silverman, M. Friedman.
+New York: Dover. 120 pp.<person-group>
+                  <string-name>
+                     <surname>Khinchin</surname>
+                  </string-name>
+               </person-group>
+               <source>Mathematical Foundations of Information Theory</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2440a1310">
+            <label>62</label>
+            <mixed-citation id="d92e2447" publication-type="book">
+Kleiber, M. 1961. The Fire of Life: An
+Introduction to Animal Energetics.
+New York: Wiley. 454 pp.<person-group>
+                  <string-name>
+                     <surname>Kleiber</surname>
+                  </string-name>
+               </person-group>
+               <source>The Fire of Life: An Introduction to Animal Energetics</source>
+               <year>1961</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2476a1310">
+            <label>63</label>
+            <mixed-citation id="d92e2483" publication-type="book">
+Kullback, S. 1968. Information Theory
+and Statistics. New York: Dover. 399
+PP.<person-group>
+                  <string-name>
+                     <surname>Kullback</surname>
+                  </string-name>
+               </person-group>
+               <source>Information Theory and Statistics</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2512a1310">
+            <label>64</label>
+            <mixed-citation id="d92e2519" publication-type="book">
+Lee, D. H. 1967. Principles of homeo-
+thermic adaptation. Biometeorology.
+Proc. Ann. Biol. Colloq., 28th, ed. W.
+P. Lowry, 113-30. Corvallis, Oregon:
+Oregon State Univ. Press. 171 pp.<person-group>
+                  <string-name>
+                     <surname>Lee</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Principles of homeothermic adaptation</comment>
+               <fpage>113</fpage>
+               <source>Biometeorology. Proc. Ann. Biol. Colloq., 28th</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2561a1310">
+            <label>65</label>
+            <mixed-citation id="d92e2568" publication-type="journal">
+Lee, R., Gates, D. M. 1964. Diffusion
+resistance in leaves as related to their
+stomatal anatomy and micro-structure.
+Am. J. Bot.51:963-75<person-group>
+                  <string-name>
+                     <surname>Lee</surname>
+                  </string-name>
+               </person-group>
+               <fpage>963</fpage>
+               <volume>51</volume>
+               <source>Am. J. Bot.</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2606a1310">
+            <label>66</label>
+            <mixed-citation id="d92e2613" publication-type="book">
+Lehninger, A. L. 1971. Bioenergetics.
+Menlo Park, California: Benjamin. 2nd
+ed. 245 pp.<person-group>
+                  <string-name>
+                     <surname>Lehninger</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>Bioenergetics</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2645a1310">
+            <label>67</label>
+            <mixed-citation id="d92e2652" publication-type="journal">
+Leigh, E. G. 1965. On the relation be-
+tween the productivity, biomass, diver-
+sity of a community. Proc. Nat. Acad.
+Sci. USA53:777-83<object-id pub-id-type="jstor">10.2307/72354</object-id>
+               <fpage>777</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2675a1310">
+            <label>68</label>
+            <mixed-citation id="d92e2682" publication-type="book">
+Leigh, E. G. 1968. The ecological role of
+Volterra's equations. In Some Mathe-
+matical Problems in Biology, ed. Am.
+Math. Soc., 1-61. Providence, Rhode
+Island: Am. Math. Soc. 117 pp.<person-group>
+                  <string-name>
+                     <surname>Leigh</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The ecological role of Volterra's equations</comment>
+               <fpage>1</fpage>
+               <source>Some Mathematical Problems in Biology</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2723a1310">
+            <label>69</label>
+            <mixed-citation id="d92e2730" publication-type="book">
+Leigh, E. G. 1971. Adaptation and
+Diversity. San Francisco: Freeman. 288
+PP.<person-group>
+                  <string-name>
+                     <surname>Leigh</surname>
+                  </string-name>
+               </person-group>
+               <source>Adaptation and Diversity</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2759a1310">
+            <label>70</label>
+            <mixed-citation id="d92e2766" publication-type="journal">
+Lemon, E., Stewart, D. W., Shawcroft,
+R. W. 1971. The sun's work in a corn-
+field. Science174:371-8<object-id pub-id-type="jstor">10.2307/1731750</object-id>
+               <fpage>371</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2786a1310">
+            <label>71</label>
+            <mixed-citation id="d92e2793" publication-type="journal">
+Lindeman, R. L. 1942. The trophic-
+dynamic aspect of ecology. Ecology
+23:399-418<object-id pub-id-type="doi">10.2307/1930126</object-id>
+               <fpage>399</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2812a1310">
+            <label>72</label>
+            <mixed-citation id="d92e2819" publication-type="book">
+Lotka, A. J. 1956. Elements of Mathe-
+matical Biology. New York: Dover. 465
+PP.<person-group>
+                  <string-name>
+                     <surname>Lotka</surname>
+                  </string-name>
+               </person-group>
+               <source>Elements of Mathematical Biology</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2848a1310">
+            <label>73</label>
+            <mixed-citation id="d92e2855" publication-type="journal">
+MacArthur, R. 1955. Fluctuations of
+animal populations and a measure of
+community stability. Ecology36:533-6<object-id pub-id-type="doi">10.2307/1929601</object-id>
+               <fpage>533</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2874a1310">
+            <label>74</label>
+            <mixed-citation id="d92e2881" publication-type="book">
+MacArthur, R. H., Connell, J. H. 1966.
+The Biology of Populations. New York:
+Wiley. 200 pp.<person-group>
+                  <string-name>
+                     <surname>MacArthur</surname>
+                  </string-name>
+               </person-group>
+               <source>The Biology of Populations</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2910a1310">
+            <label>75</label>
+            <mixed-citation id="d92e2917" publication-type="journal">
+MacArthur, R. H., Pianka, E. R. 1966.
+On optimal use of a patchy environ-
+ment. Am. Natur.100:603-9<person-group>
+                  <string-name>
+                     <surname>MacArthur</surname>
+                  </string-name>
+               </person-group>
+               <fpage>603</fpage>
+               <volume>100</volume>
+               <source>Am. Natur.</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2952a1310">
+            <label>76</label>
+            <mixed-citation id="d92e2959" publication-type="journal">
+Margalef, D. R. 1958. Information the-
+ory in ecology. General Systems3:
+36-71<person-group>
+                  <string-name>
+                     <surname>Margalef</surname>
+                  </string-name>
+               </person-group>
+               <fpage>36</fpage>
+               <volume>3</volume>
+               <source>General Systems</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2995a1310">
+            <label>77</label>
+            <mixed-citation id="d92e3002" publication-type="journal">
+Margalef, R. 1963. Succession in ma-
+rine populations. Advan. Front. Plant
+Sci.2:137-88<person-group>
+                  <string-name>
+                     <surname>Margalef</surname>
+                  </string-name>
+               </person-group>
+               <fpage>137</fpage>
+               <volume>2</volume>
+               <source>Advan. Front. Plant Sci.</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3037a1310">
+            <label>78</label>
+            <mixed-citation id="d92e3044" publication-type="journal">
+McClare, C. W. F. 1971. Chemical ma-
+chines, Maxwell's demon and living or-
+ganisms. J. Theor. Biol.30:1-34<person-group>
+                  <string-name>
+                     <surname>McClare</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>30</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3079a1310">
+            <label>79</label>
+            <mixed-citation id="d92e3086" publication-type="journal">
+Moen, A. N. 1968. The critical thermal
+environment: A new look at an old con-
+cept. BioScience18:1041-3<object-id pub-id-type="doi">10.2307/1294554</object-id>
+               <fpage>1041</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3105a1310">
+            <label>80</label>
+            <mixed-citation id="d92e3112" publication-type="journal">
+Morowitz, H. J. 1955. Some order-dis-
+order considerations in living systems.
+Bull. Math. Biophys.17:81-6<person-group>
+                  <string-name>
+                     <surname>Morowitz</surname>
+                  </string-name>
+               </person-group>
+               <fpage>81</fpage>
+               <volume>17</volume>
+               <source>Bull. Math. Biophys.</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3147a1310">
+            <label>81</label>
+            <mixed-citation id="d92e3156" publication-type="book">
+Morowitz, H. J. 1968. Energy Flow in
+Biology: Biological Organization as a
+Problem in Thermal Physics. New
+York: Academic. 179 pp.<person-group>
+                  <string-name>
+                     <surname>Morowitz</surname>
+                  </string-name>
+               </person-group>
+               <source>Energy Flow in Biology: Biological Organization as a Problem in Thermal Physics</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3188a1310">
+            <label>82</label>
+            <mixed-citation id="d92e3195" publication-type="book">
+Morowitz, H. J. 1970. Entropy for Biol-
+ogists: An Introduction to Thermo-
+dynamics. New York: Academic. 195
+PP.<person-group>
+                  <string-name>
+                     <surname>Morowitz</surname>
+                  </string-name>
+               </person-group>
+               <source>Entropy for Biologists: An Introduction to Thermodynamics</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3228a1310">
+            <label>83</label>
+            <mixed-citation id="d92e3235" publication-type="journal">
+Moss, R. A., Loomis, W. 1952. Absorp-
+tion spectra of leaves, I. The visible
+spectrum. Plant Physiol.27:370-91<person-group>
+                  <string-name>
+                     <surname>Moss</surname>
+                  </string-name>
+               </person-group>
+               <fpage>370</fpage>
+               <volume>27</volume>
+               <source>Plant Physiol.</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3270a1310">
+            <label>84</label>
+            <mixed-citation id="d92e3277" publication-type="journal">
+Odum, E. P. 1962. Relationships be-
+tween structure and function in the eco-
+system. Jap. J. Ecol.12:108-18<person-group>
+                  <string-name>
+                     <surname>Odum</surname>
+                  </string-name>
+               </person-group>
+               <fpage>108</fpage>
+               <volume>12</volume>
+               <source>Jap. J. Ecol.</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3312a1310">
+            <label>85</label>
+            <mixed-citation id="d92e3319" publication-type="journal">
+Odum, E. P. 1969. The strategy of eco-
+system development. Science164:
+262-70<object-id pub-id-type="jstor">10.2307/1726720</object-id>
+               <fpage>262</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3338a1310">
+            <label>86</label>
+            <mixed-citation id="d92e3345" publication-type="book">
+Odum, E. P. 1971. Fundamentals of
+Ecology. Philadelphia: Saunders. 3rd
+ed. 574 pp.<person-group>
+                  <string-name>
+                     <surname>Odum</surname>
+                  </string-name>
+               </person-group>
+               <edition>3</edition>
+               <source>Fundamentals of Ecology</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3377a1310">
+            <label>87</label>
+            <mixed-citation id="d92e3384" publication-type="journal">
+Odum, H. T., Cantlon, J. E., Kornicker,
+L. S. 1960. An organizational hierarchy
+postulate for the interpretation of spe-
+cies-individual distributions, species en-
+tropy, ecosystem evolution, and the
+meaning of a species-variety index.
+Ecology41:395-9<object-id pub-id-type="doi">10.2307/1930248</object-id>
+               <fpage>395</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3416a1310">
+            <label>88</label>
+            <mixed-citation id="d92e3423" publication-type="journal">
+Odum, H. T., Pinkerton, R. C. 1955.
+Time's speed regulator: The optimum
+efficiency for maximum power output in
+physical and biological systems. Am.
+Sci.43:331-43<person-group>
+                  <string-name>
+                     <surname>Odum</surname>
+                  </string-name>
+               </person-group>
+               <fpage>331</fpage>
+               <volume>43</volume>
+               <source>Am. Sci.</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3465a1310">
+            <label>89</label>
+            <mixed-citation id="d92e3472" publication-type="journal">
+Orians, G. H., Horn, H. S. 1969. Over-
+lap in foods and foraging of four species
+of black birds in the potholes of central
+Washington. Ecology50:930-8<object-id pub-id-type="doi">10.2307/1933716</object-id>
+               <fpage>930</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3495a1310">
+            <label>90</label>
+            <mixed-citation id="d92e3502" publication-type="journal">
+Paine, R. T. 1966. Food web complexity
+and species diversity. Am. Natur.100:
+65-75<person-group>
+                  <string-name>
+                     <surname>Paine</surname>
+                  </string-name>
+               </person-group>
+               <fpage>65</fpage>
+               <volume>100</volume>
+               <source>Am. Natur.</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3537a1310">
+            <label>91</label>
+            <mixed-citation id="d92e3544" publication-type="journal">
+Paine, R. T. 1971. The measurement
+and application of the calorie to ecologi-
+cal problems. Ann. Rev. Ecol. Syst.2:
+145-64<object-id pub-id-type="jstor">10.2307/2096925</object-id>
+               <fpage>145</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3567a1310">
+            <label>92</label>
+            <mixed-citation id="d92e3574" publication-type="journal">
+Parkhurst, D. F., Duncan, P. R., Gates,
+D. M., Kreith, F. 1968. Windtunnel
+modelling of convection of heat between
+air and broad leaves of plants. Agr.
+Meteorol.5:33-47<person-group>
+                  <string-name>
+                     <surname>Parkhurst</surname>
+                  </string-name>
+               </person-group>
+               <fpage>33</fpage>
+               <volume>5</volume>
+               <source>Agr. Meteorol.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3615a1310">
+            <label>93</label>
+            <mixed-citation id="d92e3622" publication-type="journal">
+Parks, J. R. 1971. Effect of ambient
+temperature on the thermochemical
+efficiency of growth. Am. J Physiol.
+220:578-82<person-group>
+                  <string-name>
+                     <surname>Parks</surname>
+                  </string-name>
+               </person-group>
+               <fpage>578</fpage>
+               <volume>220</volume>
+               <source>Am. J Physiol.</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3660a1310">
+            <label>94</label>
+            <mixed-citation id="d92e3667" publication-type="journal">
+Patten, B. C. 1959. An introduction to
+the cybernetics of the ecosystem: The
+trophic-dynamic aspect. Ecology40:
+221-31<object-id pub-id-type="doi">10.2307/1930032</object-id>
+               <fpage>221</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3691a1310">
+            <label>95</label>
+            <mixed-citation id="d92e3698" publication-type="journal">
+Patten, B. C. 1961. Negentropy flow in
+communities of plankton. Limnol.
+Oceanogr.6:26-30<person-group>
+                  <string-name>
+                     <surname>Patten</surname>
+                  </string-name>
+               </person-group>
+               <fpage>26</fpage>
+               <volume>6</volume>
+               <source>Limnol. Oceanogr.</source>
+               <year>1961</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3733a1310">
+            <label>96</label>
+            <mixed-citation id="d92e3740" publication-type="book">
+Phillipson, J. 1966. Ecological Energet-
+ics. London: Arnold. 57 pp.<person-group>
+                  <string-name>
+                     <surname>Phillipson</surname>
+                  </string-name>
+               </person-group>
+               <source>Ecological Energetics</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3765a1310">
+            <label>97</label>
+            <mixed-citation id="d92e3772" publication-type="book">
+Pielou, E. C. 1969. An Introduction to
+Mathematical Ecology. New York: Wi-
+ley-Interscience. 286 pp.<person-group>
+                  <string-name>
+                     <surname>Pielou</surname>
+                  </string-name>
+               </person-group>
+               <source>An Introduction to Mathematical Ecology</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3801a1310">
+            <label>98</label>
+            <mixed-citation id="d92e3808" publication-type="journal">
+Porter, W. P. 1967. Solar radiation
+through the living body wall of verte-
+brates with emphasis on desert reptiles.
+Ecol. Monogr.37:273-96<person-group>
+                  <string-name>
+                     <surname>Porter</surname>
+                  </string-name>
+               </person-group>
+               <fpage>273</fpage>
+               <volume>37</volume>
+               <source>Ecol. Monogr.</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3846a1310">
+            <label>99</label>
+            <mixed-citation id="d92e3853" publication-type="journal">
+Porter, W. P., Gates, D. M. 1969. Ther-
+modynamic equilibria of animals with
+environment. Ecol. Monogr.39:245-70<person-group>
+                  <string-name>
+                     <surname>Porter</surname>
+                  </string-name>
+               </person-group>
+               <fpage>245</fpage>
+               <volume>39</volume>
+               <source>Ecol. Monogr.</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3888a1310">
+            <label>100</label>
+            <mixed-citation id="d92e3895" publication-type="book">
+Prigogine, I. 1967. Introduction to
+Thermodynamics of Irreversible Pro-
+cesses. New York: Wiley-Interscience.
+3rd ed. 147 pp.<person-group>
+                  <string-name>
+                     <surname>Prigogine</surname>
+                  </string-name>
+               </person-group>
+               <edition>3</edition>
+               <source>Introduction to Thermodynamics of Irreversible Processes</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3931a1310">
+            <label>101</label>
+            <mixed-citation id="d92e3938" publication-type="journal">
+Prigogine, I., Nicolis, G., Babloyantz,
+A. 1972. Thermodynamics of evolution.
+Phys. Today25(11):23-8<person-group>
+                  <string-name>
+                     <surname>Prigogine</surname>
+                  </string-name>
+               </person-group>
+               <issue>11</issue>
+               <fpage>23</fpage>
+               <volume>25</volume>
+               <source>Today</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e3976a1310">
+            <label>102</label>
+            <mixed-citation id="d92e3983" publication-type="book">
+Quastler, H. 1953. Essays on the Use of
+Information Theory in Biology. Ur-
+bana, Illinois: Univ. Illinois Press. 273
+PP.<person-group>
+                  <string-name>
+                     <surname>Quastler</surname>
+                  </string-name>
+               </person-group>
+               <source>Essays on the Use of Information Theory in Biology</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4015a1310">
+            <label>103</label>
+            <mixed-citation id="d92e4022" publication-type="other">
+Rose, A. H., Ed. 1967.</mixed-citation>
+            <mixed-citation id="d92e4028" publication-type="book">
+See Ref. 4  </mixed-citation>
+         </ref>
+         <ref id="d92e4037a1310">
+            <label>104</label>
+            <mixed-citation id="d92e4044" publication-type="book">
+Rosen, R. 1970. Dynamical System
+Theory in Biology. New York: Wiley-
+Interscience. 302 pp.<person-group>
+                  <string-name>
+                     <surname>Rosen</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamical System Theory in Biology</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4073a1310">
+            <label>105</label>
+            <mixed-citation id="d92e4080" publication-type="journal">
+Rufelt, H., Jarvis, P. G., Jarvis, M. S.
+1963. Some effects of temperature on
+transpiration. Physiol. Plant.16:
+177-85<person-group>
+                  <string-name>
+                     <surname>Rufelt</surname>
+                  </string-name>
+               </person-group>
+               <fpage>177</fpage>
+               <volume>16</volume>
+               <source>Physiol. Plant.</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4118a1310">
+            <label>106</label>
+            <mixed-citation id="d92e4125" publication-type="journal">
+Ryther, J. H. 1959. Potential productiv-
+ity of the sea. Science130:602-8<object-id pub-id-type="jstor">10.2307/1756881</object-id>
+               <fpage>602</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4142a1310">
+            <label>107</label>
+            <mixed-citation id="d92e4149" publication-type="journal">
+Schmidt-Nielsen, K. 1972. Locomo-
+tion: Energy cost of swimming, flying,
+and running. Science177:222-8<object-id pub-id-type="jstor">10.2307/1734532</object-id>
+               <fpage>222</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4168a1310">
+            <label>108</label>
+            <mixed-citation id="d92e4175" publication-type="journal">
+Schoener, T. W. 1971. Theory of feed-
+ing strategies. Ann. Rev. Ecol. Syst.2:
+369-404<object-id pub-id-type="jstor">10.2307/2096934</object-id>
+               <fpage>369</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4194a1310">
+            <label>109</label>
+            <mixed-citation id="d92e4201" publication-type="book">
+Schrödinger, E. 1969. What is Life? and
+Mind and Matter. London: Cambridge
+Univ. Press. 178 pp.<person-group>
+                  <string-name>
+                     <surname>Schrödinger</surname>
+                  </string-name>
+               </person-group>
+               <source>What is Life? and Mind and Matter</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4230a1310">
+            <label>110</label>
+            <mixed-citation id="d92e4237" publication-type="book">
+Shannon, C. E., Weaver, W. 1964. The
+Mathematical Theory of Communica-
+tion. Urbana, Illinois: Univ. Illinois
+Press. 125 pp.<person-group>
+                  <string-name>
+                     <surname>Shannon</surname>
+                  </string-name>
+               </person-group>
+               <source>The Mathematical Theory of Communication</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4269a1310">
+            <label>111</label>
+            <mixed-citation id="d92e4276" publication-type="book">
+Slatyer, R. 0. 1967. Plant-Water Rela-
+tionships. New York: Academic. 366
+PP.<person-group>
+                  <string-name>
+                     <surname>Slatyer</surname>
+                  </string-name>
+               </person-group>
+               <source>Plant-Water Relationships</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4305a1310">
+            <label>112</label>
+            <mixed-citation id="d92e4312" publication-type="journal">
+Slobodkin, L. B. 1960. Ecological en-
+ergy relationships at the population
+level. Am. Natur.94:213-36<person-group>
+                  <string-name>
+                     <surname>Slobodkin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>213</fpage>
+               <volume>94</volume>
+               <source>Am. Natur.</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4348a1310">
+            <label>113</label>
+            <mixed-citation id="d92e4355" publication-type="journal">
+Slobodkin, L. B. 1962. Energy in animal
+ecology. Advan. Ecol. Res.1:69-101<person-group>
+                  <string-name>
+                     <surname>Slobodkin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>69</fpage>
+               <volume>1</volume>
+               <source>Advan. Ecol. Res.</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4387a1310">
+            <label>114</label>
+            <mixed-citation id="d92e4394" publication-type="book">
+Smith, J. M. 1968. Mathematical Ideas
+in Biology. London: Cambridge Univ.
+Press. 152 pp.<person-group>
+                  <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+               </person-group>
+               <source>Mathematical Ideas in Biology</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4423a1310">
+            <label>115</label>
+            <mixed-citation id="d92e4430" publication-type="book">
+Solzhenitsyn, A. I. 1968. The First Cir-
+cle, 399. Transl. T. P. Whitney. New
+York: Bantam. 674 pp.<person-group>
+                  <string-name>
+                     <surname>Solzhenitsyn</surname>
+                  </string-name>
+               </person-group>
+               <source>The First Circle</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4459a1310">
+            <label>116</label>
+            <mixed-citation id="d92e4466" publication-type="journal">
+Stonehouse, B. 1967. The general biol-
+ogy and thermal balances of penguins.
+Advan. Ecol. Res.4:131-97<person-group>
+                  <string-name>
+                     <surname>Stonehouse</surname>
+                  </string-name>
+               </person-group>
+               <fpage>131</fpage>
+               <volume>4</volume>
+               <source>Advan. Ecol. Res.</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4501a1310">
+            <label>117</label>
+            <mixed-citation id="d92e4508" publication-type="book">
+Stroganov, N. S. 1962. Physiological
+Adaptability of Fish to the Tempera-
+ture of the Surrounding Medium.
+Transl. M. Roublev. Jerusalem: For
+National Science Foundation by Israel
+Program for Scientific Translations. 108
+PP.<person-group>
+                  <string-name>
+                     <surname>Stroganov</surname>
+                  </string-name>
+               </person-group>
+               <source>Physiological Adaptability of Fish to the Temperature of the Surrounding Medium</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4549a1310">
+            <label>118</label>
+            <mixed-citation id="d92e4556" publication-type="journal">
+Tibbals, E. C., Carr, E. K., Gates, D.
+M., Kreith, F. 1964. Radiation and con-
+vection in conifers. Am. J Bot.51:
+529-38<person-group>
+                  <string-name>
+                     <surname>Tibbals</surname>
+                  </string-name>
+               </person-group>
+               <fpage>529</fpage>
+               <volume>51</volume>
+               <source>Am. J. Bot.</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4595a1310">
+            <label>119</label>
+            <mixed-citation id="d92e4602" publication-type="journal">
+Ulanowicz, R. E. 1972. Mass and en-
+ergy flow in closed ecosystems. J.
+Theor. Biol.34:239-53<person-group>
+                  <string-name>
+                     <surname>Ulanowicz</surname>
+                  </string-name>
+               </person-group>
+               <fpage>239</fpage>
+               <volume>34</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4637a1310">
+            <label>120</label>
+            <mixed-citation id="d92e4644" publication-type="journal">
+Van Bavel, C. H., Nakayama, F. S.,
+Ehrler, W. L. 1965. Measuring transpi-
+ration resistance of leaves: Plant
+Physiol.40:535-40<person-group>
+                  <string-name>
+                     <surname>Van Bavel</surname>
+                  </string-name>
+               </person-group>
+               <fpage>535</fpage>
+               <volume>40</volume>
+               <source>Plant Physiol.</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4682a1310">
+            <label>121</label>
+            <mixed-citation id="d92e4689" publication-type="journal">
+Verduin, J. 1972. Caloric content and
+available energy in plant matter.
+Ecology53:982<object-id pub-id-type="doi">10.2307/1934322</object-id>
+               <fpage>982</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4708a1310">
+            <label>122</label>
+            <mixed-citation id="d92e4715" publication-type="journal">
+Verhoff, F. H., Smith, F. E. 1971. Theo-
+retical analysis of a conserved nutrient
+ecosystem. J. Theor. Biol.33:131-47<person-group>
+                  <string-name>
+                     <surname>Verhoff</surname>
+                  </string-name>
+               </person-group>
+               <fpage>131</fpage>
+               <volume>33</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4750a1310">
+            <label>123</label>
+            <mixed-citation id="d92e4757" publication-type="book">
+Volterra, V. 1931. Lecons sur la theorie
+mathematique de lutte pour la vie.
+Paris: Gauthier-Villars. 214 pp.<person-group>
+                  <string-name>
+                     <surname>Volterra</surname>
+                  </string-name>
+               </person-group>
+               <source>Lecons sur la theorie mathematique de lutte pour la vie</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4786a1310">
+            <label>124</label>
+            <mixed-citation id="d92e4793" publication-type="book">
+Waddington, C. H., Ed. 1969. Towards
+a Theoretical Biology. Int. Union
+Bio. Sci. Symp. Chicago: Aldine. 351
+PP.<person-group>
+                  <string-name>
+                     <surname>Waddington</surname>
+                  </string-name>
+               </person-group>
+               <source>Towards a Theoretical Biology</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4826a1310">
+            <label>125</label>
+            <mixed-citation id="d92e4833" publication-type="journal">
+White, F. N., Lasiewski, R. C. 1971.
+Rattlesnake denning: Theoretical con-
+siderations on winter temperatures. J.
+Theor. Biol.30:553-7<person-group>
+                  <string-name>
+                     <surname>White</surname>
+                  </string-name>
+               </person-group>
+               <fpage>553</fpage>
+               <volume>30</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4871a1310">
+            <label>126</label>
+            <mixed-citation id="d92e4878" publication-type="book">
+Winberg, G. G., Ed. 1971. Methods for
+the Estimation of Production of
+Aquatic Animals. Transl. A. Duncan.
+New York: Academic. 175 pp.<person-group>
+                  <string-name>
+                     <surname>Winberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Methods for the Estimation of Production of Aquatic Animals</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4910a1310">
+            <label>127</label>
+            <mixed-citation id="d92e4917" publication-type="journal">
+Wolf, L. L., Hainsworth, F. R., Stiles,
+F. G. 1972. Energetics of foraging: Rate
+and efficiency of nectar extraction by
+hummingbirds. Science176:1351-2<object-id pub-id-type="jstor">10.2307/1734636</object-id>
+               <fpage>1351</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4940a1310">
+            <label>128</label>
+            <mixed-citation id="d92e4947" publication-type="book">
+Zemansky, M. W. 1943. Heat and Ther-
+modynamics. New York: McGraw.
+2nd ed. 390 pp.<person-group>
+                  <string-name>
+                     <surname>Zemansky</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>Heat and Thermodynamics</source>
+               <year>1943</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e4979a1310">
+            <label>129</label>
+            <mixed-citation id="d92e4986" publication-type="journal">
+Zimmerman, J. L. 1965. Bioenergetics
+of the Dickcissel, Spiza americana.
+Physiol. Zool.38:370-89<person-group>
+                  <string-name>
+                     <surname>Zimmerman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>370</fpage>
+               <volume>38</volume>
+               <source>Physiol. Zool.</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e5021a1310">
+            <label>130</label>
+            <mixed-citation id="d92e5028" publication-type="journal">
+Zotin, A. I., Zotina, R. S. 1967. Ther-
+modynamic aspects of developmental
+biology. J. Theor. Biol.17:57-75<person-group>
+                  <string-name>
+                     <surname>Zotin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>57</fpage>
+               <volume>17</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e5064a1310">
+            <label>131</label>
+            <mixed-citation id="d92e5071" publication-type="journal">
+Zotina, R. S., Zotin, A. I. 1972. To-
+wards a phenomenological theory of
+growth. J. Theor. Biol.35:213-25<person-group>
+                  <string-name>
+                     <surname>Zotina</surname>
+                  </string-name>
+               </person-group>
+               <fpage>213</fpage>
+               <volume>35</volume>
+               <source>J. Theor. Biol.</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e5106a1310">
+            <label>132</label>
+            <mixed-citation id="d92e5113" publication-type="journal">
+Scott, D. 1965. The determination and
+use of thermodynamic data in ecology.
+Ecology46:673-80<object-id pub-id-type="doi">10.2307/1935006</object-id>
+               <fpage>673</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">sovietstudies</journal-id>
+         <journal-id journal-id-type="jstor">j100376</journal-id>
+         <journal-title-group>
+            <journal-title>Soviet Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>University of Glasgow</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00385859</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i208268</issue-id>
+         <article-id pub-id-type="jstor">150480</article-id>
+         
+         <title-group>
+            <article-title>The Fate of Modern Man</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Diana Lewis</given-names>
+                  <surname>Burgin</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>260</fpage>
+         <lpage>271</lpage>
+         <page-range>260-271</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 University of Glasgow Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/150480"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d57e114a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d57e121" publication-type="book">
+Robert Jay Lifton, Death in Life: The Survivors of Hiroshima (London and New
+York, 1968).<person-group>
+                     <string-name>
+                        <surname>Lifton</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Death in Life: The Survivors of Hiroshima</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e146a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d57e153" publication-type="book">
+Alexandr Solzhenitsyn, Cancer Ward (Bantam Books, 1969; translated by Nicolas
+Bethell and David Burg), p. 10.<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <source>Cancer Ward</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e182a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d57e189" publication-type="book">
+Gleb Nerzhin, the hero of The First
+Circle (Bantam Books, 1968; translated by Thomas Whitney), p. 36.<person-group>
+                     <string-name>
+                        <surname>Nerzhin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>36</fpage>
+                  <source>The First Circle</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e218a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d57e225" publication-type="book">
+D. Burg and G. Feifer, Solzhenitsyn (New York, 1973), p. 350.<person-group>
+                     <string-name>
+                        <surname>Burg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>350</fpage>
+                  <source>Solzhenitsyn</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e251a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d57e258" publication-type="book">
+A. Alvarez, The Savage God: A
+Study of Suicide (Bantam Books, 1973), p. 252.<person-group>
+                     <string-name>
+                        <surname>Alvarez</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>252</fpage>
+                  <source>The Savage God: A Study of Suicide</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e287a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d57e294" publication-type="book">
+Burg and Feifer, op. cit., p. 351 .<fpage>351</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e304a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d57e311" publication-type="partial">
+A. Solzhenitsyn, The First Circle, p. 616.</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">russianreview</journal-id>
+         <journal-id journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group>
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00360341</issn>
+         <issn pub-type="epub">14679434</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i207415</issue-id>
+         <article-id pub-id-type="doi">10.2307/128168</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Notes and Documents</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Some Afterthoughts on Solzhenitsyn</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Leonard</given-names>
+                  <surname>Schapiro</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1974</year>
+         </pub-date>
+         <fpage>416</fpage>
+         <lpage>421</lpage>
+         <page-range>416-421</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/128168"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d218e123a1310">
+               <label>*</label>
+               
+               <p>
+               <mixed-citation id="d218e130" publication-type="book">
+Alexander Solzhenitsyn, Letter to Soviet Leaders, Trans. Hilary Sternberg (London,
+1974).<person-group>
+                     <string-name>
+                        <surname>Solzhenitsyn</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Letter to Soviet Leaders</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d218e155a1310">
+               <label>†</label>
+               
+               <p>
+               <mixed-citation id="d218e162" publication-type="journal">
+Russkaia mysl', 23 May1974, p.2.<issue>23 May</issue>
+                  <fpage>2</fpage>
+                  <source>Russkaia mysl'</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d218e181a1310">
+               <label>*</label>
+               
+               <p>
+               <mixed-citation id="d218e188" publication-type="book">
+From the Other Shore, in A. I. Gertsen, Sobranie
+sochinenii, 30 vols. (Moscow, 1954-65), 6:104.<person-group>
+                     <string-name>
+                        <surname>Gertsen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">From the Other Shore</comment>
+                  <fpage>104</fpage>
+                  <volume>6</volume>
+                  <source>Sobranie sochinenii</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d218e222" publication-type="book">
+ibid., 22:433<person-group>
+                     <string-name>
+                        <surname>Gertsen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">From the Other Shore</comment>
+                  <fpage>433</fpage>
+                  <volume>22</volume>
+                  <source>Sobranie sochinenii</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d218e254a1310">
+               <label>*</label>
+               
+               <p>
+               <mixed-citation id="d218e261" publication-type="book">
+Andrei Sakharov, O pis'me Aleksandra Solzhenitsyna "Vozhdiam sovetskogo soiuza."
+Khronika (New York, 1974).<person-group>
+                     <string-name>
+                        <surname>Sakharov</surname>
+                     </string-name>
+                  </person-group>
+                  <source>O pis'me Aleksandra Solzhenitsyna "Vozhdiam sovetskogo soiuza." Khronika</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

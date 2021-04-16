@@ -1,0 +1,56 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">britjpoliscie</journal-id>
+         <journal-id journal-id-type="jstor">j100108</journal-id>
+         <journal-title-group>
+            <journal-title>British Journal of Political Science</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00071234</issn>
+         <issn pub-type="epub">14692112</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">193396</article-id>
+         <title-group>
+            <article-title>The Economic Contradictions of Democracy</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Samuel</given-names>
+                  <surname>Brittan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1975</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i210015</issue-id>
+         <fpage>129</fpage>
+         <lpage>159</lpage>
+         <page-range>129-159</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1975 Cambridge University Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/193396"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

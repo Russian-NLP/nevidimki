@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">russianreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100354</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Russian Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The Russian Review</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00360341</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14679434</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">31</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i207406</issue-id>
+         <article-id pub-id-type="doi">10.2307/128058</article-id>
+      
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Herman</given-names>
+                  <surname>Ermolaev</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>304</fpage>
+         <lpage>306</lpage>
+         <page-range>304-306</page-range>
+         <product>
+            <source>Russia's Other Writers: Selections from Samizdat Literature</source>
+            <string-name>
+               <given-names>Michael</given-names>
+               <surname>Scammell</surname>
+            </string-name>
+            <string-name>
+               <given-names>Max</given-names>
+               <surname>Hayward</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Protsess tsepnoi reaktsii: Sbornik dokumentov po delu Iu. T. Galanskova, A. I. Ginzburga, A. A. Dobrovolskogo, V. I. Lashkovoi. (A Chain Reaction: Collection of Documents on the Cases of Iu. T. Galanskov, A. I. Ginzburg, A. A. Dobrovolsky, V. I. Lashkova)</source>
+            <string-name>
+               <given-names>T.</given-names>
+               <surname>Galanskova</surname>
+            </string-name>
+            <string-name>
+               <given-names>A. I.</given-names>
+               <surname>Ginzburga</surname>
+            </string-name>
+            <string-name>
+               <given-names>A. A.</given-names>
+               <surname>Dobrovolskogo</surname>
+            </string-name>
+            <string-name>
+               <given-names>V. I.</given-names>
+               <surname>Lashkovoi</surname>
+            </string-name>
+            <string-name>
+               <given-names>G. E.</given-names>
+               <surname>Bruderer</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Ogryzkom karandasha: Stikhi i proza</source>
+            <string-name>
+               <given-names>Evgeny</given-names>
+               <surname>Kushev</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Notes from the Red House. (Zapiski iz krasnogo doma)</source>
+            <string-name>
+               <given-names>G. M.</given-names>
+               <surname>Shimanov</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Tupolevskaia sharaga. (Tupolev's Sharaga)</source>
+            <string-name>
+               <given-names>A.</given-names>
+               <surname>Sharagin</surname>
+            </string-name>
+            <string-name>
+               <given-names>Georgii Alexandrovich</given-names>
+               <surname>Ozerov</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1972 The Russian Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/128058"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

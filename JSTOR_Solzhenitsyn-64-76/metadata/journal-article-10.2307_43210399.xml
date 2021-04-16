@@ -1,0 +1,93 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">jbalticstudies</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012154</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Journal of Baltic Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for the Advancement of Baltic Studies, Inc.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01629778</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">17517877</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43210399</article-id>
+         <title-group>
+            <article-title>ALEXANDER SOLZHENITSYN AND THE BALTIC PEOPLES</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Anatole C.</given-names>
+                  <surname>Matulis</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>1972</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40125751</issue-id>
+         <fpage>124</fpage>
+         <lpage>132</lpage>
+         <permissions>
+            <copyright-statement>Copyright © 1972 Association for the Advancement of Baltic Studies, Inc.</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43210399"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>NOTES</title>
+         <ref id="d92e107a1310">
+            <label>1</label>
+            <mixed-citation id="d92e114" publication-type="other">
+Russkaya Mysl, May 22, 1969.</mixed-citation>
+         </ref>
+         <ref id="d92e121a1310">
+            <label>2</label>
+            <mixed-citation id="d92e128" publication-type="other">
+Solzhenitsyn's letter to the Editorial Board of the Literaturnaya Gazeta, December 12,
+1968.</mixed-citation>
+         </ref>
+         <ref id="d92e138a1310">
+            <label>3</label>
+            <mixed-citation id="d92e145" publication-type="other">
+Solzhenitsyn (A Documentary Record), ed. L. Labedz (Harper and Row, 1970), p. 30.</mixed-citation>
+         </ref>
+         <ref id="d92e152a1310">
+            <label>4</label>
+            <mixed-citation id="d92e159" publication-type="other">
+Georg Lukacs, Solzhenitsyn , trans. W.D. Graf (Cambridge, Mass: The MIT Press), p.
+21.</mixed-citation>
+         </ref>
+         <ref id="d92e170a1310">
+            <label>7</label>
+            <mixed-citation id="d92e177" publication-type="other">
+Preface to Andrei Amalrik's, Will the Soviet Union survive until 1984?</mixed-citation>
+         </ref>
+         <ref id="d92e184a1310">
+            <label>8</label>
+            <mixed-citation id="d92e191" publication-type="other">
+Solzhenitsyn , p. 58.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,4205 @@
+
+
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt13x0t26</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Contemporary Poetry: A Retrospective from the "Quarterly Review of Literature"</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Weiss</surname>
+               <given-names>T.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Weiss</surname>
+               <given-names>Renée</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781400871728</isbn>
+      <isbn content-type="epub">1400871727</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON, NEW JERSEY</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1974</copyright-year>
+         <copyright-holder>Quarterly Review of Literature</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt13x0t26"/>
+      <abstract abstract-type="short">
+         <p>Here in one volume is some of the most exciting poetry written during the last thirty years, culled from the pages of one of America's foremost literary magazines. The<italic>Quarterly Review of Literature</italic>has been among the first to present many significant poets of our time. In addition to publishing the work of new poets, it has made available little-known work of writers of established reputation. It has brought to the reading public both experimental and traditional verse, and foreign poetry in distinguished translations as well as poetry originally written in English. Its pages have been open, in the words of its editors, "to any work that reflects a dedication to ultimately painstaking art." This volume contains the work of 146 foreign and American poets. It is thus not only a remarkable anthology, but a valuable retrospective of the literary scene.</p>
+         <p>Originally published in 1976.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="556"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>[i]</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.2</book-part-id>
+                  <title-group>
+                     <title>IN RETROSPECT</title>
+                  </title-group>
+                  <fpage>[v]</fpage>
+                  <abstract>
+                     <p>The QRL was launched, in a most generous spirit of expectation, by Warren Carrier at the University of North Carolina in 1943. At that time publishing was difficult, paper scarce, money limited, and the age itself sufficiently turmoiled—clear signs that a literary magazine was needed. And happy, youthful innocence of the cost and the work involved assured us we were the ones to satisfy that need. Though Warren and I were new friends, he invited me to assist him in the editing. My interest then was (and has continued to be) mainly in writing, not in publishing, but I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>[xi]</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.4</book-part-id>
+                  <title-group>
+                     <title>E. E. CUMMINGS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CUMMINGS</surname>
+                           <given-names>E. E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.5</book-part-id>
+                  <title-group>
+                     <title>JORGE CARRERA ANDRADE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ANDRADE</surname>
+                           <given-names>JORGE CARRERA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Lee</surname>
+                           <given-names>Muna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>2</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.6</book-part-id>
+                  <title-group>
+                     <title>THOMAS J. MERTON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERTON</surname>
+                           <given-names>THOMAS J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.7</book-part-id>
+                  <title-group>
+                     <title>WALLACE STEVENS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STEVENS</surname>
+                           <given-names>WALLACE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.8</book-part-id>
+                  <title-group>
+                     <title>JEAN GARRIGUE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARRIGUE</surname>
+                           <given-names>JEAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.9</book-part-id>
+                  <title-group>
+                     <title>JOHN MALCOLM BRINNIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRINNIN</surname>
+                           <given-names>JOHN MALCOLM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.10</book-part-id>
+                  <title-group>
+                     <title>RAFAEL ALBERTI</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALBERTI</surname>
+                           <given-names>RAFAEL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Mallan</surname>
+                           <given-names>Lloyd</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.11</book-part-id>
+                  <title-group>
+                     <title>WILLIAM CARLOS WILLIAMS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>WILLIAM CARLOS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>20</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.12</book-part-id>
+                  <title-group>
+                     <title>KENNETH REXROTH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REXROTH</surname>
+                           <given-names>KENNETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.13</book-part-id>
+                  <title-group>
+                     <title>NORMAN MACLEOD</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MACLEOD</surname>
+                           <given-names>NORMAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>34</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.14</book-part-id>
+                  <title-group>
+                     <title>DAVID CORNEL DEJONG</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEJONG</surname>
+                           <given-names>DAVID CORNEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.15</book-part-id>
+                  <title-group>
+                     <title>E. E. CUMMINGS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CUMMINGS</surname>
+                           <given-names>E. E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>36</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.16</book-part-id>
+                  <title-group>
+                     <title>DAVID SCHUBERT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHUBERT</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>40</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.17</book-part-id>
+                  <title-group>
+                     <title>RICHARD EBERHART</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EBERHART</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.18</book-part-id>
+                  <title-group>
+                     <title>WALLACE STEVENS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STEVENS</surname>
+                           <given-names>WALLACE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.19</book-part-id>
+                  <title-group>
+                     <title>HOWARD MOSS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOSS</surname>
+                           <given-names>HOWARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>60</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.20</book-part-id>
+                  <title-group>
+                     <title>PAUL VALERY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VALERY</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Devlin</surname>
+                           <given-names>Denis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.21</book-part-id>
+                  <title-group>
+                     <title>KATHERINE HOSKINS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOSKINS</surname>
+                           <given-names>KATHERINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.22</book-part-id>
+                  <title-group>
+                     <title>JAMES LAUGHLIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAUGHLIN</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>66</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.23</book-part-id>
+                  <title-group>
+                     <title>EZRA POUND</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>POUND</surname>
+                           <given-names>EZRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>68</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.24</book-part-id>
+                  <title-group>
+                     <title>ROBERT LOWELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LOWELL</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>72</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.25</book-part-id>
+                  <title-group>
+                     <title>W. S. GRAHAM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRAHAM</surname>
+                           <given-names>W. S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.26</book-part-id>
+                  <title-group>
+                     <title>ROSALIE MOORE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOORE</surname>
+                           <given-names>ROSALIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.27</book-part-id>
+                  <title-group>
+                     <title>RANDALL JARRELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JARRELL</surname>
+                           <given-names>RANDALL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>80</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.28</book-part-id>
+                  <title-group>
+                     <title>MARIANNE MOORE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOORE</surname>
+                           <given-names>MARIANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>82</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.29</book-part-id>
+                  <title-group>
+                     <title>ELIZABETH BISHOP</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BISHOP</surname>
+                           <given-names>ELIZABETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>85</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.30</book-part-id>
+                  <title-group>
+                     <title>KENNETH KOCH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOCH</surname>
+                           <given-names>KENNETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.31</book-part-id>
+                  <title-group>
+                     <title>KENNETH PATCHEN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PATCHEN</surname>
+                           <given-names>KENNETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>88</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.32</book-part-id>
+                  <title-group>
+                     <title>EDITH SITWELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SITWELL</surname>
+                           <given-names>EDITH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.33</book-part-id>
+                  <title-group>
+                     <title>VERNON WATKINS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WATKINS</surname>
+                           <given-names>VERNON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>92</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.34</book-part-id>
+                  <title-group>
+                     <title>GRAY BURR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BURR</surname>
+                           <given-names>GRAY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>94</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.35</book-part-id>
+                  <title-group>
+                     <title>JAMES MERRILL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERRILL</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>96</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.36</book-part-id>
+                  <title-group>
+                     <title>EZRA POUND</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>POUND</surname>
+                           <given-names>EZRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>100</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.37</book-part-id>
+                  <title-group>
+                     <title>RICHARD WILBUR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILBUR</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>102</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.38</book-part-id>
+                  <title-group>
+                     <title>PAUL GOODMAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOODMAN</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.39</book-part-id>
+                  <title-group>
+                     <title>CHARLES TOMLINSON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TOMLINSON</surname>
+                           <given-names>CHARLES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.40</book-part-id>
+                  <title-group>
+                     <title>ROY CAMPBELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAMPBELL</surname>
+                           <given-names>ROY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.41</book-part-id>
+                  <title-group>
+                     <title>ANNE RIDLER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RIDLER</surname>
+                           <given-names>ANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>116</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.42</book-part-id>
+                  <title-group>
+                     <title>DAVID SCHUBERT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHUBERT</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.43</book-part-id>
+                  <title-group>
+                     <title>W. S. MERWIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERWIN</surname>
+                           <given-names>W. S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>122</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.44</book-part-id>
+                  <title-group>
+                     <title>WILLIAM CARLOS WILLIAMS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>WILLIAM CARLOS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>124</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.45</book-part-id>
+                  <title-group>
+                     <title>LOUISE BOGAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOGAN</surname>
+                           <given-names>LOUISE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.46</book-part-id>
+                  <title-group>
+                     <title>RICHARD WILBUR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILBUR</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>138</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.47</book-part-id>
+                  <title-group>
+                     <title>E. E. CUMMINGS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CUMMINGS</surname>
+                           <given-names>E. E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.48</book-part-id>
+                  <title-group>
+                     <title>WILLIAM CARLOS WILLIAMS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>WILLIAM CARLOS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.49</book-part-id>
+                  <title-group>
+                     <title>GOTTFRIED BENN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BENN</surname>
+                           <given-names>GOTTFRIED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lohner</surname>
+                           <given-names>Edgar</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Corman</surname>
+                           <given-names>Cid</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.50</book-part-id>
+                  <title-group>
+                     <title>JOHN HEATH-STUBBS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HEATH-STUBBS</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>158</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.51</book-part-id>
+                  <title-group>
+                     <title>JOHN HOLMES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOLMES</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.52</book-part-id>
+                  <title-group>
+                     <title>JOHN ASHBERY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ASHBERY</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>160</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.53</book-part-id>
+                  <title-group>
+                     <title>WALLACE STEVENS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STEVENS</surname>
+                           <given-names>WALLACE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>164</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.54</book-part-id>
+                  <title-group>
+                     <title>RENE CHAR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHAR</surname>
+                           <given-names>RENE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Guenther</surname>
+                           <given-names>Charles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.55</book-part-id>
+                  <title-group>
+                     <title>RAPHAEL RUDNIK</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RUDNIK</surname>
+                           <given-names>RAPHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>172</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.56</book-part-id>
+                  <title-group>
+                     <title>LOUIS ZUKOFSKY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ZUKOFSKY</surname>
+                           <given-names>LOUIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>176</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.57</book-part-id>
+                  <title-group>
+                     <title>JAMES WRIGHT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WRIGHT</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>180</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.58</book-part-id>
+                  <title-group>
+                     <title>HOWARD NEMEROV</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEMEROV</surname>
+                           <given-names>HOWARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>182</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.59</book-part-id>
+                  <title-group>
+                     <title>KENNETH KOCH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOCH</surname>
+                           <given-names>KENNETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>188</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.60</book-part-id>
+                  <title-group>
+                     <title>DAVID GALLER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GALLER</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.61</book-part-id>
+                  <title-group>
+                     <title>JAMES MERRILL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERRILL</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>192</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.62</book-part-id>
+                  <title-group>
+                     <title>SANDRA HOCHMAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOCHMAN</surname>
+                           <given-names>SANDRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>194</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.63</book-part-id>
+                  <title-group>
+                     <title>FRANCIS GOLFFING</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOLFFING</surname>
+                           <given-names>FRANCIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.64</book-part-id>
+                  <title-group>
+                     <title>DONALD FINKEL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FINKEL</surname>
+                           <given-names>DONALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>196</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.65</book-part-id>
+                  <title-group>
+                     <title>THEODORE ENSLIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ENSLIN</surname>
+                           <given-names>THEODORE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.66</book-part-id>
+                  <title-group>
+                     <title>JOHN SIMON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SIMON</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>200</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.67</book-part-id>
+                  <title-group>
+                     <title>JAMES DICKEY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DICKEY</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>202</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.68</book-part-id>
+                  <title-group>
+                     <title>W. D. SNODGRASS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SNODGRASS</surname>
+                           <given-names>W. D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>204</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.69</book-part-id>
+                  <title-group>
+                     <title>PARIS LEARY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LEARY</surname>
+                           <given-names>PARIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>210</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.70</book-part-id>
+                  <title-group>
+                     <title>KENT GARDIEN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARDIEN</surname>
+                           <given-names>KENT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.71</book-part-id>
+                  <title-group>
+                     <title>JAMES DICKEY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DICKEY</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>212</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.72</book-part-id>
+                  <title-group>
+                     <title>GIL ORLOVITZ</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ORLOVITZ</surname>
+                           <given-names>GIL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>216</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.73</book-part-id>
+                  <title-group>
+                     <title>ROBERT LOWELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LOWELL</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.74</book-part-id>
+                  <title-group>
+                     <title>DENISE LEVERTOV</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LEVERTOV</surname>
+                           <given-names>DENISE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.75</book-part-id>
+                  <title-group>
+                     <title>JAMES WRIGHT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WRIGHT</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.76</book-part-id>
+                  <title-group>
+                     <title>RICHARD F. HUGO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUGO</surname>
+                           <given-names>RICHARD F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>224</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.77</book-part-id>
+                  <title-group>
+                     <title>R. G. VLIET</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VLIET</surname>
+                           <given-names>R. G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.78</book-part-id>
+                  <title-group>
+                     <title>GOETHE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>GOETHE</string-name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Jarrell</surname>
+                           <given-names>Randall</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>226</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.79</book-part-id>
+                  <title-group>
+                     <title>ROBERT DUNCAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DUNCAN</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>232</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.80</book-part-id>
+                  <title-group>
+                     <title>WARREN CARRIER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CARRIER</surname>
+                           <given-names>WARREN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.81</book-part-id>
+                  <title-group>
+                     <title>NANCY SULLIVAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SULLIVAN</surname>
+                           <given-names>NANCY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>242</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.82</book-part-id>
+                  <title-group>
+                     <title>CONSTANCE URDANG</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>URDANG</surname>
+                           <given-names>CONSTANCE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.83</book-part-id>
+                  <title-group>
+                     <title>ROBERT BLY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLY</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.84</book-part-id>
+                  <title-group>
+                     <title>JILL HOFFMAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOFFMAN</surname>
+                           <given-names>JILL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>250</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.85</book-part-id>
+                  <title-group>
+                     <title>LOUIS SIMPSON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SIMPSON</surname>
+                           <given-names>LOUIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.86</book-part-id>
+                  <title-group>
+                     <title>DAVID IGNATOW</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>IGNATOW</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.87</book-part-id>
+                  <title-group>
+                     <title>WALT WHITMAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WHITMAN</surname>
+                           <given-names>WALT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.88</book-part-id>
+                  <title-group>
+                     <title>A. R. AMMONS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AMMONS</surname>
+                           <given-names>A. R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>261</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.89</book-part-id>
+                  <title-group>
+                     <title>JAMES DICKEY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DICKEY</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>264</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.90</book-part-id>
+                  <title-group>
+                     <title>JOHN ENGELS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ENGELS</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.91</book-part-id>
+                  <title-group>
+                     <title>DONALD FINKEL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FINKEL</surname>
+                           <given-names>DONALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>268</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.92</book-part-id>
+                  <title-group>
+                     <title>ANTHONY HECHT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HECHT</surname>
+                           <given-names>ANTHONY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.93</book-part-id>
+                  <title-group>
+                     <title>RANDALL JARRELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JARRELL</surname>
+                           <given-names>RANDALL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.94</book-part-id>
+                  <title-group>
+                     <title>CAROLYN KIZER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KIZER</surname>
+                           <given-names>CAROLYN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>276</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.95</book-part-id>
+                  <title-group>
+                     <title>DENISE LEVERTOV</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LEVERTOV</surname>
+                           <given-names>DENISE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>280</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.96</book-part-id>
+                  <title-group>
+                     <title>CHRISTOPHER MIDDLETON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MIDDLETON</surname>
+                           <given-names>CHRISTOPHER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>282</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.97</book-part-id>
+                  <title-group>
+                     <title>JOSEPHINE MILES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILES</surname>
+                           <given-names>JOSEPHINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>286</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.98</book-part-id>
+                  <title-group>
+                     <title>LEONARD E. NATHAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NATHAN</surname>
+                           <given-names>LEONARD E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>287</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.99</book-part-id>
+                  <title-group>
+                     <title>M. L. ROSENTHAL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSENTHAL</surname>
+                           <given-names>M. L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>288</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.100</book-part-id>
+                  <title-group>
+                     <title>HARVEY SHAPIRO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHAPIRO</surname>
+                           <given-names>HARVEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.101</book-part-id>
+                  <title-group>
+                     <title>WILLIAM STAFFORD</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STAFFORD</surname>
+                           <given-names>WILLIAM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.102</book-part-id>
+                  <title-group>
+                     <title>MARK STRAND</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STRAND</surname>
+                           <given-names>MARK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>296</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.103</book-part-id>
+                  <title-group>
+                     <title>THEODORE WEISS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEISS</surname>
+                           <given-names>THEODORE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>297</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.104</book-part-id>
+                  <title-group>
+                     <title>JOHANNES BOBROWSKI</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOBROWSKI</surname>
+                           <given-names>JOHANNES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <string-name>Ruth</string-name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mead</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>300</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.105</book-part-id>
+                  <title-group>
+                     <title>YVAN GOLL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOLL</surname>
+                           <given-names>YVAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Kinnell</surname>
+                           <given-names>Galway</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.106</book-part-id>
+                  <title-group>
+                     <title>MAX JACOB</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JACOB</surname>
+                           <given-names>MAX</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Benedikt</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>306</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.107</book-part-id>
+                  <title-group>
+                     <title>LOU LIPSITZ</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LIPSITZ</surname>
+                           <given-names>LOU</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>310</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.108</book-part-id>
+                  <title-group>
+                     <title>JAMES MERRILL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERRILL</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.109</book-part-id>
+                  <title-group>
+                     <title>HERBERT MORRIS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MORRIS</surname>
+                           <given-names>HERBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>316</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.110</book-part-id>
+                  <title-group>
+                     <title>LEONARD E. NATHAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NATHAN</surname>
+                           <given-names>LEONARD E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>318</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.111</book-part-id>
+                  <title-group>
+                     <title>HARVEY SHAPIRO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHAPIRO</surname>
+                           <given-names>HARVEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>320</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.112</book-part-id>
+                  <title-group>
+                     <title>MONA VAN DUYN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VAN DUYN</surname>
+                           <given-names>MONA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>321</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.113</book-part-id>
+                  <title-group>
+                     <title>EUGENIO MONTALE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MONTALE</surname>
+                           <given-names>EUGENIO</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Barolini</surname>
+                           <given-names>Helen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>325</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.114</book-part-id>
+                  <title-group>
+                     <title>MICHAEL BENEDICT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BENEDICT</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>330</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.115</book-part-id>
+                  <title-group>
+                     <title>ANN DARR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DARR</surname>
+                           <given-names>ANN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>332</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.116</book-part-id>
+                  <title-group>
+                     <title>JEAN GARRIGUE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARRIGUE</surname>
+                           <given-names>JEAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>333</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.117</book-part-id>
+                  <title-group>
+                     <title>JONATHAN GREENE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GREENE</surname>
+                           <given-names>JONATHAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>334</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.118</book-part-id>
+                  <title-group>
+                     <title>ARTHUR GREGOR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GREGOR</surname>
+                           <given-names>ARTHUR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>335</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.119</book-part-id>
+                  <title-group>
+                     <title>RAMON GUTHRIE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GUTHRIE</surname>
+                           <given-names>RAMON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>338</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.120</book-part-id>
+                  <title-group>
+                     <title>MICHAEL HAMBURGER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HAMBURGER</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>341</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.121</book-part-id>
+                  <title-group>
+                     <title>RICHARD HUGO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUGO</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>344</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.122</book-part-id>
+                  <title-group>
+                     <title>THOMAS KINSELLA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KINSELLA</surname>
+                           <given-names>THOMAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.123</book-part-id>
+                  <title-group>
+                     <title>JOHN KOETHE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOETHE</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>350</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.124</book-part-id>
+                  <title-group>
+                     <title>JOHN LOGAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LOGAN</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>354</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.125</book-part-id>
+                  <title-group>
+                     <title>FRANCIS PONGE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PONGE</surname>
+                           <given-names>FRANCIS</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Dunlop</surname>
+                           <given-names>Lane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>359</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.126</book-part-id>
+                  <title-group>
+                     <title>RICHARD SCHRAMM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHRAMM</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>360</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.127</book-part-id>
+                  <title-group>
+                     <title>JAMES TATE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TATE</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>361</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.128</book-part-id>
+                  <title-group>
+                     <title>GEORGE SEFERIS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SEFERIS</surname>
+                           <given-names>GEORGE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Keeley</surname>
+                           <given-names>Edmund</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sherrard</surname>
+                           <given-names>Philip</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>364</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.129</book-part-id>
+                  <title-group>
+                     <title>YEHUDA AMICHAI</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AMICHAI</surname>
+                           <given-names>YEHUDA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Guttman</surname>
+                           <given-names>Assia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>367</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.130</book-part-id>
+                  <title-group>
+                     <title>A. R. AMMONS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AMMONS</surname>
+                           <given-names>A. R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>370</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.131</book-part-id>
+                  <title-group>
+                     <title>BEN BELITT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BELITT</surname>
+                           <given-names>BEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>374</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.132</book-part-id>
+                  <title-group>
+                     <title>HAYDEN CARRUTH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CARRUTH</surname>
+                           <given-names>HAYDEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>378</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.133</book-part-id>
+                  <title-group>
+                     <title>RICHARD DEUTCH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEUTCH</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>382</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.134</book-part-id>
+                  <title-group>
+                     <title>CHARLES EDWARD EATON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EATON</surname>
+                           <given-names>CHARLES EDWARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>383</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.135</book-part-id>
+                  <title-group>
+                     <title>HANS MAGNUS ENZENSBERGER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ENZENSBERGER</surname>
+                           <given-names>HANS MAGNUS</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Levenson</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>384</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.136</book-part-id>
+                  <title-group>
+                     <title>ROBERT FAGLES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FAGLES</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>386</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.137</book-part-id>
+                  <title-group>
+                     <title>DAVID GALLER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GALLER</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>387</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.138</book-part-id>
+                  <title-group>
+                     <title>RONALD GASKELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GASKELL</surname>
+                           <given-names>RONALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>391</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.139</book-part-id>
+                  <title-group>
+                     <title>HORACE GREGORY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GREGORY</surname>
+                           <given-names>HORACE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>392</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.140</book-part-id>
+                  <title-group>
+                     <title>MICHAEL S. HARPER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HARPER</surname>
+                           <given-names>MICHAEL S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>396</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.141</book-part-id>
+                  <title-group>
+                     <title>ANTHONY HECHT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HECHT</surname>
+                           <given-names>ANTHONY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>398</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.142</book-part-id>
+                  <title-group>
+                     <title>RICHARD HOWARD</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOWARD</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>401</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.143</book-part-id>
+                  <title-group>
+                     <title>TED HUGHES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUGHES</surname>
+                           <given-names>TED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>406</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.144</book-part-id>
+                  <title-group>
+                     <title>DAVID IGNATOW</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>IGNATOW</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>410</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.145</book-part-id>
+                  <title-group>
+                     <title>MAIRI MACINNES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MACINNES</surname>
+                           <given-names>MAIRI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>412</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.146</book-part-id>
+                  <title-group>
+                     <title>WILLIAM MATTHEWS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MATTHEWS</surname>
+                           <given-names>WILLIAM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>414</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.147</book-part-id>
+                  <title-group>
+                     <title>JAMES MERRILL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERRILL</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>416</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.148</book-part-id>
+                  <title-group>
+                     <title>W. S. MERWIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERWIN</surname>
+                           <given-names>W. S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>418</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.149</book-part-id>
+                  <title-group>
+                     <title>ESSENIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>ESSENIN</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Merwin</surname>
+                           <given-names>W. S.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carlisle</surname>
+                           <given-names>Olga</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>421</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.150</book-part-id>
+                  <title-group>
+                     <title>MARIANNE MOORE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOORE</surname>
+                           <given-names>MARIANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>425</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.151</book-part-id>
+                  <title-group>
+                     <title>RICHARD R. O’KEEFE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’KEEFE</surname>
+                           <given-names>RICHARD R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>443</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.152</book-part-id>
+                  <title-group>
+                     <title>SAINT-JOHN PERSE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PERSE</surname>
+                           <given-names>SAINT-JOHN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Howard</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>445</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.153</book-part-id>
+                  <title-group>
+                     <title>SYLVIA PLATH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PLATH</surname>
+                           <given-names>SYLVIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>447</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.154</book-part-id>
+                  <title-group>
+                     <title>ADRIENNE RICH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RICH</surname>
+                           <given-names>ADRIENNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>449</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.155</book-part-id>
+                  <title-group>
+                     <title>GEORGE SEFERIS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SEFERIS</surname>
+                           <given-names>GEORGE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Keeley</surname>
+                           <given-names>Edmund</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>453</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.156</book-part-id>
+                  <title-group>
+                     <title>ANNE SEXTON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SEXTON</surname>
+                           <given-names>ANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>456</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.157</book-part-id>
+                  <title-group>
+                     <title>MONA VAN DUYN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VAN DUYN</surname>
+                           <given-names>MONA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>460</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.158</book-part-id>
+                  <title-group>
+                     <title>RICHARD WILBUR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILBUR</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>466</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.159</book-part-id>
+                  <title-group>
+                     <title>DONALD DAVIE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DAVIE</surname>
+                           <given-names>DONALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>469</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.160</book-part-id>
+                  <title-group>
+                     <title>FREDERICK BUECHNER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BUECHNER</surname>
+                           <given-names>FREDERICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>477</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.161</book-part-id>
+                  <title-group>
+                     <title>JERALD BULLIS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BULLIS</surname>
+                           <given-names>JERALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>481</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.162</book-part-id>
+                  <title-group>
+                     <title>FREDERICK FEIRSTEIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FEIRSTEIN</surname>
+                           <given-names>FREDERICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>483</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.163</book-part-id>
+                  <title-group>
+                     <title>SIV CEDERING FOX</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FOX</surname>
+                           <given-names>SIV CEDERING</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>485</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.164</book-part-id>
+                  <title-group>
+                     <title>DONALD FINKEL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FINKEL</surname>
+                           <given-names>DONALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>486</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.165</book-part-id>
+                  <title-group>
+                     <title>GALWAY KINNELL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KINNELL</surname>
+                           <given-names>GALWAY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>488</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.166</book-part-id>
+                  <title-group>
+                     <title>REINER KUNZE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KUNZE</surname>
+                           <given-names>REINER</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Gogol</surname>
+                           <given-names>John M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>490</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.167</book-part-id>
+                  <title-group>
+                     <title>GREG KUZMA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KUZMA</surname>
+                           <given-names>GREG</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>493</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.168</book-part-id>
+                  <title-group>
+                     <title>LINDA PASTAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PASTAN</surname>
+                           <given-names>LINDA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>495</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.169</book-part-id>
+                  <title-group>
+                     <title>LUCIO PICCOLO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PICCOLO</surname>
+                           <given-names>LUCIO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Swann</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Feldman</surname>
+                           <given-names>Ruth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>497</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.170</book-part-id>
+                  <title-group>
+                     <title>STANLEY PLUMLY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PLUMLY</surname>
+                           <given-names>STANLEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>501</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.171</book-part-id>
+                  <title-group>
+                     <title>CARL RAKOSI</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RAKOSI</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>503</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.172</book-part-id>
+                  <title-group>
+                     <title>ALEXANDER SOLZHENITSYN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SOLZHENITSYN</surname>
+                           <given-names>ALEXANDER</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Gogol</surname>
+                           <given-names>John M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>504</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.173</book-part-id>
+                  <title-group>
+                     <title>BRIAN SWANN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SWANN</surname>
+                           <given-names>BRIAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>507</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.174</book-part-id>
+                  <title-group>
+                     <title>KAREN SWENSON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SWENSON</surname>
+                           <given-names>KAREN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>509</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.175</book-part-id>
+                  <title-group>
+                     <title>PHYLLIS THOMPSON</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THOMPSON</surname>
+                           <given-names>PHYLLIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>510</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.176</book-part-id>
+                  <title-group>
+                     <title>JAMES WRIGHT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WRIGHT</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>512</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.177</book-part-id>
+                  <title-group>
+                     <title>OSIP MANDELSTAM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANDELSTAM</surname>
+                           <given-names>OSIP</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Merwin</surname>
+                           <given-names>W. S.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Clarence</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>514</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.178</book-part-id>
+                  <title-group>
+                     <title>C. P. CAVAFY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAVAFY</surname>
+                           <given-names>C. P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Keeley</surname>
+                           <given-names>Edmund</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sherrard</surname>
+                           <given-names>Philip</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>520</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.179</book-part-id>
+                  <title-group>
+                     <title>PAUL CELAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CELAN</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Hamburger</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>525</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.180</book-part-id>
+                  <title-group>
+                     <title>JEAN GARRIGUE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARRIGUE</surname>
+                           <given-names>JEAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>528</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.181</book-part-id>
+                  <title-group>
+                     <title>ROGER HECHT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HECHT</surname>
+                           <given-names>ROGER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>535</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.182</book-part-id>
+                  <title-group>
+                     <title>SHIRLEY KAUFMAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KAUFMAN</surname>
+                           <given-names>SHIRLEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>539</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.183</book-part-id>
+                  <title-group>
+                     <title>LAURENCE LIEBERMAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LIEBERMAN</surname>
+                           <given-names>LAURENCE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>540</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.184</book-part-id>
+                  <title-group>
+                     <title>W. S. MERWIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERWIN</surname>
+                           <given-names>W. S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>544</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.185</book-part-id>
+                  <title-group>
+                     <title>JOHN PECK</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PECK</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>546</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.186</book-part-id>
+                  <title-group>
+                     <title>JILL HOFFMAN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOFFMAN</surname>
+                           <given-names>JILL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>554</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.187</book-part-id>
+                  <title-group>
+                     <title>LEE RUDOLPH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RUDOLPH</surname>
+                           <given-names>LEE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>555</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt13x0t26.188</book-part-id>
+                  <title-group>
+                     <title>RICHARD EBERHART</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EBERHART</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>556</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

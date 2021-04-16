@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">jchurchstate</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50010944</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Journal of Church and State</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>J. M. Dawson Studies in Church and State of Baylor University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">0021969X</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">20404867</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">18</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i23909871</issue-id>
+         <article-id pub-id-type="jstor">23915160</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>BOOK REVIEWS</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Frauke</given-names>
+                  <surname>Harvey</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1976</year>
+         </pub-date>
+         <fpage>350</fpage>
+         <lpage>352</lpage>
+         <product>
+            <source>Ten Years after Ivan Denisovich</source>
+            <string-name>
+               <given-names>Zhores A.</given-names>
+               <surname>Medvedev</surname>
+            </string-name>
+            <string-name>
+               <given-names>Hilary</given-names>
+               <surname>Sternberg</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1976 J. M. Dawson Studies in Church and State</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/23915160"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

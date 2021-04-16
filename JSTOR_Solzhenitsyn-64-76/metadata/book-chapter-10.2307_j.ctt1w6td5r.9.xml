@@ -1,0 +1,332 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1w6td5r</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Philosophy and Personal Relations</book-title>
+         <subtitle>An Anglo-French Study</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Austin</surname>
+               <given-names>Jean</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Blum</surname>
+               <given-names>Larry</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>Brook</surname>
+               <given-names>J.A.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib4">
+            <name name-style="western">
+               <surname>Hughes</surname>
+               <given-names>M.W.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib5">
+            <name name-style="western">
+               <surname>Newton-Smith</surname>
+               <given-names>W.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib6">
+            <name name-style="western">
+               <surname>Parfit</surname>
+               <given-names>Derek</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib7">
+            <name name-style="western">
+               <surname>Schleifer</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib8">
+            <name name-style="western">
+               <surname>Wood</surname>
+               <given-names>David</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib9">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Montefiore</surname>
+               <given-names>Alan</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>01</month>
+         <year>1973</year>
+      </pub-date>
+      <isbn content-type="epub">9780773593435</isbn>
+      <isbn content-type="epub">0773593438</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1973</copyright-year>
+         <copyright-holder>Routledge &amp; Kegan Paul</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="https://www.jstor.org/stable/j.ctt1w6td5r"/>
+      <abstract abstract-type="short">
+         <p>Description not available.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.3</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Montefiore</surname>
+                           <given-names>Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This volume of essays contains half of the first fruits of a study, whose originating points and further horizons I must try in this introduction to explain. The other half is contained in a companion volume, written by French-speaking philosophers and published in French by Les Presses Universitaires de Montreal. Each volume contains details of the contents of the other (see pp. vi—x) as well as a closely parallel version of the same introduction.</p>
+                     <p>There are several distinct themes of interest to be found in or, hopefully, beyond these present studies; but the two principal ones are that which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.4</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Teaching moral philosophy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Austin</surname>
+                           <given-names>Jean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>When this paper was suggested to me, the subject seemed an interesting one, and one in which I was myself particularly interested : a subject with which I was genuinely concerned. It was not until I had made futile attempts at some outline of my thoughts on the matter that I realized that the actual writing is bound to be a reflection, perhaps an example, of the sort of muddle of which I am complaining in myself. The epithet that most naturally attaches to it in my mind, and of which my mind cannot rid itself, is ‘disreputable’. Muddled thinking</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.5</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Deceiving, hurting and using</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blum</surname>
+                           <given-names>Larry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>34</fpage>
+                  <abstract>
+                     <p>Human beings mistreat each other. We have many ways of describing, explaining, and understanding this fundamental aspect of human life. We say, for example, that people use, manipulate, hurt, deceive, are unfair to, are cruel to, harm, humiliate, torture, are inconsiderate towards, are spiteful towards, are insensitive towards one another.</p>
+                     <p>Some mistreating takes place in a context of personal relationships and some does not; some descriptions of types of mistreatment can apply in both contexts. For example, I can deceive a business associate in regard to a business deal in which we are both involved; I can also deceive a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.6</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>How to treat persons as persons</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brook</surname>
+                           <given-names>J. A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+                  <abstract>
+                     <p>Recently, various institutions and persons have been the object of demands that they treat persons as persons, not things. The people making these demands complain that they are being used as mere objects, as cogs in a machine, as means to others’ ends, that they lack real human contact, that they are isolated from other people, that their lives are increasingly mechanized, depersonalized, dehumanized, that relations among persons are impersonal and alienated. On the other hand, they demand that they be treated as human beings, as equals, as though all men were brothers. The language in which these complaints and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.7</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Our concern with others</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hughes</surname>
+                           <given-names>M. W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>Thinking about minutiae of usage and inventing lines of demarcation between different applications of the same term are helpful activities: from either of them, one may come to notice shades and distinctions in ordinary thought which ordinarily, perhaps, are only half-understood. Where understanding is not complete there may be real problems whose problematic nature we do not fully realize because of the familiarity of our ways of talking about them. So linguistic philosophy may reveal them. To adopt Austin’s metaphor in ‘A Plea for Excuses’,¹ purely linguistic philosophy is like probing with specially sharpened surgical instruments.</p>
+                     <p>No one undertakes surgery</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.8</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>A conceptual investigation of love</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Newton-Smith</surname>
+                           <given-names>W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>Concepts like love, which we use in describing, explaining and ordering the personal relations of ourselves and others, have received scant attention in the recent Anglo-American philosophical tradition. This contrasts decidedly with philosophical interests on the continent. The difference may be explained in part by the fact that here interests have lain in different areas. More interestingly, perhaps, this difference may reflect disagreement about the connection between such an account and more basic issues in epistemology and the philosophy of mind and about the import of a philosophical account of, say, love. For example, Sartre, when discussing relations with others</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.9</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Later selves and moral principles</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Parfit</surname>
+                           <given-names>Derek</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>I shall first sketch different views about the nature of personal identity, then suggest that the views support different moral claims.</p>
+                     <p>Most of us seem to have certain beliefs about our own identity. We seem for instance to believe that, whatever happens, any future person must be either us, or someone else.</p>
+                     <p>These beliefs are like those that some of us have about a simpler fact. Most of us now think that to be a person, as opposed to a mere animal, is just to have certain more specific properties, such as rationality. These are matters of degree. So we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.10</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Psychological explanations and interpersonal relations</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schleifer</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>170</fpage>
+                  <abstract>
+                     <p>Is there any legitimacy in the use of psychological explanations (`Ps-explanations’ for short) in our ordinary interpersonal relations ? In what way can Ps-explanations rationally affect our evaluations of what people do as well as what they say? P. F. Strawson’s British Academy Lecture, `Freedom and Resentment’, has as a main theme the denial of the legitimacy of using Ps-explanations in our normal relations with people. I shall attempt to clarify the use of psychological explanations by considering two special kinds of relationships : that between an adult and a child, and that between a therapist and his client. I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.11</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Honesty</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wood</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>‘Matilda told such dreadful lies, it made one gasp and stretch one’s eyes.’ Credibility is one problem that the dishonest man faces. Moral reprobation is another. The question I want to ask is whether it raises any serious philosophical problems.</p>
+                     <p>When we say that a person is responsible for what he does, we mean not just that he was the agent, for sometimes that does nat suffice (e.g. in old age, childhood, some forms of insanity’); we also say that the act reflects (back) on to the agent. Acts of deception are perhaps peculiar and certainly important examples. The dishonest</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1w6td5r.12</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>225</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

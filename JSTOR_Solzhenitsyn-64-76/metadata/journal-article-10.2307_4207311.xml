@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">slaveasteurorev2</journal-id>
+         <journal-id journal-id-type="jstor">j101339</journal-id>
+         <journal-title-group>
+            <journal-title>The Slavonic and East European Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00376795</issn>
+         <issn pub-type="epub">22224327</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4207311</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>J. S. G.</given-names>
+                  <surname>Simmons</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">54</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i392032</issue-id>
+         <fpage>460</fpage>
+         <lpage>461</lpage>
+         <page-range>460-461</page-range>
+         <product>
+            <source>Bibliographie der russischen Autoren und anonymen Werke</source>
+            <string-name> 
+               <given-names>Günther</given-names>
+               <surname>Wytrzens</surname> 
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1976 University of London</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4207311"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

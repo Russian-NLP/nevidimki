@@ -1,0 +1,81 @@
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">historian</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50011040</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Historian</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Phi Alpha Theta</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00182370</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15406563</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24442920</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>James</given-names>
+                  <surname>Cracraft</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>1972</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24435675</issue-id>
+         <fpage>508</fpage>
+         <lpage>508</lpage>
+         <product>
+            <source>Essays on Russian Intellectual History. [Fifth Annual Walter Prescott Webb Memorial Lectures.]</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Joseph T.</given-names>
+               <surname>Fuhrmann</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Edward C.</given-names>
+               <surname>Bock</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Leon I.</given-names>
+               <surname>Twarog</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Leon Borden</given-names>
+               <surname>Blair</surname>
+            </string-name>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Sidney</given-names>
+               <surname>Monas</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1972 Phi Alpha Theta</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/24442920"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
